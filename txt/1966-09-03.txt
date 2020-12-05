@@ -1,0 +1,300 @@
+1
+Donovan
+Sunshine Superman
+2
+The Lovin' Spoonful
+Summer In The City
+3
+The Happenings
+See You In September
+4
+The Supremes
+You Can't Hurry Love
+5
+The Beatles
+Yellow Submarine
+6
+Bobby Hebb
+Sunny
+7
+Wilson Pickett
+Land Of 1000 Dances
+8
+Lee Dorsey
+Working In The Coal Mine
+9
+Stevie Wonder
+Blowin In The Wind
+10
+Billy Stewart
+Summertime
+11
+The Beach Boys
+Wouldn't It Be Nice
+12
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+13
+Gary Lewis And The Playboys
+My Heart's Symphony
+14
+Petula Clark
+I Couldn't Live Without Your Love
+15
+The Outsiders
+Respectable
+16
+The Sandpipers
+Guantanamera
+17
+Percy Sledge
+Warm And Tender Love
+18
+The Hollies
+Bus Stop
+19
+Sandy Posey
+Born A Woman
+20
+Brian Hyland
+The Joker Went Wild
+21
+Tommy James And The Shondells
+Say I Am (What I Am)
+22
+The Kinks
+Sunny Afternoon
+23
+The Cyrkle
+Turn-Down Day
+24
+Ramsey Lewis
+Wade In The Water
+25
+Simon & Garfunkel
+The Dangling Conversation
+26
+The Temptations
+Beauty Is Only Skin Deep
+27
+The Association
+Cherish
+28
+The Surfaris
+Wipe Out
+29
+Jr. Walker & The All Stars
+How Sweet It Is (To Be Loved By You)
+30
+The Righteous Brothers
+Go Ahead And Cry
+31
+The Troggs
+Wild Thing
+32
+The Troggs
+With A Girl Like You
+33
+Barbara Lewis
+Make Me Belong To You
+34
+Ray Conniff And The Singers
+Somewhere, My Love
+35
+Tommy Roe
+Sweet Pea
+36
+David Houston
+Almost Persuaded
+37
+Cher
+Alfie
+38
+The Critters
+Mr. Dieingly Sad
+39
+Tommy McLain
+Sweet Dreams
+40
+The Rolling Stones
+Mothers Little Helper
+41
+Los Bravos
+Black Is Black
+42
+Love
+7 And 7 Is
+43
+Chris Montez
+There Will Never Be Another You
+44
+Dean Martin
+A Million And One
+45
+The Beach Boys
+God Only Knows
+46
+The Yardbirds
+Over Under Sideways Down
+47
+The Beatles
+Eleanor Rigby
+48
+Darrell Banks
+Open The Door To Your Heart
+49
+The Cryan' Shames
+Sugar And Spice
+50
+The Dave Clark Five
+Satisfied With You
+51
+Eddy Arnold
+The Tip Of My Fingers
+52
+Jimmy Ruffin
+What Becomes Of The Brokenhearted
+53
+Alvin Cash & The Registers
+The Philly Freeze
+54
+Neil Diamond
+Cherry, Cherry
+55
+Marvin Gaye
+Little Darling, I Need You
+56
+The Mindbenders
+Ashes To Ashes
+57
+James Brown And The Famous Flames
+Money Won't Change You (Part 1)
+58
+"Groove" Holmes
+Misty
+59
+Chad & Jeremy
+Distant Shores
+60
+The Five Stairsteps
+World Of Fantasy
+61
+The Standells
+Sometimes Good Guys Don't Wear White
+62
+The Sidekicks
+Suspicions
+63
+Shelby Flint
+Cast Your Fate To The Wind
+64
+Andy Williams
+In The Arms Of Love
+65
+Carla Thomas
+B-A-B-Y
+66
+Syndicate Of Sound
+Rumors
+67
+Jim Reeves
+Blue Side Of Lonesome
+68
+The Thirteenth Floor Elevators
+You're Gonna Miss Me
+69
+Rosco Robinson
+That's Enough
+70
+Roy Orbison
+Too Soon To Know
+71
+Ray Charles & The Raelets
+I Chose To Sing The Blues
+72
+Herb Alpert & The Tijuana Brass
+Flamingo
+73
+Georgie Fame And The Blue Flames
+Get Away
+74
+Frank Sinatra
+Summer Wind
+75
+? (Question Mark) & The Mysterians
+96 Tears
+76
+The Swingin' Medallions
+She Drives Me Out Of My Mind
+77
+The Razor's Edge
+Let's Call It A Day Girl
+78
+The Capitols
+I Got To Handle It
+79
+Ronnie Dove
+I Really Don't Want To Know
+80
+Dee Dee Warwick
+I Want To Be With You
+81
+Walter Wanderley
+Summer Samba (So Nice)
+82
+Four Tops
+Reach Out I'll Be There
+83
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+I've Got You Under My Skin
+84
+Howard Tate
+Ain't Nobody Home
+85
+The Shades Of Blue
+Lonely Summer
+86
+Roger Williams
+Born Free
+87
+Ronny And The Daytonas
+Dianne, Dianne
+88
+The Toys
+Baby Toys
+89
+The Impressions
+Can't Satisfy
+90
+Booker T. & The MG's
+My Sweet Potato
+91
+The Shindogs
+Who Do You Think You Are
+92
+The Dynatones
+The Fife Piper
+93
+Billy Joe Royal
+Campfire Girls
+94
+Jimmy Smith
+I'm Your Hoochie Cooche Man (Part 1)
+95
+Bobby Goldsboro
+It Hurts Me
+96
+The Trade Winds
+Mind Excursion
+97
+Cilla Black
+Alfie
+98
+Jimmy Holiday
+Baby I Love You
+99
+Jan & Dean
+Fiddle Around
+100
+The Vontastics
+Day Tripper

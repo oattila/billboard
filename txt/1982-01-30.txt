@@ -1,0 +1,300 @@
+1
+Daryl Hall John Oates
+I Can't Go For That (No Can Do)
+2
+Foreigner
+Waiting For A Girl Like You
+3
+The J. Geils Band
+Centerfold
+4
+Olivia Newton-John
+Physical
+5
+Quarterflash
+Harden My Heart
+6
+Stevie Nicks With Don Henley
+Leather And Lace
+7
+George Benson
+Turn Your Love Around
+8
+Earth, Wind & Fire
+Let's Groove
+9
+Juice Newton
+The Sweetest Thing (I've Ever Known)
+10
+Royal Philharmonic Orchestra
+Hooked On Classics
+11
+Barbra Streisand
+Comin' In And Out Of Your Life
+12
+Paul Davis
+Cool Night
+13
+The Cars
+Shake It Up
+14
+The Rolling Stones
+Waiting On A Friend
+15
+Eddie Rabbitt
+Someone Could Lose A Heart Tonight
+16
+Dan Fogelberg
+Leader Of The Band
+17
+Little River Band
+Take It Easy On Me
+18
+The Beach Boys
+Come Go With Me
+19
+Air Supply
+Sweet Dreams
+20
+Sheena Easton
+You Could Have Been With Me
+21
+Journey
+Open Arms
+22
+Lindsey Buckingham
+Trouble
+23
+Billy Joel
+She's Got A Way
+24
+Rick Springfield
+Love Is Alright Tonite
+25
+Kenny Rogers
+Through The Years
+26
+Rod Stewart
+Young Turks
+27
+Ronnie Milsap
+I Wouldn't Have Missed It For The World
+28
+Neil Diamond
+Yesterday's Songs
+29
+Diana Ross
+Mirror, Mirror
+30
+Alabama
+Love In The First Degree
+31
+Bertie Higgins
+Key Largo
+32
+Barry Manilow
+Somewhere Down The Road
+33
+Loverboy
+Working For The Weekend
+34
+Eddie Schwartz
+All Our Tomorrows
+35
+Del Shannon
+Sea Of Love
+36
+Genesis
+Abacab
+37
+Stevie Wonder
+That Girl
+38
+Buckner & Garcia
+Pac-Man Fever
+39
+The Police
+Spirits In The Material World
+40
+Journey
+Don't Stop Believin'
+41
+Queen & David Bowie
+Under Pressure
+42
+Diana Ross
+Why Do Fools Fall In Love
+43
+Al Jarreau
+Breakin' Away
+44
+Go-Go's
+Our Lips Are Sealed
+45
+Kool & The Gang
+Take My Heart (You Can Have It If You Want It)
+46
+Donnie Iris
+Love Is Like A Rock
+47
+Jennifer Warnes
+Could It Be Love
+48
+Bob Seger & The Silver Bullet Band
+Feel Like A Number
+49
+ABBA
+When All Is Said And Done
+50
+Henry Paul Band
+Keeping Our Love Alive
+51
+The John Hall Band
+Crazy (Keep On Falling)
+52
+Quincy Jones Featuring James Ingram
+One Hundred Ways
+53
+Cliff Richard
+Daddy's Home
+54
+Commodores
+Oh No
+55
+Bill Champlin
+Tonight Tonight
+56
+KISS
+A World Without Heroes
+57
+Teddy Pendergrass
+You're My Latest, My Greatest Inspiration
+58
+Peabo Bryson
+Let The Feeling Flow
+59
+Rod Stewart
+Tonight I'm Yours (Don't Hurt Me)
+60
+The Oak Ridge Boys
+Bobbie Sue
+61
+Skyy
+Call Me
+62
+The Pointer Sisters
+Should I Do It
+63
+Placido Domingo & John Denver
+Perhaps Love
+64
+Chilliwack
+I Believe
+65
+AC/DC
+Let's Get It Up
+66
+Smokey Robinson
+Tell Me Tomorrow - Part I
+67
+Earth, Wind & Fire
+Wanna Be With You
+68
+Vangelis
+Chariots Of Fire - Titles
+69
+Sneaker
+More Than Just The Two Of Us
+70
+Sheila
+Little Darlin'
+71
+Player
+If Looks Could Kill
+72
+Dave Stewart and Barbara Gaskin
+It's My Party
+73
+Soft Cell
+Tainted Love
+74
+Air Supply
+Here I Am (Just When I Thought I Was Over You)
+75
+The Steve Miller Band
+Circle Of Love
+76
+Stevie Woods
+Just Can't Win 'em All
+77
+Tom Tom Club
+Genius Of Love
+78
+Tommy Tutone
+867-5309/jenny
+79
+Go-Go's
+We Got The Beat
+80
+Irene Cara
+Anyone Can See
+81
+Sister Sledge
+My Guy
+82
+Gidea Park featuring Adrian Baker
+Seasons Of Gold
+83
+Sammy Hagar
+I'll Fall In Love Again
+84
+Bob & Doug McKenzie
+Take Off
+85
+Conductor
+Voice On The Radio
+86
+Prism
+Don't Let Him Know
+87
+Stevie Woods
+Steal The Night
+88
+Anne Murray
+Another Sleepless Night
+89
+The Police
+Every Little Thing She Does Is Magic
+90
+Billy Squier
+My Kinda Lover
+91
+Chilliwack
+My Girl (Gone, Gone, Gone)
+92
+Lulu
+If I Were You
+93
+Don McLean
+Castles In The Air
+94
+The Time
+Cool (Part 1)
+95
+Patti Austin
+Every Home Should Have One
+96
+T.G. Sheppard
+Only One You
+97
+Daryl Hall John Oates
+Private Eyes
+98
+The Rolling Stones
+Start Me Up
+99
+The Steve Miller Band
+Heart Like A Wheel
+100
+Balance
+Falling In Love

@@ -1,0 +1,300 @@
+1
+Dion
+Runaround Sue
+2
+The Dovells
+Bristol Stomp
+3
+Jimmy Dean
+Big Bad John
+4
+Ray Charles and his Orchestra
+Hit The Road Jack
+5
+The Paris Sisters
+I Love How You Love Me
+6
+Sue Thompson
+Sad Movies (Make Me Cry)
+7
+Lee Dorsey
+Ya Ya
+8
+Hayley Mills and Hayley Mills
+Let's Get Together
+9
+Chubby Checker
+The Fly
+10
+Troy Shondell
+This Time
+11
+Gene McDaniels
+Tower Of Strength
+12
+Bob Moore and His Orch.
+Mexico
+13
+Bobby Darin
+You Must Have Been A Beautiful Baby
+14
+Connie Francis
+(He's My) Dreamboat
+15
+Roy Orbison
+Crying
+16
+The Drifters
+Sweets For My Sweet
+17
+Brenda Lee
+Fool #1
+18
+Bobby Edwards
+You're The Reason
+19
+The Lettermen
+The Way You Look Tonight
+20
+The Chantels
+Look In My Eyes
+21
+Rick Nelson
+A Wonder Like You
+22
+The Everly Brothers
+Don't Blame Me
+23
+The G-Clefs
+I Understand (Just How You Feel)
+24
+The Shirelles
+Big John
+25
+The Flares
+Foot Stomping - Part 1
+26
+Rick Nelson
+Everlovin'
+27
+Duals
+Stick Shift
+28
+Bobby Vee
+Take Good Care Of My Baby
+29
+The Marcels
+Heartaches
+30
+Roy Orbison
+Candy Man
+31
+Brenda Lee
+Anybody But Me
+32
+The Jive Five With Joe Rene And Orchestra
+My True Story
+33
+The Marvelettes
+Please Mr. Postman
+34
+Elvis Presley
+Little Sister
+35
+Del Shannon
+So Long Baby
+36
+The Stereos
+I Really Love You
+37
+Fats Domino
+What A Party
+38
+The Dave Brubeck Quartet
+Take Five
+39
+Jerry Butler
+Moon River
+40
+Dick and DeeDee
+The Mountain's High
+41
+Dinah Washington
+September In The Rain
+42
+Gary U.S. Bonds
+School Is In
+43
+Ral Donner
+Please Don't Go
+44
+Connie Francis
+Hollywood
+45
+Patsy Cline
+Crazy
+46
+Aretha Franklin
+Rock-A-Bye Your Baby With A Dixie Melody
+47
+Bill Black's Combo
+Movin'
+48
+James Darren
+Goodbye Cruel World
+49
+Ferrante & Teicher
+Tonight
+50
+Solomon Burke
+Just Out Of Reach (Of My Two Open Arms)
+51
+Brook Benton
+It's Just A House Without You
+52
+Bobby Rydell
+I Wanna Thank You
+53
+Johnny Burnette
+God, Country And My Baby
+54
+Henry Mancini And His Orchestra
+Moon River
+55
+Elvis Presley
+(Marie's The Name) His Latest Flame
+56
+Ike & Tina Turner
+It's Gonna Work Out Fine
+57
+The Fleetwoods
+(He's) The Great Impostor
+58
+Bobby Lewis
+One Track Mind
+59
+Ray Peterson
+Missing You
+60
+Joe Dowell
+The Bridge Of Love
+61
+Tony Orlando
+Bless You
+62
+The Highwaymen
+Michael
+63
+Sam Cooke
+Feel It
+64
+Johnny Tillotson
+Without You
+65
+Frank Sinatra
+I'll Be Seeing You
+66
+Ben E. King
+Young Boy Blues
+67
+Floyd Cramer
+Your Last Goodbye
+68
+Mar-Keys
+Morning After
+69
+Jose Jimenez
+The Astronaut (Parts 1 & 2)
+70
+Jackie Wilson
+My Heart Belongs To Only You
+71
+The Impressions
+Gypsy Woman
+72
+Billy Vaughn And His Orchestra
+Berlin Melody
+73
+Curtis Lee
+Under The Moon Of Love
+74
+Jackie Wilson
+The Way I Am
+75
+Jimmy Reed
+Bright Lights Big City
+76
+Billy Vaughn And His Orchestra
+Come September
+77
+The Ventures
+Blue Moon
+78
+The Belmonts
+Don't Get Around Much Anymore
+79
+Steve Lawrence
+Somewhere Along The Way
+80
+Marty Robbins
+It's Your World
+81
+The Miracles
+Everybody's Gotta Pay Some Dues
+82
+Wanda Jackson
+In The Middle Of A Heartache
+83
+Bobby Bland
+Don't Cry No More
+84
+Tommy Hunt
+Human
+85
+Adam Wade
+Tonight I Won't Be There
+86
+Andy Williams
+Danny Boy
+87
+The Lennon Sisters
+Sad Movies (Make Me Cry)
+88
+Shep And The Limelites
+Three Steps From The Altar
+89
+Faron Young
+Backtrack
+90
+Gene Thomas
+Sometime
+91
+Freddy Cannon
+For Me And My Gal
+92
+Matt Monro
+Why Not Now
+93
+Linda Scott
+I Don't Know Why
+94
+Sandy Nelson
+Let There Be Drums
+95
+The Angels
+'Til
+96
+Gene Pitney
+Town Without Pity
+97
+Glen Campbell
+Turn Around, Look At Me
+98
+Leroy Van Dyke
+Walk On By
+99
+Clarence Henry
+On Bended Knees
+100
+The Pentagons
+I Wonder (If Your Love Will Ever Belong To Me)

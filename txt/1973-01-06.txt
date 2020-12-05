@@ -1,0 +1,300 @@
+1
+Carly Simon
+You're So Vain
+2
+Gilbert O'Sullivan
+Clair
+3
+Billy Paul
+Me And Mrs. Jones
+4
+Stevie Wonder
+Superstition
+5
+Donna Fargo
+Funny Face
+6
+Albert Hammond
+It Never Rains In Southern California
+7
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+8
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+9
+Curtis Mayfield
+Superfly
+10
+Al Green
+You Ought To Be With Me
+11
+Four Tops
+Keeper Of The Castle
+12
+Jethro Tull
+Living In The Past
+13
+Elton John
+Crocodile Rock
+14
+Helen Reddy
+I Am Woman
+15
+James Taylor
+Don't Let Me Be Lonely Tonight
+16
+Austin Roberts
+Something's Wrong With Me
+17
+Neil Diamond
+Walk On Water
+18
+Cat Stevens
+Sitting
+19
+Timmy Thomas
+Why Can't We Live Together
+20
+Bread
+Sweet Surrender
+21
+Three Dog Night
+Pieces Of April
+22
+Wings
+Hi, Hi, Hi
+23
+Raspberries
+I Wanna Be With You
+24
+Carole King
+Been To Canaan
+25
+Hurricane Smith
+Oh, Babe, What Would You Say?
+26
+Marvin Gaye
+Trouble Man
+27
+The Temptations
+Papa Was A Rollin' Stone
+28
+Elvis Presley
+Separate Ways
+29
+Blue Haze
+Smoke Gets In Your Eyes
+30
+War
+The World Is A Ghetto
+31
+Steely Dan
+Do It Again
+32
+Brighter Side Of Darkness
+Love Jones
+33
+Johnny Nash
+I Can See Clearly Now
+34
+King Harvest
+Dancing In The Moonlight
+35
+John Denver
+Rocky Mountain High
+36
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+37
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+38
+Joni Mitchell
+You Turn Me On, I'm A Radio
+39
+Jackson 5
+Corner Of The Sky
+40
+Chuck Berry
+Reelin' & Rockin'
+41
+Jermaine Jackson
+Daddy's Home
+42
+Bobby Womack & Peace
+Harry Hippie
+43
+The Who
+The Relay
+44
+Seals & Crofts
+Summer Breeze
+45
+The Hollies
+Long Dark Road
+46
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+47
+Bulldog
+No
+48
+Bill Withers
+Let Us Love
+49
+Bette Midler
+Do You Want To Dance?
+50
+Peter Skellern
+You're A Lady
+51
+Clean Living
+In Heaven There Is No Beer
+52
+Don McLean
+Dreidel
+53
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+54
+Lobo
+Don't Expect Me To Be Your Friend
+55
+America
+Ventura Highway
+56
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+57
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+58
+The Stylistics
+I'm Stone In Love With You
+59
+The Main Ingredient
+You've Got To Take It (If You Want It)
+60
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+61
+The Spinners
+Could It Be I'm Falling In Love
+62
+Nilsson
+Remember (Christmas)
+63
+The Osmonds
+Crazy Horses
+64
+Joe Simon
+Trouble In My Home/I Found My Dad
+65
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+66
+Dennis Yost And The Classics IV
+What Am I Crying For?
+67
+Eagles
+Peaceful Easy Feeling
+68
+Wayne Newton
+Anthem
+69
+Mac Davis
+Everybody Loves A Love Song
+70
+Dawn Featuring Tony Orlando
+You're A Lady
+71
+The Chi-lites
+We Need Order
+72
+Keith Hampshire
+Daytime Night-Time
+73
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+74
+Edward Bear
+Last Song
+75
+Emerson, Lake & Palmer
+Lucky Man
+76
+The 5th Dimension
+Living Together, Growing Together
+77
+Cashman & West
+Songman
+78
+Slade
+Mama Weer All Crazee Now
+79
+Gallery
+Big City Miss Ruth Ann
+80
+The Doobie Brothers
+Jesus Is Just Alright
+81
+Valerie Simpson
+Silly Wasn't I
+82
+Glen Campbell
+One Last Time
+83
+Anne Murray
+Danny's Song
+84
+Limmie & Family Cookin'
+You Can Do Magic
+85
+Merry Clayton
+Oh No, Not My Baby
+86
+Engelbert Humperdinck
+I Never Said Goodbye
+87
+Joey Heatherton
+I'm Sorry
+88
+Barbra Streisand
+Didn't We
+89
+Paul Davis
+Boogie Woogie Man
+90
+Rita Coolidge
+Fever/My Crew
+91
+Kris Kristofferson
+Jesus Was A Capricorn
+92
+Bobby Darin
+Happy
+93
+Holland-Dozier
+Don't Leave Me Starvin' For Your Love (Part 1)
+94
+Bobby Vinton
+But I Do
+95
+Ten Years After
+Choo Choo Mama
+96
+Brownsville Station
+The Red Back Spider
+97
+Ray Price
+She's Got To Be A Saint
+98
+Joe Stampley
+Soul Song
+99
+Anacostia
+On And Off (Part 1)
+100
+Johnny Williams
+Slow Motion (Part 1)

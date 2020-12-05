@@ -1,0 +1,300 @@
+1
+The Escape Club
+Wild, Wild West
+2
+The Beach Boys
+Kokomo (From"Cocktail" )
+3
+Kylie Minogue
+The Loco-Motion
+4
+Bon Jovi
+Bad Medicine
+5
+Whitney Houston
+One Moment In Time
+6
+U2
+Desire
+7
+Phil Collins
+Groovy Kind Of Love
+8
+Will To Power
+Baby, I Love Your Way/Freebird Medley
+9
+George Michael
+Kissing A Fool
+10
+INXS
+Never Tear Us Apart
+11
+Breathe
+How Can I Fall?
+12
+Chicago
+Look Away
+13
+Giant Steps
+Another Lover
+14
+Cinderella
+Don't Know What You Got (Till It's Gone)
+15
+Duran Duran
+I Don't Want Your Love
+16
+Anita Baker
+Giving You The Best That I Got
+17
+Boy Meets Girl
+Waiting For A Star To Fall
+18
+Information Society
+What's On Your Mind (Pure Energy)
+19
+Elton John
+A Word In Spanish
+20
+UB40
+Red Red Wine
+21
+Eddie Money
+Walk On Water
+22
+When In Rome
+The Promise
+23
+Steve Winwood
+Don't You Know What The Night Can Do?
+24
+Guns N' Roses
+Welcome To The Jungle
+25
+Erasure
+Chains Of Love
+26
+Pet Shop Boys
+Domino Dancing
+27
+Vixen
+Edge Of A Broken Heart
+28
+Def Leppard
+Love Bites
+29
+Van Halen
+Finish What Ya Started
+30
+Bobby Brown
+Don't Be Cruel
+31
+Huey Lewis & The News
+Small World
+32
+Poison
+Every Rose Has Its Thorn
+33
+Bobby Brown
+My Prerogative
+34
+Rod Stewart
+Forever Young
+35
+Was (Not Was)
+Spy In The House Of Love
+36
+The Bangles
+In Your Room
+37
+Daryl Hall John Oates
+Downtown Life
+38
+Barbra Streisand & Don Johnson
+Till I Loved You
+39
+Robert Palmer
+Early In The Morning
+40
+Ivan Neville
+Not Just Another Girl
+41
+Bobby McFerrin
+Don't Worry, Be Happy (From "Cocktail")
+42
+Tracie Spencer
+Symptoms Of True Love
+43
+Boys Club
+I Remember Holding You
+44
+Luther Vandross
+Any Love
+45
+Taylor Dayne
+I'll Always Love You
+46
+Judson Spence
+Yeah, Yeah, Yeah
+47
+Karyn White
+The Way You Love Me
+48
+SaFire
+Boy, I've Been Told
+49
+Kenny G
+Silhouette
+50
+Basia
+Time And Tide
+51
+Cheap Trick
+Don't Be Cruel
+52
+Rob Base & D.J. E-Z Rock
+It Takes Two
+53
+Glenn Frey
+True Love
+54
+L'Trimm
+Cars With The Boom
+55
+New Kids On The Block
+Please Don't Go Girl
+56
+Taylor Dayne
+Don't Rush Me
+57
+The Georgia Satellites
+Hippy Hippy Shake (From "Cocktail")
+58
+Joan Jett & the Blackhearts
+Little Liar
+59
+Cheryl Pepsii Riley
+Thanks For My Child
+60
+Joan Jett & the Blackhearts
+I Hate Myself For Loving You
+61
+Survivor
+Didn't Know It Was Love
+62
+Traveling Wilburys
+Handle With Care
+63
+Siouxsie & The Banshees
+Peek-A-Boo
+64
+Cheap Trick
+Ghost Town
+65
+Maxi Priest
+Wild World
+66
+Michael Jackson
+Smooth Criminal
+67
+Peter Cetera
+Best Of Times
+68
+Thirty Eight Special
+Rock & Roll Strategy
+69
+Candi
+Dancing Under A Latin Moon
+70
+Guns N' Roses
+Sweet Child O' Mine
+71
+Annie Lennox & Al Green
+Put A Little Love In Your Heart
+72
+D.J. Jazzy Jeff & The Fresh Prince
+Girls Ain't Nothing But Trouble
+73
+Romeo's Daughter
+Don't Break My Heart
+74
+Terence Trent D'Arby
+Dance Little Sister
+75
+Tracy Chapman
+Baby Can I Hold You
+76
+Jon Astley
+Put This Love To The Test
+77
+Kim Wilde
+You Came
+78
+Randy Newman
+It's Money That Matters
+79
+New Edition
+If It Isn't Love
+80
+Peter Cetera
+One Good Woman
+81
+Tiffany
+All This Time
+82
+Alphaville
+Forever Young
+83
+White Lion
+When The Children Cry
+84
+Mike + The Mechanics
+Nobody's Perfect
+85
+Sweet Sensation
+Never Let You Go
+86
+Cameo
+You Make Me Work
+87
+Robbie Nevil
+Back On Holiday
+88
+Paula Abdul
+(It's Just) The Way That You Love Me
+89
+Samantha Fox
+I Wanna Have Some Fun
+90
+Kenny Loggins
+I'm Gonna Miss You
+91
+Sheena Easton
+The Lover In Me
+92
+Good Question
+Got A New Love
+93
+Robert Palmer
+Simply Irresistible
+94
+Deniece Williams
+I Can't Wait
+95
+Poison
+Fallen Angel
+96
+Denise Lopez
+If You Feel It
+97
+Stryper
+I Believe In You
+98
+D.J. Jazzy Jeff & The Fresh Prince
+A Nightmare On My Street
+99
+J.J. Fad
+Way Out
+100
+New Edition
+You're Not My Kind Of Girl

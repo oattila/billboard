@@ -1,0 +1,300 @@
+1
+David Bowie
+Fame
+2
+John Denver
+I'm Sorry
+3
+Glen Campbell
+Rhinestone Cowboy
+4
+David Geddes
+Run Joey Run
+5
+Dickie Goodman
+Mr. Jaws
+6
+Neil Sedaka
+Bad Blood
+7
+Sweet
+Ballroom Blitz
+8
+Orleans
+Dance With Me
+9
+Helen Reddy
+Ain't No Way To Treat A Lady
+10
+Austin Roberts
+Rocky
+11
+Freddy Fender
+Wasted Days And Wasted Nights
+12
+Morris Albert
+Feelings
+13
+Tavares
+It Only Takes A Minute
+14
+The Spinners
+They Just Can't Stop It the (Games People Play)
+15
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+16
+Barry Manilow
+Could It Be Magic
+17
+The 4 Seasons
+Who Loves You
+18
+Eagles
+Lyin' Eyes
+19
+The Ritchie Family
+Brazil
+20
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+21
+Janis Ian
+At Seventeen
+22
+Jefferson Starship
+Miracles
+23
+Paul Simon/Phoebe Snow
+Gone At Last
+24
+The Isley Brothers
+Fight The Power Part 1
+25
+Bad Company
+Feel Like Makin' Love
+26
+Leon Russell
+Lady Blue
+27
+Earth, Wind & Fire
+That's The Way Of The World
+28
+Michael Murphey
+Carolina In The Pines
+29
+People's Choice
+Do It Any Way You Wanna
+30
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+31
+Linda Ronstadt
+Heat Wave/love Is A Rose
+32
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+33
+Captain & Tennille
+The Way I Want To Touch You
+34
+Tony Orlando & Dawn
+You're All I Need To Get By
+35
+Esther Phillips
+What A Diff'rence A Day Makes
+36
+Art Garfunkel
+I Only Have Eyes For You
+37
+Jim Stafford
+I Got Stoned And I Missed It
+38
+John Fogerty
+Rockin' All Over The World
+39
+AWB
+If I Ever Lose This Heaven
+40
+Natalie Cole
+This Will Be
+41
+George Harrison
+You
+42
+Willie Nelson
+Blue Eyes Crying In The Rain
+43
+The Outlaws
+There Goes Another Love Song
+44
+Ohio Players
+Sweet Sticky Thing
+45
+Bob Seger
+Katmandu
+46
+Jigsaw
+Sky High
+47
+America
+Daisy Jane
+48
+War
+Low Rider
+49
+KC And The Sunshine Band
+Get Down Tonight
+50
+Evie Sands
+I Love Makin' Love To You
+51
+Bruce Springsteen
+Born To Run
+52
+Olivia Newton-John
+Something Better To Do
+53
+ABBA
+S.O.S.
+54
+Smokey Robinson
+The Agony And The Ecstasy
+55
+Gladys Knight And The Pips
+Money
+56
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+57
+Crown Heights Affair
+Dreaming A Dream
+58
+Carpenters
+Solitaire
+59
+Melissa Manchester
+Just Too Many People
+60
+Sly Stone
+I Get High On You
+61
+Pete Wingfield
+Eighteen With A Bullet
+62
+B.T. Express
+Give It What You Got/Peace Pipe
+63
+Aretha Franklin
+Mr. D.J. (5 For The D.J.)
+64
+Jessi Colter
+You Ain't Never Been Loved (Like I'm Gonna Love You)
+65
+Faith, Hope And Charity
+To Each His Own
+66
+The Nitty Gritty Dirt Band
+(All I Have To Do Is) Dream
+67
+The Manhattan Transfer
+Operator
+68
+Arthur Alexander
+Every Day I Have To Cry Some
+69
+Leon Haywood
+I Want'a Do Something Freaky To You
+70
+The Osmonds
+The Proud One
+71
+Joan Baez
+Diamonds And Rust
+72
+The Eleventh Hour
+Hollywood Hot
+73
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+74
+Wings
+Letting Go
+75
+Waylon Jennings
+Are You Sure Hank Done It This Way
+76
+Graham Central Station
+Your Love
+77
+John Dawson Read
+A Friend Of Mine Is Going Blind
+78
+Pat Lundi
+Party Music
+79
+Mike Post
+Manhattan Spiritual
+80
+Amazing Rhythm Aces
+Third Rate Romance
+81
+The Grass Roots
+Mamacita
+82
+Bee Gees
+Nights On Broadway
+83
+The Salsoul Orchestra
+Salsoul Hustle
+84
+Cotton, Lloyd & Christian
+I Go To Pieces
+85
+Billy Preston
+Fancy Lady
+86
+Poco
+Keep On Tryin'
+87
+Millie Jackson
+Leftovers
+88
+David Bellamy
+Nothin' Heavy
+89
+Biddu Orchestra
+Summer Of '42
+90
+James Taylor
+Mexico
+91
+Buddy Miles
+Rockin' And Rollin' On The Streets Of Hollywood
+92
+Baron Stewart
+We Been Singin' Songs
+93
+Katfish
+Dear Prudence
+94
+Travis Wammack
+Easy Evil
+95
+Fox
+Only You Can
+96
+Chicago
+Brand New Love Affair (Part I & II)
+97
+Roger Daltrey
+Come And Get Your Love
+98
+The Road Apples
+Let's Live Together
+99
+Curtis Mayfield
+So In Love
+100
+Johnny Guitar Watson
+I Don't Want To Be A Lone Ranger

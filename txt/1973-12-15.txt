@@ -1,0 +1,300 @@
+1
+Charlie Rich
+The Most Beautiful Girl
+2
+Elton John
+Goodbye Yellow Brick Road
+3
+Carpenters
+Top Of The World
+4
+Chicago
+Just You 'n' Me
+5
+Jim Croce
+Time In A Bottle
+6
+Todd Rundgren
+Hello It's Me
+7
+Helen Reddy
+Leave Me Alone (ruby Red Dress)
+8
+Ringo Starr
+Photograph
+9
+The Steve Miller Band
+The Joker
+10
+The Staple Singers
+If You're Ready (Come Go With Me)
+11
+Billy Preston
+Space Race
+12
+Harold Melvin And The Blue Notes
+The Love I Lost (Part 1)
+13
+Eddie Kendricks
+Keep On Truckin' (Part 1)
+14
+Barry White
+Never, Never Gonna Give Ya Up
+15
+Gladys Knight And The Pips
+Midnight Train To Georgia
+16
+Al Wilson
+Show And Tell
+17
+The Stylistics
+Rockin' Roll Baby
+18
+Loggins & Messina
+My Music
+19
+Stevie Wonder
+Living For The City
+20
+John Lennon
+MIND GAMES
+21
+Marvin Gaye
+Come Get To This
+22
+Brownsville Station
+Smokin' In The Boy's Room
+23
+The DeFranco Family featuring Tony DeFranco
+Heartbeat - It's A Lovebeat
+24
+Paul McCartney And Wings
+Helen Wheels
+25
+Jim Croce
+I Got A Name
+26
+Gladys Knight And The Pips
+I've Got To Use My Imagination
+27
+Tony Orlando & Dawn
+Who's In The Strawberry Patch With Sally
+28
+Led Zeppelin
+D'yer Mak'er
+29
+Three Dog Night
+Let Me Serenade You
+30
+Marie Osmond
+Paper Roses
+31
+Olivia Newton-John
+Let Me Be There
+32
+The Rolling Stones
+Angie
+33
+War
+Me And Baby Brother
+34
+Johnnie Taylor
+Cheaper To Keep Her
+35
+Aretha Franklin
+Until You Come Back To Me (That's What I'm Gonna Do)
+36
+Diana Ross & Marvin Gaye
+You're A Special Part Of Me
+37
+Carole King
+Corazón
+38
+Kris Kristofferson
+Why Me
+39
+Donny Osmond
+When I Fall In Love/Are You Lonesome Tonight
+40
+The Persuaders
+Some Guys Have All The Luck
+41
+Neil Diamond
+Be
+42
+Ann Peebles
+I Can't Stand The Rain
+43
+Bob Dylan
+Knockin' On Heaven's Door
+44
+Garfunkel
+All I Know
+45
+Ian Thomas
+Painted Ladies
+46
+El Chicano
+Tell Her She's Lovely
+47
+Bobby "Blue" Bland
+This Time I'm Gone For Good
+48
+Ike & Tina Turner
+Nutbush City Limits
+49
+Cheech & Chong
+Sister Mary Elephant (Shudd-Up!)
+50
+Love Unlimited Orchestra
+Love's Theme
+51
+Cher
+Half-Breed
+52
+The Chi-lites
+I Found Sunshine
+53
+Lighthouse
+Pretty Lady
+54
+Grand Funk
+Walk Like A Man
+55
+Barbra Streisand
+The Way We Were
+56
+Jim Stafford
+Spiders & Snakes
+57
+Al Green
+Livin' For You
+58
+The Dramatics
+Fell For You
+59
+Paul Simon
+American Tune
+60
+Earth, Wind & Fire
+Keep Your Head To The Sky
+61
+First Choice
+Smarty Pants
+62
+Gilbert O'Sullivan
+Ooh Baby
+63
+Kris Kristofferson & Rita Coolidge
+A Song I'd Like To Sing
+64
+Bloodstone
+Never Let You Go
+65
+Stories
+Mammy Blue
+66
+Joe Simon
+River
+67
+Aerosmith
+Dream On
+68
+B.W. Stevenson
+The River Of Love
+69
+Merle Haggard
+If We Make It Through December
+70
+The Intruders
+I Wanna Know Your Name
+71
+David Essex
+Rock On
+72
+Frank Sinatra
+Let Me Try Again (Laisse Moi Le Temps)
+73
+Smokey Robinson
+Baby Come Close
+74
+Steely Dan
+My Old School
+75
+Ringo Starr
+You're Sixteen
+76
+Bachman-Turner Overdrive
+Blue Collar
+77
+Tom T. Hall
+I Love
+78
+The Who
+Love, Reign O'er Me
+79
+The Band
+Ain't Got No Home
+80
+Edgar Winter Group
+Hangin' Around
+81
+Linda Ronstadt
+Love Has No Pride
+82
+Ray Charles
+Come Live With Me
+83
+Melanie
+Will You Love Me Tomorrow?
+84
+Electric Light Orchestra
+Showdown
+85
+Wednesday
+Last Kiss
+86
+Keith Hampshire
+Big Time Operator
+87
+Lobo
+Love Me For What I Am/there Ain't No Way
+88
+Black Oak Arkansas
+Jim Dandy
+89
+James Brown
+Stoned To The Bone - Part 1
+90
+Bob Dylan
+A Fool Such As I
+91
+Albert Hammond
+Half A Million Miles From Home
+92
+Don Goodwin
+This Is Your Song
+93
+B.B. King
+I Like To Live The Love
+94
+Anne Murray
+Love Song
+95
+Love Unlimited
+It May Be Winter Outside, (But In My Heart It's Spring)
+96
+Raspberries
+I'm A Rocker
+97
+Kool & The Gang
+Jungle Boogie
+98
+Roy Clark
+Somewhere Between Love And Tomorrow
+99
+The 5th Dimension
+Flashback
+100
+Gary & Dave
+Could You Ever Love Me Again

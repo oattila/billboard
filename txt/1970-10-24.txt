@@ -1,0 +1,300 @@
+1
+Jackson 5
+I'll Be There
+2
+Neil Diamond
+Cracklin' Rosie
+3
+Sugarloaf
+Green-Eyed Lady
+4
+Carpenters
+We've Only Just Begun
+5
+Free
+All Right Now
+6
+James Taylor
+Fire And Rain
+7
+Dawn
+Candida
+8
+R. Dean Taylor
+Indiana Wants Me
+9
+The Kinks
+Lola
+10
+Diana Ross
+Ain't No Mountain High Enough
+11
+Four Tops
+Still Water (Love)
+12
+Bobby Sherman
+Julie, Do Ya Love Me
+13
+Charles Wright And The Watts 103rd Street Rhythm Band
+Express Yourself
+14
+100 Proof Aged in Soul
+Somebody's Been Sleeping
+15
+Three Dog Night
+Out In The Country
+16
+The New Seekers featuring Eve Graham
+Look What They've Done To My Song Ma
+17
+Glen Campbell
+It's Only Make Believe
+18
+Anne Murray
+Snowbird
+19
+Creedence Clearwater Revival
+Lookin' Out My Back Door/Long As I Can See The Light
+20
+Simon & Garfunkel
+El Condor Pasa (If I Could)
+21
+Rare Earth
+(I Know) I'm Losing You
+22
+Grand Funk Railroad
+Closer To Home (I'm Your Captain)
+23
+Bread
+It Don't Matter To Me
+24
+The Spinners
+It's A Shame
+25
+James Brown
+Super Bad (Part 1 & Part 2)
+26
+Teegarden & Van Winkle
+God, Love And Rock & Roll
+27
+Candi Staton
+Stand By Your Man
+28
+Joe Cocker
+Cry Me A River
+29
+Wilson Pickett
+Engine Number 9
+30
+Linda Ronstadt
+Long Long Time
+31
+The Who
+See Me, Feel Me
+32
+Crosby, Stills, Nash & Young
+Our House
+33
+Blood, Sweat & Tears
+Lucretia Mac Evil
+34
+Freda Payne
+Deeper & Deeper
+35
+The Temptations
+Ungena Za Ulimwengu (Unite The World)
+36
+Bobby Bloom
+Montego Bay
+37
+Five Flights Up
+Do What You Wanna Do
+38
+The Poppy Family (Featuring Susan Jacks)
+That's Where I Went Wrong
+39
+Brian Hyland
+Gypsy Woman
+40
+Christie
+Yellow River
+41
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+42
+Mashmakhan
+As The Years Go By
+43
+Dionne Warwick
+Make It Easy On Yourself
+44
+Michael Nesmith & The First National Band
+Joanne
+45
+Smokey Robinson & The Miracles
+The Tears Of A Clown
+46
+Isaac Hayes
+I Stand Accused
+47
+Ray Price
+For The Good Times
+48
+The Three Degrees
+I Do Take You
+49
+Stevie Wonder
+Heaven Help Us All
+50
+Johnnie Taylor
+I Am Somebody Part II
+51
+Paul Davis
+I Just Wanna Keep It Together
+52
+O.C. Smith
+Baby, I Need Your Loving
+53
+Mark Lindsay
+And The Grass Won't Pay No Mind
+54
+The Whispers
+Seems Like I Gotta Do Wrong
+55
+The Delfonics
+When You Get Right Down To It
+56
+Quicksilver Messenger Service
+Fresh Air
+57
+Elephant's Memory
+Mongoose
+58
+Kenny Rogers & The First Edition
+Heed The Call
+59
+Canned Heat
+Let's Work Together
+60
+Engelbert Humperdinck
+Sweetheart
+61
+James Gang
+Funk # 49
+62
+The Impressions
+(Baby) Turn On To Me
+63
+Shirley Bassey
+Something
+64
+Blue Mink
+Our World
+65
+The Grass Roots
+Come On And Say It
+66
+Ann Peebles
+Part Time Love
+67
+Diane Kolby
+Holy Man
+68
+Eric Clapton
+After Midnight
+69
+Alive 'N Kickin'
+Just Let It Come
+70
+Jake Holmes
+So Close
+71
+The Presidents
+5-10-15-20 (25-30 Years Of Love)
+72
+Tyrone Davis
+Let Me Back In
+73
+The Guess Who
+Share The Land
+74
+Elvis Presley
+You Don't Have To Say You Love Me/Patch It Up
+75
+Otis Leaville
+Love Uprising
+76
+The Flaming Ember
+I'm Not My Brothers Keeper
+77
+The Friends Of Distinction
+Time Waits For No One
+78
+Ray Charles
+If You Were Mine
+79
+The Assembled Multitude
+Woodstock
+80
+Robin McNamara
+Got To Believe In Love
+81
+The 5th Dimension
+One Less Bell To Answer
+82
+Iron Butterfly
+Easy Rider (Let The Wind Pay The Way)
+83
+CROW
+Don't Try To Lay No Boogie Woogie On The "King Of Rock & Roll"
+84
+Ronnie Dyson
+I Don't Wanna Cry
+85
+The Band
+Time To Kill
+86
+Buddy Miles
+Dreams
+87
+Bobby Byrd
+I Need Help (I Can't Do It Alone) Pt. 1
+88
+Poco
+You Better Think Twice
+89
+Charley Pride
+I Can't Believe That You've Stopped Loving Me
+90
+Traffic
+Empty Pages
+91
+King Floyd
+Groove Me
+92
+Tammy Wynette
+Run, Woman, Run
+93
+Pacific Gas And Electric
+Father Come On Home
+94
+Herb Alpert & The Tijuana Brass
+Jerusalem
+95
+Etta James
+Losers Weepers - Part I
+96
+The Isley Brothers
+Get Into Something
+97
+Conway Twitty
+Fifteen Years Ago
+98
+Dennis Yost And The Classics IV
+Where Did All The Good Times Go
+99
+David & Jimmy Ruffin
+Stand By Me
+100
+Neil Young
+Only Love Can Break Your Heart

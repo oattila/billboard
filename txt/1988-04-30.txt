@@ -1,0 +1,300 @@
+1
+Whitney Houston
+Where Do Broken Hearts Go
+2
+Terence Trent D'Arby
+Wishing Well
+3
+Aerosmith
+Angel
+4
+INXS
+Devil Inside
+5
+Gloria Estefan & Miami Sound Machine
+Anything For You
+6
+Billy Ocean
+Get Outta My Dreams, Get Into My Car
+7
+Natalie Cole
+Pink Cadillac
+8
+Taylor Dayne
+Prove Your Love
+9
+Tiffany
+I Saw Him Standing There
+10
+Pebbles
+Girlfriend
+11
+Pet Shop Boys
+Always On My Mind
+12
+Icehouse
+Electric Blue
+13
+Samantha Fox
+Naughty Girls (Need Love Too)
+14
+Bruce Springsteen
+One Step Up
+15
+Johnny Hates Jazz
+Shattered Dreams
+16
+Foreigner
+I Don't Want To Live Without You
+17
+White Lion
+Wait
+18
+The Deele
+Two Occasions
+19
+Michael Jackson
+Man In The Mirror
+20
+Henry Lee Summer
+I Wish I Had A Girl
+21
+Brenda Russell Featuring Joe Esposito
+Piano In The Dark
+22
+George Michael
+One More Try
+23
+Toto
+Pamela
+24
+The Jets
+Rocket 2 U
+25
+Jody Watley
+Some Kind Of Lover
+26
+Orchestral Manoeuvres In The Dark
+Dreaming
+27
+Daryl Hall John Oates
+Everything Your Heart Desires
+28
+Jermaine Stewart
+Say It Again
+29
+Richard Marx
+Endless Summer Nights
+30
+Suave
+My Girl
+31
+Bryan Ferry
+Kiss And Tell (From "Bright Lights, Big City")
+32
+Morris Day
+Fishnet
+33
+Debbie Gibson
+Out Of The Blue
+34
+Times Two
+Strange But True
+35
+Paul Carrack
+One Good Reason
+36
+Rick Astley
+Together Forever
+37
+Scarlett & Black
+You Don't Know
+38
+Keith Sweat
+I Want Her
+39
+Dan Reed Network
+Ritual
+40
+Cher
+We All Sleep Alone
+41
+Brenda K. Starr
+I Still Believe
+42
+John Mellencamp
+Check It Out
+43
+Belinda Carlisle
+Circle In The Sand
+44
+Glass Tiger
+I'm Still Searching
+45
+Pretty Poison
+Nightime
+46
+The Jets
+Make It Real
+47
+The Cover Girls
+Promise Me
+48
+Debbie Gibson
+Foolish Beat
+49
+Bananarama
+Love In The First Degree
+50
+Rick Astley
+Never Gonna Give You Up
+51
+LL Cool J
+Going Back To Cali (From "Less Than Zero")
+52
+Merry Clayton
+Yes (From The Motion Picture "Dirty Dancing")
+53
+Lita Ford
+Kiss Me Deadly
+54
+E.U.
+Da'Butt (From The "School Daze" Soundtrack)
+55
+Al B. Sure!
+Nite And Day
+56
+Bardeux
+When We Kiss
+57
+Midnight Oil
+Beds Are Burning
+58
+Bruce Hornsby & The Range
+The Valley Road
+59
+Cheap Trick
+The Flame
+60
+Big Pig
+Breakaway
+61
+Michael Bolton
+(Sittin' On) The Dock Of The Bay
+62
+Prince
+Alphabet St.
+63
+Poison
+Nothin' But A Good Time
+64
+The Church
+Under The Milky Way
+65
+Cher
+I Found Someone
+66
+Nu Shooz
+Should I Say Yes?
+67
+Noel
+Like A Child
+68
+Patrick Swayze (Featuring Wendy Fraser)
+She's Like The Wind
+69
+David Lee Roth
+Stand Up
+70
+Sweet Sensation
+Take It While It's Hot
+71
+J.J. Fad
+Supersonic
+72
+Robert Plant
+Tall Cool One
+73
+Kingdom Come
+Get It On
+74
+George Michael
+Father Figure
+75
+Def Leppard
+Pour Some Sugar On Me
+76
+Salt-N-Pepa
+Push It
+77
+Def Leppard
+Hysteria
+78
+Belinda Carlisle
+I Get Weak
+79
+Rick Springfield
+Rock Of Life
+80
+David Lee Roth
+Just Like Paradise
+81
+Breathe
+Hands To Heaven
+82
+Underworld
+Underneath The Radar
+83
+Boz Scaggs
+Heart Of Mine
+84
+Sting
+Englishman In New York
+85
+Stevie B
+Dreamin' Of Love
+86
+Lonzo And World Class Wreckin Kru
+Turn Off The Lights
+87
+Louis Armstrong
+What A Wonderful World
+88
+James Taylor
+Never Die Young
+89
+New Order
+Blue Monday 1988
+90
+Jesse Johnson
+Love Struck
+91
+Honeymoon Suite
+Love Changes Everything
+92
+Jody Watley
+Most Of All
+93
+Agnetha Faltskog/Peter Cetera
+I Wasn't The One (Who Said Goodbye)
+94
+Kool Moe Dee
+Wild, Wild West
+95
+Eria Fachin
+Savin' Myself
+96
+M/A/R/R/S
+Pump Up The Volume
+97
+The Adventures
+Broken Land
+98
+So
+Are You Sure
+99
+Donald Fagen
+Century's End (From "Bright Lights, Big City")
+100
+The Alarm
+Presence Of Love

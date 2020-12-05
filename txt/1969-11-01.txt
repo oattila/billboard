@@ -1,0 +1,300 @@
+1
+Elvis Presley
+Suspicious Minds
+2
+The 5th Dimension
+Wedding Bell Blues
+3
+The Archies
+Sugar, Sugar
+4
+The Temptations
+I Can't Get Next To You
+5
+Smith
+Baby It's You
+6
+Sly & The Family Stone
+Hot Fun In The Summertime
+7
+Bobby Sherman
+Little Woman
+8
+Oliver
+Jean
+9
+The Cuff Links
+Tracy
+10
+The Beatles
+Come Together/Something
+11
+The Beatles
+Something
+12
+The Flying Machine
+Smile A Little Smile For Me
+13
+Peggy Lee
+Is That All There Is
+14
+Marvin Gaye
+That's The Way Love Is
+15
+Lou Christie
+I'm Gonna Make You Mine
+16
+The Friends Of Distinction
+Going In Circles
+17
+Blood, Sweat & Tears
+And When I Die
+18
+Dionne Warwick
+You've Lost That Lovin' Feeling
+19
+Tom Jones
+I'll Never Fall In Love Again
+20
+Garland Green
+Jealous Kind Of Fella
+21
+R.B. Greaves
+Take A Letter Maria
+22
+The Originals
+Baby, I'm For Real
+23
+Three Dog Night
+Easy To Be Hard
+24
+The Clique
+Sugar On Sunday
+25
+Nilsson
+Everybody's Talkin'
+26
+Tommy James And The Shondells
+Ball Of Fire
+27
+Gary Puckett And The Union Gap
+This Girl Is A Woman Now
+28
+Lawrence Reynolds
+Jesus Is A Soul Man
+29
+The Rugbys
+You, I
+30
+James Brown
+Let A Man Come In And Do The Popcorn (Part One)
+31
+Isaac Hayes
+Walk On By
+32
+Stevie Wonder
+Yester-Me, Yester-You, Yesterday
+33
+Glen Campbell
+Try A Little Kindness
+34
+Crosby, Stills & Nash
+Suite: Judy Blue Eyes
+35
+Kenny Rogers & The First Edition
+Reuben James
+36
+Dyke And The Blazers
+Let A Woman Be A Woman - Let A Man Be A Man
+37
+Thunderclap Newman
+Something In The Air
+38
+Billy Joe Royal
+Cherry Hill Park
+39
+Jerry Butler
+What's The Use Of Breaking Up
+40
+Keith Barbour
+Echo Park
+41
+Andy Kim
+So Good Together
+42
+Mel And Tim
+Backfield In Motion
+43
+Motherlode
+When I Die
+44
+Wind
+Make Believe
+45
+Steam
+Na Na Hey Hey Kiss Him Goodbye
+46
+The Intrigues
+In A Moment
+47
+Joe South and The Believers
+Don't It Make You Want To Go Home
+48
+Clarence Carter
+Doin' Our Thing
+49
+Grand Funk Railroad
+Time Machine
+50
+Three Dog Night
+Eli's Coming
+51
+The Guess Who
+Undun
+52
+The Flaming Ember
+Mind, Body and Soul
+53
+The Soul Children
+The Sweeter He Is - Part I
+54
+Evie Sands
+Any Way That You Want Me
+55
+The Brooklyn Bridge
+You'll Never Walk Alone
+56
+Mama Cass Elliot
+Make Your Own Kind Of Music
+57
+Peter, Paul & Mary
+Leaving On A Jet Plane
+58
+Creedence Clearwater Revival
+Fortunate Son
+59
+Kool & The Gang
+Kool And The Gang
+60
+Creedence Clearwater Revival
+Down On The Corner/Fortunate Son
+61
+The Box Tops
+Turn On A Dream
+62
+Harlow Wilcox and the Oakies
+Groovy Grubworm
+63
+Funkadelic
+I'll Bet You
+64
+Tony Joe White
+Roosevelt And Ira Lee (Night of the Mossacin)
+65
+Sonny James
+Since I Met You, Baby
+66
+Gladys Knight And The Pips
+Friendship Train
+67
+The Lettermen
+Shangri-La
+68
+Jr. Walker & The All Stars
+These Eyes
+69
+The Checkmates, Ltd. Featuring Sonny Charles
+Proud Mary
+70
+Jefferson
+The Colour Of My Love
+71
+Neil Diamond
+Holly Holy
+72
+John & Anne Ryder
+I Still Believe In Tomorrow
+73
+Joe Cocker
+Delta Lady
+74
+The Band
+Up On Cripple Creek
+75
+The Cowsills
+Silver Threads And Golden Needles
+76
+Maxine Brown
+We'll Cry Together
+77
+CROW
+Evil Woman Don't Play Your Games With Me
+78
+The Impressions
+Say You Love Me
+79
+The Glass House
+Crumbs Off The Table
+80
+Ramsey Lewis
+Julia
+81
+Ray Stevens
+Sunday Mornin' Comin' Down
+82
+The Dells
+On The Dock Of The Bay
+83
+Nilsson
+I Guess The Lord Must Be In New York City
+84
+Thomas & Richard Frost
+She's Got Love
+85
+Bob Dylan
+Tonight I'll Be Staying Here With You
+86
+B.J. Thomas
+Raindrops Keep Fallin' On My Head
+87
+Joe Simon
+It's Hard To Get Along
+88
+Five Stairsteps & Cubie
+We Must Be In Love
+89
+Blackwell
+Wonderful
+90
+Jackie DeShannon
+Love Will Find A Way
+91
+Merle Haggard And The Strangers
+Okie From Muskogee
+92
+The Byrds
+Ballad Of Easy Rider
+93
+Art Linkletter
+We Love You, Call Collect
+94
+Johnny Nash
+Cupid
+95
+Johnny Rivers
+One Woman
+96
+Rick Nelson
+She Belongs To Me
+97
+Santana
+Jingo
+98
+Eddie Floyd
+Why Is The Wine Sweeter (On The Other Side)
+99
+Ferrante & Teicher
+Midnight Cowboy
+100
+Lou Rawls
+I Can't Make It Alone

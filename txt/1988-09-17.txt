@@ -1,0 +1,300 @@
+1
+Guns N' Roses
+Sweet Child O' Mine
+2
+Robert Palmer
+Simply Irresistible
+3
+Huey Lewis & The News
+Perfect World
+4
+Bobby McFerrin
+Don't Worry, Be Happy (From "Cocktail")
+5
+Taylor Dayne
+I'll Always Love You
+6
+Van Halen
+When It's Love
+7
+New Edition
+If It Isn't Love
+8
+Kenny Loggins
+Nobody's Fool (Theme From "Caddyshack II")
+9
+Def Leppard
+Love Bites
+10
+Rick Astley
+It Would Take A Strong Strong Man
+11
+Peter Cetera
+One Good Woman
+12
+Michael Jackson
+Another Part Of Me
+13
+George Michael
+Monkey
+14
+Joan Jett & the Blackhearts
+I Hate Myself For Loving You
+15
+Cheap Trick
+Don't Be Cruel
+16
+Tracy Chapman
+Fast Car
+17
+D.J. Jazzy Jeff & The Fresh Prince
+A Nightmare On My Street
+18
+New Kids On The Block
+Please Don't Go Girl
+19
+UB40
+Red Red Wine
+20
+Bobby Brown
+Don't Be Cruel
+21
+Poison
+Fallen Angel
+22
+Information Society
+What's On Your Mind (Pure Energy)
+23
+Chicago
+I Don't Wanna Live Without Your Love
+24
+Elton John
+I Don't Wanna Go On With You Like That
+25
+REO Speedwagon
+Here With Me
+26
+Debbie Gibson
+Staying Together
+27
+Steve Winwood
+Don't You Know What The Night Can Do?
+28
+Glenn Frey
+True Love
+29
+Brenda K. Starr
+What You See Is What You Get
+30
+Rod Stewart
+Forever Young
+31
+Phil Collins
+Groovy Kind Of Love
+32
+Erasure
+Chains Of Love
+33
+INXS
+Never Tear Us Apart
+34
+Pat Benatar
+All Fired Up
+35
+Breathe
+Hands To Heaven
+36
+The Escape Club
+Wild, Wild West
+37
+Gloria Estefan & Miami Sound Machine
+1-2-3
+38
+Whitney Houston
+Love Will Save The Day
+39
+Steve Winwood
+Roll With It
+40
+Kylie Minogue
+The Loco-Motion
+41
+Eric Carmen
+Make Me Lose Control
+42
+Whitney Houston
+One Moment In Time
+43
+Terence Trent D'Arby
+Sign Your Name
+44
+Basia
+Time And Tide
+45
+Richard Marx
+Hold On To The Nights
+46
+Europe
+Superstitious
+47
+Johnny Hates Jazz
+I Don't Want To Be A Hero
+48
+Stevie B
+Spring Love (Come Back To Me)
+49
+Four Tops
+Indestructible
+50
+Al B. Sure!
+Off On Your Own (Girl)
+51
+Bruce Hornsby & The Range
+Look Out Any Window
+52
+Giant Steps
+Another Lover
+53
+Midnight Oil
+The Dead Heart
+54
+Blue Zone U.K.
+Jackie
+55
+Rob Base & D.J. E-Z Rock
+It Takes Two
+56
+Cinderella
+Don't Know What You Got (Till It's Gone)
+57
+Dino
+Summergirls
+58
+The Beach Boys
+Kokomo (From"Cocktail" )
+59
+Breathe
+How Can I Fall?
+60
+Denise Lopez
+Sayin' Sorry (Don't Make It Right)
+61
+Freddie Jackson
+Nice 'N' Slow
+62
+Def Leppard
+Pour Some Sugar On Me
+63
+Olivia Newton-John
+The Rumour
+64
+Terence Trent D'Arby
+Dance Little Sister
+65
+Jeffrey Osborne
+She's On The Left
+66
+Johnny Kemp
+Just Got Paid
+67
+The Cover Girls
+Inside Outside
+68
+Aerosmith
+Rag Doll
+69
+The Fabulous Thunderbirds
+Powerful Stuff (From "Cocktail")
+70
+Jane Wiedlin
+Inside A Dream
+71
+When In Rome
+The Promise
+72
+Keith Sweat (Duet With Jacci McGhee)
+Make It Last Forever
+73
+Cheap Trick
+The Flame
+74
+Glenn Medeiros
+Long And Lasting Love (Once In A Lifetime)
+75
+Boy Meets Girl
+Waiting For A Star To Fall
+76
+D.J. Jazzy Jeff & The Fresh Prince
+Parents Just Don't Understand
+77
+Toni Childs
+Don't Walk Away
+78
+Will To Power
+Baby, I Love Your Way/Freebird Medley
+79
+Holly Knight
+Heart Don't Fail Me Now
+80
+Vanessa Williams
+The Right Stuff
+81
+Depeche Mode
+Strangelove
+82
+Daryl Hall John Oates
+Missed Opportunity
+83
+10,000 Maniacs
+What's The Matter Here?
+84
+Kim Wilde
+You Came
+85
+Henry Lee Summer
+Hands On The Radio
+86
+Elton John
+A Word In Spanish
+87
+The Contours
+Do You Love Me
+88
+Will To Power
+Say It's Gonna Rain
+89
+Robert Plant
+Ship Of Fools
+90
+Book Of Love
+Pretty Boys And Pretty Girls
+91
+Brenda K. Starr
+I Still Believe
+92
+Sweet Sensation
+Never Let You Go
+93
+Fat Boys
+The Twist
+94
+J.J. Fad
+Supersonic
+95
+The Moody Blues
+I Know You're Out There Somewhere
+96
+Vixen
+Edge Of A Broken Heart
+97
+Paul Carrack
+Button Off My Shirt
+98
+J.J. Fad
+Way Out
+99
+Foreigner
+Heart Turns To Stone
+100
+Crowded House
+Better Be Home Soon

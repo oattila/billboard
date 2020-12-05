@@ -1,0 +1,300 @@
+1
+Carpenters
+Top Of The World
+2
+Ringo Starr
+Photograph
+3
+Elton John
+Goodbye Yellow Brick Road
+4
+Billy Preston
+Space Race
+5
+Eddie Kendricks
+Keep On Truckin' (Part 1)
+6
+Chicago
+Just You 'n' Me
+7
+Gladys Knight And The Pips
+Midnight Train To Georgia
+8
+Harold Melvin And The Blue Notes
+The Love I Lost (Part 1)
+9
+The DeFranco Family featuring Tony DeFranco
+Heartbeat - It's A Lovebeat
+10
+Charlie Rich
+The Most Beautiful Girl
+11
+Todd Rundgren
+Hello It's Me
+12
+Marie Osmond
+Paper Roses
+13
+Helen Reddy
+Leave Me Alone (ruby Red Dress)
+14
+The Staple Singers
+If You're Ready (Come Go With Me)
+15
+Johnnie Taylor
+Cheaper To Keep Her
+16
+Jim Croce
+I Got A Name
+17
+Three Dog Night
+Let Me Serenade You
+18
+Jim Croce
+Time In A Bottle
+19
+The Rolling Stones
+Angie
+20
+Barry White
+Never, Never Gonna Give Ya Up
+21
+Diana Ross & Marvin Gaye
+You're A Special Part Of Me
+22
+The Steve Miller Band
+The Joker
+23
+Garfunkel
+All I Know
+24
+The Stylistics
+Rockin' Roll Baby
+25
+Marvin Gaye
+Come Get To This
+26
+Loggins & Messina
+My Music
+27
+Bob Dylan
+Knockin' On Heaven's Door
+28
+Gilbert O'Sullivan
+Ooh Baby
+29
+Stevie Wonder
+Living For The City
+30
+John Lennon
+MIND GAMES
+31
+Kris Kristofferson
+Why Me
+32
+Tony Orlando & Dawn
+Who's In The Strawberry Patch With Sally
+33
+Al Wilson
+Show And Tell
+34
+Neil Diamond
+Be
+35
+Cher
+Half-Breed
+36
+Led Zeppelin
+D'yer Mak'er
+37
+Seals & Crofts
+We May Never Pass This Way (Again)
+38
+Ike & Tina Turner
+Nutbush City Limits
+39
+The Allman Brothers Band
+Ramblin Man
+40
+Four Tops
+Sweet Understanding Love
+41
+Brownsville Station
+Smokin' In The Boy's Room
+42
+Paul McCartney And Wings
+Helen Wheels
+43
+Carole King
+Corazón
+44
+War
+Me And Baby Brother
+45
+The Dramatics
+Fell For You
+46
+The Pointer Sisters
+Yes We Can Can
+47
+Bloodstone
+Never Let You Go
+48
+Tavares
+Check It Out
+49
+The Persuaders
+Some Guys Have All The Luck
+50
+Gladys Knight And The Pips
+I've Got To Use My Imagination
+51
+Stories
+Mammy Blue
+52
+Bette Midler
+Friends/chapel Of Love
+53
+Ian Thomas
+Painted Ladies
+54
+David Gates
+Sail Around The World
+55
+Ann Peebles
+I Can't Stand The Rain
+56
+The Ovations (Featuring Louis Williams)
+"Having A Party" Medley
+57
+The Chi-lites
+I Found Sunshine
+58
+Dottie West
+Country Sunshine
+59
+Aerosmith
+Dream On
+60
+Olivia Newton-John
+Let Me Be There
+61
+El Chicano
+Tell Her She's Lovely
+62
+Lighthouse
+Pretty Lady
+63
+Steely Dan
+My Old School
+64
+Bobby "Blue" Bland
+This Time I'm Gone For Good
+65
+The Independents
+It's All Over
+66
+Donna Fargo
+Little Girl Gone
+67
+Ripple
+I Don't Know What It Is, But It Sure Is Funky
+68
+Lobo
+There Ain't No Way
+69
+Aretha Franklin
+Until You Come Back To Me (That's What I'm Gonna Do)
+70
+Rod Stewart
+Oh! No Not My Baby
+71
+Jim Stafford
+Spiders & Snakes
+72
+Donny Osmond
+When I Fall In Love/Are You Lonesome Tonight
+73
+Kevin Johnson
+Rock 'N Roll (I Gave You The Best Years of My Life)
+74
+Earth, Wind & Fire
+Keep Your Head To The Sky
+75
+Grand Funk
+Walk Like A Man
+76
+The Intruders
+I Wanna Know Your Name
+77
+Cheech & Chong
+Sister Mary Elephant (Shudd-Up!)
+78
+Joe Simon
+River
+79
+Sly & The Family Stone
+Frisky
+80
+First Choice
+Smarty Pants
+81
+Frank Sinatra
+Let Me Try Again (Laisse Moi Le Temps)
+82
+Paul Simon
+American Tune
+83
+Kris Kristofferson & Rita Coolidge
+A Song I'd Like To Sing
+84
+David Essex
+Rock On
+85
+Smokey Robinson
+Baby Come Close
+86
+Bachman-Turner Overdrive
+Blue Collar
+87
+Barbra Streisand
+The Way We Were
+88
+B.W. Stevenson
+The River Of Love
+89
+Love Unlimited Orchestra
+Love's Theme
+90
+Electric Light Orchestra
+Showdown
+91
+Ray Charles
+Come Live With Me
+92
+Merle Haggard
+If We Make It Through December
+93
+The Band
+Ain't Got No Home
+94
+Jackson Browne
+Redneck Friend
+95
+Wednesday
+Last Kiss
+96
+James Brown
+Stoned To The Bone - Part 1
+97
+The Who
+Love, Reign O'er Me
+98
+Syl Johnson
+Back For A Taste Of Your Love
+99
+Linda Ronstadt
+Love Has No Pride
+100
+Albert Hammond
+Half A Million Miles From Home

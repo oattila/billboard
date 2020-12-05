@@ -1,0 +1,144 @@
+Tell Him I&#039;m Not Home
+
+- listaviikkoja 22.11.2020: 3252 kpl
+- biisejä yhteensä 5.12.2020: 29083
+
+https://www.billboard.com/charts/hot-100/1958-08-04
+https://www.billboard.com/charts/hot-100/2020-11-21
+
+- < 1962 päivämäärä on listaviikon ma
+- >= 1962 päivämäärä on listaviikon la
+
+virheet
+	+ väärä päviämäärä
+		- la 26.6.1976 ok
+		- su 4.7.1976 (virhe billboardissa: pitäis olla la 3.7)
+		- la 10.3.1976 ok
+
+	+ 1958-08-04 on kaks 50 muttei 51
+		- 51 pitäis olla Jimmy Bowen with the Rhythm Orchids: By The Light Of The Silvery Moon
+
+	+ 1958-08-04 on kaks 63 muttei 64
+		- 64 pitäis olla Toni Arden: Padre
+
+	+ 1958-08-04 on kaks 74 muttei 75
+		- 75 pitäis olla Sam Cooke: Win You Love For Me		
+
+	+ 1958-08-11 kaks 9, 10 puutuu
+		- 10 pitäis olla Jimmy Clanton And His Rockets: Just A Dream
+
+	+ 1958-08-11 kaks 81, 82 puutuu
+		- 82 pitäis olla Nat King Cole: Looking Back
+
+	+ 1958-08-18 on kaks 5:ttä muttei kutosta:
+		- 6 pitäis olla Jimmy Clanton And His Rockets: Just A Dream
+
+	+ 1958-08-18 on kaks 71:ttä muttei 72
+		- 72 pitäis olla THE FOUR PREPS: Lazy Summer Night
+
+	+ 1958-08-18 on kaks 81:ttä muttei 82
+		- 82 pitäis olla JAN AND ARNIE
+
+
+	+ 1958-08-25 on kaks numero kasia, muttei ysiä:
+		- 9 pitäis olla Poni-tails: Born Too Late
+
+	+ 1960-03-14 2kpl 26, 29 puutuu
+		- 29 pitäis olla Connie Francis: Mama
+
+	+ 1961-01-30: on kaks 34:ää muttei 35:ttä
+		- 35 pitäis olla Buzz Clifford: Baby Sittin' Boogie
+
+	+ 1961-04-03 kaks 19, 29 puutuu
+		- 29 pitäis olla Brenda Lee: You Can Depend On Me
+
+	+ 1961-04-10 19 puuttuu, 2 kpl 29
+		- 19 pitäis olla Brenda Lee: You Can Depend On Me
+
+	+ 1961-08-21 on kaks 59iä ja puuttuu 69
+		- 69 pitäis olla Bob Moore and His Orch.: Mexico
+
+	+ 1961-08-28 59 puutuu, kaks 69
+		- 59 pitäis olla Bob Moore and His Orch.: Mexico	
+
+	+ 1961-12-25 on kaks 70 mutte 71
+		- 71 pitäis olla Linda Scott: It's All Because
+
+	+ 1966-04-09 2kpl 48, 49 puutuu
+		- 49 pitäis olla Lou Christie: Outside The Gates Of Heaven
+
+	+ 1971-06-19 21 puuttuu, kaks 30
+		- 21 pitäis olla Jackson 5: Never Can Say Goodbye
+
+	+ 1976-05-29 2 kpl 43, 45 puutuu
+		- 45 pitäis olla The Blackbyrds: Happy Music
+
+	+ 1976-07-10 puutuu 39, kaks 59
+		- 39 pitäis olla Tavares: Heaven Must Be Missing An Angel
+
+	+ 1976-12-04 puuttuu sija 35
+		- 35 pitäis olla Queen: Somebody To Love
+
+	+ 1976-12-11 puuttuu 26
+		- 26 pitäis olla Queen: Somebody To Love
+
+	+ 1976-12-18 puutuu sija 22
+		- 22 pitäis olla Queen: Somebody To Love
+
+	+ 1976-12-25 puuttuu sija 19
+		- 19 pitäis olla Queen: Somebody To Love
+
+	+ 1977-01-01 puutuu 19
+		- 19 pitäis olla Queen: Somebody To Love
+
+	+ 1977-01-08 17 puuttuu
+		- 17 pitäis olla Queen: Somebody To Love
+
+	+ 1977-01-15 puutuu sija 15
+		- 15 pitäis olla Queen: Somebody To Love
+
+	+ 1977-01-22 13 puutuu
+		- 13 pitäis olla Queen: Somebody To Love
+
+
+	+ 1977-01-22 kaks 18, 19 puutuu
+		- 19 pitäis olla DAVID DUNDAS: Jeans On
+
+	+ 1977-01-29 puutuu 13
+		- 13 pitäis olla Queen: Somebody To Love
+
+	+ 1977-02-12 31 puutuu
+		- 31 pitäis olla Queen: Somebody To Love
+
+	+ 1977-02-19 puuttuu sija 32
+		- pitäis olla Queen: Somebody To Love 
+
+	+ 1977-02-26 49 puuttuu 49
+		- 49 pitäis olla Queen: Somebody To Love
+
+	+ 1977-03-05 puutuu 59
+		- 59 pitäis olla Queen: Somebody To Love
+
+	+ 1977-08-13 kaks 66, ei 68
+		- 68 pitäis olla Lou Rawls: See You When I Git There pitäis olla
+
+	+ 1977-08-20 puuttuu sija 66 ja sijoja 68 on 2 kappaletta
+		- 68 Lou Rawls: See You When I Git There pitäis olla 66
+
+	+ 1978-02-04 kaks 58 ja ei 59
+		- Kenny Rogers: Sweet Music Man pitäis olla 59
+
+	+ 1978-05-27 on kaks 18
+		- 19 pitäis olla Gerry Rafferty: Baker Street
+
+	+ 1978-11-11: 43 puutuu, 2 * 53
+		- 43 pitäis olla Chaka Khan: I'm Every Woman
+
+	+ 1978-12-09 puuttuu sija 13 ja 15 on 2 kappaletta
+		- 13 pitäis olla Village People: Y.M.C.A.
+
+	+ 1984-02-18 kaks 67 ja 87 puuttuu
+		- Motels: Remember The Nights pitäis olla 87
+
+	+ 1989-03-11 kaks 98, 99 puutuu
+		- 99 pitäis olla The Escape Club: Shake For The Sheik

@@ -1,0 +1,300 @@
+1
+Brenda Lee
+I'm Sorry
+2
+Hollywood Argyles
+Alley-Oop
+3
+Connie Francis
+Everybody's Somebody's Fool
+4
+Roy Orbison
+Only The Lonely (Know How I Feel)
+5
+Duane Eddy And The Rebels
+Because They're Young
+6
+Brenda Lee
+That's All You Gotta Do
+7
+The Fendermen
+Mule Skinner Blues
+8
+The Everly Brothers
+When Will I Be Loved
+9
+Ray Peterson
+Tell Laura I Love Her
+10
+Brian Hyland
+Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+11
+Dinah Washington & Brook Benton
+A Rockin' Good Way (To Mess Around And Fall In Love)
+12
+Paul Anka
+My Home Town
+13
+Fats Domino
+Walking To New Orleans
+14
+Safaris with The Phantom's Band
+Image Of A Girl
+15
+Hank Locklin
+Please Help Me, I'm Falling
+16
+The Everly Brothers
+Cathy's Clown
+17
+Sam Cooke
+Wonderful World
+18
+Bill Black's Combo
+Josephine
+19
+Jack Scott
+Burning Bridges
+20
+Dante and the Evergreens
+Alley-Oop
+21
+Ron Holden with The Thunderbirds
+Love You So
+22
+Garry Miles
+Look For A Star
+23
+Anita Bryant
+Paper Roses
+24
+The Skyliners
+Pennies From Heaven
+25
+Donnie Brooks
+Mission Bell
+26
+The Crests
+Trouble In Paradise
+27
+Connie Francis
+Jealous Of You (Tango Della Gelosia)
+28
+Hank Ballard And The Midnighters
+Finger Poppin' Time
+29
+Paul Evans
+Happy-Go-Lucky-Me
+30
+Deane Hawley
+Look For A Star
+31
+Bobby Marchan
+There's Something On Your Mind (Part 2)
+32
+Bobby Darin
+Won't You Come Home Bill Bailey
+33
+The Fleetwoods
+Runaround
+34
+Don Costa And His Orchestra And Chorus
+Theme From "The Unforgiven" (The Need For Love)
+35
+Conway Twitty
+Is A Blue Bird Blue
+36
+Lloyd Price and His Orchestra
+Question
+37
+Dinah Washington
+This Bitter Earth
+38
+Fats Domino
+Don't Come Knockin'
+39
+Billy Vaughn And His Orchestra
+Look For A Star
+40
+Garry Mills
+Look For A Star - Part I
+41
+Johnny Preston
+Feel So Fine
+42
+Jim Reeves
+I'm Gettin' Better
+43
+Ray Charles and his Orchestra
+Sticks And Stones
+44
+Elvis Presley With The Jordanaires
+It's Now Or Never
+45
+Tommy Edwards
+I Really Don't Want To Know
+46
+Bobby Rydell
+Swingin' School
+47
+Paul Anka
+Something Happened
+48
+Patti Page
+One Of Us (Will Weep Tonight)
+49
+The Beau-Marks
+Clap Your Hands
+50
+Dorsey Burnette
+Hey Little One
+51
+Frankie Avalon
+Where Are You
+52
+Ella Fitzgerald
+Mack The Knife
+53
+Jimmy Jones
+Good Timin'
+54
+Annette With The Afterbeats
+Train Of Love
+55
+Etta James
+All I Could Do Was Cry
+56
+Ricky Nelson
+Young Emotions
+57
+Charlie Rich
+Lonely Weekends
+58
+Bobby Rydell
+Ding-A-Ling
+59
+The Coasters
+Wake Me, Shake Me
+60
+Bobby Rydell
+Volare
+61
+Anita Bryant
+In My Little Corner Of The World
+62
+Jackie Wilson
+(You Were Made For) All My Love
+63
+Jimmy Clanton
+Another Sleepless Night
+64
+Adam Wade
+I Can't Help It
+65
+The Kingston Trio
+Bad Man Blunder
+66
+Marty Robbins
+Is There Any Chance
+67
+Marv Johnson
+All The Love I've Got
+68
+Red River Dave
+There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)
+69
+Johnny Horton
+Johnny Freedom
+70
+Jon Thomas and Orchestra
+Heartbreak (It's Hurtin' Me)
+71
+Andy Williams
+Do You Mind?
+72
+The Brothers Four
+My Tani
+73
+The Bobbettes
+I Shot Mr. Lee
+74
+The Everly Brothers
+Be Bop A-Lula
+75
+Little Willie John
+Heartbreak (It's Hurtin' Me)
+76
+Johnny And The Hurricanes
+Down Yonder
+77
+Jan And Kjeld
+Banjo Boy
+78
+The Demensions
+Over The Rainbow
+79
+Joanie Sommers
+One Boy
+80
+Jackie Wilson
+Doggin' Around
+81
+Connie Stevens
+Too Young To Go Steady
+82
+Rusty Draper
+Please Help Me, I'm Falling
+83
+Charlie Ryan and the Timberline Riders
+Hot Rod Lincoln
+84
+Bobby Darin
+I'll Be There
+85
+Johnny Cash
+Second Honeymoon
+86
+Johnny Cash And The Tennessee Two
+Down The Street To 301
+87
+Hank Ballard And The Midnighters
+The Twist
+88
+The Ventures
+Walk -- Don't Run
+89
+Jackie Wilson
+A Woman, A Lover, A Friend
+90
+Clyde McPhatter
+Ta Ta
+91
+Jimmy Jones
+That's When I Cried
+92
+Anthony Newley
+Do You Mind?
+93
+Elvis Presley With The Jordanaires
+Stuck On You
+94
+Shirley and Lee
+I've Been Loved Before
+95
+Dion & The Belmonts
+In The Still Of The Night
+96
+The Drifters
+Lonely Winds
+97
+The Olympics
+Big Boy Pete
+98
+The Flamingos
+Mio Amore
+99
+Pat Boone
+Spring Rain
+100
+The Viscounts
+Night Train

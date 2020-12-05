@@ -1,0 +1,300 @@
+1
+Barbra Streisand
+The Way We Were
+2
+Ringo Starr
+You're Sixteen
+3
+Love Unlimited Orchestra
+Love's Theme
+4
+Al Wilson
+Show And Tell
+5
+Byron MacGregor
+Americans
+6
+Gladys Knight And The Pips
+I've Got To Use My Imagination
+7
+Olivia Newton-John
+Let Me Be There
+8
+Aretha Franklin
+Until You Come Back To Me (That's What I'm Gonna Do)
+9
+The Steve Miller Band
+The Joker
+10
+Jim Stafford
+Spiders & Snakes
+11
+Brownsville Station
+Smokin' In The Boy's Room
+12
+Jim Croce
+Time In A Bottle
+13
+Stevie Wonder
+Living For The City
+14
+Kool & The Gang
+Jungle Boogie
+15
+Barry White
+Never, Never Gonna Give Ya Up
+16
+War
+Me And Baby Brother
+17
+David Essex
+Rock On
+18
+The O'Jays
+Put Your Hands Together
+19
+Eddie Kendricks
+Boogie Down
+20
+Paul McCartney And Wings
+Helen Wheels
+21
+Charlie Rich
+The Most Beautiful Girl
+22
+The Rolling Stones
+Doo Doo Doo Doo Doo (heartbreaker)
+23
+Tom T. Hall
+I Love
+24
+Al Green
+Livin' For You
+25
+Gregg Allman
+Midnight Rider
+26
+Gordon Sinclair
+The Americans (A Canadian's Opinion)
+27
+Diana Ross
+Last Time I Saw Him
+28
+Black Oak Arkansas
+Jim Dandy
+29
+Anne Murray
+Love Song
+30
+Isaac Hayes
+"Joy" Pt. I
+31
+The Temptations
+Let Your Hair Down
+32
+Helen Reddy
+Leave Me Alone (ruby Red Dress)
+33
+Smokey Robinson
+Baby Come Close
+34
+Donny Osmond
+When I Fall In Love/Are You Lonesome Tonight
+35
+Elton John
+Goodbye Yellow Brick Road
+36
+Moments
+Sexy Mama
+37
+The De Franco Family
+Abra-Ca-Dabra
+38
+Grand Funk
+Walk Like A Man
+39
+Carpenters
+Top Of The World
+40
+Cher
+Dark Lady
+41
+Cheech & Chong
+Sister Mary Elephant (Shudd-Up!)
+42
+B.B. King
+I Like To Live The Love
+43
+Natural Four
+Can This Be Real
+44
+Bobby Bare
+Daddy What If
+45
+Garfunkel
+I Shall Sing
+46
+The Stylistics
+Rockin' Roll Baby
+47
+Wednesday
+Last Kiss
+48
+Alice Cooper
+Teenage Lament '74
+49
+Terry Jacks
+Seasons In The Sun
+50
+Cliff DeYoung
+My Sweet Lady
+51
+Redbone
+Come And Get Your Love
+52
+Todd Rundgren
+Hello It's Me
+53
+Electric Light Orchestra
+Showdown
+54
+Lamont Dozier
+Trying To Hold On To My Woman
+55
+Mocedades
+Eres Tu (Touch The Wind)
+56
+Billy Preston
+You're So Unique
+57
+The Staple Singers
+If You're Ready (Come Go With Me)
+58
+Merle Haggard
+If We Make It Through December
+59
+Bobby "Blue" Bland
+This Time I'm Gone For Good
+60
+John Lennon
+MIND GAMES
+61
+The Pointer Sisters
+Wang Dang Doodle
+62
+The Dells
+I Miss You
+63
+Linda Ronstadt
+Love Has No Pride
+64
+Chicago
+Just You 'n' Me
+65
+Joni Mitchell
+Raised On Robbery
+66
+Marvin Gaye
+You Sure Love To Ball
+67
+Charlie Rich
+There Won't Be Anymore
+68
+The Isley Brothers
+What It Comes Down To
+69
+The Spinners
+Mighty Love - Pt. 1
+70
+Stealers Wheel
+Star
+71
+James Brown
+Stoned To The Bone - Part 1
+72
+Bette Midler
+In The Mood
+73
+Johnny Mathis
+Life Is A Song Worth Singing
+74
+Harry Chapin
+WOLD
+75
+The Allman Brothers Band
+Jessica
+76
+Coven
+One Tin Soldier, The Legend of Billy Jack
+77
+John Denver
+Sunshine On My Shoulders
+78
+Led Zeppelin
+D'yer Mak'er
+79
+Rick Derringer
+Rock And Roll, Hoochie Koo
+80
+Carly Simon & James Taylor
+Mockingbird
+81
+Paul Simon
+American Tune
+82
+Johnnie Taylor
+We're Getting Careless With Our Love
+83
+Paul Anka
+Let Me Get To Know You
+84
+The 5th Dimension
+Flashback
+85
+Dolly Parton
+Jolene
+86
+Bobby Womack
+Lookin' For A Love
+87
+Billy Paul
+Thanks For Saving My Life
+88
+Ashford & Simpson
+(I'd Know You) Anywhere
+89
+Dickie Goodman
+Energy Crisis '74
+90
+NRBQ
+Get That Gasoline Blues
+91
+Four Tops
+I Just Can't Get You Out Of My Mind
+92
+Blue Magic
+Stop To Start
+93
+Tyrone Davis
+I Wish It Was Me
+94
+Tavares
+That's The Sound That Lonely Makes
+95
+Joe Walsh
+Meadows
+96
+The Main Ingredient
+Just Don't Want To Be Lonely
+97
+The Who
+The Real Me
+98
+New York City
+Quick, Fast, In A Hurry
+99
+Cooker
+Try (Try To Fall In Love)
+100
+The James Gang
+Must Be Love

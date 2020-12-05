@@ -1,0 +1,300 @@
+1
+Duran Duran
+A View To A Kill
+2
+Prince And The Revolution
+Raspberry Beret
+3
+Paul Young
+Everytime You Go Away
+4
+Whitney Houston
+You Give Good Love
+5
+Phil Collins
+Sussudio
+6
+Survivor
+The Search Is Over
+7
+Sting
+If You Love Somebody Set Them Free
+8
+Bruce Springsteen
+Glory Days
+9
+Tears For Fears
+Shout
+10
+Eurythmics
+Would I Lie To You?
+11
+'Til Tuesday
+Voices Carry
+12
+Night Ranger
+Sentimental Street
+13
+Corey Hart
+Never Surrender
+14
+The Power Station
+Get It On (Bang A Gong)
+15
+Paul Hardcastle
+19
+16
+Cyndi Lauper
+The Goonies 'R' Good Enough
+17
+Debarge
+Who's Holding Donna Now
+18
+Depeche Mode
+People Are People
+19
+Air Supply
+Just As I Am
+20
+Bryan Adams
+Heaven
+21
+Huey Lewis & The News
+The Power Of Love
+22
+Dead Or Alive
+You Spin Me Round (Like A Record)
+23
+Kim Carnes
+Crazy In The Night (Barking At Airplanes)
+24
+Aretha Franklin
+Freeway Of Love
+25
+Heart
+What About Love?
+26
+Madonna
+Angel
+27
+Freddie Jackson
+Rock Me Tonight
+28
+Bryan Adams
+Summer Of '69
+29
+John Cafferty & The Beaver Brown Band
+Tough All Over
+30
+John Parr
+St. Elmo's Fire (Man In Motion)
+31
+Amy Grant
+Find A Way
+32
+Tina Turner
+We Don't Need Another Hero (Thunderdome)
+33
+Supertramp
+Cannonball
+34
+The Beach Boys
+Getcha Back
+35
+Don Henley
+Not Enough Love In The World
+36
+Rick Springfield
+State Of the Heart
+37
+Daryl Hall John Oates
+Possession Obsession
+38
+Howard Jones
+Things Can Only Get Better
+39
+Billy Joel
+You're Only Human (Second Wind)
+40
+Kenny Loggins
+Forever
+41
+Animotion
+Let Him Go
+42
+Billy Ocean
+Mystery Lady
+43
+Tears For Fears
+Everybody Wants To Rule The World
+44
+Pat Benatar
+Invincible (Theme From The Legend Of Billie Jean)
+45
+The Pointer Sisters
+Dare Me
+46
+Phil Collins
+Don't Lose My Number
+47
+Kool & The Gang
+Cherish
+48
+Jeff Beck & Rod Stewart
+People Get Ready
+49
+Lisa Lisa And Clult Jam With Full Force
+I Wonder If I Take You Home
+50
+Howard Jones
+Life In One Day
+51
+Patti LaBelle
+Stir It Up
+52
+"Weird Al" Yankovic
+Like A Surgeon
+53
+Mary Jane Girls
+In My House
+54
+Go West
+Call Me
+55
+Sade
+Your Love Is King
+56
+Glenn Frey
+Smuggler's Blues
+57
+Katrina And The Waves
+Walking On Sunshine
+58
+REO Speedwagon
+Live Every Moment
+59
+Cock Robin
+When Your Heart Is Weak
+60
+Robert Plant
+Little By Little
+61
+Motley Crue
+Smokin' In The Boys Room
+62
+Ratt
+Lay It Down
+63
+George Thorogood & The Destroyers
+Willie & The Hand Jive
+64
+Gino Vannelli
+Black Cars
+65
+The Motels
+Shame
+66
+John Fogerty
+Centerfield
+67
+Wham!
+Everything She Wants
+68
+Billy Ocean
+Suddenly
+69
+Tom Petty And The Heartbreakers
+Make It Better (Forget About Me)
+70
+Carly Simon
+Tired Of Being Blonde
+71
+Mary Jane Girls
+Wild And Crazy Love
+72
+Kool & The Gang
+Fresh
+73
+Vitamin Z
+Burning Flame
+74
+Dire Straits
+Money For Nothing
+75
+Chaka Khan
+Through the Fire
+76
+Harold Faltermeyer
+Axel F
+77
+Loose Ends
+Hangin' On A String
+78
+Peabo Bryson
+Take No Prisoners (In The Game Of Love)
+79
+Stephanie Mills
+Bit By Bit (Theme From Fletch)
+80
+Hooters
+All You Zombies
+81
+Sister Sledge
+Frankie
+82
+Limahl
+The NeverEnding Story
+83
+Y&T
+Summertime Girls
+84
+Limahl
+Only For Love
+85
+Foreigner
+Reaction To Action
+86
+a-ha
+Take On Me
+87
+King
+Love And Pride
+88
+Jesse Johnson's Revue
+I Want My Girl
+89
+Alison Moyet
+Love Resurrection
+90
+Godley & Creme
+Cry
+91
+Madonna
+Crazy For You
+92
+Jean Knight
+My Toot Toot
+93
+Men At Work
+Everything I Need
+94
+Menudo
+Hold Me
+95
+Jermaine Jackson
+(Closest Thing To) Perfect
+96
+Commodores
+Animal Instinct
+97
+Graham Parker & The Shot
+Wake Up (Next To You)
+98
+Simple Minds
+Don't You (Forget About Me)
+99
+Klymaxx
+Meeting In The Ladies Room
+100
+USA For Africa
+We Are The World

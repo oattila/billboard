@@ -1,0 +1,300 @@
+1
+The Doors
+Light My Fire
+2
+Stevie Wonder
+I Was Made To Love Her
+3
+The Beatles
+All You Need Is Love
+4
+The Association
+Windy
+5
+Procol Harum
+A Whiter Shade Of Pale
+6
+Frankie Valli
+Can't Take My Eyes Off You
+7
+The Buckinghams
+Mercy, Mercy, Mercy
+8
+Jefferson Airplane
+White Rabbit
+9
+The Monkees
+Pleasant Valley Sunday
+10
+The Music Explosion
+Little Bit O' Soul
+11
+The Young Rascals
+A Girl Like You
+12
+Sandy Posey
+I Take It Back
+13
+The Tremeloes
+Silence Is Golden
+14
+Nancy Sinatra & Lee Hazlewood
+Jackson
+15
+The Happenings
+My Mammy
+16
+The Hollies
+Carrie-Anne
+17
+Scott McKenzie
+San Francisco (Be Sure To Wear Flowers In Your Hair)
+18
+Bar-Kays
+Soul Finger
+19
+The 5th Dimension
+Up -- Up And Away
+20
+Peaches & Herb
+For Your Love
+21
+Bettye Swann
+Make Me Yours
+22
+Aretha Franklin
+Baby I Love You
+23
+Smokey Robinson & The Miracles
+More Love
+24
+Neil Diamond
+Thank The Lord For The Night Time
+25
+Tommy James And The Shondells
+I Like The Way
+26
+Dean Martin
+In The Chapel In The Moonlight
+27
+Bee Gees
+To Love Somebody
+28
+Linda Jones
+Hypnotized
+29
+Every Mothers' Son
+Come On Down To My Boat
+30
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+31
+Engelbert Humperdinck
+There Goes My Everything
+32
+Herb Alpert & The Tijuana Brass
+The Happening
+33
+Marvin Gaye
+Your Unchanging Love
+34
+The Monkees
+Words
+35
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+C'mon Marianne
+36
+Janis Ian
+Society's Child (Baby I've Been Thinking)
+37
+The Parliaments
+(I Wanna) Testify
+38
+Ray Charles
+Here We Go Again
+39
+Tommy Boyce & Bobby Hart
+Out & About
+40
+The Critters
+Don't Let The Rain Fall Down On Me
+41
+The Beatles
+Baby You're A Rich Man
+42
+Petula Clark
+Don't Sleep In The Subway
+43
+James & Bobby Purify
+I Take What I Want
+44
+Nancy Sinatra
+You Only Live Twice
+45
+Lou Rawls
+Show Business
+46
+The Forum
+The River Is Wide
+47
+James Brown And The Famous Flames
+Cold Sweat - Part 1
+48
+Herman's Hermits
+Don't Go Out Into The Rain (You're Going To Melt)
+49
+Crispian St. Peters
+You Were On My Mind
+50
+Chris Bartley
+The Sweetest Thing This Side Of Heaven
+51
+The Who
+Pictures Of Lily
+52
+The Temptations
+You're My Everything
+53
+Simon & Garfunkel
+Fakin' It
+54
+Jr. Walker & The All Stars
+Shoot Your Shot
+55
+Bobby Vee And The Strangers
+Come Back When You Grow Up
+56
+Gladys Knight And The Pips
+Everybody Needs Love
+57
+The Platters
+Washed Ashore (On A Lonely Island In The Sea)
+58
+Buffalo Springfield
+Bluebird
+59
+Pieces Of Eight
+Lonely Drifter
+60
+Otis Redding
+Glory Of Love
+61
+The Beach Boys
+Heroes And Villains
+62
+Glen Campbell
+Gentle On My Mind
+63
+Mitch Ryder
+Joy
+64
+Dionne Warwick
+The Windows Of The World
+65
+Roy Orbison
+Cry Softly Lonely One
+66
+Van Morrison
+Brown Eyed Girl
+67
+Davie Allan And The Arrows
+Blue's Theme
+68
+Jay And The Techniques
+Apples, Peaches, Pumpkin Pie
+69
+The Tokens
+It's A Happening World
+70
+Jimmy Ruffin
+Don't You Miss Me A Little Bit Baby
+71
+Bobbie Gentry
+Ode To Billie Joe
+72
+The Seeds
+A Thousand Shadows
+73
+Eric Burdon & The Animals
+San Franciscan Nights
+74
+The Vanilla Fudge
+You Keep Me Hangin' On
+75
+The Turtles
+You Know What I Mean
+76
+Booker T. & The MG's
+Slim Jenkin's Place
+77
+Four Tops
+I'll Turn To Stone
+78
+Frank Sinatra
+The World We Knew (Over And Over)
+79
+The Sunshine Company
+Happy
+80
+The Yardbirds
+Ha Ha Said The Clown
+81
+Dyke And The Blazers
+Funky Broadway Part I
+82
+Ronnie Dove
+I Want To Love You For What You Are
+83
+Joe Tex
+A Woman's Hands
+84
+The Love Generation
+Groovy Summertime
+85
+Betty Harris
+Nearer To You
+86
+Booker T. & The MG's
+Groovin'
+87
+The Blades Of Grass
+Happy
+88
+Andy Williams
+More And More
+89
+David Houston & Tammy Wynette
+My Elusive Dreams
+90
+Andre Williams
+Pearl Time
+91
+The Wonder Who?
+Lonesome Road
+92
+Wilson Pickett
+Funky Broadway
+93
+Bobby Darin
+Darling Be Home Soon
+94
+Dusty Springfield
+The Look Of Love
+95
+Country Joe & The Fish
+Not So Sweet Martha Lorraine
+96
+Baja Marimba Band
+Along Comes Mary
+97
+Sonny James
+I'll Never Find Another You
+98
+The Third Rail
+Run, Run, Run
+99
+The Cryan' Shames
+It Could Be We're In Love
+100
+Claudine Longet
+Good Day Sunshine

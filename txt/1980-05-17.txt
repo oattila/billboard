@@ -1,0 +1,300 @@
+1
+Blondie
+Call Me
+2
+Christopher Cross
+Ride Like The Wind
+3
+Air Supply
+Lost In Love
+4
+Lipps, Inc.
+Funkytown
+5
+Billy Preston & Syreeta
+With You I'm Born Again
+6
+Dr. Hook
+Sexy Eyes
+7
+Billy Joel
+You May Be Right
+8
+Kenny Rogers With Kim Carnes
+Don't Fall In Love With A Dreamer
+9
+Pink Floyd
+Another Brick In The Wall (Part II)
+10
+Ambrosia
+Biggest Part Of Me
+11
+Linda Ronstadt
+Hurt So Bad
+12
+Gary Numan
+Cars
+13
+Andy Gibb & Olivia Newton-John
+I Can't Help It
+14
+Charlie Dore
+Pilot Of The Airwaves
+15
+Boz Scaggs
+Breakdown Dead Ahead
+16
+The Brothers Johnson
+Stomp!
+17
+Pretenders
+Brass In Pocket (I'm Special)
+18
+Bob Seger
+Against The Wind
+19
+Paul McCartney And Wings
+Coming Up (Live At Glasgow)
+20
+Bette Midler
+The Rose
+21
+Robbie Dupree
+Steal Away
+22
+Dan Fogelberg
+Heart Hotels
+23
+Paul Davis
+Do Right
+24
+Bob Seger
+Fire Lake
+25
+The Clash
+Train In Vain (Stand By Me)
+26
+Michael Jackson
+She's Out Of My Life
+27
+Elton John
+Little Jeannie
+28
+Eagles
+I Can't Tell You Why
+29
+Jermaine Jackson
+Let's Get Serious
+30
+James Last Band
+The Seduction (Love Theme)
+31
+Smokey Robinson
+Let Me Be The Clock
+32
+Bruce Cockburn
+Wondering Where The Lions Are
+33
+Neil Sedaka & Dara Sedaka
+Should've Never Let You Go
+34
+Bernadette Peters
+Gee Whiz
+35
+Firefall
+Headed For A Fall
+36
+Dolly Parton
+Starting Over Again
+37
+Jimmy Ruffin
+Hold On To My Love
+38
+Ray, Goodman & Brown
+Special Lady
+39
+Barry Manilow
+I Don't Want To Walk Without You
+40
+Pat Benatar
+We Live For Love
+41
+Photoglo
+We Were Meant To Be Lovers
+42
+Anne Murray
+Lucky Me
+43
+The Isley Brothers
+Don't Say Goodnight (It's Time For Love) (Parts 1 & 2)
+44
+The J. Geils Band
+Love Stinks
+45
+Jennifer Warnes
+When The Feeling Comes Around
+46
+The Whispers
+Lady
+47
+Spider
+New Romance (It's A Mystery)
+48
+The Manhattan Transfer
+Twilight Zone/Twilight Tone
+49
+Frank Sinatra
+Theme From New York, New York
+50
+Ray Parker Jr. & Raydio
+Two Places At The Same Time
+51
+The Spinners
+Working My Way Back To You/Forgive Me, Girl
+52
+The Manhattans
+Shining Star
+53
+Leon Haywood
+Don't Push It Don't Force It
+54
+Fleetwood Mac
+Think About Me
+55
+Journey
+Any Way You Want It
+56
+Bobby Caldwell
+Coming Down From Love
+57
+Humble Pie
+Fool For A Pretty Face (Hurt By Love)
+58
+The B-52s
+Rock Lobster
+59
+Rupert Holmes
+Answering Machine
+60
+Rocky Burnette
+Tired Of Toein' The Line
+61
+Tom Petty And The Heartbreakers
+Here Comes My Girl
+62
+Kool & The Gang
+Too Hot
+63
+The Temptations
+Power
+64
+Little River Band
+It's Not A Wonder
+65
+Pink Floyd
+Run Like Hell
+66
+Peaches & Herb
+I Pledge My Love
+67
+The Spinners
+Cupid/I've Loved You For A Long Time
+68
+Pure Prairie League
+Let Me Love You Tonight
+69
+Mac Davis
+It's Hard To Be Humble
+70
+Michael Jackson
+Off The Wall
+71
+Blondie
+Atomic
+72
+The Babys
+Midnight Rendezvous
+73
+Carole King
+One Fine Day
+74
+Joe Walsh
+All Night Long
+75
+Captain & Tennille
+Happy Together (A Fantasy)
+76
+Roberta Flack With Donny Hathaway
+Back Together Again
+77
+Alice Cooper
+Clones (We're All)
+78
+Rick Pinette & Oak
+King Of The Hill
+79
+The Invisible Man's Band
+All Night Thing
+80
+Ray, Goodman & Brown
+Inside Of You
+81
+Rodney Crowell
+Ashes By Now
+82
+Ray Kennedy
+Just For The Moment
+83
+Mary Macgregor
+Dancin' Like Lovers
+84
+Pat Travers Band
+Is This Love
+85
+Mickey Gilley
+Stand By Me
+86
+Eddie Rabbitt
+Gone Too Far
+87
+The Tourists
+I Only Want To Be With You
+88
+Glen Campbell & Rita Coolidge
+Somethin' 'Bout You Baby I Like
+89
+The Motors
+Love And Loneliness
+90
+Change
+A Lover's Holiday
+91
+The Whispers
+And The Beat Goes On
+92
+Ironhorse
+What's Your Hurry Darlin'
+93
+Queen
+Crazy Little Thing Called Love
+94
+Spyro Gyra
+Catching The Sun
+95
+The Cretones
+Real Love
+96
+Red Rider
+White Hot
+97
+Kenny Loggins
+Keep The Fire
+98
+Melissa Manchester
+Fire In The Morning
+99
+Linda Ronstadt
+How Do I Make You
+100
+Peter McIan
+Solitaire

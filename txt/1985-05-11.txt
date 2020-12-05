@@ -1,0 +1,300 @@
+1
+Madonna
+Crazy For You
+2
+USA For Africa
+We Are The World
+3
+Simple Minds
+Don't You (Forget About Me)
+4
+Debarge
+Rhythm Of The Night
+5
+Murray Head
+One Night In Bangkok
+6
+The Power Station
+Some Like It Hot
+7
+Sade
+Smooth Operator
+8
+Wham!
+Everything She Wants
+9
+Animotion
+Obsession
+10
+Tears For Fears
+Everybody Wants To Rule The World
+11
+Don Henley
+All She Wants to Do Is Dance
+12
+Harold Faltermeyer
+Axel F
+13
+Commodores
+Nightshift
+14
+Tom Petty And The Heartbreakers
+Don't Come Around Here No More
+15
+Foreigner
+That Was Yesterday
+16
+Billy Ocean
+Suddenly
+17
+Patti LaBelle
+New Attitude
+18
+Kool & The Gang
+Fresh
+19
+Howard Jones
+Things Can Only Get Better
+20
+Mary Jane Girls
+In My House
+21
+Daryl Hall John Oates
+Some Things Are Better Left Unsaid
+22
+David Lee Roth
+Just A Gigolo/I Ain't Got Nobody
+23
+Bruce Springsteen
+I'm On Fire
+24
+Katrina And The Waves
+Walking On Sunshine
+25
+Bryan Adams
+Heaven
+26
+REO Speedwagon
+One Lonely Night
+27
+John Fogerty
+Rock And Roll Girls
+28
+Rick Springfield
+Celebrate Youth
+29
+Phil Collins
+One More Night
+30
+Julian Lennon
+Say You're Wrong
+31
+Luther Vandross
+'Til My Baby Comes Home
+32
+Madonna
+Angel
+33
+Glenn Frey
+Smuggler's Blues
+34
+Chicago
+Along Comes A Woman
+35
+New Edition
+Lost In Love
+36
+Limahl
+The NeverEnding Story
+37
+Alison Moyet
+Invisible
+38
+Survivor
+The Search Is Over
+39
+Phil Collins
+Sussudio
+40
+Eurythmics
+Would I Lie To You?
+41
+Tina Turner
+Show Some Respect
+42
+Kenny Loggins
+Vox Humana
+43
+Boy Meets Girl
+Oh Girl
+44
+Diana Ross
+Missing You
+45
+'Til Tuesday
+Voices Carry
+46
+Philip Bailey
+Walking On The Chinese Wall
+47
+Mick Jagger
+Lucky In Love
+48
+Frankie Goes To Hollywood
+Welcome To The Pleasure Dome
+49
+Eric Clapton
+Forever Man
+50
+Madonna
+Material Girl
+51
+Shannon
+Do You Wanna Get Away
+52
+The Pointer Sisters
+Baby Come And Get It
+53
+John Cafferty & The Beaver Brown Band
+Tough All Over
+54
+Teena Marie
+Lover Girl
+55
+Go West
+We Close Our Eyes
+56
+REO Speedwagon
+Can't Fight This Feeling
+57
+Jules Shear
+Steady
+58
+Bryan Adams
+Somebody
+59
+The Time
+The Bird
+60
+Bon Jovi
+Only Lonely
+61
+Survivor
+High On You
+62
+Rick James
+Can't Stop
+63
+Jesse Johnson's Revue
+Be Your Man
+64
+Fiona
+Talk To Me
+65
+Kim Carnes
+Crazy In The Night (Barking At Airplanes)
+66
+Graham Parker & The Shot
+Wake Up (Next To You)
+67
+Whitney Houston
+You Give Good Love
+68
+Peter Wolf
+OO-EE-Diddley-Bop
+69
+Chaka Khan
+Through the Fire
+70
+Paul Young
+Everytime You Go Away
+71
+Natalie Cole
+Dangerous
+72
+The Alan Parsons Project
+Days Are Numbers (The Traveller)
+73
+Jean Knight
+My Toot Toot
+74
+Gino Vannelli
+Black Cars
+75
+Melissa Manchester
+Mathematics
+76
+Freddie Mercury
+I Was Born To Love You
+77
+The Firm
+Radioactive
+78
+Julian Lennon
+Too Late For Goodbyes
+79
+Glenn Frey
+The Heat Is On
+80
+Tina Turner
+Private Dancer
+81
+The Firm
+Satisfaction Guaranteed
+82
+Dokken
+Alone Again
+83
+Kurtis Blow
+Basketball
+84
+Maureen Steele
+Save The Night For Me
+85
+Menudo
+Hold Me
+86
+Lone Justice
+Ways To Be Wicked
+87
+Alex Brown
+(Come On) Shout
+88
+Slade
+Little Sheila
+89
+Klymaxx
+Meeting In The Ladies Room
+90
+Belouis Some
+Imagination
+91
+Billy Joel
+Keeping The Faith
+92
+Teena Marie
+Jammin'
+93
+The Cars
+Why Can't I Have You
+94
+Journey
+Only The Young
+95
+Wham! Featuring George Michael
+Careless Whisper
+96
+Al Corley
+Square Rooms
+97
+Paul Hardcastle
+Rain Forest
+98
+Mick Jagger
+Just Another Night
+99
+Jermaine Stewart
+The Word Is Out
+100
+Giuffria
+Lonely In Love

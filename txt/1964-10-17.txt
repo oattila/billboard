@@ -1,0 +1,300 @@
+1
+Manfred Mann
+Do Wah Diddy Diddy
+2
+Martha & The Vandellas
+Dancing In The Street
+3
+Roy Orbison And The Candy Men
+Oh, Pretty Woman
+4
+Gale Garnett
+We'll Sing In The Sunshine
+5
+J. Frank Wilson and The Cavaliers
+Last Kiss
+6
+The Shangri-Las
+Remember (Walkin' in the Sand)
+7
+Chad & Jeremy
+A Summer Song
+8
+Gene Pitney
+It Hurts To Be In Love
+9
+The Beach Boys
+When I Grow Up (To Be A Man)
+10
+Betty Everett & Jerry Butler
+Let It Be Me
+11
+The Newbeats
+Bread And Butter
+12
+The Supremes
+Baby Love
+13
+The Hondells
+Little Honda
+14
+Roger Miller
+Chug-A-Lug
+15
+The Impressions
+You Must Believe Me
+16
+Four Tops
+Baby I Need Your Loving
+17
+The Beatles
+Matchbox
+18
+Joe Hinton
+Funny (How Time Slips Away)
+19
+Ronny And The Daytonas
+G.T.O.
+20
+The Honeycombs
+Have I The Right?
+21
+Little Anthony And The Imperials
+I'm On The Outside (Looking In)
+22
+Jay & The Americans
+Come A Little Bit Closer
+23
+Jan & Dean
+Ride The Wild Surf
+24
+Dean Martin
+The Door Is Still Open To My Heart
+25
+The Nashville Teens
+Tobacco Road
+26
+The Temptations
+Girl (Why You Wanna Make Me Blue)
+27
+Billy J. Kramer With The Dakotas
+From A Window
+28
+Andy Williams
+On The Street Where You Live
+29
+The Animals
+I'm Crying
+30
+Frank Sinatra
+Softly, As I Leave You
+31
+Gerry And The Pacemakers
+I Like It
+32
+Marvin Gaye
+Baby Don't You Do It
+33
+Willie Mitchell
+20-75
+34
+Jumpin' Gene Simmons
+Haunted House
+35
+Major Lance
+Rhythm
+36
+Don Covay & The Goodtimers
+Mercy, Mercy
+37
+The Drifters
+I've Got Sand In My Shoes
+38
+The Animals
+House Of The Rising Sun
+39
+The Beatles
+Slow Down
+40
+The Dave Clark Five
+Everybody Knows (I Still Love You)
+41
+Nat King Cole
+I Don't Want To See Tomorrow
+42
+Sam Cooke
+Cousin Of Mine
+43
+Del Shannon
+Do You Want To Dance
+44
+Dusty Springfield
+All Cried Out
+45
+Barbra Streisand
+Funny Girl
+46
+The Miracles
+That's What Love Is Made Of
+47
+Elvis Presley
+Ain't That Loving You Baby
+48
+Peter And Gordon
+I Don't Want To See You Again
+49
+Tony Bennett
+Who Can I Turn To (When Nobody Needs Me)
+50
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Save It For Me
+51
+The Butterflys
+Good Night Baby
+52
+Sandy Nelson
+Teen Beat '65
+53
+The Kingsmen
+Death Of An Angel
+54
+The Jelly Beans
+Baby Be Mine
+55
+James Brown And His Orchestra
+Out Of Sight
+56
+The Kinks
+You Really Got Me
+57
+Nancy Wilson
+I Wanna Be With You
+58
+Billy Strange
+The James Bond Theme
+59
+The Shangri-Las
+Leader Of The Pack
+60
+Ray Charles and his Orchestra
+Smack Dab In The Middle
+61
+Louis Armstrong
+So Long Dearie
+62
+The Blendells
+La La La La La
+63
+Gene Chandler
+Bless Our Love
+64
+Brook Benton
+Lumberjack
+65
+Jimmy Hughes
+Try Me
+66
+Ruby And The Romantics
+When You're Young And In Love
+67
+Burl Ives
+Pearly Shells (Popo O Ewa)
+68
+Brenda Lee
+Is It True
+69
+The Bachelors
+I Wouldn't Trade You For The World
+70
+Mitty Collier
+I Had A Talk With My Man
+71
+The Beach Boys
+Wendy
+72
+Pat Boone
+Beach Girl
+73
+Elvis Presley With The Jordanaires
+Ask Me
+74
+Rufus Thomas
+Jump Back
+75
+Bill Black's Combo
+Little Queenie
+76
+Ramsey Lewis Trio
+Something You Got
+77
+Jan & Dean
+The Anaheim, Azusa & Cucamonga Sewing Circle, Book Review And Timing Associ
+78
+Aretha Franklin
+Runnin' Out Of Fools
+79
+Herman's Hermits
+I'm Into Something Good
+80
+The Rolling Stones
+Time Is On My Side
+81
+Nat King Cole
+L-O-V-E
+82
+Cathy & Joe
+I See You
+83
+The Superbs
+Baby Baby All The Time
+84
+The Jewels
+Opportunity
+85
+The Beach Boys
+Little Honda
+86
+Bobby Darin
+The Things In This House
+87
+The Zombies
+She's Not There
+88
+Al (He's the King) Hirt
+Up Above My Head (I Hear Music In The Air)
+89
+Garnet Mimms
+Look Away
+90
+The Velvelettes
+Needle In A Haystack
+91
+Sonny Knight
+If You Want This Love
+92
+The Mustangs
+The Dartell Stomp
+93
+Barbara Lynn
+Don't Spread It Around
+94
+Mickey Lee Lane
+Shaggy Dog
+95
+Ike & Tina Turner
+I Can't Believe What You Say (For Seeing What You Do)
+96
+Solomon Burke
+Yes I Do
+97
+The Searchers
+When You Walk In The Room
+98
+The Everly Brothers
+Gone, Gone, Gone
+99
+Lesley Gore
+Hey Now
+100
+Vic Dana
+Garden In The Rain

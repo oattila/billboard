@@ -1,0 +1,300 @@
+1
+Bon Jovi
+I'll Be There For You
+2
+Madonna
+Like A Prayer
+3
+Jody Watley
+Real Love
+4
+Paula Abdul
+Forever Your Girl
+5
+Donny Osmond
+Soldier Of Love
+6
+Cher & Peter Cetera
+After All (Love Theme From "Chances Are")
+7
+Thirty Eight Special
+Second Chance
+8
+Michael Damian
+Rock On (From "Dream A Little Dream")
+9
+Guns N' Roses
+Patience
+10
+Bette Midler
+Wind Beneath My Wings (From "Beaches")
+11
+Debbie Gibson
+Electric Youth
+12
+SaFire
+Thinking Of You
+13
+Living Colour
+Cult Of Personality
+14
+The Belle Stars
+Iko Iko (From "Rain Man")
+15
+Bobby Brown
+Every Little Step
+16
+New Kids On The Block
+I'll Be Loving You (Forever)
+17
+Tone-Loc
+Funky Cold Medina
+18
+Howard Jones
+Everlasting Love
+19
+Fine Young Cannibals
+She Drives Me Crazy
+20
+Lita Ford (Duet With Ozzy Osbourne)
+Close My Eyes Forever
+21
+Animotion
+Room To Move
+22
+Deon Estus With George Michael
+Heaven Help Me
+23
+Neneh Cherry
+Buffalo Stance
+24
+Jimmy Harnen With Synch
+Where Are You Now?
+25
+Aretha Franklin & Elton John
+Through The Storm
+26
+Sweet Sensation (With Romeo J.D.)
+Sincerely Yours
+27
+Winger
+Seventeen
+28
+Roxette
+The Look
+29
+Waterfront
+Cry
+30
+The Outfield
+Voices Of Babylon
+31
+Tommy Page
+A Shoulder To Cry On
+32
+Richard Marx
+Satisfied
+33
+Samantha Fox
+I Only Wanna Be With You
+34
+Def Leppard
+Rocket
+35
+Milli Vanilli
+Girl You Know It's True
+36
+John Mellencamp
+Pop Singer
+37
+Natalie Cole
+Miss You Like Crazy
+38
+Lisa Lisa And Cult Jam
+Little Jackie Wants To Be A Star
+39
+One 2 Many
+Downtown
+40
+The Bangles
+Eternal Flame
+41
+Donna Summer
+This Time I Know It's For Real
+42
+Milli Vanilli
+Baby Don't Forget My Number
+43
+Cinderella
+Coming Home
+44
+Stevie B
+I Wanna Be The One
+45
+Rick Astley
+Giving Up On Love
+46
+Roachford
+Cuddly Toy (Feel For Me)
+47
+Cyndi Lauper
+I Drove All Night
+48
+Edie Brickell & New Bohemians
+Circle
+49
+Elvis Costello
+Veronica
+50
+Fine Young Cannibals
+Good Thing
+51
+The Replacements
+I'll Be You
+52
+Tom Petty
+I Won't Back Down
+53
+R.E.M.
+Stand
+54
+The Bangles
+Be With You
+55
+Benny Mardones
+Into The Night
+56
+Simply Red
+If You Don't Know Me By Now
+57
+Surface
+Closer Than Friends
+58
+Roy Orbison
+You Got It
+59
+Karyn White
+Superwoman
+60
+Eddie Money
+Let Me In
+61
+Stevie Nicks
+Rooms On Fire
+62
+Mike + The Mechanics
+Seeing Is Believing
+63
+Warrant
+Down Boys
+64
+Johnny Kemp
+Birthday Suit (From "Sing")
+65
+Poison
+Your Mama Don't Dance
+66
+Debbie Gibson
+Lost In Your Eyes
+67
+Sam Brown
+Stop
+68
+Rod Stewart
+My Heart Can't Tell You No
+69
+Mike + The Mechanics
+The Living Years
+70
+Michael Morales
+Who Do You Give Your Love To?
+71
+New Order
+Round & Round
+72
+Real Life
+Send Me An Angel '89
+73
+Peter Schilling
+The Different Story (World Of Lust And Crime)
+74
+Rod Stewart
+Crazy About Her
+75
+XTC
+The Mayor Of Simpleton
+76
+Vanessa Williams
+Dreamin'
+77
+The Cure
+Fascination Street
+78
+Paula Abdul
+Straight Up
+79
+BulletBoys
+For The Love Of Money
+80
+Guy
+I Like
+81
+Was (Not Was)
+Anything Can Happen
+82
+Tone-Loc
+Wild Thing
+83
+Enya
+Orinoco Flow (Sail Away)
+84
+Chicago
+We Can Last Forever
+85
+Metallica
+One
+86
+U2 With B.B. King
+When Love Comes To Town
+87
+Figures On A Beach
+You Ain't Seen Nothing Yet
+88
+Bad Company
+Shake It Up
+89
+Dino
+I Like It
+90
+New Kids On The Block
+You Got It (The Right Stuff)
+91
+Robbie Nevil
+Somebody Like You
+92
+Queen
+I Want It All
+93
+Julian Lennon
+Now You're In Heaven
+94
+Great White
+Once Bitten Twice Shy
+95
+Steve Winwood
+Hearts On Fire
+96
+Cutting Crew
+(Between A) Rock And A Hard Place
+97
+Eddie Money
+The Love In Your Eyes
+98
+Chicago
+You're Not Alone
+99
+Was (Not Was)
+Walk The Dinosaur
+100
+Inner City
+Good Life

@@ -1,0 +1,300 @@
+1
+The Guess Who
+American Woman/No Sugar Tonight
+2
+Jackson 5
+ABC
+3
+The Beatles
+Let It Be
+4
+The Ides Of March
+Vehicle
+5
+Norman Greenbaum
+Spirit In The Sky
+6
+The Friends Of Distinction
+Love Or Let Me Be Lonely
+7
+Ray Stevens
+Everything Is Beautiful
+8
+John Ono Lennon
+Instant Karma (We All Shine On)
+9
+Tyrone Davis
+Turn Back The Hands Of Time
+10
+The Marmalade
+Reflections Of My Life
+11
+Crosby, Stills, Nash & Young
+Woodstock
+12
+Kenny Rogers & The First Edition
+Something's Burning
+13
+Creedence Clearwater Revival
+Up Around The Bend/Run Through The Jungle
+14
+Simon & Garfunkel
+Cecilia
+15
+Bobbi Martin
+For The Love Of Him
+16
+The Moments
+Love On A Two-Way Street
+17
+The Supremes
+Up The Ladder To The Roof
+18
+Badfinger
+Come And Get It
+19
+Rare Earth
+Get Ready
+20
+Johnny Cash
+What Is Truth
+21
+Simon & Garfunkel
+Bridge Over Troubled Water
+22
+Edison Lighthouse
+Love Grows (Where My Rosemary Goes)
+23
+The Poppy Family (Featuring Susan Jacks)
+Which Way You Goin' Billy?
+24
+Bobby Sherman
+Easy Come, Easy Go
+25
+Chicago
+Make Me Smile
+26
+Joe Cocker with Leon Russell & The Shelter People
+The Letter
+27
+George Baker Selection
+Little Green Bag
+28
+Jack Blanchard & Misty Morgan
+Tennessee Bird Walk
+29
+B.J. Thomas
+Everybody's Out Of Town
+30
+Diana Ross
+Reach Out And Touch (Somebody's Hand)
+31
+Tom Jones
+Daughter Of Darkness
+32
+Vincent Bell
+Airport Love Theme (Gwen And Vern)
+33
+Michael Parks
+Long Lonesome Highway
+34
+The 5th Dimension
+Puppet Man
+35
+El Chicano
+Viva Tirado - Part I
+36
+The Sandpipers
+Come Saturday Morning
+37
+Neil Diamond
+Shilo
+38
+Steppenwolf
+Hey Lawdy Mama
+39
+Dionne Warwick
+Let Me Go To Him
+40
+Glen Campbell
+Oh Happy Day
+41
+The Originals
+The Bells
+42
+Vanity Fare
+Hitchin' A Ride
+43
+The 5th Dimension
+The Girls' Song
+44
+Mark Lindsay
+Miss America
+45
+Gladys Knight And The Pips
+You Need Love Like I Do (Don't You)
+46
+Little Sister
+You're The One-Part II
+47
+The Who
+The Seeker
+48
+Eddie Holman
+Don't Stop Now/Since I Don't Have You
+49
+Van Morrison
+Come Running
+50
+The Meters
+Chicken Strut
+51
+The Brotherhood Of Man
+United We Stand
+52
+Eddie & Dutch
+My Wife, The Dancer
+53
+Charles Wright And The Watts 103rd Street Rhythm Band
+Love Land
+54
+Carpenters
+Ticket To Ride
+55
+Lulu with The Dixie Flyers
+Hum A Song (From Your Heart)
+56
+The Doors
+You Make Me Real/Roadhouse Blues
+57
+Neil Diamond
+Soolaimón (African Trilogy II)
+58
+White Plains
+My Baby Loves Lovin'
+59
+Marvin Gaye & Tammi Terrell
+The Onion Song/California Soul
+60
+James Brown
+Brother Rapp (Part 1)
+61
+B.B. King
+So Excited
+62
+Melanie with The Edwin Hawkins Singers
+Lay Down (Candles In The Rain)
+63
+Eddie Floyd
+California Girl
+64
+The Gentrys
+Cinnamon Girl
+65
+Mountain
+Mississippi Queen
+66
+Freda Payne
+Band Of Gold
+67
+Wilson Pickett
+Sugar Sugar/Cole, Cooke & Redding
+68
+The 5 Stairsteps
+O-o-h Child/Dear Prudence
+69
+The O'Jays
+Deeper (In Love With You)
+70
+George Perkins & The Silver Stars
+Cryin' In The Streets (Part 1)
+71
+Bobbie Gentry
+He Made A Woman Out Of Me
+72
+The Dells
+Open Up My Heart/Nadine
+73
+Bill Cosby
+Grover Henson Feels Forgotten
+74
+Joe Simon
+Farther On Down The Road
+75
+Bobby Goldsboro
+Can You Feel It
+76
+Four Tops
+It's All In The Game
+77
+Guy Drake
+Welfare Cadilac
+78
+The Moody Blues
+Question
+79
+The Grass Roots
+Baby Hold On
+80
+Chairman Of The Board
+(You've Got Me) Dangling On A String
+81
+Brook Benton
+My Way
+82
+R.B. Greaves
+Fire & Rain
+83
+Clarence Carter
+I Can't Leave Your Love Alone
+84
+Bob Seger System
+Lucifer
+85
+Blues Image
+Ride Captain Ride
+86
+Crabby Appleton
+Go Back
+87
+Buddy Miles & The Freedom Express
+Them Changes
+88
+Fabulous Counts
+Get Down People
+89
+The Youngbloods
+Darkness, Darkness
+90
+Johnny Rivers
+Into The Mystic
+91
+Little Milton
+Baby I Love You
+92
+The Jaggerz
+I Call My Baby Candy
+93
+Jamul
+Tobacco Road
+94
+Frankie Valli & The 4 Seasons
+Patch Of Blue
+95
+The Tee Set
+If You Do Believe In Love
+96
+Candi Staton
+Sweet Feeling
+97
+I.A.P. Co. (the Italian Asphalt & Pavement Company)
+Check Yourself
+98
+Ten Years After
+Love Like A Man
+99
+Dee Dee Warwick
+She Didn't Know (She Kept On Talking)
+100
+Brenda & The Tabulations
+And My Heart Sang (Tra La La)

@@ -1,0 +1,300 @@
+1
+Eminem
+Lose Yourself
+2
+Nelly Featuring Kelly Rowland
+Dilemma
+3
+Missy "Misdemeanor" Elliott
+Work It
+4
+Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya
+Hey Ma
+5
+Kelly Clarkson
+A Moment Like This
+6
+No Doubt Featuring Lady Saw
+Underneath It All
+7
+LL Cool J
+Luv U Better
+8
+Madonna
+Die Another Day
+9
+Santana Featuring Michelle Branch
+The Game Of Love
+10
+Eve Featuring Alicia Keys
+Gangsta Lovin'
+11
+Sean Paul
+Gimme The Light
+12
+Avril Lavigne
+Sk8er Boi
+13
+Jennifer Lopez Featuring Styles & Jadakiss
+Jenny From The Block
+14
+Creed
+One Last Breath
+15
+Avril Lavigne
+Complicated
+16
+Justin Timberlake
+Like I Love You
+17
+Ashanti
+Baby
+18
+Musiq
+dontchange
+19
+Aaliyah
+I Care 4 U
+20
+Angie Martinez Featuring Lil' Mo & Sacario
+If I Could Go!
+21
+Nappy Roots Featuring Anthony Hamilton
+Po' Folks
+22
+Dixie Chicks
+Landslide
+23
+Daniel Bedingfield
+Gotta Get Thru This
+24
+Keith Urban
+Somebody Like You
+25
+Jay-Z Featuring Beyonce Knowles
+'03 Bonnie & Clyde
+26
+Clipse
+When The Last Time
+27
+Erykah Badu Featuring Common
+Love Of My Life (An Ode To Hip Hop)
+28
+Michelle Branch
+Goodbye To You
+29
+Puddle Of Mudd
+She Hates Me
+30
+P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri
+I Need A Girl (Part Two)
+31
+DJ Sammy & Yanou Featuring Do
+Heaven
+32
+Ludacris Featuring Mystikal & Infamous 2.0
+Move B***h
+33
+Rascal Flatts
+These Days
+34
+Vanessa Carlton
+A Thousand Miles
+35
+Diamond Rio
+Beautiful Mess
+36
+Kelly Rowland
+Stole
+37
+Alan Jackson
+Work In Progress
+38
+TLC
+Girl Talk
+39
+P!nk
+Just Like A Pill
+40
+Shania Twain
+I'm Gonna Getcha Good!
+41
+Oakenfold Featuring Shifty Shellshock
+Starry Eyed Surprise
+42
+Montgomery Gentry
+My Town
+43
+George Strait
+She'll Leave You With A Smile
+44
+Nivea Featuring Brian & Brandon Casey
+Don't Mess With My Man
+45
+matchbox twenty
+Disease
+46
+John Mayer
+Your Body Is A Wonderland
+47
+Eminem
+Cleanin' Out My Closet
+48
+Ginuwine
+Stingy
+49
+Nirvana
+You Know You're Right
+50
+John Mayer
+No Such Thing
+51
+Toby Keith
+Who's Your Daddy?
+52
+Fabolous Featuring P. Diddy & Jagged Edge
+Trade It All
+53
+Vanessa Carlton
+Ordinary Day
+54
+Las Ketchup
+The Ketchup Song (Hey Hah)
+55
+Faith Hill
+Cry
+56
+Martina McBride
+Where Would You Be
+57
+Our Lady Peace
+Somewhere Out There
+58
+Big Tymers Featuring Tateeze, Boo & Gotti
+Oh Yeah!
+59
+Hoobastank
+Running Away
+60
+Phil Vassar
+American Child
+61
+Erick Sermon Featuring Redman
+React
+62
+Tim McGraw
+Red Rag Top
+63
+Norah Jones
+Don't Know Why
+64
+Disturbed
+Prayer
+65
+Pearl Jam
+I Am Mine
+66
+System Of A Down
+Aerials
+67
+Foo Fighters
+All My Life
+68
+Uncle Kracker
+In A Little While
+69
+Nelly Featuring Kyjuan, Ali & Murphy Lee
+Air Force Ones
+70
+Red Hot Chili Peppers
+The Zephyr Song
+71
+Stone Sour
+Bother
+72
+Styles
+Good Times
+73
+B2K
+Why I Love You
+74
+Mario
+Braid My Hair
+75
+Rebecca Lynn Howard
+Forgive
+76
+Christina Aguilera Featuring Redman
+Dirrty
+77
+Fat Joe Featuring Ginuwine
+Crush Tonight
+78
+Tracy Byrd
+Ten Rounds With Jose Cuervo
+79
+Terri Clark
+I Just Wanna Be Mad
+80
+Isyss
+Single For The Rest Of My Life
+81
+WC Featuring Nate Dogg
+The Streets
+82
+Jack Johnson
+Flake
+83
+Benzino
+Rock The Party
+84
+Luther Vandross
+I'd Rather
+85
+Lasgo
+Something
+86
+Toni Braxton Featuring Loon
+Hit The Freeway
+87
+Sara Evans
+I Keep Looking
+88
+Tim McGraw
+Unbroken
+89
+India.Arie
+Little Things
+90
+Snoop Dogg
+From Tha Chuuuch To Da Palace
+91
+Wyclef Jean Featuring Claudette Ortiz
+Two Wrongs
+92
+R. Kelly
+Ignition
+93
+Busta Rhymes Featuring Spliff Star
+Make It Clap
+94
+Faith Evans Featuring Missy "Misdemeanor" Elliott
+Burnin' Up
+95
+TRUSTcompany
+Downfall
+96
+Avant
+Don't Say No, Just Say Yes
+97
+Paulina Rubio
+The One You Love
+98
+Heather Headley
+He Is
+99
+Trick Daddy Featuring Cee-Lo & Big Boi
+In Da Wind
+100
+U2
+Electrical Storm

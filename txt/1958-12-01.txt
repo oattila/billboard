@@ -1,0 +1,300 @@
+1
+The Teddy Bears
+To Know Him, Is To Love Him
+2
+The Kingston Trio
+Tom Dooley
+3
+Conway Twitty
+It's Only Make Believe
+4
+The Playmates
+Beep Beep
+5
+Elvis Presley
+One Night
+6
+Cozy Cole
+Topsy II
+7
+Ricky Nelson
+Lonesome Town
+8
+The Everly Brothers
+Problems
+9
+Elvis Presley
+I Got Stung
+10
+Tommy Edwards
+It's All In The Game
+11
+Bobby Darin
+Queen Of The Hop
+12
+Ricky Nelson
+I Got A Feeling
+13
+Earl Grant
+The End
+14
+Clyde McPhatter
+A Lover's Question
+15
+Frankie Avalon
+I'll Wait For You
+16
+Big Bopper
+Chantilly Lace
+17
+The Royaltones
+Poor Boy
+18
+Tommy Edwards
+Love Is All We Need
+19
+Duane Eddy His Twangy Guitar And The Rebels
+Cannonball
+20
+Kalin Twins
+Forget Me Not
+21
+The Four Coins
+The World Outside
+22
+The Platters
+Smoke Gets In Your Eyes
+23
+Jimmie Rodgers
+Bimbombey
+24
+The Tommy Dorsey Orchestra
+Tea For Two Cha Cha
+25
+The Four Esquires
+Hideaway
+26
+Fats Domino
+Whole Lotta Loving
+27
+Jane Morgan
+The Day The Rains Came
+28
+Donnie Owens
+Need You
+29
+Johnny Mathis
+Call Me
+30
+The Diamonds
+Walking Along
+31
+Jimmy Clanton
+A Letter To An Angel
+32
+The Applejacks
+Mexican Hat Rock
+33
+The Ames Brothers
+Pussy Cat
+34
+Pat Boone
+I'll Remember Tonight
+35
+Louis Prima And Keely Smith
+That Old Black Magic
+36
+Bobby Day
+Rock-in Robin
+37
+Joni James
+There Goes My Heart
+38
+Jimmy Clanton
+A Part Of Me
+39
+The Four Lads
+The Mocking Bird
+40
+Raymond Lefevre and His Orchestra
+The Day The Rains Came
+41
+Frank Sinatra
+Mr. Success
+42
+Jackie Wilson
+Lonely Teardrops
+43
+Billy Grammer
+Gotta Travel On
+44
+Doris Day
+Tunnel Of Love
+45
+Nat King Cole
+Non Dimenticar (Don't Forget)
+46
+Cozy Cole
+Topsy I
+47
+Chuck Berry
+Sweet Little Rock And Roller
+48
+The Everly Brothers
+Love Of My Life
+49
+Enoch Light & The Light Brigade
+I Want To Be Happy Cha Cha
+50
+Little Anthony And The Imperials
+Tears On My Pillow
+51
+The Nu Tornados
+Philadelphia U.S.A.
+52
+Roy Hamilton
+Pledging My Love
+53
+Billy Vaughn And His Orchestra
+Cimarron (Roll On)
+54
+Harvey & The Moonglows
+Ten Commandments Of Love
+55
+Perry Como
+Love Makes The World Go 'round
+56
+Connie Francis
+Fallin'
+57
+Bernie Lowe Orchestra
+Sing Sing Sing
+58
+Bobby Freeman
+Need Your Love
+59
+Sam Cooke
+Love You Most Of All
+60
+Johnny Cash
+What Do I Care
+61
+Bernie Lowe Orchestra
+Intermission Riff
+62
+The Chipmunks With David Seville
+The Chipmunk Song
+63
+The Five Blobs
+The Blob
+64
+Tab Hunter
+Jealous Heart
+65
+Dion & The Belmonts
+No One Knows
+66
+Cozy Cole
+Turvy II
+67
+Perry Como
+Mandolins In The Moonlight
+68
+Pat Boone
+For My Good Fortune
+69
+Gordon MacRae
+The Secret
+70
+Dee Clark
+Nobody But You
+71
+Roger Williams
+Near You
+72
+Robin Luke
+Susie Darlin'
+73
+Perez Prado And His Orchestra
+Guaglione
+74
+Bobby Pedrick, Jr.
+White Bucks And Saddle Shoes
+75
+Ritchie Valens
+Donna
+76
+Tony Bennett
+Firefly
+77
+Johnny Cash
+All Over Again
+78
+The Everly Brothers
+Bird Dog
+79
+Don Gibson
+Look Who's Blue
+80
+Peggy Lee
+Light Of Love
+81
+The Crests
+16 Candles
+82
+Eddie Cochran
+C'mon Everybody
+83
+The Four Aces
+The World Outside
+84
+June Valli
+The Wedding
+85
+Ritchie Valens
+Come On, Let's Go
+86
+Jerry Wallace
+How The Time Flies
+87
+Paul Anka-Geo. Hamilton IV-Johnny Nash
+The Teen Commandments
+88
+Dale Hawkins
+A House, A Car And A Wedding Ring
+89
+Jack Scott
+With Your Love
+90
+Big Bopper
+Little Red Riding Hood
+91
+Eileen Rodgers
+Treasure Of Your Love
+92
+The Tommy Dorsey Orchestra Starring Warren Covington
+I Want To Be Happy Cha Cha
+93
+Mike Preston
+A House, A Car And A Wedding Ring
+94
+The Shields
+You Cheated
+95
+Don Gibson
+Give Myself A Party
+96
+Johnny Nash
+Almost In Your Arms
+97
+The Four Preps
+Cinderella
+98
+Peggy Lee
+Sweetheart
+99
+Poni-Tails
+Seven Minutes In Heaven
+100
+Chuck Berry
+Joe Joe Gunne

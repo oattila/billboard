@@ -1,0 +1,300 @@
+1
+The Rascals
+People Got To Be Free
+2
+Steppenwolf
+Born To Be Wild
+3
+Jose Feliciano
+Light My Fire
+4
+Jeannie C. Riley
+Harper Valley P.T.A.
+5
+The Doors
+Hello, I Love You
+6
+Aretha Franklin
+The House That Jack Built
+7
+1910 Fruitgum Co.
+1, 2, 3, Red Light
+8
+Marvin Gaye & Tammi Terrell
+You're All I Need To Get By
+9
+Archie Bell & The Drells
+I Can't Stop Dancing
+10
+The Dells
+Stay In My Corner
+11
+Cream
+Sunshine Of Your Love
+12
+The Vanilla Fudge
+You Keep Me Hangin' On
+13
+Deep Purple
+Hush
+14
+The Vogues
+Turn Around, Look At Me
+15
+Barbara Acklin
+Love Makes A Woman
+16
+Mason Williams
+Classical Gas
+17
+Sergio Mendes & Brasil '66
+The Fool On The Hill
+18
+Clarence Carter
+Slip Away
+19
+The Amboy Dukes
+Journey To The Center Of The Mind
+20
+Booker T. & The MG's
+Soul-Limbo
+21
+Gary Lewis And The Playboys
+Sealed With A Kiss
+22
+The Beach Boys
+Do It Again
+23
+Aretha Franklin
+I Say A Little Prayer
+24
+The 5th Dimension
+Stoned Soul Picnic
+25
+Mama Cass With The Mamas & The Papas
+Dream A Little Dream Of Me
+26
+The Temptations
+Please Return Your Love To Me
+27
+The Who
+Magic Bus
+28
+Ray Stevens
+Mr. Businessman
+29
+The Moody Blues
+Tuesday Afternoon (Forever Afternoon)
+30
+Bee Gees
+I've Gotta Get A Message To You
+31
+The Status Quo
+Pictures Of Matchstick Men
+32
+B.J. Thomas
+The Eyes Of A New York Woman
+33
+Betty Wright
+Girls Can't Do What The Guys Do
+34
+Jackie Wilson
+I Get The Sweetest Feeling
+35
+Canned Heat
+On The Road Again
+36
+Ohio Express
+Down At Lulu's
+37
+Smokey Robinson & The Miracles
+Special Occasion
+38
+The O'Kaysions
+Girl Watcher
+39
+Tommy Boyce & Bobby Hart
+Alice Long (You're Still My Favorite Girlfriend)
+40
+Eddie Floyd
+I've Never Found A Girl (To Love Me Like You Do)
+41
+Donovan
+Hurdy Gurdy Man
+42
+Martha Reeves & The Vandellas
+I Can't Dance To That Music You're Playin'
+43
+Spanky And Our Gang
+Give A Damn
+44
+Al Wilson
+The Snake
+45
+O.C. Smith
+Little Green Apples
+46
+Jr. Walker & The All Stars
+Hip City - Pt. 2
+47
+Bill Medley
+Brown Eyed Woman
+48
+The Association
+Six Man Band
+49
+Gladys Knight And The Pips
+I Wish It Would Rain
+50
+Tom Jones
+Help Yourself
+51
+The Chambers Brothers
+Time Has Come Today
+52
+Dionne Warwick
+Who Is Gonna Love Me?
+53
+Lulu
+Morning Dew
+54
+The Cherry People
+And Suddenly
+55
+Sam & Dave
+Can't You Find Another Way (Of Doing It)
+56
+Herb Alpert
+To Wait For Love
+57
+Eddie Harris
+Listen Here
+58
+Joe Tex
+Keep The One You Got
+59
+Big Brother And The Holding Company
+Piece Of My Heart
+60
+James Brown
+Say It Loud - I'm Black And I'm Proud (Part 1)
+61
+Don Fardon
+(The Lament Of The Cherokee) Indian Reservation
+62
+The Vogues
+My Special Angel
+63
+Patti Drew
+Workin' On A Groovy Thing
+64
+The Grass Roots
+Midnight Confessions
+65
+Jackie DeShannon
+The Weight
+66
+Iron Butterfly
+In-A-Gadda-Da-Vida
+67
+Strawberry Alarm Clock
+Barefoot In Baltimore
+68
+The Impressions
+I Loved And I Lost
+69
+Big Brother And The Holding Company
+Down On Me
+70
+Dionne Warwick
+(There's) Always Something There To Remind Me
+71
+The Delfonics
+Break Your Promise
+72
+The Equals
+Baby, Come Back
+73
+Bobby Womack
+Fly Me To The Moon
+74
+Lou Rawls
+Down Here On The Ground
+75
+Judy Clay & William Bell
+Private Number
+76
+The Band
+The Weight
+77
+The Sweet Inspirations
+Unchained Melody
+78
+Frank Sinatra
+My Way Of Life
+79
+Jerry Butler
+Hey, Western Union Man
+80
+Merrilee Rush & The Turnabouts
+That Kind Of Woman
+81
+The Crazy World Of Arthur Brown
+Fire
+82
+The James Boys
+The Mule
+83
+Five Stairsteps & Cubie
+Don't Change Your Love
+84
+The Rolling Stones
+Street Fighting Man
+85
+Bobby Vee
+Do What You Gotta Do
+86
+Friend And Lover
+If Love Is In Your Heart
+87
+Eddy Arnold
+Then You Can Tell Me Goodbye
+88
+Andy Kim
+Shoot'em Up, Baby
+89
+The Avant-Garde
+Naturally Stoned
+90
+Max Frost And The Troopers
+Shape Of Things To Come
+91
+The Doors
+Light My Fire
+92
+Creedence Clearwater Revival
+Suzie Q. (Part One)
+93
+Bull & The Matadors
+The Funky Judge
+94
+B.B. King
+The Woman I Love
+95
+Flavor
+Sally Had A Party
+96
+James & Bobby Purify
+Help Yourself (To All Of My Lovin')
+97
+Otis Clay
+She's About A Mover
+98
+Ramsey Lewis
+Since You've Been Gone
+99
+The Impressions
+Fool For You
+100
+Fats Domino
+Lady Madonna

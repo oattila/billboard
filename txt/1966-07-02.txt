@@ -1,0 +1,300 @@
+1
+Frank Sinatra
+Strangers In The Night
+2
+The Beatles
+Paperback Writer
+3
+The Cyrkle
+Red Rubber Ball
+4
+The Rolling Stones
+Paint It, Black
+5
+Dusty Springfield
+You Don't Have To Say You Love Me
+6
+Tommy James And The Shondells
+Hanky Panky
+7
+The Capitols
+Cool Jerk
+8
+Simon & Garfunkel
+I Am A Rock
+9
+The Lovin' Spoonful
+Did You Ever Have To Make Up Your Mind?
+10
+Robert Parker
+Barefootin'
+11
+Syndicate Of Sound
+Little Girl
+12
+The Animals
+Don't Bring Me Down
+13
+The Chiffons
+Sweet Talkin' Guy
+14
+Shades Of Blue
+Oh How Happy
+15
+The Temptations
+Ain't Too Proud To Beg
+16
+The Standells
+Dirty Water
+17
+Swingin' Medallions
+Double Shot (Of My Baby's Love)
+18
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Opus 17 (Don't You Worry 'Bout Me)
+19
+The Association
+Along Comes Mary
+20
+The Righteous Brothers
+He
+21
+The Outsiders
+Girl In Love
+22
+Sam & Dave
+Hold On! I'm A Comin'
+23
+The Mindbenders
+A Groovy Kind Of Love
+24
+The Beatles
+Rain
+25
+Chris Montez
+The More I See You
+26
+Jan & Dean
+Popsicle
+27
+Jay & The Americans
+Crying
+28
+Gary Lewis And The Playboys
+Green Grass
+29
+Percy Sledge
+When A Man Loves A Woman
+30
+Johnny Rivers
+(I Washed My Hands In) Muddy Water
+31
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+32
+The Leaves
+Hey Joe
+33
+The Dave Clark Five
+Please Tell Me Why
+34
+The Vogues
+The Land Of Milk And Honey
+35
+Johnny Sea
+Day For Decision
+36
+Ray Charles
+Let's Go Get Stoned
+37
+Tommy Roe
+Sweet Pea
+38
+B.J. Thomas
+Mama
+39
+The Shadows Of Knight
+Oh Yeah
+40
+The Platters
+I Love You 1000 Times
+41
+The Young Rascals
+You Better Run
+42
+Crispian St. Peters
+The Pied Piper
+43
+The Critters
+Younger Girl
+44
+Marvin Gaye
+Take This Heart Of Mine
+45
+Four Tops
+Loving You Is Sweeter Than Ever
+46
+Dee Jay And The Runaways
+Peter Rabbit
+47
+The Troggs
+Wild Thing
+48
+Ray Conniff And The Singers
+Somewhere, My Love
+49
+Sonny & Cher
+Have I Stayed Too Long
+50
+Paul Revere & The Raiders Featuring Mark Lindsay
+Hungry
+51
+Ronnie Dove
+Happy Summer Days
+52
+The Hondells
+Younger Girl
+53
+The Mamas & The Papas
+I Saw Her Again
+54
+Wilson Pickett
+Ninety-Nine And A Half (Won't Do)
+55
+Neil Diamond
+Solitary Man
+56
+Love
+My Little Red Book
+57
+Elvis Presley
+Love Letters
+58
+Jack Jones
+The Impossible Dream (The Quest)
+59
+Herb Alpert & The Tijuana Brass
+The Work Song
+60
+The Grass Roots
+Where Were You When I Needed You
+61
+Otis Redding
+My Lover's Prayer
+62
+B.J. Thomas And The Triumphs
+Billy And Sue
+63
+The Holidays
+I'll Love You Forever
+64
+The Miracles
+Whole Lot Of Shakin' In My Heart (Since I Met You)
+65
+Jimmy Hughes
+Neighbor, Neighbor
+66
+The Yardbirds
+Over Under Sideways Down
+67
+Barry McGuire
+Cloudy Summer Afternoon (Raindrops)
+68
+Bobby Moore & The Rhythm Aces
+Searching For My Love
+69
+Roger Miller
+You Can't Roller Skate In A Buffalo Herd
+70
+Tom Jones
+Not Responsible
+71
+Martha & The Vandellas
+What Am I Going To Do Without Your Love
+72
+Manfred Mann
+Pretty Flamingo
+73
+Susan Christie
+I Love Onions
+74
+Esther Phillips
+When A Woman Loves A Man
+75
+Leroy Pullins
+I'm A Nut
+76
+Tommy McLain
+Sweet Dreams
+77
+The Ides Of March
+You Wouldn't Listen
+78
+Dionne Warwick
+Trains And Boats And Planes
+79
+Bobby Hebb
+Sunny
+80
+Joe Simon
+Teenager's Prayer
+81
+The Turtles
+Grim Reaper Of Love
+82
+Roger Williams
+Lara's Theme from "Dr. Zhivago"
+83
+The Lettermen
+I Only Have Eyes For You
+84
+The Shangri-Las
+Past, Present And Future
+85
+"Groove" Holmes
+Misty
+86
+Clefs Of Lavender Hill
+Stop! - Get A Ticket
+87
+Brenda Lee
+Ain't Gonna Cry No More
+88
+Walter Jackson
+It's An Uphill Climb To The Bottom
+89
+The Bachelors
+Can I Trust You?
+90
+Bob Dylan
+I Want You
+91
+Len Barry
+It's That Time Of The Year
+92
+The Wonder Who?
+On The Good Ship Lollipop
+93
+Lou Christie
+Painter
+94
+Trini Lopez
+La Bamba - Part I
+95
+The Knickerbockers
+High On Love
+96
+The Buena Vistas
+Hot Shot
+97
+Johnny Cash
+Everybody Loves A Nut
+98
+Chubby Checker
+Hey You! Little Boo-Ga-Loo
+99
+The Uniques
+All These Things
+100
+Mary Wells
+Such A Sweet Thing

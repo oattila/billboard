@@ -1,0 +1,300 @@
+1
+The Rolling Stones
+Honky Tonk Women
+2
+Johnny Cash
+A Boy Named Sue
+3
+Tommy James And The Shondells
+Crystal Blue Persuasion
+4
+Neil Diamond
+Sweet Caroline (Good Times Never Seemed So Good)
+5
+Zager & Evans
+In The Year 2525
+6
+Jackie DeShannon
+Put A Little Love In Your Heart
+7
+Creedence Clearwater Revival
+Green River
+8
+Tony Joe White
+Polk Salad Annie
+9
+The Youngbloods
+Get Together
+10
+The Guess Who
+Laughing
+11
+Kenny Rogers & The First Edition
+Ruby, Don't Take Your Love To Town
+12
+Bob Dylan
+Lay Lady Lay
+13
+Andy Kim
+Baby, I Love You
+14
+The Archies
+Sugar, Sugar
+15
+Plastic Ono Band
+Give Peace A Chance
+16
+Stevie Wonder
+My Cherie Amour
+17
+Jr. Walker & The All Stars
+What Does It Take (To Win Your Love)
+18
+Three Dog Night
+Easy To Be Hard
+19
+Tom Jones
+I'll Never Fall In Love Again
+20
+The 5th Dimension
+Workin' On A Groovy Thing
+21
+The Impressions
+Choice Of Colors
+22
+The Charles Randolph Grean Sounde
+Quentin's Theme
+23
+James Brown
+Mother Popcorn (You Got To Have A Mother For Me) Part 1
+24
+The Box Tops
+Soul Deep
+25
+Blood, Sweat & Tears
+Spinning Wheel
+26
+The Grass Roots
+I'd Wait A Million Years
+27
+Underground Sunshine
+Birthday
+28
+Crosby, Stills & Nash
+Marrakesh Express
+29
+The Lettermen
+Hurt So Bad
+30
+Gladys Knight And The Pips
+The Nitty Gritty
+31
+Aretha Franklin
+Share Your Love With Me
+32
+Creedence Clearwater Revival
+Commotion
+33
+The Joe Jeffrey Group
+My Pledge Of Love
+34
+Mama Cass
+It's Getting Better
+35
+Glen Campbell
+True Grit
+36
+The Illusion
+Did You See Her Eyes
+37
+The Who
+I'm Free
+38
+Elvis Presley
+Clean Up Your Own Back Yard
+39
+The Electric Indian
+Keem-O-Sabe
+40
+The Dells
+Oh, What A Night
+41
+Johnny Rivers
+Muddy River
+42
+Sly & The Family Stone
+Hot Fun In The Summertime
+43
+Lou Rawls
+Your Good Thing (Is About To End)
+44
+Oliver
+Jean
+45
+Donovan/Jeff Beck Group
+Goo Goo Barabajagal (Love Is Hot)
+46
+Clarence Reid
+Nobody But You Babe
+47
+Shannon
+Abergavenny
+48
+The Temptations
+I Can't Get Next To You
+49
+Nilsson
+Everybody's Talkin'
+50
+Brooklyn Bridge
+Your Husband - My Wife
+51
+Dennis Yost And The Classics IV
+Change Of Heart
+52
+Duke Baxter
+Everybody Knows Matilda
+53
+Dionne Warwick
+Odds And Ends
+54
+Tommy Roe
+Jack And Jill
+55
+Motherlode
+When I Die
+56
+Little Anthony And The Imperials
+Out Of Sight, Out Of Mind
+57
+Tim Hardin
+Simple Song Of Freedom
+58
+Steppenwolf
+Move Over
+59
+Johnnie Taylor
+I Could Never Be President
+60
+Engelbert Humperdinck
+I'm A Better Man
+61
+The Meters
+Ease Back
+62
+Billy Preston
+That's The Way God Planned It
+63
+The Intrigues
+In A Moment
+64
+The Friends Of Distinction
+Let Yourself Go
+65
+Bill Deal & The Rhondels
+What Kind Of Fool Do You Think I Am
+66
+Lou Christie
+I'm Gonna Make You Mine
+67
+Gary Puckett And The Union Gap
+This Girl Is A Woman Now
+68
+The Moments
+I Do
+69
+Diana Ross & The Supremes
+The Young Folks
+70
+Bobby Goldsboro
+Muddy Mississippi Line
+71
+Chicago
+Questions 67 And 68
+72
+The O'Jays
+One Night Affair
+73
+Bobby Sherman
+Little Woman
+74
+James Brown
+Lowdown Popcorn
+75
+Marvin Gaye
+That's The Way Love Is
+76
+Dean Martin
+I Take A Lot Of Pride In What I Am
+77
+Jose Feliciano
+Rain
+78
+Judy Collins
+Chelsea Morning
+79
+The Cascades
+Maybe The Rain Will Fall
+80
+Peaches & Herb
+Let Me Be The One
+81
+The Rugbys
+You, I
+82
+1910 Fruitgum Co.
+The Train
+83
+Al Wilson
+Lodi
+84
+Joe South and The Believers
+Don't It Make You Want To Go Home
+85
+Jefferson
+The Colour Of My Love
+86
+Eddie Bo
+Hook And Sling-Part I
+87
+Romeo & Juliet Soundtrack
+Farewell Love Scene
+88
+Smokey Robinson & The Miracles
+Here I Go Again
+89
+Petula Clark
+Look At Mine
+90
+The Friends Of Distinction
+Going In Circles
+91
+Quicksilver Messenger Service
+Who Do You Love
+92
+Blinky & Edwin Starr
+Oh How Happy
+93
+Orpheus
+Can't Find The Time
+94
+Isaac Hayes
+Walk On By
+95
+The Association
+Goodbye Columbus
+96
+Evie Sands
+Any Way That You Want Me
+97
+The Delfonics
+You Got Yours And I'll Get Mine
+98
+The Vogues
+Green Fields
+99
+Charley Pride
+All I Have To Offer You (Is Me)
+100
+Buddy Miles Express
+Memphis Train

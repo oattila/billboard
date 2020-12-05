@@ -1,0 +1,300 @@
+1
+Paul McCartney And Michael Jackson
+Say Say Say
+2
+Daryl Hall John Oates
+Say It Isn't So
+3
+Duran Duran
+Union Of The Snake
+4
+Yes
+Owner Of A Lonely Heart
+5
+Olivia Newton-John
+Twist Of Fate
+6
+The Romantics
+Talking In Your Sleep
+7
+Matthew Wilder
+Break My Stride
+8
+Elton John
+I Guess That's Why They Call It The Blues
+9
+The Rolling Stones
+Undercover Of The Night
+10
+Lionel Richie
+All Night Long (All Night)
+11
+Billy Joel
+Uptown Girl
+12
+Pat Benatar
+Love Is A Battlefield
+13
+Culture Club
+Karma Chameleon
+14
+Peter Schilling
+Major Tom (Coming Home)
+15
+Lionel Richie
+Running With The Night
+16
+Culture Club
+Church Of The Poison Mind
+17
+Kool & The Gang
+Joanna
+18
+Barry Manilow
+Read 'Em And Weep
+19
+The Police
+Synchronicity II
+20
+Quiet Riot
+Cum On Feel The Noize
+21
+Jump 'n The Saddle
+The Curly Shuffle
+22
+Genesis
+That's All
+23
+Thirty Eight Special
+If I'd Been The One
+24
+Ray Parker Jr.
+I Still Can't Get Over Loving You
+25
+Debarge
+Time Will Reveal
+26
+John Mellencamp
+Pink Houses
+27
+Madonna
+Holiday
+28
+Irene Cara
+Why Me?
+29
+Kenny Rogers Duet With Dolly Parton
+Islands In The Stream
+30
+Christopher Cross
+Think Of Laura
+31
+Jeffrey Osborne
+Stay With Me Tonight
+32
+Spandau Ballet
+Gold
+33
+The Fixx
+The Sign Of Fire
+34
+Paul McCartney
+So Bad
+35
+Big Country
+In A Big Country
+36
+Deborah Allen
+Baby I Lied
+37
+Pretenders
+Middle Of The Road
+38
+Shannon
+Let The Music Play
+39
+Billy Joel
+An Innocent Man
+40
+Robert Plant
+In The Mood
+41
+The Motels
+Remember The Night
+42
+Real Life
+Send Me An Angel
+43
+Stevie Nicks
+Nightbird
+44
+Naked Eyes
+When The Lights Go Out
+45
+James Ingram With Michael McDonald
+Yah Mo B There
+46
+Rick James And Smokey Robinson
+Ebony Eyes
+47
+Irene Cara
+The Dream
+48
+Bonnie Tyler
+Take Me Back
+49
+Chaka Khan
+Ain't Nobody
+50
+Nena
+99 Luftballons
+51
+John Cougar Mellencamp
+Crumblin' Down
+52
+Dolly Parton
+Save The Last Dance For Me
+53
+Huey Lewis & The News
+Heart And Soul
+54
+Re-flex
+The Politics Of Dancing
+55
+Eddie Money
+Big Crash
+56
+Linda Ronstadt & The Nelson Riddle Orchestra
+What's New
+57
+Sheena Easton
+Almost Over You
+58
+Night Ranger
+(You Can Still) Rock In America
+59
+KC
+Give It Up
+60
+The Alan Parsons Project
+You Don't Believe
+61
+The Police
+Wrapped Around Your Finger
+62
+Cyndi Lauper
+Girls Just Want To Have Fun
+63
+Midnight Star
+Wet My Whistle
+64
+Michael Jackson
+P.Y.T. (Pretty Young Thing)
+65
+Rick Springfield
+Souls
+66
+Peabo Bryson & Roberta Flack
+You're Looking Like Love To Me
+67
+Stray Cats
+I Won't Stand In Your Way
+68
+Barbra Streisand
+The Way He Makes Me Feel
+69
+KISS
+Lick It Up
+70
+The S.O.S. Band
+Tell Me If You Still Care
+71
+The Doors
+Gloria
+72
+Quiet Riot
+Bang Your Head (Metal Health)
+73
+Bonnie Tyler
+Total Eclipse Of The Heart
+74
+Peabo Bryson/Roberta Flack
+Tonight, I Celebrate My Love
+75
+Prince
+LET's PRETEND WE'rE MARRIED
+76
+Sheena Easton
+Telefone (long Distance Love Affair)
+77
+Michael Stanley Band
+Someone Like You
+78
+Talking Heads
+This Must Be The Place (Naive Melody)
+79
+Diana Ross
+Let's Go Up
+80
+Jackson Browne
+Tender Is The Night
+81
+Bob Dylan
+Sweetheart Like You
+82
+The Motels
+Suddenly Last Summer
+83
+ConFunkShun
+Baby I'm Hooked
+84
+Rodney Dangerfield
+Rappin' Rodney
+85
+The Headpins
+Just One More Time
+86
+Twilight 22
+Electric Kingdom
+87
+Atlantic Starr
+Touch A Four Leaf Clover
+88
+D Train
+Something's On Your Mind
+89
+Air Supply
+Making Love Out Of Nothing At All
+90
+Patti LaBelle
+If Only You Knew
+91
+The Pointer Sisters
+I Need You
+92
+Rainbow
+Street Of Dreams
+93
+Evelyn "Champagne" King
+Action
+94
+Asia
+The Smile Has Left Your Eyes
+95
+Crystal Gayle
+The Sound Of Goodbye
+96
+Herb Alpert
+Red Hot
+97
+Kim Carnes
+Invisible Hands
+98
+Earth, Wind & Fire
+Magnetic
+99
+Industry
+State Of The Union
+100
+Paul Simon
+Allergies

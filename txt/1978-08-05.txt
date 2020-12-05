@@ -1,0 +1,300 @@
+1
+The Rolling Stones
+Miss You
+2
+Commodores
+Three Times A Lady
+3
+Frankie Valli
+Grease
+4
+Donna Summer
+Last Dance
+5
+Andy Gibb
+Shadow Dancing
+6
+Gerry Rafferty
+Baker Street
+7
+The O'Jays
+Use Ta Be My Girl
+8
+Foreigner
+Hot Blooded
+9
+Pablo Cruise
+Love Will Find A Way
+10
+Bob Seger & The Silver Bullet Band
+Still The Same
+11
+Walter Egan
+Magnet And Steel
+12
+Barry Manilow
+Copacabana (at The Copa)
+13
+Joe Walsh
+Life's Been Good
+14
+Toby Beau
+My Angel Baby
+15
+Atlanta Rhythm Section
+I'm Not Gonna Let It Bother Me Tonight
+16
+Andy Gibb
+An Everlasting Love
+17
+A Taste Of Honey
+Boogie Oogie Oogie
+18
+Olivia Newton-John
+Hopelessly Devoted To You
+19
+Steve Martin And The Toot Uncommons
+King Tut
+20
+Heatwave
+The Groove Line
+21
+Jackson Browne
+Stay/The Load-Out
+22
+Jefferson Starship
+Runaway
+23
+Evelyn "Champagne" King
+Shame
+24
+ABBA
+Take A Chance On Me
+25
+Wings
+I've Had Enough
+26
+Chris Rea
+Fool If You Think It's Over
+27
+Exile
+Kiss You All Over
+28
+Quincy Jones
+Stuff Like That
+29
+Todd Rundgren
+Can We Still Be Friends
+30
+Rita Coolidge
+You
+31
+Peter Brown With Betty Wright
+Dance With Me
+32
+Eddie Money
+Two Tickets To Paradise
+33
+Rick James
+You And I
+34
+Nick Gilder
+Hot Child In The City
+35
+Boney M
+Rivers Of Babylon
+36
+Electric Light Orchestra
+Mr. Blue Sky
+37
+Village People
+Macho Man
+38
+Gene Cotton With Kim Carnes
+You're A Part Of Me
+39
+Earth, Wind & Fire
+Got To Get You Into My Life
+40
+John Paul Young
+Love Is In The Air
+41
+Tom Petty And The Heartbreakers
+I Need To Know
+42
+John Travolta & Olivia Newton-John
+You're The One That I Want
+43
+The Cars
+Just What I Needed
+44
+Meat Loaf
+Two Out Of Three Ain't Bad
+45
+Teddy Pendergrass
+Close The Door
+46
+Bonnie Tyler
+It's A Heartache
+47
+Michael Johnson
+Bluer Than Blue
+48
+Steely Dan
+FM (No Static At All)
+49
+Barbra Streisand
+Songbird
+50
+Love And Kisses
+Thank God It's Friday
+51
+Kenny Rogers
+Love Or Something Like It
+52
+Eric Clapton
+Wonderful Tonight
+53
+Eddie Rabbitt
+You Don't Love Me Anymore
+54
+Roberta Flack
+If Ever I See You Again
+55
+Anne Murray
+You Needed Me
+56
+Little River Band
+Reminiscing
+57
+The Kinks
+A Rock 'N' Roll Fantasy
+58
+Alicia Bridges
+I Love The Nightlife (Disco 'round)
+59
+Cheryl Ladd
+Think It Over
+60
+Dave Mason
+Will You Still Love Me Tomorrow
+61
+Demis Roussos
+That Once In A Lifetime
+62
+Teri DeSario
+Ain't Nothing Gonna Keep Me From You
+63
+Foxy
+Get Off
+64
+REO Speedwagon
+Time For Me To Fly
+65
+Barbra Streisand
+Love Theme From "Eyes Of Laura Mars" (Prisoner)
+66
+John Travolta & Olivia Newton-John & Cast
+Summer Nights
+67
+Carly Simon
+You Belong To Me
+68
+Billy Joel
+Only The Good Die Young
+69
+Johnny Mathis & Deniece Williams
+You're All I Need To Get By
+70
+Crystal Gayle
+Talking In Your Sleep
+71
+Cheap Trick
+Surrender
+72
+The Spinners
+If You Wanna Do A Dance
+73
+Helen Reddy
+Ready Or Not
+74
+Kristy And Jimmy McNichol
+He's So Fine
+75
+Paul Nicholas
+On The Strip
+76
+The Moody Blues
+Steppin' In A Slide Zone
+77
+Linda Clifford
+Runaway Love
+78
+Eruption
+I Can't Stand The Rain
+79
+Bruce Springsteen
+Prove It All Night
+80
+Kenny Loggins
+Whenever I Call You "Friend"
+81
+Aerosmith
+Come Together
+82
+Prism
+Flyin'
+83
+Captain & Tennille
+You Never Done It Like That
+84
+Chilliwack
+Arms Of Mary
+85
+Burton Cummings
+Break It To Them Gently
+86
+Stonebolt
+I Will Still Love You
+87
+British Lions
+Wild In The Streets
+88
+Charlie
+She Loves To Be In Love
+89
+Spellbound
+Rumor At The Honky Tonk
+90
+Trooper
+Raise A Little Hell
+91
+Louisiana's LeRoux
+New Orleans Ladies
+92
+The Tarney/Spencer Band
+It's Really You
+93
+Sweet
+Love Is Like Oxygen
+94
+Patti Smith Group
+Because The Night
+95
+Ronnie Milsap
+Only One Love In My Life
+96
+Bob Welch
+Hot Love, Cold World
+97
+Tuxedo Junction
+Chattanooga Choo Choo
+98
+Genesis
+Follow You Follow Me
+99
+Andrew Gold
+Never Let Her Slip Away
+100
+Bill Anderson
+I Can't Wait Any Longer

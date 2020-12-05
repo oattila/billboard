@@ -1,0 +1,300 @@
+1
+The Beatles
+Can't Buy Me Love
+2
+The Beatles
+Twist And Shout
+3
+Terry Stafford
+Suspicion
+4
+The Beatles
+She Loves You
+5
+Louis Armstrong And The All Stars
+Hello, Dolly!
+6
+Betty Everett
+The Shoop Shoop Song (It's In His Kiss)
+7
+The Beatles
+I Want To Hold Your Hand
+8
+The Dave Clark Five
+Glad All Over
+9
+The Beatles
+Please Please Me
+10
+The Serendipity Singers
+Don't Let The Rain Come Down (Crooked Little Man)
+11
+The Temptations
+The Way You Do The Things You Do
+12
+Bobby Vinton
+My Heart Belongs To Only You
+13
+The Searchers
+Needles And Pins
+14
+The Beatles
+Do You Want To Know A Secret
+15
+Jan & Dean
+Dead Man's Curve
+16
+The 4 Seasons
+Stay
+17
+Marvin Gaye
+You're A Wonderful One
+18
+The Beach Boys
+Fun, Fun, Fun
+19
+The Kingsmen
+Money
+20
+Bobby Bland
+Ain't Nothing You Can Do
+21
+The 4 Seasons
+Dawn (Go Away)
+22
+The Dave Clark Five
+Bits And Pieces
+23
+Lesley Gore
+That's The Way Boys Are
+24
+The Swinging Blue Jeans
+Hippy Hippy Shake
+25
+Brenda Lee
+Think
+26
+Mary Wells
+My Guy
+27
+Danny Williams
+White On White
+28
+Chubby Checker
+Hey, Bobba Needle
+29
+Chuck Berry
+Nadine (Is It You?)
+30
+Tommy Tucker
+Hi-Heel Sneakers
+31
+Al (He's the King) Hirt
+Java
+32
+Major Lance
+The Matador
+33
+Peter, Paul & Mary
+Tell It On The Mountain
+34
+Elvis Presley With The Jordanaires
+Kissin' Cousins
+35
+Lenny Welch
+Ebb Tide
+36
+Pete Drake And His Talking Steel Guitar
+Forever
+37
+Jan & Dean
+The New Girl In School
+38
+The Beatles
+I Saw Her Standing There
+39
+The Carefrees
+We Love You Beatles
+40
+Connie Francis
+Blue Winter
+41
+Elvis Presley With The Jordanaires
+It Hurts Me
+42
+Robert Maxwell His Harp And Orchestra
+Shangri-La
+43
+Diane Renay
+Navy Blue
+44
+The Devotions
+Rip Van Winkle
+45
+Al Martino
+I Love You More And More Every Day
+46
+Dean And Jean
+Hey Jean, Hey Dean
+47
+Ray Charles
+My Heart Cries For You
+48
+The Beatles
+You Can't Do That
+49
+Soul Sisters
+I Can't Stand It
+50
+The Beatles
+All My Loving
+51
+The Impressions
+I'm So Proud
+52
+The Beatles
+From Me To You
+53
+Irma Thomas
+Wish Someone Would Care
+54
+Bobby Rydell
+Make Me Forget
+55
+Bobby Vee With The Eligibles
+I'll Make You Mine
+56
+Little Stevie Wonder
+Castles In The Sand
+57
+Jimmy Gilmer And The Fireballs
+Ain't Gonna Tell Anybody
+58
+Vic Dana
+Shangri-La
+59
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Ronnie
+60
+The Vibrations
+My Girl Sloopy
+61
+The Beatles
+Thank You Girl
+62
+Dusty Springfield
+Stay Awhile
+63
+Anna King-Bobby Byrd
+Baby Baby Baby
+64
+The Raindrops
+Book Of Love
+65
+The Monarchs
+Look Homeward Angel
+66
+Jerry Butler
+Giving Up On Love
+67
+Ruby And The Romantics
+Our Everlasting Love
+68
+Rick Nelson
+Congratulations
+69
+The Contours
+Can You Do It
+70
+Sammy Kaye And His Orchestra
+Charade
+71
+The Coasters
+T'ain't Nothin' To Me
+72
+Henry Mancini And His Orchestra
+The Pink Panther Theme
+73
+The Tams
+You Lied To Your Daddy
+74
+The Beatles
+There's A Place
+75
+Gloria Lynne
+I Should Care
+76
+The Shirelles
+Sha-La-La
+77
+Diane Renay
+Kiss Me Sailor
+78
+The Beatles
+Roll Over Beethoven
+79
+The Tams
+It's All Right (You're Just In Love)
+80
+The Ronettes
+(The Best Part Of) Breakin' Up
+81
+The Beatles
+Love Me Do
+82
+Freddie Scott
+Where Does Love Go
+83
+Martha & The Vandellas
+In My Lonely Room
+84
+King Curtis
+Soul Serenade
+85
+Ben E. King
+That's When It Hurts
+86
+The Reflections
+(Just Like) Romeo & Juliet
+87
+Al Hirt
+Cotton Candy
+88
+Otis Redding
+Come To Me
+89
+Herb Alpert's Tijuana Brass
+Mexican Drummer Man
+90
+Roy Orbison
+It's Over
+91
+Rufus Thomas
+Somebody Stole My Dog
+92
+Chuck Jackson
+Hand It Over
+93
+The Marketts
+Vanishing Point
+94
+Gloria Lynne
+Be Anything (But Be Mine)
+95
+The Wailers
+Tall Cool One
+96
+Tony Bennett
+When Joanna Loved Me
+97
+Barbra Streisand
+People
+98
+Jerry Lee Lewis
+I'm On Fire
+99
+The Ray Charles Singers
+Love Me With All Your Heart (Cuando Calienta El Sol)
+100
+Nat King Cole
+People

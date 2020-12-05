@@ -1,0 +1,300 @@
+1
+Ed Sheeran
+Perfect
+2
+Camila Cabello Featuring Young Thug
+Havana
+3
+Bruno Mars & Cardi B
+Finesse
+4
+Post Malone Featuring 21 Savage
+Rockstar
+5
+G-Eazy Featuring A$AP Rocky & Cardi B
+No Limit
+6
+Imagine Dragons
+Thunder
+7
+Halsey
+Bad At Love
+8
+Sam Smith
+Too Good At Goodbyes
+9
+Justin Timberlake
+Filthy
+10
+Migos, Nicki Minaj & Cardi B
+MotorSport
+11
+Dua Lipa
+New Rules
+12
+Lil Pump
+Gucci Gang
+13
+Kendrick Lamar Featuring Zacari
+Love.
+14
+Cardi B Featuring 21 Savage
+Bartier Cardi
+15
+NF
+Let You Down
+16
+G-Eazy & Halsey
+Him & I
+17
+Cardi B
+Bodak Yellow (Money Moves)
+18
+Bebe Rexha & Florida Georgia Line
+Meant To Be
+19
+6ix9ine
+Gummo
+20
+Portugal. The Man
+Feel It Still
+21
+Demi Lovato
+Sorry Not Sorry
+22
+Ed Sheeran
+Shape Of You
+23
+Charlie Puth
+How Long
+24
+Selena Gomez X Marshmello
+Wolves
+25
+Gucci Mane Featuring Migos
+I Get The Bag
+26
+Post Malone
+I Fall Apart
+27
+Maroon 5 Featuring SZA
+What Lovers Do
+28
+Khalid
+Young Dumb & Broke
+29
+A$AP Ferg Featuring Nicki Minaj
+Plain Jane
+30
+Imagine Dragons
+Believer
+31
+Miguel Featuring Travis Scott
+Sky Walker
+32
+Eminem Featuring Ed Sheeran
+River
+33
+Lil Uzi Vert Featuring Nicki Minaj
+The Way Life Goes
+34
+Luis Fonsi & Daddy Yankee Featuring Justin Bieber
+Despacito
+35
+J Balvin & Willy William Featuring Beyonce
+Mi Gente
+36
+Taylor Swift Featuring Ed Sheeran & Future
+End Game
+37
+21 Savage
+Bank Account
+38
+Bruno Mars
+That's What I Like
+39
+Thomas Rhett
+Marry Me
+40
+Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt
+Let Me Go
+41
+Charlie Puth
+Attention
+42
+SZA
+The Weekend
+43
+Kendrick Lamar & SZA
+All The Stars
+44
+Logic Featuring Alessia Cara & Khalid
+1-800-273-8255
+45
+Kodak Black Featuring XXXTENTACION
+Roll In Peace
+46
+Marshmello Featuring Khalid
+Silence
+47
+MAX Featuring gnash
+Lights Down Low
+48
+Offset & Metro Boomin
+Ric Flair Drip
+49
+French Montana Featuring Swae Lee
+Unforgettable
+50
+N*E*R*D & Rihanna
+Lemon
+51
+Brett Young
+Like I Loved You
+52
+Russell Dickerson
+Yours
+53
+Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black
+Pills And Automobiles
+54
+Macklemore Featuring Kesha
+Good Old Days
+55
+Demi Lovato
+Tell Me You Love Me
+56
+Maren Morris
+I Could Use A Love Song
+57
+Eric Church
+Round Here Buzz
+58
+Kodak Black Featuring Lil Wayne
+Codeine Dreaming
+59
+Ozuna x Cardi B
+La Modelo
+60
+Luis Fonsi & Demi Lovato
+Echame La Culpa
+61
+LANCO
+Greatest Love Story
+62
+YBN Nahmir
+Rubbin Off The Paint
+63
+Chris Young
+Losing Sleep
+64
+Keala Settle & The Greatest Showman Ensemble
+This Is Me
+65
+Camila Cabello
+Never Be The Same
+66
+Blake Shelton
+I'll Name The Dogs
+67
+Post Malone
+Candy Paint
+68
+Walker Hayes
+You Broke Up With Me
+69
+Old Dominion
+Written In The Sand
+70
+Kane Brown
+Heaven
+71
+Famous Dex Featuring A$AP Rocky
+Pick It Up
+72
+Migos
+Stir Fry
+73
+6ix9ine
+Kooda
+74
+BTS Featuring Desiigner
+MIC Drop
+75
+YoungBoy Never Broke Again
+No Smoke
+76
+Lil Xan
+Betrayed
+77
+Scotty McCreery
+Five More Minutes
+78
+Zac Efron & Zendaya
+Rewrite The Stars
+79
+Quavo & Lil Yachty
+Ice Tray
+80
+Taylor Swift
+...Ready For It?
+81
+Devin Dawson
+All On Me
+82
+Liam Payne & Rita Ora
+For You (Fifty Shades Freed)
+83
+Kelsea Ballerini
+Legends
+84
+WALK THE MOON
+One Foot
+85
+Lil Skies Featuring Landon Cube
+Nowadays
+86
+Sofi Tukker Featuring NERVO, The Knocks & Alisa Ueno
+Best Friend
+87
+Lil Baby
+My Dawg
+88
+Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble
+The Greatest Show
+89
+Farruko, Nicki Minaj, Bad Bunny, 21 Savage & Rvssian
+Krippy Kush
+90
+Maluma X Nego do Borel
+Corazon
+91
+Chris Stapleton
+Broken Halos
+92
+Clean Bandit Featuring Julia Michaels
+I Miss You
+93
+Niall Horan
+Too Much To Ask
+94
+Becky G Featuring Bad Bunny
+Mayores
+95
+P!nk
+Beautiful Trauma
+96
+Keith Urban
+Female
+97
+Machine Gun Kelly, X Ambassadors & Bebe Rexha
+Home
+98
+Lil Skies Featuring Landon Cube
+Red Roses
+99
+Loren Allred
+Never Enough
+100
+Yo Gotti
+Juice

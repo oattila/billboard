@@ -1,0 +1,300 @@
+1
+The Beatles
+Ticket To Ride
+2
+Herman's Hermits
+Mrs. Brown You've Got A Lovely Daughter
+3
+Gary Lewis And The Playboys
+Count Me In
+4
+The Beach Boys
+Help Me, Rhonda
+5
+The Seekers
+I'll Never Find Another You
+6
+The Supremes
+Back In My Arms Again
+7
+Herman's Hermits
+Silhouettes
+8
+Sam The Sham and the Pharaohs
+Wooly Bully
+9
+The Righteous Brothers
+Just Once In My Life
+10
+Elvis Presley With The Jordanaires
+Crying In The Chapel
+11
+Sounds Orchestral
+Cast Your Fate To The Wind
+12
+Glenn Yarbrough
+Baby The Rain Must Fall
+13
+Petula Clark
+I Know A Place
+14
+Wayne Fontana & The Mindbenders
+Game Of Love
+15
+Tom Jones
+It's Not Unusual
+16
+Marvin Gaye
+I'll Be Doggone
+17
+Peter And Gordon
+True Love Ways
+18
+Sir Douglas Quintet
+She's About A Mover
+19
+The Beau Brummels
+Just A Little
+20
+The Dixie Cups
+Iko Iko
+21
+The Miracles
+Ooo Baby Baby
+22
+The Rolling Stones
+The Last Time
+23
+The Dave Clark Five
+Reelin' And Rockin'
+24
+Freddie And The Dreamers
+Do The Freddie
+25
+Jody Miller
+Queen Of The House
+26
+Freddie And The Dreamers
+You Were Made For Me
+27
+Perry Como
+Dream On Little Dreamer
+28
+Ronnie Dove
+One Kiss For Old Times' Sake
+29
+Little Milton
+We're Gonna Make It
+30
+Roger Miller
+Engine Engine #9
+31
+The Temptations
+It's Growing
+32
+Four Tops
+I Can't Help Myself (Sugar Pie Honey Bunch)
+33
+Billy Stewart
+I Do Love You
+34
+Gene Chandler
+Nothing Can Stop Me
+35
+Cannibal And The Headhunters
+Land Of 1000 Dances
+36
+Bobby Vinton
+L-O-N-E-L-Y
+37
+Gerry And The Pacemakers
+It's Gonna Be Alright
+38
+Gene Pitney
+Last Chance To Turn Around
+39
+Patti Page
+Hush, Hush, Sweet Charlotte
+40
+Chubby Checker
+Let's Do The Freddie
+41
+Vic Damone
+You Were Only Fooling (While I Was Falling In Love)
+42
+Freddie And The Dreamers
+I'm Telling You Now
+43
+The Kinks
+Tired Of Waiting For You
+44
+The Moody Blues
+Go Now!
+45
+Bert Kaempfert And His Orchestra
+Three O'Clock In The Morning
+46
+Bob Dylan
+Subterranean Homesick Blues
+47
+Sam Cooke
+It's Got The Whole World Shakin'
+48
+Tony Clarke
+The Entertainer
+49
+Unit Four plus Two
+Concrete And Clay
+50
+Chad & Jeremy
+Before And After
+51
+Eddie Rambeau
+Concrete And Clay
+52
+The Animals
+Bring It On Home To Me
+53
+Connie Stevens
+Now That You've Gone
+54
+The Beatles
+Yes It Is
+55
+Horst Jankowski
+A Walk In The Black Forest
+56
+Bobby Goldsboro
+Voodoo Woman
+57
+Al (He's the King) Hirt
+Al's Place
+58
+Chad & Jeremy
+What Do You Want With Me
+59
+The Guess Who
+Shakin' All Over
+60
+The Drifters
+Come On Over To My Place
+61
+The Yardbirds
+For Your Love
+62
+Connie Francis
+Wishing It Was You
+63
+Joe Tex
+A Woman Can Change A Man
+64
+The Sunglows
+Peanuts (La Cacahuata)
+65
+Tom and Jerrio
+Boo-Ga-Loo
+66
+Julie Andrews-Dick Van Dyke
+Super-cali-fragil-istic-expi-ali-docious
+67
+Chuck Jackson & Maxine Brown
+Something You Got
+68
+The O'Jays
+Lipstick Traces (On A Cigarette)
+69
+The Kingsmen
+The Climb
+70
+Donovan
+Catch The Wind
+71
+Jewel Akens
+Georgie Porgie
+72
+The Byrds
+Mr. Tambourine Man
+73
+The Righteous Brothers
+You Can Have Her
+74
+Dickey Lee
+Laurie (Strange Things Happen)
+75
+Otis Redding
+I've Been Loving You Too Long (To Stop Now)
+76
+Soupy Sales
+The Mouse
+77
+Dean Martin
+(Remember Me) I'm The One Who Loves You
+78
+Esther Phillips
+And I Love Him
+79
+The Marvelows
+I Do
+80
+The Sapphires
+Gotta Have Your Love
+81
+The Olympics
+Good Lovin'
+82
+Frank Sinatra
+Tell Her (You Love Her Every Day)
+83
+Buck Owens
+Before You Go
+84
+The Ovations (Featuring Louis Williams)
+It's Wonderful To Be In Love
+85
+Eddy Arnold
+What's He Doing In My World
+86
+Barbara Mason
+Yes, I'm Ready
+87
+The New Christy Minstrels
+Chim, Chim, Cheree
+88
+Jackie DeShannon
+What The World Needs Now Is Love
+89
+James Phelps
+Love Is A 5-Letter Word
+90
+Wayne Newton
+I'll Be With You In Apple Blossom Time
+91
+Jan & Dean
+You Really Know How To Hurt A Guy
+92
+Reparata And The Delrons
+Tommy
+93
+Them
+Gloria
+94
+Peter, Paul & Mary
+When The Ship Comes In
+95
+Bobby Vee
+Keep On Trying
+96
+The Rolling Stones
+Play With Fire
+97
+Del Shannon
+Break Up
+98
+Vic Dana
+Bring A Little Sunshine (To My Heart)
+99
+Ian Whitcomb And Bluesville
+You Turn Me On (Turn On Song)
+100
+Jerry Vale
+Tears Keep On Falling

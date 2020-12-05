@@ -1,0 +1,300 @@
+1
+Kenny Loggins
+Footloose
+2
+Rockwell
+Somebody's Watching Me
+3
+Phil Collins
+Against All Odds (Take A Look At Me Now)
+4
+Eurythmics
+Here Comes The Rain Again
+5
+Van Halen
+Jump
+6
+The Pointer Sisters
+Automatic
+7
+Culture Club
+Miss Me Blind
+8
+Daryl Hall John Oates
+Adult Education
+9
+Cyndi Lauper
+Girls Just Want To Have Fun
+10
+Lionel Richie
+Hello
+11
+Thompson Twins
+Hold Me Now
+12
+Huey Lewis & The News
+I Want A New Drug
+13
+"Weird Al" Yankovic
+Eat It
+14
+Nena
+99 Luftballons
+15
+Tracey Ullman
+They Don't Know
+16
+Queen
+Radio Ga Ga
+17
+Dwight Twilley
+Girls
+18
+Christine McVie
+Got A Hold On Me
+19
+The Cars
+You Might Think
+20
+Rick Springfield
+Love Somebody
+21
+Dan Fogelberg
+The Language Of Love
+22
+Paul Young
+Come Back And Stay
+23
+Michael Jackson
+Thriller
+24
+Kool & The Gang
+Tonight
+25
+The Alan Parsons Project
+Don't Answer Me
+26
+KC
+Give It Up
+27
+Go-Go's
+Head Over Heels
+28
+Yes
+Leave It
+29
+John Cougar Mellencamp
+The Authority Song
+30
+Manfred Mann's Earth Band
+Runner
+31
+Julio Iglesias And Willie Nelson
+To All The Girls I've Loved Before
+32
+Tony Carey
+A Fine Fine Day
+33
+Matthew Wilder
+The Kid's American
+34
+UB40
+Red Red Wine
+35
+Bonnie Tyler
+Holding Out For A Hero
+36
+Thirty Eight Special
+Back Where You Belong
+37
+The Romantics
+One In A Million
+38
+Pretenders
+Show Me
+39
+Berlin
+No More Words
+40
+Billy Joel
+The Longest Time
+41
+Irene Cara
+Breakdance
+42
+Bon Jovi
+Runaway
+43
+Duran Duran
+New Moon On Monday
+44
+Tina Turner
+Let's Stay Together
+45
+Shalamar
+Dancing In The Sheets
+46
+Madonna
+Borderline
+47
+Steve Perry
+Oh, Sherrie
+48
+Night Ranger
+Sister Christian
+49
+Jeffrey Osborne
+We're Going All The Way
+50
+Genesis
+Illegal Alien
+51
+Real Life
+Catch Me I'm Falling
+52
+Talk Talk
+It's My Life
+53
+Howard Jones
+New Song
+54
+Laid Back
+White Horse
+55
+John Lennon
+Nobody Told Me
+56
+Deniece Williams
+Let's Hear It For The Boy
+57
+Debarge
+Love Me In A Special Way
+58
+Scorpions
+Rock You Like A Hurricane
+59
+Shannon
+Give Me Tonight
+60
+Billy Rankin
+Baby Come Back
+61
+Billy Idol
+Rebel Yell
+62
+Roger Daltrey
+Walking In My Sleep
+63
+The Police
+Wrapped Around Your Finger
+64
+John Lennon
+I'm Steppin' Out
+65
+Mr. Mister
+Hunters Of The Night
+66
+Olivia Newton-John
+Livin' In Desperate Times
+67
+Slade
+Run, Runaway
+68
+Misiing Persons
+Give
+69
+Culture Club
+Karma Chameleon
+70
+Shannon
+Let The Music Play
+71
+Spandau Ballet
+Communication
+72
+Sheena Easton
+Almost Over You
+73
+Adam Ant
+Strip
+74
+Dazz Band
+Joystick
+75
+Re-flex
+The Politics Of Dancing
+76
+Golden Earring
+When The Lady Smiles
+77
+Sergio Mendes
+Olympia
+78
+Stacy Lattisaw & Johnny Gill
+Perfect Combination
+79
+Nik Kershaw
+Wouldn't It Be Good
+80
+Cameo
+She's Strange
+81
+Midnight Star
+No Parking (On The Dance Floor)
+82
+Wang Chung
+Don't Let Go
+83
+Billy Joel
+An Innocent Man
+84
+Frankie Goes To Hollywood
+Relax
+85
+The Temptations
+Sail Away
+86
+Kool & The Gang
+Joanna
+87
+Stephen Bishop
+Unfaithfully Yours (Our Love)
+88
+Bobby Womack & Patti LaBelle
+Love Has Finally Come At Last
+89
+James Ingram
+There's No Easy Way
+90
+David Gilmour
+Blue Light
+91
+Thomas Dolby
+Hyperactive
+92
+The Style Council
+My Ever Changing Moods
+93
+Modern English
+Hands Across The Sea
+94
+James Ingram With Michael McDonald
+Yah Mo B There
+95
+Josie Cotton
+Jimmy Loves Maryann
+96
+Kenny Rogers
+This Woman
+97
+Yes
+Owner Of A Lonely Heart
+98
+Genesis
+That's All
+99
+Motley Crue
+Looks That Kill
+100
+Eddie Money
+Club Michelle

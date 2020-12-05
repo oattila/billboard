@@ -1,0 +1,300 @@
+1
+Donny Osmond
+Go Away Little Girl
+2
+Aretha Franklin
+Spanish Harlem
+3
+The Undisputed Truth
+Smiling Faces Sometimes
+4
+Bill Withers
+Ain't No Sunshine
+5
+Paul & Linda McCartney
+Uncle Albert/Admiral Halsey
+6
+Bee Gees
+How Can You Mend A Broken Heart
+7
+Rare Earth
+I Just Want To Celebrate
+8
+John Denver
+Take Me Home, Country Roads
+9
+Five Man Electrical Band
+Signs
+10
+Rod Stewart
+Maggie May/Reason To Believe
+11
+The Dramatics
+Whatcha See Is Whatcha Get
+12
+Joan Baez
+The Night They Drove Old Dixie Down
+13
+Three Dog Night
+Liar
+14
+The Honey Cone
+Stick-Up
+15
+Marvin Gaye
+Mercy, Mercy Me (The Ecology)
+16
+The Who
+Won't Get Fooled Again
+17
+Carpenters
+Superstar/Bless The Beasts And Children
+18
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Woke Up In Love This Morning
+19
+Chicago
+Beginnings/Colour My World
+20
+Lee Michaels
+Do You Know What I Mean
+21
+Jean Knight
+Mr. Big Stuff
+22
+Creedence Clearwater Revival
+Sweet Hitch-Hiker
+23
+George Harrison
+Bangla-Desh/Deep Blue
+24
+Al Green
+Tired Of Being Alone
+25
+The Doors
+Riders On The Storm
+26
+The Moody Blues
+The Story In Your Eyes
+27
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+28
+Stevie Wonder
+If You Really Love Me
+29
+Olivia Newton-John
+If Not For You
+30
+James Brown
+Make It Funky (Part 1)
+31
+Bobby Russell
+Saturday Morning Confusion
+32
+Carole King
+So Far Away/Smackwater Jack
+33
+The Guess Who
+Rain Dance
+34
+Paul Stookey
+Wedding Song (There Is Love)
+35
+Stampeders
+Sweet City Woman
+36
+Blood, Sweat & Tears
+Go Down Gamblin'
+37
+James Brown
+Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt. 1)
+38
+The People's Choice
+I Likes To Do It
+39
+The Nite-Liters
+K-Jee
+40
+Diana Ross
+Surrender
+41
+The Glass Bottle
+I Ain't Got Time Anymore
+42
+War
+All Day Music
+43
+Rufus Thomas
+The Breakdown (Part I)
+44
+The Free Movement
+I've Found Someone Of My Own
+45
+Redbone
+Maggie
+46
+Stephen Stills
+Marianne
+47
+The Dells
+The Love We Had (Stays On My Mind)
+48
+The Poppy Family
+Where Evil Grows
+49
+The Stylistics
+Stop, Look, Listen (To Your Heart)
+50
+Jr. Walker & The All Stars
+Take Me Girl, I'm Ready
+51
+Freddie Hart
+Easy Loving
+52
+Tommy Roe
+Stagger Lee
+53
+Helen Reddy
+Crazy Love
+54
+Bobby Sherman
+Waiting At The Bus Stop
+55
+Engelbert Humperdinck
+Another Time, Another Place
+56
+Wilson Pickett
+Call My Name, I'll Be There
+57
+The Persuaders
+Thin Line Between Love & Hate
+58
+Kris Kristofferson
+Loving Her Was Easier (Than Anything I'll Ever Do Again)
+59
+Denise LaSalle
+Trapped By A Thing Called Love
+60
+Hamilton, Joe Frank & Reynolds
+Annabella
+61
+Grand Funk Railroad
+Gimme Shelter
+62
+Jerry Reed
+Ko-Ko Joe
+63
+Tin Tin
+Is That The Way
+64
+Buddy Miles & The Freedom Express
+Them Changes
+65
+Lynn Anderson
+How Can I Unlove You
+66
+Johnnie Taylor (The Soul Philosopher)
+Hijackin' Love
+67
+Bread
+Mother Freedom
+68
+Lou Rawls
+A Natural Man
+69
+Barbra Streisand
+Where You Lead
+70
+Ray Price
+I'd Rather Be Sorry
+71
+Johnny Rivers
+Think His Name
+72
+Lobo
+California Kid And Reemo
+73
+The New Colony Six
+Roll On
+74
+John Baldry
+Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll
+75
+Lighthouse
+One Fine Morning
+76
+Anne Murray
+Talk It Over In The Morning
+77
+Ray Stevens
+All My Trials
+78
+Four Tops
+MacArthur Park (Part II)
+79
+B.B. King
+Ghetto Woman
+80
+Janis Joplin
+Get It While You Can
+81
+The Raiders
+Birds Of A Feather
+82
+Graham Nash
+Military Madness
+83
+Andy Williams
+A Song For You
+84
+Heaven Bound with Tony Scotti
+He'd Rather Have The Rain
+85
+The Osmonds
+Yo-Yo
+86
+Ray Charles
+Feel So Bad
+87
+The Newcomers
+Pin The Tail On The Donkey
+88
+Tom T. Hall
+The Year That Clayton Delaney Died
+89
+Laura Lee
+Women's Love Rights
+90
+Nitty Gritty Dirt Band
+Some Of Shelly's Blues
+91
+Chee-Chee & Peppy
+I Know I'm In Love
+92
+Runt-Todd Rundgren
+A Long Time, A Long Way To Go
+93
+Messengers
+That's The Way A Woman Is
+94
+The Searchers
+Desdemona
+95
+Chase
+Handbags And Gladrags
+96
+Funkadelic
+Can You Get To That
+97
+Brenda & The Tabulations
+A Part Of You
+98
+Billie Sans
+Solo
+99
+Gordon Lightfoot
+Summer Side Of Life
+100
+The Main Ingredient
+Black Seeds Keep On Growing

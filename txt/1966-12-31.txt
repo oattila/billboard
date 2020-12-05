@@ -1,0 +1,300 @@
+1
+The Monkees
+I'm A Believer
+2
+The Royal Guardsmen
+Snoopy Vs. The Red Baron
+3
+The New Vaudeville Band
+Winchester Cathedral
+4
+Frank Sinatra
+That's Life
+5
+Nancy Sinatra
+Sugar Town
+6
+Donovan
+Mellow Yellow
+7
+Aaron Neville
+Tell It Like It Is
+8
+The Temptations
+(I Know) I'm Losing You
+9
+Stevie Wonder
+A Place In The Sun
+10
+Paul Revere & The Raiders Featuring Mark Lindsay
+Good Thing
+11
+Mitch Ryder And The Detroit Wheels
+Devil With A Blue Dress On & Good Golly Miss Molly
+12
+Sandy Posey
+Single Girl
+13
+The Beach Boys
+Good Vibrations
+14
+The Supremes
+You Keep Me Hangin' On
+15
+Four Tops
+Standing In The Shadows Of Love
+16
+The Music Machine
+Talk Talk
+17
+Bobby Vinton
+Coming Home Soldier
+18
+Ronnie Dove
+Cry
+19
+The Mamas & The Papas
+Words Of Love
+20
+Roger Williams
+Born Free
+21
+Jackie Wilson
+Whispers (Gettin' Louder)
+22
+? (Question Mark) & The Mysterians
+I Need Somebody
+23
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Tell It To The Rain
+24
+Herb Alpert & The Tijuana Brass
+Mame
+25
+Peter And Gordon
+Lady Godiva
+26
+Wilson Pickett
+Mustang Sally
+27
+Herman's Hermits
+East West
+28
+Jimmy Ruffin
+I've Passed This Way Before
+29
+Eric Burdon & The Animals
+Help Me Girl
+30
+The Yardbirds
+Happenings Ten Years Time Ago
+31
+Neil Diamond
+I Got The Feelin' (Oh No No)
+32
+The Monkees
+(I'm Not Your) Steppin' Stone
+33
+The Lovin' Spoonful
+Nashville Cats
+34
+The Miracles
+(Come 'round Here) I'm The One You Need
+35
+The Association
+Pandora's Golden Heebie Jeebies
+36
+Otis Redding
+Try A Little Tenderness
+37
+The Seekers
+Georgy Girl
+38
+Petula Clark
+Color My World
+39
+Tommy James And The Shondells
+It's Only Love
+40
+Percy Sledge
+It Tears Me Up
+41
+Blues Magoos
+(We Ain't Got) Nothin' Yet
+42
+The Innocence
+There's Got To Be A Word!
+43
+Senator Everett McKinley Dirksen
+Gallant Men
+44
+Bobby Goldsboro
+Blue Autumn
+45
+Martha & The Vandellas
+I'm Ready For Love
+46
+Simon & Garfunkel
+A Hazy Shade Of Winter
+47
+Keith
+98.6
+48
+Terry Knight and The Pack
+I (Who Have Nothing)
+49
+Gene Chandler
+I Fooled You This Time
+50
+The Hollies
+Stop Stop Stop
+51
+Gary Lewis And The Playboys
+Where Will The Words Come From
+52
+Dr. West's Medicine Show and Junk Band
+The Eggplant That Ate Chicago
+53
+Eddie Floyd
+Knock On Wood
+54
+The Electric Prunes
+I Had Too Much To Dream (Last Night)
+55
+The Critters
+Bad Misunderstanding
+56
+The Happenings
+Goodnight My Love
+57
+Baja Marimba Band
+Ghost Riders In The Sky
+58
+Spyder Turner
+Stand By Me
+59
+Joe Tex
+Papa Was Too
+60
+Lou Rawls
+You Can Bring Me All Your Heartaches
+61
+Sam The Sham and the Pharaohs
+How Do You Catch A Girl
+62
+The Drifters
+Baby What I Mean
+63
+The Emperor's
+Karate
+64
+Pozo Seco Singers
+Look What You've Done
+65
+The Outsiders
+Help Me Girl
+66
+Bobby Darin
+The Girl That Stood Beside Me
+67
+Dean Martin
+(Open Up The Door) Let The Good Times In
+68
+The Young Holt Trio
+Wack Wack
+69
+Baby Ray
+There's Something On Your Mind
+70
+The Youngbloods
+Grizzly Bear
+71
+Peter And Gordon
+Knight In Rusty Armour
+72
+Roy Orbison
+Communication Breakdown
+73
+Dionne Warwick
+Another Night
+74
+Tom Jones
+Green, Green Grass Of Home
+75
+Gene Pitney
+Just One Smile
+76
+Alvin Cash & The Registers
+Alvin's Boo-Ga-Loo
+77
+The Mamas & The Papas
+Dancing In The Street
+78
+Ramsey Lewis
+Day Tripper
+79
+Damita Jo
+If You Go Away
+80
+The Artistics
+I'm Gonna Miss You
+81
+The Gunter Kallmann Chorus
+Wish Me A Rainbow
+82
+The Cyrkle
+Please Don't Ever Leave Me
+83
+Sergio Mendes & Brasil '66
+Constant Rain (Chove Chuva)
+84
+Tommy Roe
+It's Now Winters Day
+85
+The Seeds
+Pushin' Too Hard
+86
+Bob Crewe Generation
+Music To Watch Girls By
+87
+Howard Tate
+Look At Granny Run, Run
+88
+Freddy Scott
+Are You Lonely For Me
+89
+J.J. Jackson
+I Dig Girls
+90
+The Buckinghams
+Kind Of A Drag
+91
+The Sopwith "Camel"
+Hello Hello
+92
+Peaches & Herb
+Let's Fall In Love
+93
+Patti LaBelle And The Blue Belles
+Take Me For A Little While
+94
+Boots Randolph
+The Shadow Of Your Smile
+95
+Jimmy Castor
+Hey, Leroy, Your Mama's Callin' You
+96
+Bobby Hebb
+Love Me
+97
+Sam & Dave
+You Got Me Hummin'
+98
+Don Ho and the Aliis
+Tiny Bubbles
+99
+The Hardtimes
+Fortune Teller
+100
+The Spencer Davis Group
+Gimme Some Lovin'

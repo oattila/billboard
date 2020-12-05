@@ -1,0 +1,300 @@
+1
+? (Question Mark) & The Mysterians
+96 Tears
+2
+The Monkees
+Last Train To Clarksville
+3
+Four Tops
+Reach Out I'll Be There
+4
+Johnny Rivers
+Poor Side Of Town
+5
+The Left Banke
+Walk Away Renee
+6
+Herman's Hermits
+Dandy
+7
+Jimmy Ruffin
+What Becomes Of The Brokenhearted
+8
+Tommy Roe
+Hooray For Hazel
+9
+The Rolling Stones
+Have You Seen Your Mother, Baby, Standing In The Shadow?
+10
+Eric Burdon & The Animals
+See See Rider
+11
+Bobby Darin
+If I Were A Carpenter
+12
+The Happenings
+Go Away Little Girl
+13
+The Association
+Cherish
+14
+Count Five
+Psychotic Reaction
+15
+Carla Thomas
+B-A-B-Y
+16
+James & Bobby Purify
+I'm Your Puppet
+17
+Neil Diamond
+Cherry, Cherry
+18
+Gary Lewis And The Playboys
+(You Don't Have To) Paint Me A Picture
+19
+Lou Rawls
+Love Is A Hurtin' Thing
+20
+Paul Revere & The Raiders Featuring Mark Lindsay
+The Great Airplane Strike
+21
+Sonny & Cher
+Little Man
+22
+Sam The Sham and the Pharaohs
+The Hair On My Chinny Chin Chin
+23
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+I've Got You Under My Skin
+24
+Roger Williams
+Born Free
+25
+The Supremes
+You Can't Hurry Love
+26
+The Lovin' Spoonful
+Rain On The Roof
+27
+Mitch Ryder And The Detroit Wheels
+Devil With A Blue Dress On & Good Golly Miss Molly
+28
+Los Bravos
+Black Is Black
+29
+Dusty Springfield
+All I See Is You
+30
+Dionne Warwick
+I Just Don't Know What To Do With Myself
+31
+Brenda Lee
+Coming On Strong
+32
+Gerry And The Pacemakers
+Girl On A Swing
+33
+Pozo Seco Singers
+I Can Make It With You
+34
+Otis Redding
+Fa-Fa-Fa-Fa-Fa (Sad Song)
+35
+The Surfaris
+Wipe Out
+36
+The Byrds
+Mr. Spaceman
+37
+The Temptations
+Beauty Is Only Skin Deep
+38
+The Beach Boys
+Good Vibrations
+39
+Petula Clark
+Who Am I
+40
+Nino Tempo & April Stevens
+All Strung Out
+41
+Dee Dee Warwick
+I Want To Be With You
+42
+Elvis Presley With The Jordanaires
+All That I Am
+43
+The Young Rascals
+Come On Up
+44
+Elvis Presley With The Jordanaires
+Spinout
+45
+Bobby Hebb
+A Satisfied Mind
+46
+Peter And Gordon
+Lady Godiva
+47
+Sergio Mendes & Brasil '66
+Mas Que Nada
+48
+The Vogues
+Please Mr. Sun
+49
+Billy Stewart
+Secret Love
+50
+Ramsey Lewis
+Up Tight
+51
+The Mamas & The Papas
+Look Through My Window
+52
+Keith
+Ain't Gonna Lie
+53
+Ronnie Dove
+I Really Don't Want To Know
+54
+J.J. Jackson
+But It's Alright
+55
+The Troggs
+I Can't Control Myself
+56
+James Brown And The Famous Flames
+Don't Be A Drop-Out
+57
+Crispian St. Peters
+Changes
+58
+Ben Colder
+Almost Persuaded No. 2
+59
+The Sandpipers
+Louie, Louie
+60
+Dean Martin
+Nobody's Baby Again
+61
+Eddy Arnold
+Somebody Like Me
+62
+Eddie Floyd
+Knock On Wood
+63
+The Olympics
+Baby, Do The Philly Dog
+64
+Joe Tex
+I've Got To Do A Little Bit Better
+65
+The Trade Winds
+Mind Excursion
+66
+The New Vaudeville Band
+Winchester Cathedral
+67
+Margaret Whiting
+The Wheel Of Hurt
+68
+The Supremes
+You Keep Me Hangin' On
+69
+The Dave Clark Five
+Nineteen Days
+70
+Martha & The Vandellas
+I'm Ready For Love
+71
+Lorraine Ellison
+Stay With Me
+72
+The Elgins
+Heaven Must Have Sent You
+73
+The McCoys
+Don't Worry Mother, Your Son's Heart Is Pure
+74
+Al Martino
+The Wheel Of Hurt
+75
+Darrell Banks
+Somebody (Somewhere) Needs You
+76
+The Hollies
+Stop Stop Stop
+77
+The Righteous Brothers
+On This Side Of Goodbye
+78
+Mel Carter
+Take Good Care Of Her
+79
+Percy Sledge
+It Tears Me Up
+80
+The Arbors
+A Symphony For Susan
+81
+Pat Boone
+Wish You Were Here, Buddy
+82
+Lee Dorsey
+Holy Cow
+83
+Brian Hyland
+Run, Run, Look And See
+84
+Barbra Streisand
+Free Again
+85
+Jack Jones
+A Day In The Life Of A Fool
+86
+Barbara Lewis
+Baby What Do You Want Me To Do
+87
+Chad & Jeremy
+You Are She
+88
+The Joe Cuba Sextet
+Bang Bang
+89
+The Standells
+Why Pick On Me
+90
+The Outsiders
+Help Me Girl
+91
+James Carr
+Pouring Water On A Drowning Man
+92
+Eddie Fisher
+Games That Lovers Play
+93
+Chris Montez
+Time After Time
+94
+Wayne Newton
+Games That Lovers Play
+95
+Nancy Ames
+Cry Softly
+96
+The O'Jays
+Stand In For Love
+97
+Bobby Bland
+Poverty
+98
+B.B. King
+Don't Answer The Door - Part 1
+99
+The Turtles
+Can I Get To Know You Better
+100
+The Ronettes Featuring Veronica
+I Can Hear Music

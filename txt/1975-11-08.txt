@@ -1,0 +1,300 @@
+1
+Elton John
+Island Girl
+2
+Eagles
+Lyin' Eyes
+3
+John Denver
+I'm Sorry
+4
+The 4 Seasons
+Who Loves You
+5
+Jefferson Starship
+Miracles
+6
+Linda Ronstadt
+Heat Wave/love Is A Rose
+7
+The Spinners
+They Just Can't Stop It the (Games People Play)
+8
+Natalie Cole
+This Will Be
+9
+Morris Albert
+Feelings
+10
+Captain & Tennille
+The Way I Want To Touch You
+11
+People's Choice
+Do It Any Way You Wanna
+12
+War
+Low Rider
+13
+Olivia Newton-John
+Something Better To Do
+14
+Leon Russell
+Lady Blue
+15
+ABBA
+S.O.S.
+16
+Neil Sedaka
+Bad Blood
+17
+Jigsaw
+Sky High
+18
+Bee Gees
+Nights On Broadway
+19
+KC And The Sunshine Band
+That's The Way (I Like It)
+20
+George Harrison
+You
+21
+Esther Phillips
+What A Diff'rence A Day Makes
+22
+Silver Convention
+Fly, Robin, Fly
+23
+Bruce Springsteen
+Born To Run
+24
+Simon & Garfunkel
+My Little Town
+25
+Art Garfunkel
+I Only Have Eyes For You
+26
+Pete Wingfield
+Eighteen With A Bullet
+27
+Willie Nelson
+Blue Eyes Crying In The Rain
+28
+The Staple Singers
+Let's Do It Again
+29
+The Manhattan Transfer
+Operator
+30
+The Ritchie Family
+Brazil
+31
+B.T. Express
+Give It What You Got/Peace Pipe
+32
+Melissa Manchester
+Just Too Many People
+33
+Leon Haywood
+I Want'a Do Something Freaky To You
+34
+John Fogerty
+Rockin' All Over The World
+35
+Freddy Fender
+Secret Love
+36
+Bay City Rollers
+Saturday Night
+37
+Frankie Valli
+Our Day Will Come
+38
+Tavares
+It Only Takes A Minute
+39
+Orleans
+Dance With Me
+40
+Joan Baez
+Diamonds And Rust
+41
+David Bowie
+Fame
+42
+Smokey Robinson
+The Agony And The Ecstasy
+43
+Sweet
+Ballroom Blitz
+44
+Helen Reddy
+Ain't No Way To Treat A Lady
+45
+Freddy Fender
+Since I Met You Baby
+46
+Arthur Alexander
+Every Day I Have To Cry Some
+47
+Ohio Players
+Sweet Sticky Thing
+48
+Van Mccoy
+Change With The Times
+49
+James Taylor
+Mexico
+50
+5000 Volts
+I'm On Fire
+51
+The Outlaws
+There Goes Another Love Song
+52
+Poco
+Keep On Tryin'
+53
+Crown Heights Affair
+Dreaming A Dream
+54
+Cheech & Chong
+(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P
+55
+The Eleventh Hour
+Hollywood Hot
+56
+Mike Post
+Manhattan Spiritual
+57
+Biddu Orchestra
+Summer Of '42
+58
+Rod Stewart
+Sailing
+59
+The O'Jays
+I Love Music (Part 1)
+60
+Wings
+Venus And Mars Rock Show
+61
+Faith, Hope And Charity
+To Each His Own
+62
+Michael Murphey
+Carolina In The Pines
+63
+Waylon Jennings
+Are You Sure Hank Done It This Way
+64
+Wings
+Letting Go
+65
+Alice Cooper
+Welcome To My Nightmare
+66
+Dickie Goodman
+Mr. Jaws
+67
+Curtis Mayfield
+So In Love
+68
+Ray Stevens
+Indian Love Call
+69
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+70
+Elvis Presley
+Bringing It Back
+71
+The Jimmy Castor Bunch
+King Kong - Pt. I
+72
+The Marshall Tucker Band
+Fire On The Mountain
+73
+Roger Daltrey
+Come And Get Your Love
+74
+Gladys Knight And The Pips
+Part Time Love
+75
+Jessi Colter
+What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov
+76
+Hot Chocolate
+You Sexy Thing
+77
+Quincy Jones (feat. The Brothers Johnson)
+Is It Love That We're Missin'
+78
+The Miracles
+Love Machine (Part 1)
+79
+Diana Ross
+Theme From Mahogany (Do You Know Where You're Going To)
+80
+The Impressions
+Same Thing It Took
+81
+Tony Orlando & Dawn
+Skybird
+82
+Willie Hutch
+Love Power
+83
+The Grateful Dead
+The Music Never Stopped
+84
+Al Martino
+Volare
+85
+Eddie Kendricks
+Happy
+86
+Glen Campbell
+Country Boy (You Got Your Feet In L.A.)
+87
+Hamilton, Joe Frank & Reynolds
+Winners And Losers
+88
+John Livigni
+Machines
+89
+Al Green
+Full Of Fire
+90
+David Ruffin
+Walk Away From Love
+91
+Fleetwood Mac
+Over My Head
+92
+Kool & The Gang
+Caribbean Festival
+93
+Billy Swan
+Everything's The Same (Ain't Nothing Changed)
+94
+Pilot
+Just A Smile
+95
+Austin Roberts
+Rocky
+96
+Jim Gilstrap
+I'm On Fire
+97
+The Statler Brothers
+I'll Go To My Grave Loving You
+98
+Ambrosia
+Nice, Nice, Very Nice
+99
+The Chi-lites
+It's Time For Love
+100
+Funkadelic
+Better By The Pound

@@ -1,0 +1,300 @@
+1
+Carly Simon
+You're So Vain
+2
+Stevie Wonder
+Superstition
+3
+Billy Paul
+Me And Mrs. Jones
+4
+Gilbert O'Sullivan
+Clair
+5
+Donna Fargo
+Funny Face
+6
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+7
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+8
+Curtis Mayfield
+Superfly
+9
+Elton John
+Crocodile Rock
+10
+Four Tops
+Keeper Of The Castle
+11
+Jethro Tull
+Living In The Past
+12
+Albert Hammond
+It Never Rains In Southern California
+13
+Timmy Thomas
+Why Can't We Live Together
+14
+James Taylor
+Don't Let Me Be Lonely Tonight
+15
+Hurricane Smith
+Oh, Babe, What Would You Say?
+16
+Cat Stevens
+Sitting
+17
+Marvin Gaye
+Trouble Man
+18
+Wings
+Hi, Hi, Hi
+19
+Three Dog Night
+Pieces Of April
+20
+Raspberries
+I Wanna Be With You
+21
+War
+The World Is A Ghetto
+22
+Al Green
+You Ought To Be With Me
+23
+Steely Dan
+Do It Again
+24
+Carole King
+Been To Canaan
+25
+Brighter Side Of Darkness
+Love Jones
+26
+Elvis Presley
+Separate Ways
+27
+Blue Haze
+Smoke Gets In Your Eyes
+28
+Neil Diamond
+Walk On Water
+29
+John Denver
+Rocky Mountain High
+30
+King Harvest
+Dancing In The Moonlight
+31
+Helen Reddy
+I Am Woman
+32
+Joni Mitchell
+You Turn Me On, I'm A Radio
+33
+Lobo
+Don't Expect Me To Be Your Friend
+34
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+35
+Jermaine Jackson
+Daddy's Home
+36
+Austin Roberts
+Something's Wrong With Me
+37
+Chuck Berry
+Reelin' & Rockin'
+38
+The Temptations
+Papa Was A Rollin' Stone
+39
+The Who
+The Relay
+40
+Bobby Womack & Peace
+Harry Hippie
+41
+The Spinners
+Could It Be I'm Falling In Love
+42
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+43
+Don McLean
+Dreidel
+44
+Bette Midler
+Do You Want To Dance?
+45
+Bread
+Sweet Surrender
+46
+Johnny Nash
+I Can See Clearly Now
+47
+Bill Withers
+Let Us Love
+48
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+49
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+50
+Peter Skellern
+You're A Lady
+51
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+52
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+53
+Nilsson
+Remember (Christmas)
+54
+Bulldog
+No
+55
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+56
+The Main Ingredient
+You've Got To Take It (If You Want It)
+57
+Jackson 5
+Corner Of The Sky
+58
+Eagles
+Peaceful Easy Feeling
+59
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+60
+Edward Bear
+Last Song
+61
+Clean Living
+In Heaven There Is No Beer
+62
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+63
+The Hollies
+Long Dark Road
+64
+The 5th Dimension
+Living Together, Growing Together
+65
+Wayne Newton
+Anthem
+66
+Emerson, Lake & Palmer
+Lucky Man
+67
+Keith Hampshire
+Daytime Night-Time
+68
+The Doobie Brothers
+Jesus Is Just Alright
+69
+Gallery
+Big City Miss Ruth Ann
+70
+Dawn Featuring Tony Orlando
+You're A Lady
+71
+Engelbert Humperdinck
+I Never Said Goodbye
+72
+Joe Simon
+Trouble In My Home/I Found My Dad
+73
+Cashman & West
+Songman
+74
+Dennis Yost And The Classics IV
+What Am I Crying For?
+75
+Valerie Simpson
+Silly Wasn't I
+76
+Slade
+Mama Weer All Crazee Now
+77
+Anne Murray
+Danny's Song
+78
+Holland-Dozier
+Don't Leave Me Starvin' For Your Love (Part 1)
+79
+Glen Campbell
+One Last Time
+80
+Deliverance/Eric Weissberg & Steve Mandell
+Dueling Banjos
+81
+Merry Clayton
+Oh No, Not My Baby
+82
+Paul Davis
+Boogie Woogie Man
+83
+Joe Stampley
+Soul Song
+84
+Limmie & Family Cookin'
+You Can Do Magic
+85
+Barbra Streisand
+Didn't We
+86
+Les Emmerson
+Control Of Me
+87
+Joey Heatherton
+I'm Sorry
+88
+Bobby Darin
+Happy
+89
+Ten Years After
+Choo Choo Mama
+90
+Rita Coolidge
+Fever/My Crew
+91
+Kris Kristofferson
+Jesus Was A Capricorn
+92
+Bobby Vinton
+But I Do
+93
+Ray Price
+She's Got To Be A Saint
+94
+Johnny Williams
+Slow Motion (Part 1)
+95
+Barbara Mason
+Give Me Your Love
+96
+Anacostia
+On And Off (Part 1)
+97
+Shawn Phillips
+We
+98
+Diana Ross
+Good Morning Heartache
+99
+Little Jimmy Osmond
+Tweedlee Dee
+100
+Millie Jackson
+I Miss You Baby

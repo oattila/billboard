@@ -1,0 +1,300 @@
+1
+Lionel Richie
+Say You, Say Me
+2
+Eddie Murphy
+Party All The Time
+3
+Simple Minds
+Alive & Kicking
+4
+Dionne & Friends
+That's What Friends Are For
+5
+Klymaxx
+I Miss You
+6
+John Mellencamp
+Small Town
+7
+Mr. Mister
+Broken Wings
+8
+Phil Collins and Marilyn Martin
+Separate Lives
+9
+The Cars
+Tonight She Comes
+10
+Arcadia
+Election Day
+11
+Stevie Nicks
+Talk To Me
+12
+ZZ Top
+Sleeping Bag
+13
+Dire Straits
+Walk Of Life
+14
+Scritti Politti
+Perfect Way
+15
+Survivor
+Burning Heart
+16
+Bruce Springsteen
+My Hometown
+17
+Sting
+Love Is The Seventh Wave
+18
+Kool & The Gang
+Emergency
+19
+Bryan Adams/Tina Turner
+It's Only Love
+20
+Wham!
+I'm Your Man
+21
+Miami Sound Machine
+Conga
+22
+Stevie Wonder
+Go Home
+23
+Clarence Clemons & Jackson Browne
+You're A Friend Of Mine
+24
+Paul McCartney
+Spies Like Us
+25
+Heart
+Never
+26
+Starship
+We Built This City
+27
+Night Ranger
+Goodbye
+28
+Ta Mara & The Seen
+Everybody Dance
+29
+Starpoint
+Object Of My Desire
+30
+Jellybean Featuring Catherine Buchanan
+Sidewalk Talk
+31
+Billy Ocean
+When The Going Gets Tough, The Tough Get Going
+32
+Pat Benatar
+Sex As A Weapon
+33
+Pete Townshend
+Face The Face
+34
+Aretha Franklin
+Who's Zoomin' Who
+35
+Elton John
+Wrap Her Up
+36
+Whitney Houston
+How Will I Know
+37
+Sheila E.
+A Love Bizarre
+38
+Sade
+The Sweetest Taboo
+39
+Corey Hart
+Everything In My Heart
+40
+Thompson Twins
+Lay Your Hands On Me
+41
+Artists United Against Apartheid
+Sun City
+42
+Eurythmics & Aretha Franklin
+Sisters Are Doin' It For Themselves
+43
+a-ha
+The Sun Always Shines on T.V.
+44
+James Brown
+Living In America
+45
+Baltimora
+Tarzan Boy (From "Teenage Mutant Ninja Turtles III")
+46
+The Dream Academy
+Life In A Northern Town
+47
+Glenn Frey
+You Belong To The City
+48
+Rush
+The Big Money
+49
+Sheena Easton
+Do It For Love
+50
+Mr. Mister
+Kyrie
+51
+Wang Chung
+To Live And Die In L.A.
+52
+Mike + The Mechanics
+Silent Running (On Dangerous Ground)
+53
+Asia
+Go
+54
+Ready For The World
+Digital Display
+55
+New Edition
+Count Me Out
+56
+Twisted Sister
+Leader Of The Pack
+57
+Paul Young
+Everything Must Change
+58
+Stevie Wonder
+Part-Time Lover
+59
+Jack Wagner
+Too Young
+60
+Freddie Jackson
+You Are My Lady
+61
+Jan Hammer
+Miami Vice Theme
+62
+Freddie Jackson
+He'll Never Love You (Like I Do)
+63
+Barbra Streisand
+Somewhere
+64
+Queen
+One Vision
+65
+Starship
+Sara
+66
+Hooters
+Day By Day
+67
+Isley, Jasper, Isley
+Caravan Of Love
+68
+David Foster
+Love Theme From St. Elmo's Fire (Instrumental)
+69
+Tears For Fears
+Head Over Heels
+70
+Lisa Lisa And Clult Jam With Full Force
+Can You Feel The Beat
+71
+James Taylor
+Everyday
+72
+Kenny Rogers
+Morning Desire
+73
+Tina Turner
+One Of The Living
+74
+Charlie Sexton
+Beat's So Lonely
+75
+Kate Bush
+Running Up That Hill
+76
+El DeBarge With DeBarge
+The Heart Is Not So Smart
+77
+Orchestral Manoeuvres In The Dark
+Secret
+78
+Chaka Khan
+Own The Night
+79
+ABC
+Be Near Me
+80
+Atlantic Starr
+Secret Lovers
+81
+Nick Lowe And His Cowboy Outfit
+I Knew The Bride (When She Use To Rock And Roll)
+82
+Eugene Wilde
+Don't Say No Tonight
+83
+John Cafferty & The Beaver Brown Band
+Small Town Girl
+84
+Loverboy
+Dangerous
+85
+Sly Fox
+Let's Go All The Way
+86
+Fortune
+Stacy
+87
+Alisha
+Baby Talk
+88
+Joni Mitchell
+Good Friends
+89
+Roger Daltrey
+Let Me Down Easy
+90
+KISS
+Tears Are Falling
+91
+The Alarm
+Strength
+92
+Whitney Houston
+Saving All My Love For You
+93
+Loverboy
+Lovin' Every Minute Of It
+94
+Talking Heads
+And She Was
+95
+The Pointer Sisters
+Freedom
+96
+Olivia Newton-John
+Soul Kiss
+97
+a-ha
+Take On Me
+98
+Sting
+Fortress Around Your Heart
+99
+Ray Parker Jr.
+Girls Are More Fun
+100
+John Mellencamp
+Lonely Ol' Night

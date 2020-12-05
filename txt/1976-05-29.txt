@@ -1,0 +1,300 @@
+1
+Diana Ross
+Love Hangover
+2
+Wings
+Silly Love Songs
+3
+Elvin Bishop
+Fooled Around And Fell In Love
+4
+Silver Convention
+Get Up And Boogie (That's Right)
+5
+Dorothy Moore
+Misty Blue
+6
+Pratt & McClain with Brother Love
+Happy Days
+7
+John Sebastian
+Welcome Back
+8
+Henry Gross
+Shannon
+9
+Daryl Hall John Oates
+Sara Smile
+10
+Barry Manilow
+Tryin' To Get The Feeling Again
+11
+The Rolling Stones
+Fool To Cry
+12
+Fleetwood Mac
+Rhiannon (will You Ever Win)
+13
+The Sylvers
+Boogie Fever
+14
+Captain & Tennille
+Shop Around
+15
+Maxine Nightingale
+Right Back Where We Started From
+16
+Neil Sedaka
+Love In The Shadows
+17
+Andrea True Connection
+More, More, More Pt. 1
+18
+Electric Light Orchestra
+Strange Magic
+19
+Peter Frampton
+Show Me The Way
+20
+Bad Company
+Young Blood
+21
+Brass Construction
+Movin'
+22
+Billy Ocean
+Love Really Hurts Without You
+23
+Marvin Gaye
+I Want You
+24
+Cate Bros.
+Union Man
+25
+The Doobie Brothers
+Takin' It To The Streets
+26
+Gary Wright
+Love Is Alive
+27
+Rhythm Heritage
+Baretta's Theme ("Keep Your Eye On The Sparrow")
+28
+Elvis Presley
+Hurt/for The Heart
+29
+Johnny Cash And The Tennessee Three
+One Piece At A Time
+30
+The Brothers Johnson
+I'll Be Good To You
+31
+Johnnie Taylor
+Disco Lady
+32
+Eric Carmen
+Never Gonna Fall In Love Again
+33
+Bay City Rollers
+Rock And Roll Love Letter
+34
+Starbuck
+Moonlight Feels Right
+35
+Jimmy Dean
+I.O.U.
+36
+The Manhattans
+Kiss And Say Goodbye
+37
+Heart
+Crazy On You
+38
+Boz Scaggs
+It's Over
+39
+Queen
+Bohemian Rhapsody
+40
+Paul Simon
+Still Crazy After All These Years
+41
+Seals & Crofts (Featuring Carolyn Willis)
+Get Closer
+42
+Steve Miller
+Take The Money And Run
+43
+Rufus Featuring Chaka Khan
+Dance Wit Me
+44
+Starland Vocal Band
+Afternoon Delight
+45
+The Blackbyrds
+Happy Music
+46
+The Trammps
+That's Where The Happy People Go
+47
+Glen Campbell
+Don't Pull Your Love/then You Can Tell Me Goodbye
+48
+Bellamy Brothers
+Let Your Love Flow
+49
+Paul Davis
+Thinking Of You
+50
+Thin Lizzy
+The Boys Are Back In Town
+51
+The Don Harrison Band
+Sixteen Tons
+52
+Donna Summer
+Could It Be Magic
+53
+Bill Cosby
+Yes, Yes, Yes
+54
+Vicki Sue Robinson
+Turn The Beat Around
+55
+America
+Today's The Day
+56
+Parliament
+Tear The Roof Off The Sucker (Give Up The Funk)
+57
+Cyndi Grecco
+Making Our Dreams Come True
+58
+Olivia Newton-John
+Come On Over
+59
+Bro Smith
+Bigfoot
+60
+John Denver
+It Makes Me Giggle
+61
+Keith Carradine
+I'm Easy
+62
+John Travolta
+Let Her In
+63
+ABBA
+Mamma Mia
+64
+Brotherhood Of Man
+Save Your Kisses For Me
+65
+Al Wilson
+I've Got A Feeling (We'll Be Seeing Each Other Again)
+66
+Queen
+You're My Best Friend
+67
+The 4 Seasons
+December, 1963 (Oh, What a Night)
+68
+The Tymes
+It's Cool
+69
+David Bowie
+TVC15
+70
+Wet Willie
+Everything That 'Cha Do (Will Come Back To You)
+71
+Melissa Manchester
+Better Days
+72
+Dr. Hook
+Only Sixteen
+73
+Candi Staton
+Young Hearts Run Free
+74
+Narvel Felts
+Lonely Teardrops
+75
+Lee Garrett
+You're My Everything
+76
+Carole King
+High Out Of Time
+77
+Santana
+Let It Shine
+78
+Gallagher And Lyle
+I Wanna Stay With You
+79
+Crown Heights Affair
+Foxy Lady
+80
+Walter Murphy & The Big Apple Band
+A Fifth Of Beethoven
+81
+Paul Anka
+Anytime (i'll Be There)
+82
+The 4 Seasons
+Silver Star
+83
+Michel Polnareff
+Lipstick
+84
+Tammy Wynette
+'til I Can Make It On My Own
+85
+Bobby Vinton
+Save Your Kisses For Me
+86
+The Isley Brothers
+Who Loves You Better - Part 1
+87
+Freddy Fender
+Vaya Con Dios
+88
+John Miles
+Music
+89
+Natalie Cole
+Sophisticated Lady (She's A Different Lady)
+90
+Wayne Newton
+The Hungry Years
+91
+Commodores
+Sweet Love
+92
+Smokey Robinson
+Open
+93
+Fools Gold
+Rain, Oh Rain
+94
+Special Delivery Featuring Terry Huff
+The Lonely One
+95
+The Salsoul Orchestra
+You're Just The Right Size
+96
+Bachman-Turner Overdrive
+Lookin' Out For #1
+97
+Van Mccoy
+Night Walk
+98
+The Supremes
+I'm Gonna Let My Heart Do The Walking
+99
+Captain & Tennille
+Lonely Night (angel Face)
+100
+The Champs' Boys Orchestra
+Tubular Bells

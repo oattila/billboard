@@ -1,0 +1,300 @@
+1
+Barry McGuire
+Eve Of Destruction
+2
+The McCoys
+Hang On Sloopy
+3
+We Five
+You Were On My Mind
+4
+The Dave Clark Five
+Catch Us If You Can
+5
+The Beatles
+Help!
+6
+Ramsey Lewis Trio
+The "In" Crowd
+7
+Bob Dylan
+Like A Rolling Stone
+8
+The Turtles
+It Ain't Me Babe
+9
+The Yardbirds
+Heart Full Of Soul
+10
+Sonny
+Laugh At Me
+11
+The Fortunes
+You've Got Your Troubles
+12
+Roy Head And The Traits
+Treat Her Right
+13
+The Animals
+We Gotta Get Out Of This Place
+14
+Sonny & Cher
+Baby Don't Go
+15
+The Righteous Brothers
+Unchained Melody
+16
+Sonny & Cher
+I Got You Babe
+17
+The Lovin' Spoonful
+Do You Believe In Magic
+18
+Freddy Cannon
+Action
+19
+The Beach Boys
+California Girls
+20
+Jay & The Americans
+Some Enchanted Evening
+21
+Elvis Presley
+I'm Yours
+22
+Edwin Starr
+Agent Double-O-Soul
+23
+Mel Carter
+Hold Me, Thrill Me, Kiss Me
+24
+Marianne Faithfull
+Summer Nights
+25
+Ronnie Dove
+I'll Make All Your Dreams Come True
+26
+The Castaways
+Liar, Liar
+27
+Barbara Mason
+Sad, Sad Girl
+28
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+29
+Tom Jones
+With These Hands
+30
+Roy Orbison
+Ride Away
+31
+The Miracles
+The Tracks Of My Tears
+32
+Sonny & Cher
+Just You
+33
+Charlie Rich
+Mohair Sam
+34
+The Gentrys
+Keep On Dancing
+35
+Dean Martin
+Houston
+36
+The Jive Five
+I'm A Happy Man
+37
+Jody Miller
+Home Of The Brave
+38
+Four Tops
+It's The Same Old Song
+39
+The Supremes
+Nothing But Heartaches
+40
+Herman's Hermits
+Just A Little Bit Better
+41
+The Kinks
+Who'll Be The Next In Line
+42
+Johnny Tillotson
+Heartaches By The Number
+43
+The Temptations
+Since I Lost My Baby
+44
+Roger Miller
+Kansas City Star
+45
+The Beatles
+Yesterday
+46
+The Royalettes
+It's Gonna Take A Miracle
+47
+Andy Williams
+Ain't It True
+48
+Wilson Pickett
+In The Midnight Hour
+49
+Billy Joe Royal
+Down In The Boondocks
+50
+Martha & The Vandellas
+You've Been In Love Too Long
+51
+Vic Dana
+Moonlight And Roses (Bring Mem'ries Of You)
+52
+Herb Alpert & The Tijuana Brass
+3rd Man Theme
+53
+The Spokesmen
+The Dawn Of Correction
+54
+Lesley Gore
+My Town, My Guy And Me
+55
+Little Caesar And The Consuls
+(My Girl) Sloopy
+56
+Joe Tex
+I Want To (Do Everything For You)
+57
+The Contours
+First I Look At The Purse
+58
+The Kingsmen
+Annie Fanny
+59
+Ian Whitcomb
+N-E-R-V-O-U-S!
+60
+Barbara Lewis
+Make Me Your Baby
+61
+The Marvelettes
+Danger Heartbreak Dead Ahead
+62
+Joan Baez
+There But For Fortune
+63
+Stevie Wonder
+High Heel Sneakers
+64
+The Impressions
+I Need You
+65
+Lenny Welch
+Two Different Worlds
+66
+The Toys
+A Lover's Concerto
+67
+San Remo Golden Strings
+Hungry For Love
+68
+Otis Redding
+Respect
+69
+The Strangeloves
+Cara-Lin
+70
+The Sunrays
+I Live For The Sun
+71
+Bobby Vinton
+What Color (Is A Man)
+72
+The Vogues
+You're The One
+73
+Dino, Desi & Billy
+Not The Lovin' Kind
+74
+Dickey Lee
+The Girl From Peyton Place
+75
+Bobby Bland
+These Hands (Small But Mighty)
+76
+Billy Joe Royal
+I Knew You When
+77
+Bonnie & The Treasures
+Home Of The Brave
+78
+Paul Revere & The Raiders
+Steppin' Out
+79
+Jonathan King
+Everyone's Gone To The Moon
+80
+Connie Francis
+Roundabout
+81
+Neil Sedaka
+The World Through A Tear
+82
+The Five Emprees
+Little Miss Sad
+83
+The Barbarians
+Are You A Boy Or Are You A Girl
+84
+Donovan
+Universal Soldier
+85
+Gary Lewis And The Playboys
+Everybody Loves A Clown
+86
+Donovan
+Colours
+87
+The Beatles
+Act Naturally
+88
+Patty Duke
+Funny Little Butterflies
+89
+Herb Alpert & The Tijuana Brass
+Taste Of Honey
+90
+Glen Campbell
+The Universal Soldier
+91
+The Ivy League
+Tossing & Turning
+92
+Bobby Goldsboro
+If You've Got A Heart
+93
+Len Barry
+1-2-3
+94
+P.F. Sloan
+The Sins Of A Family
+95
+Kathy Kirby
+The Way Of Love
+96
+Sam & Bill
+For Your Love
+97
+Billy Stewart
+How Nice It Is
+98
+The Gants
+Road Runner
+99
+Fred Hughes
+You Can't Take It Away
+100
+Johnny Nash
+Let's Move & Groove (Together)

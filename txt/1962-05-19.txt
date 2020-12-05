@@ -1,0 +1,300 @@
+1
+The Shirelles
+Soldier Boy
+2
+Mr. Acker Bilk
+Stranger On The Shore
+3
+Dee Dee Sharp
+Mashed Potato Time
+4
+Shelley Fabares
+Johnny Angel
+5
+Jay & The Americans
+She Cried
+6
+Ernie Maresca
+Shout! Shout! (Knock Yourself Out)
+7
+Walter Brennan
+Old Rivers
+8
+Brenda Lee
+Everybody Loves Me But You
+9
+Jimmy Dean
+P.T. 109
+10
+Burl Ives
+Funny Way Of Laughin'
+11
+Elvis Presley With The Jordanaires
+Good Luck Charm
+12
+Joey Dee & the Starliters
+Shout - Part I
+13
+Dion
+Lovers Who Wander
+14
+Mary Wells
+The One Who Really Loves You
+15
+James Darren
+Conscience
+16
+Gary U.S. Bonds
+Twist, Twist Senora
+17
+Ronnie and The Hi-Lites
+I Wish That We Were Married
+18
+The Crystals
+Uptown
+19
+Chubby Checker (with Dee Dee Sharp)
+Slow Twistin'
+20
+Clyde McPhatter
+Lover Please
+21
+Ray Charles
+I Can't Stop Loving You
+22
+Dick and DeeDee
+Tell Me
+23
+Perry Como
+Caterina
+24
+The Blue-Belles
+I Sold My Heart To The Junkman
+25
+Jimmy Soul
+Twistin' Matilda (and the channel)
+26
+Frankie Avalon
+You Are Mine
+27
+Patti Page
+Most People Get Married
+28
+King Curtis And The Noble Knights
+Soul Twist
+29
+Hayley Mills
+Johnny Jingo
+30
+Larry Finnegan
+Dear One
+31
+Rick Nelson
+Young World
+32
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+33
+Ben E. King
+Don't Play That Song (You Lied)
+34
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+35
+Ketty Lester
+Love Letters
+36
+Ace Cannon
+Blues (Stay Away From Me)
+37
+Henry Mancini And His Orchestra
+Moon River
+38
+Elvis Presley
+Follow That Dream
+39
+James Brown And The Famous Flames
+Night Train
+40
+Connie Francis
+Second Hand Love
+41
+Linda Scott
+Count Every Star
+42
+Freddy Cannon
+Palisades Park
+43
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+44
+The Castells
+So This Is Love
+45
+Neil Sedaka
+King Of Clowns
+46
+The Marvelettes
+Playboy
+47
+George Maharis
+Teach Me Tonight
+48
+Ray Charles and his Orchestra
+Hide 'Nor Hair
+49
+Dion
+(I was) Born To Cry
+50
+Vic Dana
+I Will
+51
+James Ray
+Itty Bitty Pieces
+52
+Brian Hyland
+Ginny Come Lately
+53
+Bobby Darin
+What'd I Say (Part 1)
+54
+Paul Petersen
+She Can't Find Her Keys
+55
+Bobby Gregg and His Friends
+The Jam - Part 1
+56
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+57
+Bruce Channel
+Number One Man
+58
+Jackie Wilson
+Hearts
+59
+Wanda Jackson
+If I Cried Every Time You Hurt Me
+60
+Brook Benton
+Hit Record
+61
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+62
+The Volume's
+I Love You
+63
+Peter, Paul & Mary
+Lemon Tree
+64
+Johnnie Morisette
+Meet Me At The Twistin' Place
+65
+Johnny Crawford
+Cindy's Birthday
+66
+The Marketts
+Balboa Blue
+67
+Sandy Nelson
+Drummin' Up A Storm
+68
+The Corsairs Featuring Jay "Bird" Uzzell
+I'll Take You Home
+69
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+70
+Ray Charles
+Born To Lose
+71
+Marty Robbins
+Love Can't Wait
+72
+Dinah Washington
+Where Are You
+73
+The Lettermen
+How Is Julie?
+74
+Bobby Vee
+Sharing You
+75
+Yvonne Baker and the Sensations
+That's My Desire
+76
+Joe Henderson
+Snap Your Fingers
+77
+Bobby Curtola
+Fortuneteller
+78
+Duane Eddy
+Deep In The Heart Of Texas
+79
+Fats Domino
+My Real Name
+80
+The Falcons & Band (Ohio Untouchables)
+I Found A Love
+81
+Bertha Tillman
+Oh My Angel
+82
+Dr. Feelgood And The Interns
+Doctor Feel-Good
+83
+Connie Stevens
+Why'd You Wanna Make Me Cry
+84
+Valjean on Piano
+Theme From Ben Casey
+85
+Patsy Cline
+When I Get Thru With You (You'll Love Me Too)
+86
+Teddy & The Twilights
+Woman Is A Man's Best Friend
+87
+David Rose and His Orchestra
+The Stripper
+88
+The Kingston Trio
+Scotch And Soda
+89
+Brenda Lee
+Here Comes That Feelin'
+90
+Patsy Cline
+Imagine That
+91
+The Paris Sisters
+Let Me Be The One
+92
+Dinah Washington
+Dream
+93
+The Kingston Trio
+Jane, Jane, Jane
+94
+The Miracles
+I'll Try Something New
+95
+Pat Boone
+Quando, Quando, Quando (Tell Me When)
+96
+Bill Black's Combo
+-twistin'-White Silver Sands
+97
+The Dovells
+Bristol Twistin' Annie
+98
+Bert Kaempfert And His Orchestra
+That Happy Feeling
+99
+The Chad Mitchell Trio
+The John Birch Society
+100
+Emilio Pericoli
+Al Di La'

@@ -1,0 +1,300 @@
+1
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+2
+The Spinners
+The Rubberband Man
+3
+Bee Gees
+Love So Right
+4
+Captain & Tennille
+Muskrat Love
+5
+Gordon Lightfoot
+The Wreck Of The Edmund Fitzgerald
+6
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+7
+KISS
+Beth/Detroit Rock City
+8
+Boston
+More Than A Feeling
+9
+Barry DeVorzon And Perry Botikin Jr.
+Nadia's Theme (The Young And The Restless)
+10
+Firefall
+You Are The Woman
+11
+England Dan & John Ford Coley
+Nights Are Forever Without You
+12
+Leo Sayer
+You Make Me Feel Like Dancing
+13
+Rick Dees & His Cast Of Idiots
+Disco Duck (Part I)
+14
+Commodores
+Just To Be Close To You
+15
+Elton John
+Sorry Seems To Be The Hardest Word
+16
+Alice Cooper
+I Never Cry
+17
+The Ritchie Family
+The Best Disco In Town
+18
+Burton Cummings
+Stand Tall
+19
+Yvonne Elliman
+Love Me
+20
+Engelbert Humperdinck
+After The Lovin'
+21
+L.T.D.
+Love Ballad
+22
+The Sylvers
+Hot Line
+23
+Steve Miller
+Rock'n Me
+24
+Brick
+Dazz
+25
+Peter Frampton
+Do You Feel Like We Do
+26
+Electric Light Orchestra
+Livin' Thing
+27
+Eric Clapton
+Hello Old Friend
+28
+Little River Band
+It's A Long Way There
+29
+Chicago
+If You Leave Me Now
+30
+ABBA
+Fernando
+31
+Blue Oyster Cult
+(Don't Fear) The Reaper
+32
+Heart
+Magic Man
+33
+Bay City Rollers
+I Only Want To Be With You
+34
+David Dundas
+Jeans On
+35
+Queen
+Somebody To Love
+36
+The Bar-Kays
+Shake Your Rump To The Funk
+37
+Bread
+Lost Without Your Love
+38
+John Travolta
+Whenever I'm Away From You
+39
+Norman Connors
+You Are My Starship
+40
+Stevie Wonder
+I Wish
+41
+Tavares
+Don't Take Away The Music
+42
+Rose Royce
+Car Wash
+43
+Earth, Wind & Fire
+Saturday Nite
+44
+The Jacksons
+Enjoy Yourself
+45
+Kenny Nolan
+I Like Dreamin'
+46
+Daryl Hall John Oates
+Do What You Want, Be What You Are
+47
+The Originals
+Down To Love Town
+48
+The Manhattans
+I Kinda Miss You
+49
+Styx
+Mademoiselle
+50
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+51
+The Emotions
+I Don't Wanna Lose Your Love
+52
+The Walter Murphy Band
+Flight '76
+53
+George Harrison
+This Song
+54
+Al Green
+Keep Me Cryin'
+55
+Aerosmith
+Walk This Way
+56
+Jermaine Jackson
+Let's Be Young Tonight
+57
+The Doobie Brothers
+It Keeps You Runnin'
+58
+Olivia Newton-John
+Every Face Tells A Story
+59
+The Beatles
+Ob-la-di, Ob-la-da
+60
+Boz Scaggs
+What Can I Say
+61
+Donny & Marie Osmond
+Ain't Nothing Like The Real Thing
+62
+Mary Kay Place As Loretta Haggers
+Baby Boy
+63
+Seals & Crofts
+Baby, I'll Give It To You
+64
+El Coco
+Lets Get It Together
+65
+Foghat
+Drivin' Wheel
+66
+Mary Macgregor
+Torn Between Two Lovers
+67
+Johnny Bristol
+Do It To My Mind
+68
+Barry Manilow
+Weekend In New England
+69
+Gallagher And Lyle
+Heart On My Sleeve
+70
+The Hudson Brothers
+Help Wanted
+71
+Four Tops
+Catfish
+72
+Manfred Mann's Earth Band
+Blinded By The Light
+73
+The Salsoul Orchestra
+Nice 'N' Naasty
+74
+Dr. Hook
+If Not You
+75
+Tower Of Power
+You Ought To Be Havin' Fun
+76
+Wild Cherry
+Play That Funky Music
+77
+Hamilton, Joe Frank & Dennison
+Don't Fight The Hands (That Need You)
+78
+Linda Ronstadt
+Someone To Lay Down Beside Me
+79
+Terry Cashman
+Baby, Baby I Love You
+80
+Laverne & Shirley
+Sixteen Reasons
+81
+Jefferson Starship
+St. Charles
+82
+KC And The Sunshine Band
+I Like To Do It
+83
+Lynyrd Skynyrd
+Free Bird
+84
+Smokie
+Living Next Door To Alice
+85
+Dickey Lee
+9,999,999 Tears
+86
+The Keane Brothers
+Sherry
+87
+Kool & The Gang
+Open Sesame - Part 1
+88
+Funky Kings
+Slow Dancing
+89
+Robert Palmer
+Man Smart, Woman Smarter
+90
+Gene Cotton
+You've Got Me Runnin'
+91
+Ted Nugent
+Dog Eat Dog
+92
+The Glitter Band
+Makes You Blind
+93
+The Supremes
+You're My Driving Wheel
+94
+Major Harris
+Laid Back Love
+95
+Walter Murphy & The Big Apple Band
+A Fifth Of Beethoven
+96
+Linda Ronstadt
+That'll Be The Day
+97
+Daryl Hall John Oates
+She's Gone
+98
+Robin Trower
+Caledonia
+99
+Tyrone Davis
+Give It Up (turn It Loose)
+100
+Donny Most
+All Roads (Lead Back To You)

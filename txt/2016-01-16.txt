@@ -1,0 +1,300 @@
+1
+Adele
+Hello
+2
+Justin Bieber
+Sorry
+3
+Justin Bieber
+Love Yourself
+4
+Drake
+Hotline Bling
+5
+Justin Bieber
+What Do You Mean?
+6
+Shawn Mendes
+Stitches
+7
+Selena Gomez
+Same Old Love
+8
+Alessia Cara
+Here
+9
+twenty one pilots
+Stressed Out
+10
+Meghan Trainor Featuring John Legend
+Like I'm Gonna Lose You
+11
+The Weeknd
+The Hills
+12
+Fetty Wap Featuring Remy Boyz
+679
+13
+Drake & Future
+Jumpman
+14
+Elle King
+Ex's & Oh's
+15
+Post Malone
+White Iverson
+16
+Ellie Goulding
+On My Mind
+17
+Travis Scott
+Antidote
+18
+Taylor Swift
+Wildest Dreams
+19
+Silento
+Watch Me
+20
+The Weeknd
+In The Night
+21
+Bryson Tiller
+Don't
+22
+The Chainsmokers Featuring Rozes
+Roses
+23
+Demi Lovato
+Confident
+24
+The Weeknd
+Can't Feel My Face
+25
+Thomas Rhett
+Die A Happy Man
+26
+One Direction
+Perfect
+27
+Fetty Wap
+Trap Queen
+28
+Shawn Mendes & Camila Cabello
+I Know What You Did Last Summer
+29
+Sam Hunt
+Break Up In A Small Town
+30
+Wiz Khalifa Featuring Charlie Puth
+See You Again
+31
+Daya
+Hide Away
+32
+Tory Lanez
+Say It
+33
+Major Lazer & DJ Snake Featuring MO
+Lean On
+34
+Flo Rida
+My House
+35
+G-Eazy x Bebe Rexha
+Me, Myself & I
+36
+Charlie Puth
+One Call Away
+37
+iLoveMemphis
+Hit The Quan
+38
+Fetty Wap
+Again
+39
+Ariana Grande
+Focus
+40
+R. City Featuring Adam Levine
+Locked Away
+41
+DNCE
+Cake By The Ocean
+42
+Selena Gomez
+Hands To Myself
+43
+J. Cole
+No Role Modelz
+44
+Cam
+Burning House
+45
+Future Featuring Drake
+Where Ya At
+46
+Bryson Tiller
+Exchange
+47
+Adele
+When We Were Young
+48
+Yo Gotti Featuring Nicki Minaj
+Down In The DM
+49
+Skrillex & Diplo With Justin Bieber
+Where Are U Now
+50
+Rachel Platten
+Stand By You
+51
+DLOW
+Do It Like Me
+52
+DeJ Loaf Featuring Big Sean
+Back Up
+53
+Luke Bryan Featuring Karen Fairchild
+Home Alone Tonight
+54
+Coldplay
+Adventure Of A Lifetime
+55
+Fall Out Boy
+Irresistible
+56
+Jason Aldean
+Gonna Know We Were Here
+57
+Drake & Future
+Big Rings
+58
+Justin Bieber
+I'll Show You
+59
+Chris Brown
+Back To Sleep
+60
+Halsey
+New Americana
+61
+Brothers Osborne
+Stay A Little Longer
+62
+Andy Grammer
+Good To Be Alive (Hallelujah)
+63
+Missy Elliott Featuring Pharrell Williams
+WTF (Where They From)
+64
+Jana Kramer
+I Got The Boy
+65
+LOCASH
+I Love This Life
+66
+Drake
+Right Hand
+67
+Young Thug
+Best Friend
+68
+Gwen Stefani
+Used To Love You
+69
+Nelly Featuring Jeremih
+The Fix
+70
+Jason Derulo
+Get Ugly
+71
+Rae Sremmurd
+Come Get Her
+72
+Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz
+Downtown
+73
+Dawin
+Dessert
+74
+Fetty Wap
+RGF Island
+75
+Blake Shelton
+Gonna
+76
+Kelsea Ballerini
+Dibs
+77
+Bryson Tiller
+Sorry Not Sorry
+78
+Lil Dicky Featuring Fetty Wap & Rich Homie Quan
+$ave Dat Money
+79
+Kevin Gates
+Really Really
+80
+Tori Kelly
+Hollow
+81
+Zac Brown Band
+Beautiful Drug
+82
+Granger Smith
+Backroad Song
+83
+Ty Dolla $ign Featuring Future & Rae Sremmurd
+Blase
+84
+Tim McGraw
+Top Of The World
+85
+2 Chainz
+Watch Out
+86
+Justin Bieber
+Purpose
+87
+Carrie Underwood
+Smoke Break
+88
+Rudimental Featuring Ed Sheeran
+Lay It All On Me
+89
+Chris Brown
+Liquor
+90
+James Bay
+Let It Go
+91
+Future
+Stick Talk
+92
+Eric Church
+Mr. Misunderstood
+93
+Justin Bieber Featuring Halsey
+The Feeling
+94
+Keith Urban
+Break On Me.
+95
+Chris Brown
+Zero
+96
+Fetty Wap Featuring Monty
+Jugg
+97
+Cole Swindell
+You Should Be Here
+98
+Randy Houser
+We Went
+99
+Florida Georgia Line
+Confession
+100
+Big Sean Featuring Chris Brown & Ty Dolla $ign
+Play No Games

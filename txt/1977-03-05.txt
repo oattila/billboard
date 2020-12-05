@@ -1,0 +1,300 @@
+1
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+2
+Eagles
+New Kid In Town
+3
+Steve Miller
+Fly Like An Eagle
+4
+Kenny Nolan
+I Like Dreamin'
+5
+Manfred Mann's Earth Band
+Blinded By The Light
+6
+Bob Seger & The Silver Bullet Band
+Night Moves
+7
+ABBA
+Dancing Queen
+8
+Al Stewart
+Year Of The Cat
+9
+Mary Macgregor
+Torn Between Two Lovers
+10
+Barry Manilow
+Weekend In New England
+11
+Fleetwood Mac
+Go Your Own Way
+12
+Daryl Hall John Oates
+Rich Girl
+13
+Thelma Houston
+Don't Leave Me This Way
+14
+Bee Gees
+Boogie Child
+15
+10cc
+The Things We Do For Love
+16
+The Jacksons
+Enjoy Yourself
+17
+Stevie Wonder
+I Wish
+18
+Kansas
+Carry On Wayward Son
+19
+Rose Royce
+Car Wash
+20
+Wings
+Maybe I'm Amazed
+21
+KISS
+Hard Luck Woman
+22
+Boston
+Long Time
+23
+David Soul
+Don't Give Up On Us
+24
+Tom Jones
+Say You'll Stay Until Tomorrow
+25
+Smokie
+Living Next Door To Alice
+26
+George Harrison
+Crackerbox Palace
+27
+Natalie Cole
+I've Got Love On My Mind
+28
+Elton John
+Bite Your Lip (Get up and dance!)
+29
+Atlanta Rhythm Section
+So In To You
+30
+Jackson Browne
+Here Come Those Tears Again
+31
+Elvis Presley
+Moody Blue/she Thinks I Still Care
+32
+Olivia Newton-John
+Sam
+33
+The Sylvers
+Hot Line
+34
+Rod Stewart
+The First Cut Is The Deepest
+35
+Jennifer Warnes
+Right Time Of The Night
+36
+Stephen Bishop
+Save It For A Rainy Day
+37
+Deniece Williams
+Free
+38
+Electric Light Orchestra
+Do Ya
+39
+Glen Campbell
+Southern Nights
+40
+Enchantment
+Gloria
+41
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+42
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+43
+Silvetti
+Spring Rain
+44
+Parker McGee
+I Just Can't Say No To You
+45
+Rufus Featuring Chaka Khan
+At Midnight (My Love Will Lift You Up)
+46
+Bread
+Lost Without Your Love
+47
+Latimore
+Somethin' 'bout 'cha
+48
+Dickie Goodman
+Kong
+49
+John Travolta
+All Strung Out On You
+50
+Leo Sayer
+You Make Me Feel Like Dancing
+51
+Orleans
+Reach
+52
+Eagles
+Hotel California
+53
+Brick
+Dazz
+54
+Aerosmith
+Walk This Way
+55
+William Bell
+Tryin' To Love Two
+56
+Donna Summer
+Spring Affair/Winter Melody
+57
+The Dramatics
+Be My Girl
+58
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+59
+Queen
+Somebody To Love
+60
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+61
+Brass Construction
+Ha Cha Cha (funktion)
+62
+Little River Band
+I'll Always Call Your Name
+63
+Burton Cummings
+I'm Scared
+64
+Undisputed Truth
+You + Me = Love/Let's Go Down To The Disco
+65
+Gordon Lightfoot
+Race Among The Ruins
+66
+Andrea True Connection
+N.y., You Got Me Dancing
+67
+Bay City Rollers
+Dedication
+68
+Love Unlimited Orchestra
+Theme From King Kong (Pt. I)
+69
+The Heart And Soul Orchestra
+Love In 'C' Minor
+70
+Leo Sayer
+When I Need You
+71
+Mass Production
+Welcome To Our World (Of Merry Music)
+72
+KC And The Sunshine Band
+I'm Your Boogie Man
+73
+Climax Blues Band
+Couldn't Get It Right
+74
+The Bar-Kays
+Too Hot To Stop (Pt. 1)
+75
+Cerrone
+Love In 'C' Minor - Pt. I
+76
+Harold Melvin And The Blue Notes
+Reaching For The World
+77
+Grace Jones
+Sorry/That's The Trouble
+78
+Ambrosia
+Magical Mystery Tour
+79
+Rose Royce
+I Wanna Get Next To You
+80
+Hot
+Angel In Your Arms
+81
+Gary Wright
+Phantom Writer
+82
+Smokey Robinson
+There Will Come A Day (I'm Gonna Happen To You)
+83
+Loleatta Holloway
+Dreamin
+84
+Crown Heights Affair
+Dancin'
+85
+The Sons Of Champlin
+Here Is Where Your Love Belongs
+86
+Ozark Mountain Daredevils
+You Know Like I Know
+87
+Quincy Jones
+"Roots" Medley
+88
+Facts Of Life
+Sometimes
+89
+Mesa
+Sailing Ships
+90
+The Trammps
+Disco Inferno
+91
+James Brown
+Bodyheat (Part 1)
+92
+Mr. Big
+Romeo
+93
+Johnnie Taylor
+Love Is Better In The A.M. (Part 1)
+94
+Cory
+Fire Sign
+95
+The Rubinoos
+I Think We're Alone Now
+96
+Rhythm Heritage
+Theme From Rocky (gonna Fly Now)
+97
+Exile
+Try It On
+98
+Commodores
+Fancy Dancer
+99
+Charlene
+It Ain't Easy Comin' Down
+100
+Danny White
+Dance Little Lady Dance

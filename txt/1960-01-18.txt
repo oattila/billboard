@@ -1,0 +1,300 @@
+1
+Johnny Preston
+Running Bear
+2
+Frankie Avalon
+Why
+3
+Marty Robbins
+El Paso
+4
+Miss Toni Fisher
+The Big Hurt
+5
+Freddie Cannon
+Way Down Yonder In New Orleans
+6
+Jimmy Clanton
+Go, Jimmy, Go
+7
+Mark Dinning
+Teen Angel
+8
+Andy Williams
+The Village Of St. Bernadette
+9
+Steve Lawrence
+Pretty Blue Eyes
+10
+Connie Francis
+Among My Souvenirs
+11
+Paul Anka
+It's Time To Cry
+12
+Guy Mitchell
+Heartaches By The Number
+13
+Dion & The Belmonts
+Where Or When
+14
+Marv Johnson
+You Got What It Takes
+15
+Fabian
+Hound Dog Man
+16
+Larry Hall
+Sandy
+17
+Bill Black's Combo
+Smokie - Part 2
+18
+Della Reese
+Not One Minute More
+19
+Bobby Darin
+Mack The Knife
+20
+The Four Preps
+Down By The Station
+21
+Fabian
+This Friendly World
+22
+Annette With The Afterbeats
+First Name Initial
+23
+Bobby Rydell
+We Got Love
+24
+Jim Reeves
+He'll Have To Go
+25
+Jimmy Jones
+Handy Man
+26
+Duane Eddy His Twangy Guitar And The Rebels
+Bonnie Came Back
+27
+Carl Dobkins, Jr.
+Lucky Devil
+28
+The Browns
+Scarlet Ribbons (For Her Hair)
+29
+Spencer Ross
+Tracy's Theme
+30
+Jack Scott
+What In The World's Come Over You
+31
+Conway Twitty
+Lonely Blue Boy
+32
+Santo & Johnny
+Tear Drop
+33
+Rod Lauren
+If I Had A Girl
+34
+Little Anthony And The Imperials
+Shimmy, Shimmy, Ko-Ko-Bop
+35
+Hugo & Luigi
+Just Come Home
+36
+Ricky Nelson
+I Wanna Be Loved
+37
+Brook Benton
+So Many Ways
+38
+Dee Clark
+How About That
+39
+Lloyd Price and His Orchestra
+Come Into My Heart
+40
+Neil Sedaka
+Oh! Carol
+41
+Jackie Wilson
+Talk That Talk
+42
+The Crests
+A Year Ago Tonight
+43
+Percy Faith And His Orchestra
+The Theme From "A Summer Place"
+44
+Ernie Fields & Orch.
+In The Mood
+45
+The Coasters
+Run Red Run
+46
+The Nutty Squirrels
+Uh! Oh! Part 2
+47
+Joni James
+Little Things Mean A Lot
+48
+Clyde McPhatter
+Let's Try Again
+49
+Dorothy Collins
+Baciare Baciare (Kissing Kissing)
+50
+Brenda Lee
+Sweet Nothin's
+51
+Ricky Nelson
+Mighty Good
+52
+Jerry Wallace
+Little Coco Palm
+53
+Stonewall Jackson
+Mary Don't You Weep
+54
+The Harry Simeone Chorale
+The Little Drummer Boy
+55
+Webb Pierce
+No Love Have I
+56
+The Coasters
+What About Us
+57
+Joe Turner
+Honey Hush
+58
+Royal Teens
+Believe Me
+59
+Bob Beckham
+Crazy Arms
+60
+Jimmie Rodgers
+T.L.C. Tender Love And Care
+61
+The Everly Brothers
+Let It Be Me
+62
+Conway Twitty
+Danny Boy
+63
+Fats Domino
+Be My Guest
+64
+The Viscounts
+Harlem Nocturne
+65
+Frankie Avalon
+Swingin' On A Rainbow
+66
+Brook Benton
+This Time Of The Year
+67
+Rocco Granata and the International Quintet
+Marina
+68
+The Bluenotes
+I Don't Know What It Is
+69
+The Fireballs
+Bulldog
+70
+Bill Haley And His Comets
+Skokiaan (South African Song)
+71
+The Drifters
+Dance With Me
+72
+Connie Francis
+God Bless America
+73
+Ray Smith
+Rockin' Little Angel
+74
+Bobby Darin
+Beyond The Sea
+75
+Jimmie Rodgers
+Waltzing Matilda
+76
+Tony Bennett
+Climb Ev'ry Mountain
+77
+The Knockouts
+Darling Lorraine
+78
+Sammy Turner
+Always
+79
+Johnny And The Hurricanes
+Reveille Rock
+80
+Johnny Mathis
+Misty
+81
+Willy Alberti
+Marina
+82
+Ray Charles
+Let The Good Times Roll
+83
+Faron Young
+Riverboat
+84
+Johnny Tillotson
+Why Do I Love You So
+85
+The Five Satins
+In The Still Of The Nite
+86
+Debbie Reynolds
+Am I That Easy To Forget
+87
+Adam Wade
+Tell Her For Me
+88
+Jacky Noguez And His Orchestra
+Amapola
+89
+The Champs
+Too Much Tequila
+90
+Chet Atkins
+One Mint Julep
+91
+Janice Harper
+Cry Me A River
+92
+Della Reese
+Don't You Know
+93
+Tender Slim
+Teenage Hayride
+94
+The Fleetwoods
+Mr. Blue
+95
+Sonny James
+I Forgot More Than You'll Ever Know
+96
+Roy Orbison
+Up Town
+97
+Frankie Ford
+Time After Time
+98
+The Spacemen
+The Clouds
+99
+Ivo Robic
+The Happy Muleteer
+100
+The Rivieras
+Since I Made You Cry

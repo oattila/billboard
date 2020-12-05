@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Dirty Diana
+2
+Debbie Gibson
+Foolish Beat
+3
+Cheap Trick
+The Flame
+4
+The Jets
+Make It Real
+5
+Bruce Hornsby & The Range
+The Valley Road
+6
+Pebbles
+Mercedes Boy
+7
+Def Leppard
+Pour Some Sugar On Me
+8
+Poison
+Nothin' But A Good Time
+9
+INXS
+New Sensation
+10
+Rick Astley
+Together Forever
+11
+Al B. Sure!
+Nite And Day
+12
+Prince
+Alphabet St.
+13
+Brenda K. Starr
+I Still Believe
+14
+Lita Ford
+Kiss Me Deadly
+15
+Richard Marx
+Hold On To The Nights
+16
+George Michael
+One More Try
+17
+Midnight Oil
+Beds Are Burning
+18
+Rod Stewart
+Lost In You
+19
+Jane Wiedlin
+Rush Hour
+20
+Breathe
+Hands To Heaven
+21
+Steve Winwood
+Roll With It
+22
+Eric Carmen
+Make Me Lose Control
+23
+Belinda Carlisle
+Circle In The Sand
+24
+Sade
+Paradise
+25
+Robert Plant
+Tall Cool One
+26
+D.J. Jazzy Jeff & The Fresh Prince
+Parents Just Don't Understand
+27
+Terence Trent D'Arby
+Sign Your Name
+28
+Gloria Estefan & Miami Sound Machine
+1-2-3
+29
+Daryl Hall John Oates
+Everything Your Heart Desires
+30
+Billy Ocean
+The Colour Of Love
+31
+Johnny Kemp
+Just Got Paid
+32
+J.J. Fad
+Supersonic
+33
+The Contours
+Do You Love Me
+34
+Chicago
+I Don't Wanna Live Without Your Love
+35
+Kylie Minogue
+I Should Be So Lucky
+36
+Elton John
+I Don't Wanna Go On With You Like That
+37
+Samantha Fox
+Naughty Girls (Need Love Too)
+38
+Climie Fisher
+Love Changes (Everything)
+39
+Nia Peeples
+Trouble
+40
+Boz Scaggs
+Heart Of Mine
+41
+Johnny Hates Jazz
+Shattered Dreams
+42
+Gloria Estefan & Miami Sound Machine
+Anything For You
+43
+Ziggy Marley And The Melody Makers
+Tomorrow People
+44
+The Church
+Under The Milky Way
+45
+Aerosmith
+Rag Doll
+46
+Nu Shooz
+Should I Say Yes?
+47
+Fat Boys
+The Twist
+48
+Cher
+We All Sleep Alone
+49
+Brenda Russell Featuring Joe Esposito
+Piano In The Dark
+50
+Van Halen
+Black And Blue
+51
+Elisa Fiorillo
+Forgive Me For Dreaming
+52
+Whitney Houston
+Love Will Save The Day
+53
+Tony Toni Tone
+Little Walter
+54
+The Moody Blues
+I Know You're Out There Somewhere
+55
+Tracy Chapman
+Fast Car
+56
+Corey Hart
+In Your Soul
+57
+Taylor Dayne
+I'll Always Love You
+58
+Wet Wet Wet
+Wishing I Was Lucky
+59
+Robert Palmer
+Simply Irresistible
+60
+Tiffany
+Feelings Of Forever
+61
+Henry Lee Summer
+Darlin' Danielle Don't
+62
+The Deele
+Two Occasions
+63
+Guns N' Roses
+Sweet Child O' Mine
+64
+REO Speedwagon
+Here With Me
+65
+White Lion
+Wait
+66
+Denise Lopez
+Sayin' Sorry (Don't Make It Right)
+67
+Eurythmics
+You Have Placed A Chill In My Heart
+68
+Will To Power
+Say It's Gonna Rain
+69
+Van Halen
+When It's Love
+70
+Ice-T
+Colors
+71
+The Cover Girls
+Promise Me
+72
+Aerosmith
+Angel
+73
+Scritti Politti Featuring Roger
+Boom! There She Was
+74
+Paula Abdul
+Knocked Out
+75
+Pat Benatar
+All Fired Up
+76
+Foreigner
+I Don't Want To Live Without You
+77
+Teddy Pendergrass
+Joy
+78
+Jody Watley
+Most Of All
+79
+New Kids On The Block
+Please Don't Go Girl
+80
+Joan Jett & the Blackhearts
+I Hate Myself For Loving You
+81
+Bardeux
+When We Kiss
+82
+Tony Terry
+Forever Yours
+83
+Terence Trent D'Arby
+Wishing Well
+84
+Depeche Mode
+Route 66/Behind The Wheel
+85
+Icehouse
+Electric Blue
+86
+Scorpions
+Rhythm Of Love
+87
+Bros
+When Will I Be Famous?
+88
+Kool Moe Dee
+Wild, Wild West
+89
+White Lion
+Tell Me
+90
+Michael Bolton
+Wait On Love
+91
+S-Express
+Theme From S-Express
+92
+Orchestral Manoeuvres In The Dark
+Dreaming
+93
+New Edition
+If It Isn't Love
+94
+New Order
+Blue Monday 1988
+95
+Paul Carrack
+When You Walk In The Room
+96
+E.U.
+Da'Butt (From The "School Daze" Soundtrack)
+97
+Sweet Sensation
+Take It While It's Hot
+98
+Times Two
+Strange But True
+99
+John Mellencamp
+Rooty Toot Toot
+100
+Pet Shop Boys
+Always On My Mind

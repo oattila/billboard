@@ -1,0 +1,300 @@
+1
+The Rolling Stones
+Honky Tonk Women
+2
+Johnny Cash
+A Boy Named Sue
+3
+The Archies
+Sugar, Sugar
+4
+Creedence Clearwater Revival
+Green River
+5
+The Youngbloods
+Get Together
+6
+Jackie DeShannon
+Put A Little Love In Your Heart
+7
+Bob Dylan
+Lay Lady Lay
+8
+Three Dog Night
+Easy To Be Hard
+9
+Neil Diamond
+Sweet Caroline (Good Times Never Seemed So Good)
+10
+Tom Jones
+I'll Never Fall In Love Again
+11
+The Temptations
+I Can't Get Next To You
+12
+The Guess Who
+Laughing
+13
+Tony Joe White
+Polk Salad Annie
+14
+Plastic Ono Band
+Give Peace A Chance
+15
+The Lettermen
+Hurt So Bad
+16
+The Grass Roots
+I'd Wait A Million Years
+17
+Tommy James And The Shondells
+Crystal Blue Persuasion
+18
+The Box Tops
+Soul Deep
+19
+Zager & Evans
+In The Year 2525
+20
+Aretha Franklin
+Share Your Love With Me
+21
+Oliver
+Jean
+22
+The Electric Indian
+Keem-O-Sabe
+23
+Gladys Knight And The Pips
+The Nitty Gritty
+24
+The 5th Dimension
+Workin' On A Groovy Thing
+25
+Andy Kim
+Baby, I Love You
+26
+Underground Sunshine
+Birthday
+27
+The Dells
+Oh, What A Night
+28
+Nilsson
+Everybody's Talkin'
+29
+Sly & The Family Stone
+Hot Fun In The Summertime
+30
+Lou Rawls
+Your Good Thing (Is About To End)
+31
+The Impressions
+Choice Of Colors
+32
+The Illusion
+Did You See Her Eyes
+33
+Crosby, Stills & Nash
+Marrakesh Express
+34
+Bobby Sherman
+Little Woman
+35
+Creedence Clearwater Revival
+Commotion
+36
+Donovan/Jeff Beck Group
+Goo Goo Barabajagal (Love Is Hot)
+37
+Steppenwolf
+Move Over
+38
+Gary Puckett And The Union Gap
+This Girl Is A Woman Now
+39
+Jerry Butler
+What's The Use Of Breaking Up
+40
+Mama Cass
+It's Getting Better
+41
+Marvin Gaye
+That's The Way Love Is
+42
+Motherlode
+When I Die
+43
+Dionne Warwick
+Odds And Ends
+44
+Bill Deal & The Rhondels
+What Kind Of Fool Do You Think I Am
+45
+Clarence Reid
+Nobody But You Babe
+46
+The Clique
+Sugar On Sunday
+47
+Lou Christie
+I'm Gonna Make You Mine
+48
+Johnnie Taylor
+I Could Never Be President
+49
+Dennis Yost And The Classics IV
+Change Of Heart
+50
+Tim Hardin
+Simple Song Of Freedom
+51
+Glen Campbell
+True Grit
+52
+The Who
+I'm Free
+53
+Little Anthony And The Imperials
+Out Of Sight, Out Of Mind
+54
+O.C. Smith
+Daddy's Little Man
+55
+Engelbert Humperdinck
+I'm A Better Man
+56
+The Intrigues
+In A Moment
+57
+James Brown
+Lowdown Popcorn
+58
+Brooklyn Bridge
+Your Husband - My Wife
+59
+Johnny Rivers
+Muddy River
+60
+The Rugbys
+You, I
+61
+The Delfonics
+You Got Yours And I'll Get Mine
+62
+The Moments
+I Do
+63
+The Cascades
+Maybe The Rain Will Fall
+64
+Bobby Goldsboro
+Muddy Mississippi Line
+65
+Billy Preston
+That's The Way God Planned It
+66
+The Friends Of Distinction
+Going In Circles
+67
+Smokey Robinson & The Miracles
+Here I Go Again
+68
+The O'Jays
+One Night Affair
+69
+Isaac Hayes
+By The Time I Get To Phoenix
+70
+The Rascals
+Carry Me Back
+71
+Spiral Starecase
+No One For Me To Turn To
+72
+1910 Fruitgum Co.
+The Train
+73
+The Intruders
+Sad Girl
+74
+Al Wilson
+Lodi
+75
+John Stewart
+Armstrong
+76
+Jose Feliciano
+Rain
+77
+Peaches & Herb
+Let Me Be The One
+78
+Eddie Bo
+Hook And Sling-Part I
+79
+Joe South and The Believers
+Don't It Make You Want To Go Home
+80
+Paul Revere & The Raiders Featuring Mark Lindsay
+We Gotta All Get Together
+81
+Piero Umiliani
+Máh-Ná-Mah-Ná
+82
+Thunderclap Newman
+Something In The Air
+83
+The New Colony Six
+I Want You To Know
+84
+Evie Sands
+Any Way That You Want Me
+85
+Orpheus
+Can't Find The Time
+86
+Ohio Express
+Sausalito (Is The Place To Go)
+87
+The Isley Brothers
+Black Berries - Pt 1
+88
+The Association
+Goodbye Columbus
+89
+The Doors
+Runnin' Blue
+90
+Wind
+Make Believe
+91
+Henry Mancini And His Orchestra
+Moonlight Sonata
+92
+The Vogues
+Green Fields
+93
+Waylon Jennings & The Kimberlys
+MacArthur Park
+94
+Smith
+Baby It's You
+95
+Dickie Goodman
+Luna Trip
+96
+Tammy Wynette
+The Ways To Love A Man
+97
+Charley Pride
+All I Have To Offer You (Is Me)
+98
+Booker T. & The MG's
+Slum Baby
+99
+Abaco Dream
+Life And Death In G & A
+100
+B.B. King
+Get Off My Back Woman

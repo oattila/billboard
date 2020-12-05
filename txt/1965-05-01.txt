@@ -1,0 +1,300 @@
+1
+Herman's Hermits
+Mrs. Brown You've Got A Lovely Daughter
+2
+Wayne Fontana & The Mindbenders
+Game Of Love
+3
+Petula Clark
+I Know A Place
+4
+Freddie And The Dreamers
+I'm Telling You Now
+5
+The Seekers
+I'll Never Find Another You
+6
+The Kinks
+Tired Of Waiting For You
+7
+Gary Lewis And The Playboys
+Count Me In
+8
+Herman's Hermits
+Silhouettes
+9
+The Rolling Stones
+The Last Time
+10
+The Supremes
+Stop! In The Name Of Love
+11
+Shirley Ellis
+The Clapping Song (Clap Pat Clap Slap)
+12
+Sounds Orchestral
+Cast Your Fate To The Wind
+13
+The Moody Blues
+Go Now!
+14
+Marvin Gaye
+I'll Be Doggone
+15
+Ronnie Dove
+One Kiss For Old Times' Sake
+16
+Jr. Walker & The All Stars
+Shotgun
+17
+The Righteous Brothers
+Just Once In My Life
+18
+The Beatles
+Ticket To Ride
+19
+The Miracles
+Ooo Baby Baby
+20
+The Temptations
+It's Growing
+21
+Glenn Yarbrough
+Baby The Rain Must Fall
+22
+Solomon Burke
+Got To Get You Off My Mind
+23
+Martha & The Vandellas
+Nowhere To Run
+24
+Sam The Sham and the Pharaohs
+Wooly Bully
+25
+Herman's Hermits
+Can't You Hear My Heartbeat
+26
+Gerry And The Pacemakers
+It's Gonna Be Alright
+27
+Jack Jones
+The Race Is On
+28
+Tom Jones
+It's Not Unusual
+29
+The Searchers
+Bumble Bee
+30
+Cannibal And The Headhunters
+Land Of 1000 Dances
+31
+Billy Stewart
+I Do Love You
+32
+Sir Douglas Quintet
+She's About A Mover
+33
+The Impressions
+Woman's Got Soul
+34
+Little Milton
+We're Gonna Make It
+35
+The Beach Boys
+Help Me, Rhonda
+36
+Freddie And The Dreamers
+I Understand (Just How You Feel)
+37
+Andy Williams
+......And Roses And Roses
+38
+The Ikettes
+Peaches "N" Cream
+39
+The Dixie Cups
+Iko Iko
+40
+Perry Como
+Dream On Little Dreamer
+41
+Allan Sherman
+Crazy Downtown
+42
+Tony Clarke
+The Entertainer
+43
+The Dave Clark Five
+Reelin' And Rockin'
+44
+Bob Dylan
+Subterranean Homesick Blues
+45
+Sam Cooke
+It's Got The Whole World Shakin'
+46
+Brenda Holloway
+When I'm Gone
+47
+Peter And Gordon
+True Love Ways
+48
+The Beau Brummels
+Just A Little
+49
+Sandie Shaw
+Girl Don't Come
+50
+Chubby Checker
+Let's Do The Freddie
+51
+Elvis Presley With The Jordanaires
+Crying In The Chapel
+52
+The Newbeats
+(The Bees Are For The Birds) The Birds Are For The Bees
+53
+The Shangri-Las
+Out In The Streets
+54
+Brenda Lee
+Truly, Truly, True
+55
+The Searchers
+Goodbye My Lover Goodbye
+56
+Bobbi Martin
+I Can't Stop Thinking Of You
+57
+Al Martino
+Somebody Else Is Taking My Place
+58
+The Zombies
+She's Coming Home
+59
+Alvin Cash & The Crawlers
+The Barracuda
+60
+Jay & The Americans
+Think Of The Good Times
+61
+Joe Tex
+A Woman Can Change A Man
+62
+Chad & Jeremy
+What Do You Want With Me
+63
+Freddie And The Dreamers
+Do The Freddie
+64
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Toy Soldier
+65
+Johnny Bond
+10 Little Bottles
+66
+Freddie And The Dreamers
+You Were Made For Me
+67
+Jody Miller
+Queen Of The House
+68
+The Supremes
+Back In My Arms Again
+69
+Dobie Gray
+(See You At The) "Go-Go"
+70
+Herb Alpert's Tijuana Brass
+Whipped Cream
+71
+The Beatles
+Yes It Is
+72
+Gene Chandler
+Nothing Can Stop Me
+73
+Connie Stevens
+Now That You've Gone
+74
+Chuck Jackson & Maxine Brown
+Something You Got
+75
+Dionne Warwick
+You Can Have Him
+76
+Julie Andrews-Dick Van Dyke
+Super-cali-fragil-istic-expi-ali-docious
+77
+Barbra Streisand
+Why Did I Choose You
+78
+Lesley Gore
+All Of My Life
+79
+Ray Charles and his Orchestra
+I Gotta Woman (Part One)
+80
+Chuck Jackson
+I Need You
+81
+Vic Damone
+You Were Only Fooling (While I Was Falling In Love)
+82
+Al (He's the King) Hirt
+Al's Place
+83
+Patti Page
+Hush, Hush, Sweet Charlotte
+84
+Bert Kaempfert And His Orchestra
+Three O'Clock In The Morning
+85
+The New Christy Minstrels
+Chim, Chim, Cheree
+86
+Tom and Jerrio
+Boo-Ga-Loo
+87
+The Drifters
+Come On Over To My Place
+88
+Connie Francis
+Wishing It Was You
+89
+Soupy Sales
+The Mouse
+90
+The Drifters
+Chains Of Love
+91
+The Olympics
+Good Lovin'
+92
+Jewel Akens
+Georgie Porgie
+93
+The Sapphires
+Gotta Have Your Love
+94
+Trini Lopez
+Sad Tomorrows
+95
+Lawrence Welk And His Orchestra
+Apples And Bananas
+96
+Unit Four plus Two
+Concrete And Clay
+97
+Georgie Fame And The Blue Flames
+In The Meantime
+98
+Eddie Rambeau
+Concrete And Clay
+99
+Bobby Goldsboro
+Voodoo Woman
+100
+The Ad Libs
+He Ain't No Angel

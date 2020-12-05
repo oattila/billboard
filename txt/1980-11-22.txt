@@ -1,0 +1,300 @@
+1
+Kenny Rogers
+Lady
+2
+Barbra Streisand
+Woman In Love
+3
+Donna Summer
+The Wanderer
+4
+Queen
+Another One Bites The Dust
+5
+Diana Ross
+I'm Coming Out
+6
+Stephanie Mills
+Never Knew Love Like This Before
+7
+Stevie Wonder
+Master Blaster (Jammin')
+8
+Leo Sayer
+More Than I Can Say
+9
+John Lennon
+(Just Like) Starting Over
+10
+Cliff Richard
+Dreaming
+11
+Neil Diamond
+Love On The Rocks
+12
+The Jacksons
+Lovely One
+13
+Daryl Hall John Oates
+You've Lost That Lovin' Feeling
+14
+Devo
+Whip It
+15
+Pat Benatar
+Hit Me With Your Best Shot
+16
+Christopher Cross
+Never Be The Same
+17
+The Pointer Sisters
+He's So Shy
+18
+Bruce Springsteen
+Hungry Heart
+19
+Irene Cara
+Out Here On My Own
+20
+Barbra Streisand & Barry Gibb
+Guilty
+21
+Stacy Lattisaw
+Let Me Be Your Angel
+22
+Roger Daltrey
+Without Your Love
+23
+Supertramp
+Dreamer
+24
+Air Supply
+Every Woman In The World
+25
+Diana Ross
+Upside Down
+26
+The Korgis
+Everybody's Got To Learn Sometime
+27
+Jimmy Hall
+I'm Happy That Love Has Found You
+28
+Waylon
+Theme From The Dukes Of Hazzard (Good Ol' Boys)
+29
+Randy Meisner
+Deep Inside My Heart
+30
+The Police
+De Do Do Do, De Da Da Da
+31
+Diana Ross
+It's My Turn
+32
+John Cougar
+This Time
+33
+Don Williams
+I Believe In You
+34
+Willie Nelson
+On The Road Again
+35
+Kool & The Gang
+Celebration
+36
+Harry Chapin
+Sequel
+37
+The Vapors
+Turning Japanese
+38
+Nielsen/Pearson
+If You Should Sail
+39
+Olivia Newton-John & Cliff Richard
+Suddenly
+40
+Paul Simon
+One-Trick Pony
+41
+Heart
+Tell It Like It Is
+42
+The Rolling Stones
+She's So Cold
+43
+AC/DC
+You Shook Me All Night Long
+44
+The Doobie Brothers
+Real Love
+45
+Carly Simon
+Jesse
+46
+Boz Scaggs
+Look What You've Done To Me
+47
+Dr. Hook
+Girls Can Get It
+48
+Jackson Browne
+That Girl Could Sing
+49
+Air Supply
+All Out Of Love
+50
+Rod Stewart
+Passion
+51
+Mac Davis
+Texas In My Rear View Mirror
+52
+Billy Joel
+Sometimes A Fantasy
+53
+Kenny Loggins
+I'm Alright
+54
+The Doobie Brothers
+One Step Closer
+55
+Anne Murray
+Could I Have This Dance
+56
+The Kings
+Switchin' To Glide/This Beat Goes On
+57
+Eddie Rabbitt
+Drivin' My Life Away
+58
+Blondie
+The Tide Is High
+59
+Tierra
+Together
+60
+Cheap Trick
+Stop This Game
+61
+Barry Manilow
+I Made It Through The Rain
+62
+The Pointer Sisters
+Could I Be Dreaming
+63
+Eddie Rabbitt
+I Love A Rainy Night
+64
+Marcy Levy & Robin Gibb
+Help Me!
+65
+Andy Gibb
+Time Is Time
+66
+Robbin Thompson Band
+Brite Eyes
+67
+Bob Seger
+The Horizontal Bop
+68
+Billy Burnette
+Don't Say No
+69
+The Babys
+Turn And Walk Away
+70
+Kansas
+Hold On
+71
+Rupert Holmes
+Morning Man
+72
+Paul Simon
+Late In The Evening
+73
+Olivia Newton-John And The Electric Light Orchestra
+Xanadu
+74
+George Benson
+Give Me The Night
+75
+Climax Blues Band
+Gotta Have More Love
+76
+Eric Clapton And His Band
+Blues Power
+77
+George Benson
+Love X Love
+78
+Johnny Lee
+Lookin' For Love
+79
+Chic
+Real People/Chip Off The Old Block
+80
+L.T.D.
+Shine On
+81
+Earth, Wind & Fire
+You
+82
+ABBA
+The Winner Takes It All
+83
+Robert John
+Sherry
+84
+Rockpile
+Teacher Teacher
+85
+Bette Midler
+My Mother's Eyes
+86
+Michael Stanley Band
+He Can't Love You
+87
+Fred Knoblock & Susan Anton
+Killin' Time
+88
+Dionne Warwick
+Easy Love
+89
+Pete Townshend
+Rough Boys
+90
+Teena Marie
+I Need Your Lovin'
+91
+The Doolittle Band
+Who Were You Thinkin' Of
+92
+The Reddings
+Remote Control
+93
+Kim Carnes
+Cry Like A Baby
+94
+Al Stewart
+Midnight Rocks
+95
+Ali Thomson
+Live Every Minute
+96
+Eddie Money (with Valerie Carter)
+Let's Be Lovers Again
+97
+Donna Summer
+Walk Away
+98
+Amy Holland
+How Do I Survive
+99
+707
+I Could Be Good For You
+100
+Irene Cara
+Fame

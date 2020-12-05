@@ -1,0 +1,300 @@
+1
+Petula Clark
+My Love
+2
+The Beach Boys
+Barbara Ann
+3
+The T-Bones
+No Matter What Shape (Your Stomach's In)
+4
+The Beatles
+We Can Work It Out
+5
+Lou Christie
+Lightnin' Strikes
+6
+Mike Douglas
+The Men In My Little Girl's Life
+7
+Gary Lewis And The Playboys
+She's Just My Style
+8
+The Vogues
+Five O'Clock World
+9
+Herman's Hermits
+A Must To Avoid
+10
+Ray Charles
+Crying Time
+11
+Mitch Ryder And The Detroit Wheels
+Jenny Take A Ride!
+12
+The Rolling Stones
+As Tears Go By
+13
+The Supremes
+My World Is Empty Without You
+14
+Paul Revere & The Raiders Featuring Mark Lindsay
+Just Like Me
+15
+Herb Alpert & The Tijuana Brass
+Zorba The Greek
+16
+Stevie Wonder
+Uptight (Everything's Alright)
+17
+The Kinks
+A Well Respected Man
+18
+Jackie Lee
+The Duck
+19
+The Marvelettes
+Don't Mess With Bill
+20
+Simon & Garfunkel
+The Sound Of Silence
+21
+The Miracles
+Going To A Go-Go
+22
+The Beatles
+Day Tripper
+23
+Al Martino
+Spanish Eyes
+24
+The Knickerbockers
+Lies
+25
+The Lovin' Spoonful
+You Didn't Have To Be So Nice
+26
+David & Jonathan
+Michelle
+27
+Len Barry
+Like A Baby
+28
+Nancy Sinatra
+These Boots Are Made For Walkin'
+29
+The Toys
+Attack
+30
+Frank Sinatra
+It Was A Very Good Year
+31
+The Statler Brothers
+Flowers On The Wall
+32
+Barbra Streisand
+Second Hand Rose
+33
+The Mamas & The Papas
+California Dreamin'
+34
+Ronnie Dove
+When Liking Turns To Loving
+35
+Elvis Presley With The Jordanaires
+Tell Me Why
+36
+The Strangeloves
+Night Time
+37
+Ramsey Lewis Trio
+A Hard Day's Night
+38
+Herb Alpert & The Tijuana Brass
+Tijuana Taxi
+39
+Tom Jones
+Thunderball
+40
+Ronny And The Daytonas
+Sandy
+41
+Chris Montez
+Call Me
+42
+Bobby Vinton
+Satin Pillows
+43
+Dionne Warwick
+Are You There (With Another Girl)
+44
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Working My Way Back To You
+45
+The Five Americans
+I See The Light
+46
+Fontella Bass
+Recovery
+47
+Sonny & Cher
+What Now My Love
+48
+Frankie Valli
+(You're Gonna) Hurt Yourself
+49
+Roy Orbison
+Breakin' Up Is Breakin' My Heart
+50
+The Gentrys
+Spread It On Thick
+51
+Martha & The Vandellas
+My Baby Loves Me
+52
+The Young Rascals
+I Ain't Gonna Eat Out My Heart Anymore
+53
+Jr. Walker & The All Stars
+Cleo's Mood
+54
+Bobby Fuller Four
+I Fought The Law
+55
+The Hollies
+Look Through Any Window
+56
+Hedgehoppers Anonymous
+It's Good News Week
+57
+Bob Lind
+Elusive Butterfly
+58
+The C.O.D.'s
+Michael
+59
+Lee Dorsey
+Get Out Of My Life, Woman
+60
+Johnny Rivers
+Under Your Spell Again
+61
+The Sunrays
+Andrea
+62
+Little Anthony And The Imperials
+Hurt
+63
+Bob Dylan
+Can You Please Crawl Out Your Window?
+64
+Bobby Bland
+I'm Too Far Gone (To Turn Around)
+65
+Bert Kaempfert And His Orchestra
+Bye Bye Blues
+66
+Deon Jackson
+Love Makes The World Go Round
+67
+Jim Reeves
+Snow Flake
+68
+Bob Kuban And The In-Men
+The Cheater
+69
+Mel Carter
+Love Is All We Need
+70
+The Exciters
+A Little Bit Of Soap
+71
+The Turtles
+You Baby
+72
+Maxine Brown
+If You Gotta Make A Fool Of Somebody
+73
+The Dave Clark Five
+At The Scene
+74
+Eddie Holman
+This Can't Be True
+75
+The Who
+My Generation
+76
+The Walker Bros.
+My Ship Is Comin' In
+77
+Billy Vaughn And His Orchestra
+Michelle
+78
+Bud Shank
+Michelle
+79
+The Sheep
+Hide & Seek
+80
+Slim Harpo
+Baby Scratch My Back
+81
+The Shangri-Las
+Long Live Our Love
+82
+Sir Douglas Quintet
+The Rains Came
+83
+Tammi Terrell
+I Can't Believe You Love Me
+84
+Johnny and The Expressions
+Something I Want To Tell You
+85
+The Marketts
+Batman Theme
+86
+Johnny Lytle
+The Loop
+87
+SSgt Barry Sadler
+The Ballad Of The Green Berets
+88
+Lesley Gore
+We Know We're In Love
+89
+Buck Owens
+Waitin' In Your Welfare Line
+90
+The Righteous Brothers
+Georgia On My Mind
+91
+The Searchers
+Take Me For What I'm Worth
+92
+The Byrds
+Set You Free This Time
+93
+Verdelle Smith
+In My Room (El Amor)
+94
+Mary Wells
+Can't You See (You're Losing Me)
+95
+James Brown And The Famous Flames
+Lost Someone
+96
+The Impressions
+Since I Lost The One I Love
+97
+Sam The Sham and the Pharaohs
+Red Hot
+98
+Barbara Lewis
+Don't Forget About Me
+99
+Eddy Arnold
+I Want To Go With You
+100
+Neil Sedaka
+The Answer To My Prayer

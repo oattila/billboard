@@ -1,0 +1,300 @@
+1
+Blondie
+Rapture
+2
+John Lennon
+Woman
+3
+Styx
+The Best Of Times
+4
+Daryl Hall John Oates
+Kiss On My List
+5
+Don McLean
+Crying
+6
+Neil Diamond
+Hello Again
+7
+Grover Washington, Jr. With Bill Withers
+Just The Two Of Us
+8
+REO Speedwagon
+Keep On Loving You
+9
+Steve Winwood
+While You See A Chance
+10
+Barbra Streisand & Barry Gibb
+What Kind Of Fool
+11
+Sheena Easton
+Morning Train (Nine To Five)
+12
+The Police
+Don't Stand So Close To Me
+13
+Eric Clapton And His Band
+I Can't Stand It
+14
+ABBA
+The Winner Takes It All
+15
+Juice Newton
+Angel Of The Morning
+16
+Dolly Parton
+9 To 5
+17
+Kool & The Gang
+Celebration
+18
+James Taylor & J.D. Souther
+Her Town Too
+19
+Terri Gibbs
+Somebody's Knockin'
+20
+Smokey Robinson
+Being With You
+21
+Yarbrough & Peoples
+Don't Stop The Music
+22
+Phil Seymour
+Precious To Me
+23
+Eddie Rabbitt
+I Love A Rainy Night
+24
+Cliff Richard
+A Little In Love
+25
+April Wine
+Just Between You And Me
+26
+John Cougar
+Ain't Even Done With The Night
+27
+REO Speedwagon
+Take It On The Run
+28
+Steely Dan
+Time Out Of Mind
+29
+Styx
+Too Much Time On My Hands
+30
+Pat Benatar
+Treat Me Right
+31
+Franke & The Knockouts
+Sweetheart
+32
+Gino Vannelli
+Living Inside Myself
+33
+The Whispers
+It's A Love Thing
+34
+Randy Meisner
+Hearts On Fire
+35
+The Who
+You Better You Bet
+36
+Champaign
+How 'bout Us
+37
+Loverboy
+Turn Me Loose
+38
+Climax Blues Band
+I Love You
+39
+Journey
+The Party's Over (Hopelessly In Love)
+40
+Donna Summer
+Who Do You Think You're Foolin'
+41
+Andy Gibb
+Me (Without You)
+42
+Emmylou Harris
+Mister Sandman
+43
+A Taste Of Honey
+Sukiyaki
+44
+The Rovers
+Wasn't That A Party
+45
+38 Special
+Hold On Loosely
+46
+Phoebe Snow
+Games
+47
+Phil Collins
+I Missed Again
+48
+Ray Parker Jr. & Raydio
+A Woman Needs Love (Just Like You Do)
+49
+The Alan Parsons Project
+Games People Play
+50
+The Fools
+Running Scared
+51
+Barry Manilow
+Lonely Together
+52
+John Lennon
+Watching The Wheels
+53
+John O'Banion
+Love You Like I Never Loved Before
+54
+Melissa Manchester & Peabo Bryson
+Lovers After All
+55
+Rush
+Limelight
+56
+Bruce Springsteen
+Fade Away
+57
+Kim Carnes
+Bette Davis Eyes
+58
+Yoko Ono
+Walking On Thin Ice
+59
+T.G. Sheppard
+I Loved 'em Every One
+60
+Stevie Wonder
+I Ain't Gonna Stand For It
+61
+Sherbs
+I Have The Skill
+62
+Tierra
+Memories
+63
+Hawks
+Right Away
+64
+Christopher Cross
+Say You'll Be Mine
+65
+Elvis Presley
+Guitar Man
+66
+Garland Jeffreys
+96 Tears
+67
+Dottie West with Kenny Rogers
+What Are We Doin' In Love
+68
+Delbert McClinton
+Giving It Up For Your Love
+69
+Jimmy Buffett
+It's My Job
+70
+Badfinger
+Hold On
+71
+Rod Stewart
+Somebody Special
+72
+Rick Springfield
+Jessie's Girl
+73
+Anne Murray
+Blessed Are The Believers
+74
+T.S. Monk
+Bon Bon Vie (Gimme The Good Life)
+75
+Blondie
+The Tide Is High
+76
+Michael Stanley Band
+Lover
+77
+Lenny LeBlanc
+Somebody Send My Baby Home
+78
+Ronnie Milsap
+Smoky Mountain Rain
+79
+Sister Sledge
+All American Girls
+80
+Delbert McClinton
+Shotgun Rider
+81
+Jefferson Starship
+Find Your Way Back
+82
+Dolly Parton
+But You Know I Love You
+83
+Heart
+Unchained Melody
+84
+Rupert Holmes
+I Don't Need You
+85
+The Gap Band
+Burn Rubber (Why You Wanna Hurt Me)
+86
+Dan Fogelberg
+Same Old Lang Syne
+87
+Leo Sayer
+Living In A Fantasy
+88
+ABBA
+Super Trouper
+89
+Bill Medley
+Don't Know Much
+90
+Shot In The Dark
+Playing With Lightning
+91
+The Joe Chemay Band
+Proud
+92
+Sugarhill Gang
+8th Wonder
+93
+Donnie Iris
+Ah! Leah!
+94
+The Rings
+Let Me Go
+95
+Lani Hall
+Where's Your Angel?
+96
+The Johnny Average Band Featuring Nikki Wills
+Ch Ch Cherie
+97
+Rod Stewart
+Passion
+98
+The Spinners
+Yesterday Once More/Nothing Remains The Same
+99
+Outlaws
+(Ghost) Riders In The Sky
+100
+Steely Dan
+Hey Nineteen

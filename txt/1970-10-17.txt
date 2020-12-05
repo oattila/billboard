@@ -1,0 +1,300 @@
+1
+Jackson 5
+I'll Be There
+2
+Neil Diamond
+Cracklin' Rosie
+3
+Sugarloaf
+Green-Eyed Lady
+4
+Free
+All Right Now
+5
+Carpenters
+We've Only Just Begun
+6
+Dawn
+Candida
+7
+Diana Ross
+Ain't No Mountain High Enough
+8
+Creedence Clearwater Revival
+Lookin' Out My Back Door/Long As I Can See The Light
+9
+Bobby Sherman
+Julie, Do Ya Love Me
+10
+James Taylor
+Fire And Rain
+11
+R. Dean Taylor
+Indiana Wants Me
+12
+The Kinks
+Lola
+13
+Charles Wright And The Watts 103rd Street Rhythm Band
+Express Yourself
+14
+The Spinners
+It's A Shame
+15
+Three Dog Night
+Out In The Country
+16
+Anne Murray
+Snowbird
+17
+The New Seekers featuring Eve Graham
+Look What They've Done To My Song Ma
+18
+Four Tops
+Still Water (Love)
+19
+Rare Earth
+(I Know) I'm Losing You
+20
+Glen Campbell
+It's Only Make Believe
+21
+Simon & Garfunkel
+El Condor Pasa (If I Could)
+22
+Edwin Starr
+War
+23
+Grand Funk Railroad
+Closer To Home (I'm Your Captain)
+24
+Clarence Carter
+Patches
+25
+Linda Ronstadt
+Long Long Time
+26
+Gene Chandler
+Groovy Situation
+27
+Michael Nesmith & The First National Band
+Joanne
+28
+100 Proof Aged in Soul
+Somebody's Been Sleeping
+29
+The Poppy Family (Featuring Susan Jacks)
+That's Where I Went Wrong
+30
+Teegarden & Van Winkle
+God, Love And Rock & Roll
+31
+Bread
+It Don't Matter To Me
+32
+Crosby, Stills, Nash & Young
+Our House
+33
+Blood, Sweat & Tears
+Lucretia Mac Evil
+34
+James Brown
+Super Bad (Part 1 & Part 2)
+35
+Candi Staton
+Stand By Your Man
+36
+Freda Payne
+Deeper & Deeper
+37
+Five Flights Up
+Do What You Wanna Do
+38
+The Temptations
+Ungena Za Ulimwengu (Unite The World)
+39
+The Who
+See Me, Feel Me
+40
+Bobby Bloom
+Montego Bay
+41
+Brian Hyland
+Gypsy Woman
+42
+Christie
+Yellow River
+43
+Mashmakhan
+As The Years Go By
+44
+Isaac Hayes
+I Stand Accused
+45
+Wilson Pickett
+Engine Number 9
+46
+Joe Cocker
+Cry Me A River
+47
+Dionne Warwick
+Make It Easy On Yourself
+48
+Ray Price
+For The Good Times
+49
+Hotlegs
+Neanderthal Man
+50
+Elephant's Memory
+Mongoose
+51
+The Three Degrees
+I Do Take You
+52
+O.C. Smith
+Baby, I Need Your Loving
+53
+Paul Davis
+I Just Wanna Keep It Together
+54
+Tommy Roe
+We Can Make Music
+55
+The Delfonics
+When You Get Right Down To It
+56
+The Whispers
+Seems Like I Gotta Do Wrong
+57
+Mark Lindsay
+And The Grass Won't Pay No Mind
+58
+The Impressions
+(Baby) Turn On To Me
+59
+Quicksilver Messenger Service
+Fresh Air
+60
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+61
+The Grass Roots
+Come On And Say It
+62
+James Gang
+Funk # 49
+63
+Shirley Bassey
+Something
+64
+Engelbert Humperdinck
+Sweetheart
+65
+Blue Mink
+Our World
+66
+Canned Heat
+Let's Work Together
+67
+Kenny Rogers & The First Edition
+Heed The Call
+68
+Smokey Robinson & The Miracles
+The Tears Of A Clown
+69
+Diane Kolby
+Holy Man
+70
+Alive 'N Kickin'
+Just Let It Come
+71
+Jake Holmes
+So Close
+72
+The Presidents
+5-10-15-20 (25-30 Years Of Love)
+73
+Ann Peebles
+Part Time Love
+74
+Tyrone Davis
+Let Me Back In
+75
+Eric Clapton
+After Midnight
+76
+Otis Leaville
+Love Uprising
+77
+Johnnie Taylor
+I Am Somebody Part II
+78
+Stevie Wonder
+Heaven Help Us All
+79
+The Friends Of Distinction
+Time Waits For No One
+80
+The Assembled Multitude
+Woodstock
+81
+Blues Image
+Gas Lamps And Clay
+82
+Robin McNamara
+Got To Believe In Love
+83
+The Five Stairsteps
+America/Standing/Because I Love You
+84
+The Flaming Ember
+I'm Not My Brothers Keeper
+85
+Ray Charles
+If You Were Mine
+86
+Fantasy
+Stoned Cowboy
+87
+Kool & The Gang
+Funky Man
+88
+Buddy Miles
+Dreams
+89
+The Band
+Time To Kill
+90
+Poco
+You Better Think Twice
+91
+The Main Ingredient
+I'm Better Off Without You
+92
+Laura Nyro
+Up On The Roof
+93
+Traffic
+Empty Pages
+94
+Waylon Jennings
+The Taker
+95
+Pacific Gas And Electric
+Father Come On Home
+96
+The Isley Brothers
+Get Into Something
+97
+Etta James
+Losers Weepers - Part I
+98
+Ronnie Dyson
+I Don't Wanna Cry
+99
+Herb Alpert & The Tijuana Brass
+Jerusalem
+100
+Brian Auger & The Trinity
+Listen Here

@@ -1,0 +1,300 @@
+1
+Elton John
+Island Girl
+2
+John Denver
+I'm Sorry
+3
+Jefferson Starship
+Miracles
+4
+Eagles
+Lyin' Eyes
+5
+The Spinners
+They Just Can't Stop It the (Games People Play)
+6
+The 4 Seasons
+Who Loves You
+7
+Morris Albert
+Feelings
+8
+Neil Sedaka
+Bad Blood
+9
+Linda Ronstadt
+Heat Wave/love Is A Rose
+10
+Natalie Cole
+This Will Be
+11
+The Ritchie Family
+Brazil
+12
+People's Choice
+Do It Any Way You Wanna
+13
+Olivia Newton-John
+Something Better To Do
+14
+Captain & Tennille
+The Way I Want To Touch You
+15
+Leon Russell
+Lady Blue
+16
+War
+Low Rider
+17
+ABBA
+S.O.S.
+18
+Tavares
+It Only Takes A Minute
+19
+Jigsaw
+Sky High
+20
+George Harrison
+You
+21
+Esther Phillips
+What A Diff'rence A Day Makes
+22
+Bee Gees
+Nights On Broadway
+23
+Bruce Springsteen
+Born To Run
+24
+Orleans
+Dance With Me
+25
+Silver Convention
+Fly, Robin, Fly
+26
+Art Garfunkel
+I Only Have Eyes For You
+27
+John Fogerty
+Rockin' All Over The World
+28
+KC And The Sunshine Band
+That's The Way (I Like It)
+29
+Willie Nelson
+Blue Eyes Crying In The Rain
+30
+Simon & Garfunkel
+My Little Town
+31
+David Bowie
+Fame
+32
+Pete Wingfield
+Eighteen With A Bullet
+33
+Sweet
+Ballroom Blitz
+34
+Melissa Manchester
+Just Too Many People
+35
+The Manhattan Transfer
+Operator
+36
+Smokey Robinson
+The Agony And The Ecstasy
+37
+The Staple Singers
+Let's Do It Again
+38
+B.T. Express
+Give It What You Got/Peace Pipe
+39
+Wings
+Letting Go
+40
+Leon Haywood
+I Want'a Do Something Freaky To You
+41
+Helen Reddy
+Ain't No Way To Treat A Lady
+42
+Joan Baez
+Diamonds And Rust
+43
+Freddy Fender
+Secret Love
+44
+Bay City Rollers
+Saturday Night
+45
+Arthur Alexander
+Every Day I Have To Cry Some
+46
+Ohio Players
+Sweet Sticky Thing
+47
+Michael Murphey
+Carolina In The Pines
+48
+The Outlaws
+There Goes Another Love Song
+49
+Crown Heights Affair
+Dreaming A Dream
+50
+Freddy Fender
+Since I Met You Baby
+51
+Frankie Valli
+Our Day Will Come
+52
+Van Mccoy
+Change With The Times
+53
+James Taylor
+Mexico
+54
+Dickie Goodman
+Mr. Jaws
+55
+The Eleventh Hour
+Hollywood Hot
+56
+Mike Post
+Manhattan Spiritual
+57
+Poco
+Keep On Tryin'
+58
+Faith, Hope And Charity
+To Each His Own
+59
+Cheech & Chong
+(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P
+60
+Biddu Orchestra
+Summer Of '42
+61
+Waylon Jennings
+Are You Sure Hank Done It This Way
+62
+Katfish
+Dear Prudence
+63
+Rod Stewart
+Sailing
+64
+5000 Volts
+I'm On Fire
+65
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+66
+Austin Roberts
+Rocky
+67
+Glen Campbell
+Rhinestone Cowboy
+68
+Sly Stone
+I Get High On You
+69
+Curtis Mayfield
+So In Love
+70
+The O'Jays
+I Love Music (Part 1)
+71
+The Jimmy Castor Bunch
+King Kong - Pt. I
+72
+Travis Wammack
+Easy Evil
+73
+Ray Stevens
+Indian Love Call
+74
+The Marshall Tucker Band
+Fire On The Mountain
+75
+Jessi Colter
+What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov
+76
+Roger Daltrey
+Come And Get Your Love
+77
+Quincy Jones (feat. The Brothers Johnson)
+Is It Love That We're Missin'
+78
+Elvis Presley
+Bringing It Back
+79
+Jethro Tull
+Minstrel In The Gallery
+80
+Alice Cooper
+Welcome To My Nightmare
+81
+Vicki Lawrence
+The Other Woman
+82
+Wings
+Venus And Mars Rock Show
+83
+The Grateful Dead
+The Music Never Stopped
+84
+Tony Orlando & Dawn
+Skybird
+85
+The Miracles
+Love Machine (Part 1)
+86
+Hot Chocolate
+You Sexy Thing
+87
+Eddie Kendricks
+Happy
+88
+John Livigni
+Machines
+89
+Diana Ross
+Theme From Mahogany (Do You Know Where You're Going To)
+90
+Pilot
+Just A Smile
+91
+The Impressions
+Same Thing It Took
+92
+Willie Hutch
+Love Power
+93
+Jim Gilstrap
+I'm On Fire
+94
+Al Martino
+Volare
+95
+Head East
+Never Been Any Reason
+96
+Firefly
+Hey There Little Firefly Part I
+97
+Billy Swan
+Everything's The Same (Ain't Nothing Changed)
+98
+Gloria Gaynor
+(If You Want It) Do It Yourself
+99
+The Statler Brothers
+I'll Go To My Grave Loving You
+100
+Funkadelic
+Better By The Pound

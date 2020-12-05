@@ -1,0 +1,300 @@
+1
+Billy Paul
+Me And Mrs. Jones
+2
+Gilbert O'Sullivan
+Clair
+3
+Al Green
+You Ought To Be With Me
+4
+Carly Simon
+You're So Vain
+5
+Albert Hammond
+It Never Rains In Southern California
+6
+Donna Fargo
+Funny Face
+7
+Helen Reddy
+I Am Woman
+8
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+9
+Curtis Mayfield
+Superfly
+10
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+11
+Four Tops
+Keeper Of The Castle
+12
+Austin Roberts
+Something's Wrong With Me
+13
+Jethro Tull
+Living In The Past
+14
+The Temptations
+Papa Was A Rollin' Stone
+15
+Bread
+Sweet Surrender
+16
+Stevie Wonder
+Superstition
+17
+Neil Diamond
+Walk On Water
+18
+Cat Stevens
+Sitting
+19
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+20
+Elton John
+Crocodile Rock
+21
+James Taylor
+Don't Let Me Be Lonely Tonight
+22
+Johnny Nash
+I Can See Clearly Now
+23
+Three Dog Night
+Pieces Of April
+24
+Timmy Thomas
+Why Can't We Live Together
+25
+Jackson 5
+Corner Of The Sky
+26
+Carole King
+Been To Canaan
+27
+Wings
+Hi, Hi, Hi
+28
+Raspberries
+I Wanna Be With You
+29
+Seals & Crofts
+Summer Breeze
+30
+Hurricane Smith
+Oh, Babe, What Would You Say?
+31
+Blue Haze
+Smoke Gets In Your Eyes
+32
+The Hollies
+Long Dark Road
+33
+Marvin Gaye
+Trouble Man
+34
+Elvis Presley
+Separate Ways
+35
+War
+The World Is A Ghetto
+36
+America
+Ventura Highway
+37
+Steely Dan
+Do It Again
+38
+The Stylistics
+I'm Stone In Love With You
+39
+The Osmonds
+Crazy Horses
+40
+Joni Mitchell
+You Turn Me On, I'm A Radio
+41
+John Denver
+Rocky Mountain High
+42
+Bee Gees
+Alive
+43
+King Harvest
+Dancing In The Moonlight
+44
+Bulldog
+No
+45
+Bobby Womack & Peace
+Harry Hippie
+46
+Brighter Side Of Darkness
+Love Jones
+47
+The Who
+The Relay
+48
+Chicago
+Dialogue (Part I & II)
+49
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+50
+Joe Simon
+Trouble In My Home/I Found My Dad
+51
+Clean Living
+In Heaven There Is No Beer
+52
+Bill Withers
+Let Us Love
+53
+Peter Skellern
+You're A Lady
+54
+Jermaine Jackson
+Daddy's Home
+55
+Chuck Berry
+Reelin' & Rockin'
+56
+Jim Croce
+Operator (That's Not the Way it Feels)
+57
+Dennis Yost And The Classics IV
+What Am I Crying For?
+58
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+59
+James Brown
+I Got A Bag Of My Own
+60
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+61
+The Chi-lites
+We Need Order
+62
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+63
+Mac Davis
+Everybody Loves A Love Song
+64
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+65
+Rod Stewart
+Angel
+66
+Don McLean
+Dreidel
+67
+The Main Ingredient
+You've Got To Take It (If You Want It)
+68
+The O'Jays
+992 Arguments
+69
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+70
+Nilsson
+Remember (Christmas)
+71
+Gary Glitter
+I Didn't Know I Loved You (Till I Saw You Rock And Roll)
+72
+Bette Midler
+Do You Want To Dance?
+73
+Eagles
+Peaceful Easy Feeling
+74
+Dawn Featuring Tony Orlando
+You're A Lady
+75
+Wayne Newton
+Anthem
+76
+Keith Hampshire
+Daytime Night-Time
+77
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+78
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+79
+The Spinners
+Could It Be I'm Falling In Love
+80
+Edward Bear
+Last Song
+81
+Lobo
+Don't Expect Me To Be Your Friend
+82
+Cashman & West
+Songman
+83
+Slade
+Mama Weer All Crazee Now
+84
+Valerie Simpson
+Silly Wasn't I
+85
+Glen Campbell
+One Last Time
+86
+Emerson, Lake & Palmer
+Lucky Man
+87
+Merry Clayton
+Oh No, Not My Baby
+88
+Gallery
+Big City Miss Ruth Ann
+89
+Limmie & Family Cookin'
+You Can Do Magic
+90
+The Doobie Brothers
+Jesus Is Just Alright
+91
+Kris Kristofferson
+Jesus Was A Capricorn
+92
+Mary Hopkin
+Knock Knock Who's There
+93
+Joey Heatherton
+I'm Sorry
+94
+Paul Davis
+Boogie Woogie Man
+95
+Barbra Streisand
+Didn't We
+96
+Rita Coolidge
+Fever/My Crew
+97
+Ten Years After
+Choo Choo Mama
+98
+Bobby Vinton
+But I Do
+99
+Brownsville Station
+The Red Back Spider
+100
+Engelbert Humperdinck
+I Never Said Goodbye

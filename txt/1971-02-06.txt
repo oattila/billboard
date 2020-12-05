@@ -1,0 +1,300 @@
+1
+Dawn
+Knock Three Times
+2
+The Osmonds
+One Bad Apple
+3
+George Harrison
+My Sweet Lord/Isn't It A Pity
+4
+Bee Gees
+Lonely Days
+5
+Lynn Anderson
+Rose Garden
+6
+Dave Edmunds
+I Hear You Knocking
+7
+King Floyd
+Groove Me
+8
+Elton John
+Your Song
+9
+The 5th Dimension
+One Less Bell To Answer
+10
+Gladys Knight And The Pips
+If I Were Your Woman
+11
+Barbra Streisand
+Stoney End
+12
+Bobby Goldsboro
+Watching Scotty Grow
+13
+Perry Como
+It's Impossible
+14
+Stephen Stills
+Love The One You're With
+15
+Nitty Gritty Dirt Band
+Mr. Bojangles
+16
+Diana Ross
+Remember Me
+17
+Rare Earth
+Born To Wander
+18
+Gordon Lightfoot
+If You Could Read My Mind
+19
+Judy Collins
+Amazing Grace
+20
+Runt
+We Gotta Get You A Woman
+21
+Elvis Presley
+I Really Don't Want To Know/There Goes My Everything
+22
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+23
+Led Zeppelin
+Immigrant Song
+24
+Santana
+Black Magic Woman
+25
+Jackson 5
+Mama's Pearl
+26
+The Supremes
+Stoned Love
+27
+Jerry Reed
+Amos Moses
+28
+Ray Price
+For The Good Times
+29
+Bread
+Let Your Love Go
+30
+Henry Mancini And His Orchestra
+(Theme From) Love Story
+31
+Rufus Thomas
+(Do The) Push And Pull Part I
+32
+Creedence Clearwater Revival
+Have You Ever Seen The Rain/Hey Tonight
+33
+Little Sister
+Somebody's Watching You
+34
+James Brown
+Get Up, Get Into It, Get Involved (Pt. 1)
+35
+Liz Damon's Orient Express
+1900 Yesterday
+36
+Jackie Moore
+Precious, Precious
+37
+Chairman Of The Board
+Pay To The Piper
+38
+Redeye
+Games
+39
+Wilson Pickett
+Don't Let The Green Grass Fool You
+40
+Joe Simon
+Your Time To Cry
+41
+The Grass Roots
+Temptation Eyes
+42
+The Mike Curb Congregation
+Burning Bridges
+43
+John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band
+Mother
+44
+Wadsworth Mansion
+Sweet Mary
+45
+The Kinks
+Apeman
+46
+Bloodrock
+D.O.A.
+47
+Johnnie Taylor
+Jody's Got Your Girl And Gone
+48
+McGuinness Flint
+When I'm Dead And Gone
+49
+Francis Lai And His Orchestra
+Theme From Love Story
+50
+Ray Stevens
+Bridget The Midget (The Queen Of The Blues)
+51
+The Main Ingredient
+I'm So Proud
+52
+Edwin Starr
+Stop The War Now
+53
+Curtis Mayfield
+(Don't Worry) If There's A Hell Below We're All Going To Go
+54
+Candi Staton
+He Called Me Baby
+55
+The Originals
+God Bless Whoever Sent You
+56
+Jackie Wilson
+(I Can Feel Those Vibrations) This Love Is Real
+57
+Four Tops
+Just Seven Numbers (Can Straighten Out My Life)
+58
+Sammi Smith
+Help Me Make It Through The Night
+59
+Emitt Rhodes
+Fresh As A Daisy
+60
+Tom Jones
+She's A Lady
+61
+Janis Joplin
+Me And Bobby McGee
+62
+Eric Burdon And War
+They Can't Take Away Our Music
+63
+Ike & Tina Turner
+Proud Mary
+64
+C.C.S.
+Whole Lotta Love
+65
+The Statler Brothers
+Bed Of Rose's
+66
+Murray Head With The Trinidad Singers
+Superstar
+67
+The New Seekers featuring Eve Graham
+Beautiful People
+68
+John Rowles
+Cheryl Moana Marie
+69
+King Curtis & The Kingpins
+Whole Lotta Love
+70
+The Guess Who
+Hang On To Your Life
+71
+The Temptations
+Just My Imagination (Running Away With Me)
+72
+Edison Lighthouse
+It's Up To You Petula
+73
+Linda Ronstadt
+(She's A) Very Lovely Woman/The Long Way Around
+74
+The Magic Lanterns
+One Night Stand
+75
+The Stylistics
+You're A Big Girl Now
+76
+The Isley Brothers
+Freedom
+77
+Tyrannosaurus Rex
+Ride A White Swan
+78
+The Fuzz
+I Love You For All Seasons
+79
+Van Morrison
+Blue Money
+80
+Joey Scarbury
+Mixed Up Guy
+81
+James Taylor
+Country Road
+82
+Bobby Bloom
+Make Me Happy
+83
+The Mob
+I Dig Everything About You
+84
+The Three Degrees
+You're The One
+85
+Gary Puckett
+Keep The Customer Satisfied
+86
+The Friends Of Distinction
+I Need You
+87
+Carpenters
+For All We Know
+88
+Andy Williams
+(Where Do I Begin) Love Story
+89
+The Spinners
+We'll Have It Made
+90
+The Lettermen
+Everything Is Good About You
+91
+The Presidents
+Triangle Of Love (Hey Diddle Diddle)
+92
+The Dells
+The Glory Of Love
+93
+Dusk
+Angel Baby
+94
+Livingston Taylor
+Carolina Day
+95
+The Assembled Multitude
+Medley From "Superstar" (A Rock Opera)
+96
+The Stairsteps
+Didn't It Look So Easy
+97
+The Staple Singers
+Heavy Makes You Happy (Sha-Na-Boom Boom)
+98
+Vikki Carr
+I'll Be Home
+99
+The Bells
+Fly Little White Dove Fly
+100
+The Buoys
+Timothy

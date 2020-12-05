@@ -1,0 +1,300 @@
+1
+Bryan Adams
+Heaven
+2
+Phil Collins
+Sussudio
+3
+Duran Duran
+A View To A Kill
+4
+Prince And The Revolution
+Raspberry Beret
+5
+Madonna
+Angel
+6
+Survivor
+The Search Is Over
+7
+Tears For Fears
+Everybody Wants To Rule The World
+8
+Eurythmics
+Would I Lie To You?
+9
+Howard Jones
+Things Can Only Get Better
+10
+Mary Jane Girls
+In My House
+11
+Katrina And The Waves
+Walking On Sunshine
+12
+'Til Tuesday
+Voices Carry
+13
+Whitney Houston
+You Give Good Love
+14
+Paul Young
+Everytime You Go Away
+15
+Cyndi Lauper
+The Goonies 'R' Good Enough
+16
+Glenn Frey
+Smuggler's Blues
+17
+Bruce Springsteen
+Glory Days
+18
+Billy Ocean
+Suddenly
+19
+Sting
+If You Love Somebody Set Them Free
+20
+Night Ranger
+Sentimental Street
+21
+Wham!
+Everything She Wants
+22
+Kim Carnes
+Crazy In The Night (Barking At Airplanes)
+23
+John Cafferty & The Beaver Brown Band
+Tough All Over
+24
+Harold Faltermeyer
+Axel F
+25
+Kool & The Gang
+Fresh
+26
+The Beach Boys
+Getcha Back
+27
+Paul Hardcastle
+19
+28
+Air Supply
+Just As I Am
+29
+Supertramp
+Cannonball
+30
+The Power Station
+Get It On (Bang A Gong)
+31
+Daryl Hall John Oates
+Possession Obsession
+32
+Depeche Mode
+People Are People
+33
+Debarge
+Who's Holding Donna Now
+34
+Corey Hart
+Never Surrender
+35
+Tears For Fears
+Shout
+36
+Limahl
+The NeverEnding Story
+37
+Robert Plant
+Little By Little
+38
+Dead Or Alive
+You Spin Me Round (Like A Record)
+39
+Heart
+What About Love?
+40
+Graham Parker & The Shot
+Wake Up (Next To You)
+41
+Amy Grant
+Find A Way
+42
+Gino Vannelli
+Black Cars
+43
+Aretha Franklin
+Freeway Of Love
+44
+John Fogerty
+Centerfield
+45
+Don Henley
+Not Enough Love In The World
+46
+Huey Lewis & The News
+The Power Of Love
+47
+Men At Work
+Everything I Need
+48
+Freddie Jackson
+Rock Me Tonight
+49
+Kenny Loggins
+Forever
+50
+Commodores
+Animal Instinct
+51
+Rick Springfield
+State Of the Heart
+52
+Animotion
+Let Him Go
+53
+Simple Minds
+Don't You (Forget About Me)
+54
+Foreigner
+Reaction To Action
+55
+Bryan Adams
+Summer Of '69
+56
+David Lee Roth
+Just A Gigolo/I Ain't Got Nobody
+57
+Tom Petty And The Heartbreakers
+Make It Better (Forget About Me)
+58
+Hooters
+All You Zombies
+59
+"Weird Al" Yankovic
+Like A Surgeon
+60
+Madonna
+Crazy For You
+61
+Jeff Beck & Rod Stewart
+People Get Ready
+62
+Go West
+Call Me
+63
+Sade
+Smooth Operator
+64
+Lisa Lisa And Clult Jam With Full Force
+I Wonder If I Take You Home
+65
+Sade
+Your Love Is King
+66
+Patti LaBelle
+Stir It Up
+67
+Jermaine Jackson
+(Closest Thing To) Perfect
+68
+Klymaxx
+Meeting In The Ladies Room
+69
+Chaka Khan
+Through the Fire
+70
+REO Speedwagon
+One Lonely Night
+71
+Julian Lennon
+Say You're Wrong
+72
+George Thorogood & The Destroyers
+Willie & The Hand Jive
+73
+Natalie Cole
+Dangerous
+74
+John Parr
+St. Elmo's Fire (Man In Motion)
+75
+USA For Africa
+We Are The World
+76
+The Power Station
+Some Like It Hot
+77
+Jean Knight
+My Toot Toot
+78
+Vitamin Z
+Burning Flame
+79
+Murray Head
+One Night In Bangkok
+80
+Sister Sledge
+Frankie
+81
+Menudo
+Hold Me
+82
+Cock Robin
+When Your Heart Is Weak
+83
+Dokken
+Alone Again
+84
+Carly Simon
+Tired Of Being Blonde
+85
+Debarge
+Rhythm Of The Night
+86
+Mick Jagger
+Lucky In Love
+87
+Kim Mitchell
+Go For Soda
+88
+Jack Wagner
+The Lady Of My Heart
+89
+Peabo Bryson
+Take No Prisoners (In The Game Of Love)
+90
+Eric Clapton
+See What Love Can Do
+91
+Patti LaBelle
+New Attitude
+92
+Animotion
+Obsession
+93
+New Edition
+Lost In Love
+94
+Shannon
+Do You Wanna Get Away
+95
+Don Henley
+All She Wants to Do Is Dance
+96
+Bruce Springsteen
+I'm On Fire
+97
+Boy Meets Girl
+Oh Girl
+98
+Atlantic Starr
+Freak-A-Ristic
+99
+Luther Vandross
+'Til My Baby Comes Home
+100
+Alison Moyet
+Invisible

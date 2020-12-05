@@ -1,0 +1,300 @@
+1
+Bee Gees
+Too Much Heaven
+2
+Chic
+Le Freak
+3
+Billy Joel
+My Life
+4
+Barbra Streisand & Neil Diamond
+You Don't Bring Me Flowers
+5
+Alicia Bridges
+I Love The Nightlife (Disco 'round)
+6
+Dr. Hook
+Sharing The Night Together
+7
+Village People
+Y.M.C.A.
+8
+Toto
+Hold The Line
+9
+Andy Gibb
+(Our Love) Don't Throw It All Away
+10
+Linda Ronstadt
+Ooh Baby Baby
+11
+Eric Clapton And His Band
+Promises
+12
+Alice Cooper
+How You Gonna See Me Now
+13
+Olivia Newton-John
+A Little More Love
+14
+Bob Seger & The Silver Bullet Band
+We've Got Tonight
+15
+Earth, Wind & Fire
+September
+16
+Hot Chocolate
+Every 1's A Winner
+17
+Nicolette Larson
+Lotta Love
+18
+Eagles
+Please Come Home For Christmas
+19
+Ace Frehley
+New York Groove
+20
+The Pointer Sisters
+Fire
+21
+Chaka Khan
+I'm Every Woman
+22
+Ian Matthews
+Shake It
+23
+Gino Vannelli
+I Just Wanna Stop
+24
+Leif Garrett
+I Was Made For Dancin'
+25
+Queen
+Bicycle Race/Fat Bottomed Girls
+26
+Al Stewart
+Time Passages
+27
+Rod Stewart
+Da Ya Think I'm Sexy?
+28
+Chanson
+Don't Hold Back
+29
+Dan Hartman
+Instant Replay
+30
+Livingston Taylor
+I Will Be In Love With You
+31
+Barry Manilow
+Somewhere In The Night
+32
+Blues Brothers
+Soul Man
+33
+Boston
+A Man I'll Never Be
+34
+Kenny Rogers
+The Gambler
+35
+The Cars
+My Best Friend's Girl
+36
+Talking Heads
+Take Me To The River
+37
+Melissa Manchester
+Don't Cry Out Loud
+38
+Donna Summer
+MacArthur Park
+39
+Gerry Rafferty
+Home And Dry
+40
+Cheryl Lynn
+Got To Be Real
+41
+Rick James
+Mary Jane
+42
+Rose Royce
+Love Don't Live Here Anymore
+43
+Meat Loaf
+You Took The Words Right Out Of My Mouth
+44
+The J. Geils Band
+One Last Kiss
+45
+The Rolling Stones
+Shattered
+46
+Dolly Parton
+Baby I'm Burnin'
+47
+Exile
+You Thrill Me
+48
+Cooper Brothers
+The Dream Never Dies
+49
+Captain & Tennille
+You Need A Woman Tonight
+50
+Gene Simmons
+Radioactive
+51
+Firefall
+Strange Way
+52
+Ambrosia
+How Much I Feel
+53
+Nigel Olsson
+Dancin' Shoes
+54
+Chicago
+No Tell Lover
+55
+Daryl Hall John Oates
+I Don't Wanna Lose You
+56
+Heart
+Straight On
+57
+Peaches & Herb
+Shake Your Groove Thing
+58
+Foreigner
+Blue Morning, Blue Day
+59
+Paul Davis
+Sweet Life
+60
+John Paul Young
+Lost In Your Love
+61
+Gloria Gaynor
+I Will Survive
+62
+Kenny Loggins
+Easy Driver
+63
+Bobby Caldwell
+What You Won't Do For Love
+64
+Elton John
+Part-Time Love
+65
+Foreigner
+Double Vision
+66
+Player
+Silver Lining
+67
+Dan Fogelberg/Tim Weisberg
+The Power Of Gold
+68
+Marshall Hain
+Dancing In The City
+69
+Faith Band
+Dancin' Shoes
+70
+Glenn Sutton
+The Football Card
+71
+Paul Stanley
+Hold Me, Touch Me
+72
+Eddie Money
+You've Really Got A Hold On Me
+73
+Dobie Gray
+You Can Do It
+74
+Engelbert Humperdinck
+This Moment In Time
+75
+Styx
+Sing For The Day
+76
+Santana
+Stormy
+77
+Stephen Bishop
+Animal House
+78
+Yvonne Elliman
+Moment By Moment
+79
+Fotomaker
+Miles Away
+80
+The Babys
+Every Time I Think Of You
+81
+Bonnie Pointer
+Free Me From My Freedom/Tie Me To A Tree (Handcuff Me)
+82
+The Raes
+A Little Lovin' (Keeps The Doctor Away)
+83
+KC And The Sunshine Band
+Who Do Ya Love
+84
+Gonzalez
+Haven't Stopped Dancing Yet
+85
+Gene Chandler
+Get Down
+86
+Evelyn "Champagne" King
+I Don't Know If It's Right
+87
+Ted Nugent
+Need You Bad
+88
+Little River Band
+Lady
+89
+John Davis And The Monster Orchestra
+Ain't That Enough For You
+90
+Boney M
+Mary's Boy Child / Oh My Lord
+91
+The Blend
+I'm Gonna Make You Love Me
+92
+Musique
+In The Bush
+93
+Barry White
+Your Sweetness Is My Weakness
+94
+Chicago
+Alive Again
+95
+Carpenters
+I Believe You
+96
+Anne Murray
+You Needed Me
+97
+Nick Gilder
+Hot Child In The City
+98
+Jimmy Buffett
+Mañana
+99
+Jefferson Starship
+Light The Sky On Fire
+100
+Don Ray
+Got To Have Loving

@@ -1,0 +1,300 @@
+1
+Madonna
+Music
+2
+98 Degrees
+Give Me Just One Night (Una Noche)
+3
+Janet
+Doesn't Really Matter
+4
+Destiny's Child
+Jumpin', Jumpin'
+5
+3 Doors Down
+Kryptonite
+6
+Erykah Badu
+Bag Lady
+7
+Creed
+With Arms Wide Open
+8
+Sisqo
+Incomplete
+9
+matchbox twenty
+Bent
+10
+Nelly
+(Hot S**t) Country Grammar
+11
+Christina Aguilera
+Come On Over Baby (All I Want Is You)
+12
+P!nk
+Most Girls
+13
+Everclear
+Wonderful
+14
+Ruff Endz
+No More
+15
+Mystikal
+Shake Ya Ass
+16
+Joe
+I Wanna Know
+17
+Profyle
+Liar
+18
+Mya
+Case Of The Ex (Whatcha Gonna Do)
+19
+Toni Braxton
+He Wasn't Man Enough
+20
+Lil Bow Wow Featuring Xscape
+Bounce With Me
+21
+LeAnn Rimes
+I Need You
+22
+BBMak
+Back Here
+23
+Faith Hill
+The Way You Love Me
+24
+Kandi
+Don't Think I'm Not
+25
+Next
+Wifey
+26
+Nine Days
+Absolutely (Story Of A Girl)
+27
+SoulDecision Featuring Thrust
+Faded
+28
+'N Sync
+It's Gonna Be Me
+29
+Creed
+Higher
+30
+Vertical Horizon
+You're A God
+31
+'N Sync
+This I Promise You
+32
+Sting Featuring Cheb Mami
+Desert Rose
+33
+Aaliyah
+Try Again
+34
+Bon Jovi
+It's My Life
+35
+Jo Dee Messina
+That's The Way
+36
+Jagged Edge
+Let's Get Married
+37
+Ja Rule Featuring Christina Milian
+Between Me And You
+38
+Ricky Martin
+She Bangs
+39
+Samantha Mumba
+Gotta Tell You
+40
+Vertical Horizon
+Everything You Want
+41
+Debelah Morgan
+Dance With Me
+42
+Faith Hill
+Breathe
+43
+Aaron Carter
+Aaron's Party (Come Get It)
+44
+P!nk
+There You Go
+45
+John Michael Montgomery
+The Little Girl
+46
+George Strait
+Go On
+47
+Aaron Tippin
+Kiss This
+48
+Travis Tritt
+Best Of Intentions
+49
+Destiny's Child
+Independent Women Part I
+50
+Toni Braxton
+Just Be A Man About It
+51
+Barenaked Ladies
+Pinch Me
+52
+SHeDAISY
+I Will...But
+53
+Baha Men
+Who Let The Dogs Out
+54
+R. Kelly
+I Wish
+55
+Toby Keith
+Country Comes To Town
+56
+Common
+The Light
+57
+Faith Hill With Tim McGraw
+Let's Make Love
+58
+Dr. Dre Featuring Snoop Dogg
+The Next Episode
+59
+Eminem
+The Way I Am
+60
+Lonestar
+What About Now
+61
+Yolanda Adams
+Open My Heart
+62
+DMX Featuring Sisqo
+What You Want
+63
+Papa Roach
+Last Resort
+64
+Alan Jackson
+It Must Be Love
+65
+Vince Gill
+Feels Like Love
+66
+Britney Spears
+Lucky
+67
+Lil' Zane Featuring 112
+Callin' Me
+68
+Da Brat Featuring Tyrese
+What'Chu Like
+69
+Third Eye Blind
+Deep Inside Of You
+70
+Marc Anthony
+My Baby You
+71
+Nelly
+E.I.
+72
+Changing Faces
+That Other Woman
+73
+Martina McBride
+There You Are
+74
+Red Hot Chili Peppers
+Californication
+75
+U2
+Beautiful Day
+76
+Jay-Z Featuring Memphis Bleek & Amil
+Hey Papi
+77
+Wyclef Jean Featuring Mary J. Blige
+911
+78
+Joe Diffie
+It's Always Somethin'
+79
+Joe
+Treat Her Like A Lady
+80
+Dixie Chicks
+Without You
+81
+Phil Vassar
+Just Another Day In Paradise
+82
+Shyne Featuring Barrington Levy
+Bad Boyz
+83
+Ludacris Featuring Shawnna
+What's Your Fantasy
+84
+Keith Urban
+Your Everything
+85
+Billy Gilman
+One Voice
+86
+Carl Thomas
+Summer Rain
+87
+Don Henley
+Taking You Home
+88
+Tamia
+Can't Go For That
+89
+Jessica Simpson
+I Think I'm In Love With You
+90
+Ideal Featuring Lil' Mo
+Whatever
+91
+Kelly Price
+You Should've Told Me
+92
+Dream
+He Loves U Not
+93
+Patty Loveless
+That's The Kind Of Mood I'm In
+94
+Sister Hazel
+Change Your Mind
+95
+Madison Avenue
+Don't Call Me Baby
+96
+LeAnn Rimes
+Can't Fight The Moonlight
+97
+Billy Ray Cyrus
+You Won't Be Lonely Now
+98
+Whitney Houston & Enrique Iglesias
+Could I Have This Kiss Forever
+99
+Mandy Moore
+I Wanna Be With You
+100
+Brooks & Dunn
+You'll Always Be Loved By Me

@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Billie Jean
+2
+Bob Seger & The Silver Bullet Band
+Shame On The Moon
+3
+Stray Cats
+Stray Cat Strut
+4
+Culture Club
+Do You Really Want To Hurt Me
+5
+Duran Duran
+Hungry Like The Wolf
+6
+Patti Austin A Duet With James Ingram
+Baby, Come To Me
+7
+Eddie Rabbitt With Crystal Gayle
+You And I
+8
+Kenny Rogers And Sheena Easton
+We've Got Tonight
+9
+Pretenders
+Back On The Chain Gang
+10
+Musical Youth
+Pass The Dutchie
+11
+Lionel Richie
+You Are
+12
+Christopher Cross
+All Right
+13
+Sammy Hagar
+Your Love Is Driving Me Crazy
+14
+Men At Work
+Down Under
+15
+Journey
+Separate Ways (Worlds Apart)
+16
+Golden Earring
+Twilight Zone
+17
+Billy Joel
+Allentown
+18
+Daryl Hall John Oates
+One On One
+19
+Joe Jackson
+Breaking Us In Two
+20
+Styx
+Mr. Roboto
+21
+Earth, Wind & Fire
+Fall In Love With Me
+22
+Frida
+I Know There's Something Going On
+23
+Adam Ant
+Goody Two Shoes
+24
+Kenny Loggins
+Heart To Heart
+25
+Dexys Midnight Runners
+Come On Eileen
+26
+Saga
+On The Loose
+27
+Toto
+Africa
+28
+Eric Clapton
+I've Got A Rock N' Roll Heart
+29
+Phil Collins
+You Can't Hurry Love
+30
+Steel Breeze
+Dreamin' Is Easy
+31
+After The Fire
+Der Kommissar
+32
+Supertramp Featuring Rick Davies
+My Kind Of Lady
+33
+Donna Summer
+The Woman In Me
+34
+Greg Kihn Band
+Jeopardy
+35
+Neil Diamond
+I'm Alive
+36
+ABC
+Poison Arrow
+37
+Pat Benatar
+Little Too Late
+38
+Olivia Newton-John
+Tied Up
+39
+Dan Fogelberg
+Make Love Stay
+40
+Night Ranger
+Don't Tell Me You Love Me
+41
+Jefferson Starship
+Winds Of Change
+42
+Diana Ross
+So Close
+43
+Vandenberg
+Burning Heart
+44
+Thompson Twins
+Lies
+45
+Tom Petty And The Heartbreakers
+Change Of Heart
+46
+The Weather Girls
+It's Raining Men
+47
+Debarge
+I Like It
+48
+Don Henley
+I Can't Stand Still
+49
+Evelyn King
+Betcha She Don't Love You
+50
+Melissa Manchester
+Nice Girls
+51
+Ric Ocasek
+Something To Grab For
+52
+Stephen Bishop
+It Might Be You
+53
+Phil Collins
+I Don't Care Anymore
+54
+Oxo
+Whirly Girl
+55
+Pia Zadora
+The Clapping Song
+56
+Thomas Dolby
+She Blinded Me With Science
+57
+The Clash
+Should I Stay Or Should I Go
+58
+Janet Jackson
+Come Give Your Love To Me
+59
+Firefall
+Always
+60
+Felony
+The Fanatic
+61
+Dionne Warwick
+Take The Short Way Home
+62
+Prince
+Little Red Corvette
+63
+Marty Balin
+What Love Is
+64
+The John Hall Band
+Love Me Again
+65
+Michael Jackson
+Beat It
+66
+Little River Band
+The Other Guy
+67
+The J. Geils Band
+Land Of A Thousand Dances
+68
+Robert John
+Bread And Butter
+69
+Barry Manilow
+Some Kind Of Friend
+70
+Marvin Gaye
+Sexual Healing
+71
+Daryl Hall John Oates
+Maneater
+72
+Randy Newman & Paul Simon
+The Blues
+73
+Psychedelic Furs
+Love My Way
+74
+Crosby, Stills & Nash
+Too Much Love To Hide
+75
+John Anderson
+Swingin'
+76
+The Clash
+Rock The Casbah
+77
+Toni Basil
+Shoppin' From A To Z
+78
+Juice Newton
+Heart Of The Night
+79
+Berlin
+Sex (I'm A...)
+80
+Yaz
+Only You
+81
+Mac McAnally
+Minimum Love
+82
+Gentle Persuasion
+Please Mr. Postman
+83
+Robert Hazard
+Escalator Of Life
+84
+Single Bullet Theory
+Keep It Tight
+85
+Moving Pictures
+What About Me
+86
+A Flock Of Seagulls
+Space Age Love Song
+87
+Billy Squier
+She's A Runner
+88
+Tom Petty And The Heartbreakers
+You Got Lucky
+89
+Poco
+Shoot For The Moon
+90
+The System
+You Are In My System
+91
+Don Henley
+Dirty Laundry
+92
+Missing Persons
+Windows
+93
+John Cougar
+Hand To Hold On To
+94
+Donald Fagen
+New Frontier
+95
+Neil Young
+Little Thing Called Love
+96
+Toni Basil
+Mickey
+97
+Michael Jackson And Paul McCartney
+The Girl Is Mine
+98
+Laura Branigan
+Gloria
+99
+Rachel Sweet
+Voo Doo
+100
+Dionne Warwick
+Heartbreaker

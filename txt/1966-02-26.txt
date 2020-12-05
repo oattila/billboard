@@ -1,0 +1,300 @@
+1
+Nancy Sinatra
+These Boots Are Made For Walkin'
+2
+Lou Christie
+Lightnin' Strikes
+3
+SSgt Barry Sadler
+The Ballad Of The Green Berets
+4
+Stevie Wonder
+Uptight (Everything's Alright)
+5
+The Supremes
+My World Is Empty Without You
+6
+Petula Clark
+My Love
+7
+The Marvelettes
+Don't Mess With Bill
+8
+The Mamas & The Papas
+California Dreamin'
+9
+Bob Lind
+Elusive Butterfly
+10
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Working My Way Back To You
+11
+Herb Alpert & The Tijuana Brass
+Zorba The Greek
+12
+Ray Charles
+Crying Time
+13
+Herman's Hermits
+Listen People
+14
+Bobby Fuller Four
+I Fought The Law
+15
+The Beach Boys
+Barbara Ann
+16
+Sonny & Cher
+What Now My Love
+17
+The Kinks
+A Well Respected Man
+18
+Ronnie Dove
+When Liking Turns To Loving
+19
+The T-Bones
+No Matter What Shape (Your Stomach's In)
+20
+Bob Kuban And The In-Men
+The Cheater
+21
+The Dave Clark Five
+At The Scene
+22
+Chris Montez
+Call Me
+23
+The Miracles
+Going To A Go-Go
+24
+The Beatles
+We Can Work It Out
+25
+The Marketts
+Batman Theme
+26
+Paul Revere & The Raiders Featuring Mark Lindsay
+Just Like Me
+27
+The Five Americans
+I See The Light
+28
+The Turtles
+You Baby
+29
+David & Jonathan
+Michelle
+30
+Martha & The Vandellas
+My Baby Loves Me
+31
+Simon & Garfunkel
+Homeward Bound
+32
+The Strangeloves
+Night Time
+33
+Roy Orbison
+Breakin' Up Is Breakin' My Heart
+34
+The Knickerbockers
+Lies
+35
+Mitch Ryder And The Detroit Wheels
+Jenny Take A Ride!
+36
+Deon Jackson
+Love Makes The World Go Round
+37
+The Shangri-Las
+Long Live Our Love
+38
+Ramsey Lewis Trio
+A Hard Day's Night
+39
+The Vogues
+Five O'Clock World
+40
+Gary Lewis And The Playboys
+She's Just My Style
+41
+Slim Harpo
+Baby Scratch My Back
+42
+Wilson Pickett
+634-5789 (Soulsville, U.S.A.)
+43
+The Sunrays
+Andrea
+44
+Lee Dorsey
+Get Out Of My Life, Woman
+45
+Len Barry
+Like A Baby
+46
+The Rolling Stones
+19th Nervous Breakdown
+47
+Dean Martin
+Somewhere There's A Someone
+48
+Neal Hefti
+Batman Theme
+49
+Sir Douglas Quintet
+The Rains Came
+50
+Roger Miller
+Husbands And Wives
+51
+Mel Carter
+Love Is All We Need
+52
+Freddy Cannon
+The Dedication Song
+53
+Frankie Valli
+(You're Gonna) Hurt Yourself
+54
+Bert Kaempfert And His Orchestra
+Bye Bye Blues
+55
+Peter And Gordon
+Woman
+56
+Bobby Goldsboro
+It's Too Late
+57
+Buck Owens
+Waitin' In Your Welfare Line
+58
+The Exciters
+A Little Bit Of Soap
+59
+Eddy Arnold
+I Want To Go With You
+60
+Eddie Holman
+This Can't Be True
+61
+The Sheep
+Hide & Seek
+62
+The McCoys
+Up And Down
+63
+The Byrds
+It Won't Be Wrong
+64
+The Righteous Brothers
+Georgia On My Mind
+65
+The Walker Bros.
+My Ship Is Comin' In
+66
+Verdelle Smith
+In My Room (El Amor)
+67
+Four Tops
+Shake Me, Wake Me (When It's Over)
+68
+Bud Shank
+Michelle
+69
+Marvin Gaye
+One More Heartache
+70
+Jan & Dean
+Batman
+71
+The Vogues
+Magic Town
+72
+B.J. Thomas And The Triumphs
+I'm So Lonesome I Could Cry
+73
+James Brown And The Famous Flames
+I'll Go Crazy
+74
+Mary Wells
+Dear Lover
+75
+Bobby Vinton
+Tears
+76
+The Lovin' Spoonful
+Daydream
+77
+The Searchers
+Take Me For What I'm Worth
+78
+Edwin Starr
+Stop Her On Sight (S.O.S.)
+79
+The Byrds
+Set You Free This Time
+80
+Jay & The Americans
+Why Can't You Bring Me Home
+81
+The Isley Brothers
+This Old Heart Of Mine (Is Weak For You)
+82
+Sam The Sham and the Pharaohs
+Red Hot
+83
+Johnny Cash
+The One On The Right Is On The Left
+84
+The Temptations
+Get Ready
+85
+Googie Rene Combo
+Smokey Joe's La La
+86
+Patty Duke
+Whenever She Holds You
+87
+Norma Tanega
+Walkin' My Cat Named Dog
+88
+New Colony Six
+I Confess
+89
+Neil Sedaka
+The Answer To My Prayer
+90
+The Ventures
+Secret Agent Man
+91
+Pozo Seco Singers
+Time
+92
+The Fortunes
+This Golden Ring
+93
+Tom Jones
+Promise Her Anything
+94
+Barbra Streisand
+Where Am I Going?
+95
+Sam Cooke
+Feel It
+96
+The Animals
+Inside-Looking Out
+97
+The Outsiders
+Time Won't Let Me
+98
+The Elgins
+Put Yourself In My Place
+99
+The Newbeats
+Shake Hands (And Come Out Crying)
+100
+The Barbarians
+Moulty

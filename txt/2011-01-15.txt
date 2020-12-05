@@ -1,0 +1,300 @@
+1
+Katy Perry
+Firework
+2
+Bruno Mars
+Grenade
+3
+Ke$ha
+We R Who We R
+4
+Rihanna Featuring Drake
+What's My Name?
+5
+P!nk
+Raise Your Glass
+6
+Enrique Iglesias Featuring Ludacris & DJ Frank E
+Tonight (I'm Lovin' You)
+7
+The Black Eyed Peas
+The Time (Dirty Bit)
+8
+Wiz Khalifa
+Black And Yellow
+9
+Bruno Mars
+Just The Way You Are
+10
+Nelly
+Just A Dream
+11
+Trey Songz Featuring Nicki Minaj
+Bottoms Up
+12
+Rihanna
+Only Girl (In The World)
+13
+Taio Cruz
+Dynamite
+14
+Far*East Movement Featuring Cataracs & Dev
+Like A G6
+15
+Waka Flocka Flame Featuring Roscoe Dash & Wale
+No Hands
+16
+Usher Featuring Pitbull
+DJ Got Us Fallin' In Love
+17
+Lil Wayne Featuring Cory Gunz
+6 Foot 7 Foot
+18
+Katy Perry
+Teenage Dream
+19
+Chris Brown
+Yeah 3X
+20
+Mike Posner
+Please Don't Go
+21
+Edward Maya & Vika Jigulina
+Stereo Love
+22
+CeeLo Green
+F**k You! (Forget You)
+23
+Diddy - Dirty Money Featuring Skylar Grey
+Coming Home
+24
+Neon Trees
+Animal
+25
+Taylor Swift
+Back To December
+26
+OneRepublic
+Secrets
+27
+Pitbull Featuring T-Pain
+Hey Baby (Drop It To The Floor)
+28
+Lil Wayne Featuring Drake
+Right Above It
+29
+WILLOW
+Whip My Hair
+30
+Flo Rida Featuring David Guetta
+Club Can't Handle Me
+31
+Taylor Swift
+Mine
+32
+Enrique Iglesias Featuring Pitbull
+I Like It
+33
+The Band Perry
+If I Die Young
+34
+Far*East Movement Featuring Ryan Tedder
+Rocketeer
+35
+Eminem Featuring Rihanna
+Love The Way You Lie
+36
+Sugarland
+Stuck Like Glue
+37
+The Ready Set
+Love Like Woe
+38
+Eminem Featuring Lil Wayne
+No Love
+39
+Nicki Minaj
+Right Thru Me
+40
+Keri Hilson
+Pretty Girl Rock
+41
+Christina Perri
+Jar Of Hearts
+42
+Tim McGraw
+Felt Good On My Lips
+43
+Jason Aldean
+My Kinda Party
+44
+Kenny Chesney
+Somewhere With You
+45
+Chris Brown Featuring Tyga & Kevin McCall
+Deuces
+46
+Rick Ross Featuring Drake & Chrisette Michele
+Aston Martin Music
+47
+Taio Cruz Featuring Travie McCoy
+Higher
+48
+The Lonely Island Featuring Akon
+I Just Had Sex
+49
+Plain White T's
+Rhythm of Love
+50
+Victorious Cast Featuring Victoria Justice
+Freak The Freak Out
+51
+Blake Shelton
+Who Are You When I'm Not Looking
+52
+Jason Aldean With Kelly Clarkson
+Don't You Wanna Stay
+53
+Flo Rida Featuring Akon
+Who Dat Girl
+54
+Florence + The Machine
+Dog Days Are Over
+55
+Jeremih Featuring 50 Cent
+Down On Me
+56
+Yolanda Be Cool & Dcup
+We No Speak Americano
+57
+David Guetta Featuring Kid Cudi
+Memories
+58
+Dr. Dre Featuring Snoop Dogg & Akon
+Kush
+59
+Michael Jackson Duet With Akon
+Hold My Hand
+60
+Carrie Underwood
+Mama's Song
+61
+Trey Songz
+Can't Be Friends
+62
+Keith Urban
+Put You In A Song
+63
+Nicki Minaj Featuring Drake
+Moment 4 Life
+64
+Mumford & Sons
+Little Lion Man
+65
+Linkin Park
+Waiting For The End
+66
+Billy Currington
+Let Me Down Easy
+67
+Sick Puppies
+Maybe
+68
+Chris Young
+Voices
+69
+Birdman Featuring Lil Wayne
+Fire Flame
+70
+Usher
+More
+71
+Reba
+Turn On The Radio
+72
+Train
+Marry Me
+73
+Lloyd
+Lay It Down
+74
+Miranda Lambert
+Only Prettier
+75
+Kanye West Featuring Pusha T
+Runaway
+76
+Brad Paisley
+This Is Country Music
+77
+Selena Gomez & The Scene
+A Year Without Rain
+78
+Jamie Foxx Featuring Drake
+Fall For Your Type
+79
+Big Time Rush
+Big Night
+80
+Thompson Square
+Are You Gonna Kiss Me Or Not
+81
+George Strait
+The Breath You Take
+82
+Lady Antebellum
+Hello World
+83
+Eric Church
+Smoke A Little Smoke
+84
+Luke Bryan
+Someone Else Calling You Baby
+85
+Bruno Mars
+Marry You
+86
+Twista Featuring Chris Brown
+Make A Movie
+87
+Toby Keith
+Bullets In The Gun
+88
+T.I. Featuring Eminem
+That's All She Wrote
+89
+Rascal Flatts
+Why Wait
+90
+Brad Paisley
+Anything Like Me
+91
+Chris Brown
+No BS
+92
+Kanye West Featuring Jay-Z, Rick Ross, Bon Iver & Nicki Minaj
+Monster
+93
+Troop 41
+Do The John Wall
+94
+Jerrod Niemann
+What Do You Want
+95
+Jesse McCartney
+Shake
+96
+will.i.am & Nicki Minaj
+Check It Out
+97
+Nicki Minaj Featuring Eminem
+Roman's Revenge
+98
+Sara Evans
+A Little Bit Stronger
+99
+Dev Featuring The Cataracs
+Bass Down Low
+100
+Chiddy Bang
+Opposite Of Adults

@@ -1,0 +1,300 @@
+1
+Andy Gibb
+I Just Want To Be Your Everything
+2
+Peter Frampton
+I'm In You
+3
+Barry Manilow
+Looks Like We Made It
+4
+Barbra Streisand
+My Heart Belongs To Me
+5
+Shaun Cassidy
+Da Doo Ron Ron
+6
+The Emotions
+Best Of My Love
+7
+Peter Mccann
+Do You Wanna Make Love
+8
+Jimmy Buffett
+Margaritaville
+9
+Rita Coolidge
+(your Love Has Lifted Me) Higher And Higher
+10
+Pablo Cruise
+Whatcha Gonna Do?
+11
+Alice Cooper
+You And Me
+12
+Bay City Rollers
+You Made Me Believe In Magic
+13
+Commodores
+Easy
+14
+ABBA
+Knowing Me, Knowing You
+15
+Alan O'Day
+Undercover Angel
+16
+Hot
+Angel In Your Arms
+17
+Crosby, Stills & Nash
+Just A Song Before I Go
+18
+Helen Reddy
+You're My World
+19
+James Taylor
+Handy Man
+20
+Heart
+Barracuda
+21
+The Steve Miller Band
+Jet Airliner
+22
+Fleetwood Mac
+Don't Stop
+23
+England Dan & John Ford Coley
+It's Sad To Belong
+24
+Meri Wilson
+Telephone Man
+25
+Supertramp
+Give A Little Bit
+26
+Electric Light Orchestra
+Telephone Line
+27
+Leo Sayer
+How Much Love
+28
+Bill Conti
+Gonna Fly Now
+29
+The Sanford/Townsend Band
+Smoke From A Distant Fire
+30
+Marvin Gaye
+Got To Give It Up (Pt. I)
+31
+Ram Jam
+Black Betty
+32
+Stephen Bishop
+On And On
+33
+Dean Friedman
+Ariel
+34
+Cat Stevens
+(Remember The Days Of The) Old Schoolyard
+35
+Elvis Presley
+Way Down
+36
+Johnny Rivers
+Swayin' To The Music (slow Dancin')
+37
+The Brothers Johnson
+Strawberry Letter 23
+38
+Slave
+Slide
+39
+KISS
+Christine Sixteen
+40
+The Floaters
+Float On
+41
+The Isley Brothers
+Livin' In The Life
+42
+Rod Stewart
+The Killing Of Georgie (Part I And II)
+43
+B.J. Thomas
+Don't Worry Baby
+44
+Waylon Jennings
+Luckenbach, Texas (Back To The Basics Of Love)
+45
+Celi Bee & The Buzzy Bunch
+Superman
+46
+Brownsville Station
+Lady (put The Light On Me)
+47
+The Sylvers
+High School Dance
+48
+LeBlanc & Carr
+Something About You
+49
+Dr. Hook
+Walk Right In
+50
+Glen Campbell
+Sunflower
+51
+Mac McAnally
+It's A Crazy World
+52
+London Symphony Orchestra
+Star Wars (Main Title)
+53
+Fleetwood Mac
+Dreams
+54
+Thelma Houston
+If It's The Last Thing I Do
+55
+Bob Seger
+Rock And Roll Never Forgets
+56
+Eagles
+Life In The Fast Lane
+57
+Ronnie Milsap
+It Was Almost Like A Song
+58
+Bonnie Raitt
+Runaway
+59
+Johnny Guitar Watson
+A Real Mother For Ya
+60
+Foreigner
+Cold As Ice
+61
+Foreigner
+Feels Like The First Time
+62
+Hot Chocolate
+So You Win Again
+63
+Bruce Foster
+Platinum Heroes
+64
+War
+L.a. Sunshine
+65
+Bee Gees
+Edge Of The Universe
+66
+Carole King
+Hard Rock Cafe
+67
+Shaun Cassidy
+That's Rock 'N' Roll
+68
+Teddy Pendergrass
+I Don't Love You Anymore
+69
+Kenny Rogers
+Lucille
+70
+Gladys Knight And The Pips
+Baby Don't Change Your Mind
+71
+George Benson
+Gonna Love You More
+72
+Kenny Nolan
+Love's Grown Deep
+73
+Carly Simon
+Nobody Does It Better
+74
+The 4 Seasons
+Down The Hall
+75
+Tim Moore
+In The Middle
+76
+Lou Rawls
+See You When I Git There
+77
+The Doobie Brothers
+Little Darling (i Need You)
+78
+Paul Anka
+Everybody Ought To Be In Love
+79
+Andrew Gold
+Lonely Boy
+80
+KC And The Sunshine Band
+I'm Your Boogie Man
+81
+Eddie Rabbitt
+I Can't Help Myself
+82
+KC And The Sunshine Band
+Keep It Comin' Love
+83
+Natalie Cole
+Party Lights
+84
+Jennifer Warnes
+I'm Dreaming
+85
+Starz
+Sing It, Shout It
+86
+Outlaws
+Hurry Sundown
+87
+Ohio Players
+O-H-I-O
+88
+Heatwave
+Boogie Nights
+89
+Maze Featuring Frankie Beverly
+While I'm Alone
+90
+Joe Tex
+Ain't Gonna Bump No More (with No Big Fat Woman)
+91
+Steve Sperry
+Flame
+92
+Daryl Hall John Oates
+It's Uncanny
+93
+C.J. & Company
+Devil's Gun
+94
+George Benson
+The Greatest Love Of All
+95
+Kenny Loggins
+I Believe In Love
+96
+The Ramones
+Sheena Is A Punk Rocker
+97
+The Marshall Tucker Band
+Heard It In A Love Song
+98
+Wildfire
+Here Comes Summer
+99
+Hodges, James And Smith
+Since I Fell For You/I'm Falling In Love
+100
+Donna McDaniel
+Save Me

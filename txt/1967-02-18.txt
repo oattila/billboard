@@ -1,0 +1,300 @@
+1
+The Buckinghams
+Kind Of A Drag
+2
+The Monkees
+I'm A Believer
+3
+The Rolling Stones
+Ruby Tuesday
+4
+The Seekers
+Georgy Girl
+5
+Blues Magoos
+(We Ain't Got) Nothin' Yet
+6
+The Supremes
+Love Is Here And Now You're Gone
+7
+Keith
+98.6
+8
+Aaron Neville
+Tell It Like It Is
+9
+Sonny & Cher
+The Beat Goes On
+10
+The Spencer Davis Group
+Gimme Some Lovin'
+11
+Tom Jones
+Green, Green Grass Of Home
+12
+Spyder Turner
+Stand By Me
+13
+The Casinos
+Then You Can Tell Me Goodbye
+14
+The Electric Prunes
+I Had Too Much To Dream (Last Night)
+15
+The Royal Guardsmen
+Snoopy Vs. The Red Baron
+16
+Cannonball Adderley
+Mercy, Mercy, Mercy
+17
+The Left Banke
+Pretty Ballerina
+18
+Bob Crewe Generation
+Music To Watch Girls By
+19
+Johnny Rivers
+Baby I Need Your Lovin'
+20
+Marvin Gaye & Kim Weston
+It Takes Two
+21
+The 5th Dimension
+Go Where You Wanna Go
+22
+Paul Revere & The Raiders Featuring Mark Lindsay
+Good Thing
+23
+Tommy Roe
+It's Now Winters Day
+24
+Ed Ames
+My Cup Runneth Over
+25
+Neil Diamond
+You Got To Me
+26
+Four Tops
+Standing In The Shadows Of Love
+27
+Mitch Ryder And The Detroit Wheels
+Sock It To Me-Baby!
+28
+The Sopwith "Camel"
+Hello Hello
+29
+James Brown And The Famous Flames
+Bring It Up
+30
+The Lovin' Spoonful
+Nashville Cats
+31
+Jimmy Castor
+Hey, Leroy, Your Mama's Callin' You
+32
+Bobby Darin
+Lovin' You
+33
+The Marvelettes
+The Hunter Gets Captured By The Game
+34
+The Byrds
+So You Want To Be A Rock 'N' Roll Star
+35
+Elvis Presley With The Jordanaires and The Imperials Quartet
+Indescribably Blue
+36
+James Darren
+All
+37
+Brenda Lee
+Ride, Ride, Ride
+38
+The Seeds
+Pushin' Too Hard
+39
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+40
+Freddy Scott
+Are You Lonely For Me
+41
+The Young Rascals
+I've Been Lonely Too Long
+42
+James & Bobby Purify
+Wish You Didn't Have To Go
+43
+Donovan
+Epistle To Dippy
+44
+P.J. Proby
+Niki Hoeky
+45
+The Mamas & The Papas
+Words Of Love
+46
+Wilson Pickett
+Everybody Needs Somebody To Love
+47
+Peaches & Herb
+Let's Fall In Love
+48
+Peter And Gordon
+Knight In Rusty Armour
+49
+Felice Taylor
+It May Be Winter Outside (But In My Heart It's Spring)
+50
+Petula Clark
+Color My World
+51
+Frankie Laine
+I'll Take Care Of Your Cares
+52
+Lowell Fulsom
+Tramp
+53
+Senator Bobby Featuring Bill Minkin
+Wild Thing
+54
+Herman's Hermits
+There's A Kind Of Hush
+55
+Jack Jones
+Lady
+56
+Al Martino
+Daddy's Little Girl
+57
+The Rolling Stones
+Let's Spend The Night Together
+58
+Lesley Gore
+California Nights
+59
+The Lovin' Spoonful
+Darling Be Home Soon
+60
+The Brass Ring featuring Phil Bodner
+The Dis-Advantages Of You
+61
+The Association
+No Fair At All
+62
+The Turtles
+Happy Together
+63
+The Youngbloods
+Grizzly Bear
+64
+The Artistics
+I'm Gonna Miss You
+65
+Tommy James And The Shondells
+I Think We're Alone Now
+66
+The Dave Clark Five
+I've Got To Have A Reason
+67
+Mike Sharpe
+Spooky
+68
+The Music Machine
+The People In Me
+69
+Jr. Walker & The All Stars
+Pucker Up Buttercup
+70
+Don Ho and the Aliis
+Tiny Bubbles
+71
+The Mojo Men
+Sit Down, I Think I Love You
+72
+The Lettermen
+Our Winter Love
+73
+Jack Greene
+There Goes My Everything
+74
+Carla Thomas
+Something Good (Is Going To Happen To You)
+75
+Jerry Butler
+I Dig You Baby
+76
+The Cyrkle
+I Wish You Could Be Here
+77
+Paul Revere & The Raiders
+Ups And Downs
+78
+Solomon Burke
+Keep A Light In The Window Till I Come Home
+79
+Ronnie Dove
+One More Mountain To Climb
+80
+Ramsey Lewis
+One, Two, Three
+81
+Brian Hyland
+Hung Up In Your Eyes
+82
+The New Vaudeville Band
+Peek-A-Boo
+83
+Eddie Floyd
+Raise Your Hand
+84
+Lou Courtney
+Skate Now
+85
+Prince Buster
+Ten Commandments
+86
+Roger Williams
+Sunrise, Sunset
+87
+The Seekers
+Morningtown Ride
+88
+Harpers Bizarre
+The 59th Street Bridge Song (Feelin' Groovy)
+89
+Billy Stewart
+Every Day I Have The Blues
+90
+New Colony Six
+Love You So Much
+91
+Little Milton
+Feel So Bad
+92
+Joe Simon
+My Special Prayer
+93
+Jackie Wilson
+Just Be Sincere
+94
+Herman's Hermits
+No Milk Today
+95
+Smokey Robinson & The Miracles
+The Love I Saw In You Was Just A Mirage
+96
+Chuck Jackson & Maxine Brown
+Hold On I'm Coming
+97
+Eddie Fisher
+People Like You
+98
+The Fascinations
+Girls Are Out To Get You
+99
+Percy Sledge
+Baby, Help Me
+100
+Trini Lopez
+Gonna Get Along Without Ya' Now

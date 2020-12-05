@@ -1,0 +1,300 @@
+1
+Mary Macgregor
+Torn Between Two Lovers
+2
+Eagles
+New Kid In Town
+3
+Manfred Mann's Earth Band
+Blinded By The Light
+4
+Rose Royce
+Car Wash
+5
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+6
+Brick
+Dazz
+7
+The Jacksons
+Enjoy Yourself
+8
+Stevie Wonder
+I Wish
+9
+Kenny Nolan
+I Like Dreamin'
+10
+Bread
+Lost Without Your Love
+11
+Steve Miller
+Fly Like An Eagle
+12
+The Sylvers
+Hot Line
+13
+Barry Manilow
+Weekend In New England
+14
+Bob Seger & The Silver Bullet Band
+Night Moves
+15
+Al Stewart
+Year Of The Cat
+16
+ABBA
+Dancing Queen
+17
+KISS
+Hard Luck Woman
+18
+Aerosmith
+Walk This Way
+19
+Leo Sayer
+You Make Me Feel Like Dancing
+20
+Fleetwood Mac
+Go Your Own Way
+21
+Donny & Marie Osmond
+Ain't Nothing Like The Real Thing
+22
+Bee Gees
+Boogie Child
+23
+David Dundas
+Jeans On
+24
+Thelma Houston
+Don't Leave Me This Way
+25
+Stephen Bishop
+Save It For A Rainy Day
+26
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+27
+10cc
+The Things We Do For Love
+28
+Daryl Hall John Oates
+Rich Girl
+29
+Smokie
+Living Next Door To Alice
+30
+Kansas
+Carry On Wayward Son
+31
+Queen
+Somebody To Love
+32
+Boston
+Long Time
+33
+Engelbert Humperdinck
+After The Lovin'
+34
+Earth, Wind & Fire
+Saturday Nite
+35
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+36
+Burton Cummings
+Stand Tall
+37
+Elvis Presley
+Moody Blue/she Thinks I Still Care
+38
+Electric Light Orchestra
+Livin' Thing
+39
+George Harrison
+Crackerbox Palace
+40
+Tom Jones
+Say You'll Stay Until Tomorrow
+41
+Henhouse Five Plus Too
+In The Mood
+42
+Commodores
+Fancy Dancer
+43
+Wild Cherry
+Baby Don't You Know
+44
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+45
+Heart
+Dreamboat Annie
+46
+David Soul
+Don't Give Up On Us
+47
+KC And The Sunshine Band
+I Like To Do It
+48
+Jackson Browne
+Here Come Those Tears Again
+49
+Gene Cotton
+You've Got Me Runnin'
+50
+Olivia Newton-John
+Sam
+51
+Alice Cooper
+I Never Cry
+52
+Parker McGee
+I Just Can't Say No To You
+53
+Brass Construction
+Ha Cha Cha (funktion)
+54
+Deniece Williams
+Free
+55
+Boz Scaggs
+What Can I Say
+56
+Elton John
+Bite Your Lip (Get up and dance!)
+57
+Bee Gees
+Love So Right
+58
+Linda Ronstadt
+Someone To Lay Down Beside Me
+59
+Wings
+Maybe I'm Amazed
+60
+Atlanta Rhythm Section
+So In To You
+61
+The Dramatics
+Be My Girl
+62
+Natalie Cole
+I've Got Love On My Mind
+63
+Orleans
+Reach
+64
+Arthur Prysock
+When Love Is New
+65
+Boney M
+Daddy Cool
+66
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+67
+Rick Dees & His Cast Of Idiots
+Dis-Gorilla (Part 1)
+68
+Ohio Players
+Feel The Beat (Everybody Disco)
+69
+Jennifer Warnes
+Right Time Of The Night
+70
+Phoebe Snow
+Shakey Ground
+71
+Enchantment
+Gloria
+72
+Electric Light Orchestra
+Do Ya
+73
+Dickie Goodman
+Kong
+74
+Ringo Starr
+Hey Baby
+75
+Silvetti
+Spring Rain
+76
+The Emotions
+I Don't Wanna Lose Your Love/Flowers
+77
+Rod Stewart
+The First Cut Is The Deepest
+78
+Latimore
+Somethin' 'bout 'cha
+79
+Elton John
+Sorry Seems To Be The Hardest Word
+80
+Little River Band
+I'll Always Call Your Name
+81
+The Sons Of Champlin
+Here Is Where Your Love Belongs
+82
+Love Unlimited Orchestra
+Theme From King Kong (Pt. I)
+83
+The Doobie Brothers
+It Keeps You Runnin'
+84
+Aretha Franklin
+Look Into Your Heart
+85
+Bay City Rollers
+Dedication
+86
+Rufus Featuring Chaka Khan
+At Midnight (My Love Will Lift You Up)
+87
+Grace Jones
+Sorry/That's The Trouble
+88
+Donna Summer
+Spring Affair/Winter Melody
+89
+The Bar-Kays
+Too Hot To Stop (Pt. 1)
+90
+Harold Melvin And The Blue Notes
+Reaching For The World
+91
+L.T.D.
+Love To The World
+92
+The O'Jays
+Darlin' Darlin' Baby (Sweet, Tender, Love)
+93
+Ozark Mountain Daredevils
+You Know Like I Know
+94
+Starland Vocal Band
+Hail! Hail! Rock And Roll!
+95
+Loleatta Holloway
+Dreamin
+96
+Glen Campbell
+Southern Nights
+97
+Johnny Rivers
+Ashes And Sand
+98
+Barry DeVorzon And Perry Botikin Jr.
+Bless The Beasts And Children
+99
+Automatic Man
+My Pearl
+100
+Elvin Bishop Featuring Mickey Thomas
+Spend Some Time

@@ -1,0 +1,300 @@
+1
+Mariah Carey
+I'll Be There
+2
+Sir Mix-A-Lot
+Baby Got Back
+3
+Red Hot Chili Peppers
+Under The Bridge
+4
+Kris Kross
+Jump
+5
+Sophie B. Hawkins
+Damn I Wish I Was Your Lover
+6
+En Vogue
+My Lovin' (You're Never Gonna Get It)
+7
+Celine Dion
+If You Asked Me To
+8
+Billy Ray Cyrus
+Achy Breaky Heart
+9
+Arrested Development
+Tennessee
+10
+Luther Vandross And Janet Jackson With BBD And Ralph Tresvant
+The Best Things In Life Are Free
+11
+The Cover Girls
+Wishing On A Star
+12
+Genesis
+Hold On My Heart
+13
+Jon Secada
+Just Another Day
+14
+Joe Public
+Live And Learn
+15
+Michael Jackson
+In The Closet
+16
+Tom Cochrane
+Life Is A Highway
+17
+George Michael
+Too Funky
+18
+Jodeci
+Come & Talk To Me
+19
+Color Me Badd
+Slow Motion
+20
+Wilson Phillips
+You Won't See Me Cry
+21
+Lionel Richie
+Do It To Me
+22
+Mr. Big
+Just Take My Heart
+23
+Amy Grant
+I Will Remember You
+24
+TLC
+Ain't 2 Proud 2 Beg
+25
+TLC
+Baby-Baby-Baby
+26
+Eric Clapton
+Tears In Heaven
+27
+Vanessa Williams
+Just For Tonight
+28
+The Cure
+Friday I'm In Love
+29
+CeCe Peniston
+Keep On Walkin'
+30
+Linear
+T.L.C.
+31
+Vanessa Williams
+Save The Best For Last
+32
+Ugly Kid Joe
+Everything About You
+33
+U2
+One
+34
+Das EFX
+They Want EFX
+35
+Queen
+Bohemian Rhapsody
+36
+En Vogue
+Giving Him Something He Can Feel
+37
+Bryan Adams
+Thought I'd Died And Gone To Heaven
+38
+Kris Kross
+Warm It Up
+39
+Richard Marx
+Take This Heart
+40
+Guns N' Roses
+November Rain
+41
+Lidell Townsell
+Nu Nu
+42
+Annie Lennox
+Why
+43
+The Outfield
+Closer To Me
+44
+Technotronic Featuring Ya Kid K
+Move This
+45
+The B-52s
+Good Stuff
+46
+Howard Jones
+Lift Me Up
+47
+Nice & Smooth
+Sometimes I Rhyme Slow
+48
+Richard Marx
+Hazard
+49
+Shanice
+Silent Prayer
+50
+Mariah Carey
+Make It Happen
+51
+R. Kelly & Public Announcement
+Honey Love
+52
+Def Leppard
+Let's Get Rocked
+53
+Keith Sweat
+Why Me Baby?
+54
+Bonnie Raitt
+Not The Only One
+55
+Brotherhood Creed
+Helluva
+56
+The Black Crowes
+Remedy
+57
+Tevin Campbell
+Strawberry Letter 23
+58
+Eddie Money
+Fall In Love Again
+59
+TKA
+Maria
+60
+Shabba Ranks
+Mr. Loverman (From "Deep Cover")
+61
+Kathy Troccoli
+Everything Changes
+62
+Boyz II Men
+Please Don't Go
+63
+Troop
+Whatever It Takes (To Make You Stay)
+64
+Good 2 Go
+Never Satisfied
+65
+RTZ
+All You've Got
+66
+L.A. Style
+James Brown Is Dead
+67
+Def Leppard
+Make Love Like A Man
+68
+Bruce Springsteen
+57 Channels (And Nothin' On)
+69
+Mary J. Blige
+You Remind Me (From "Strictly Business")
+70
+A Tribe Called Quest
+Scenario
+71
+2 Unlimited
+Twilight Zone
+72
+Tracie Spencer
+Love Me
+73
+The College Boyz
+Victim Of The Ghetto
+74
+Redhead Kingpin & The F.B.I.
+3-2-1 Pump
+75
+"Weird Al" Yankovic
+Smells Like Nirvana
+76
+Pete Rock & C.L. Smooth
+They Reminisce Over You (T.R.O.Y.)
+77
+Elton John
+The One
+78
+Colourhaus
+Innocent Child
+79
+2nd II None
+If You Want It
+80
+Cause And Effect
+You Think You Know Her
+81
+Nirvana
+Come As You Are
+82
+Toad The Wet Sprocket
+All I Want
+83
+Mint Condition
+Forever In Your Eyes
+84
+Mitch Malloy
+Anything At All
+85
+Chris Walker
+Take Time
+86
+Black Sheep
+The Choice Is Yours
+87
+Bruce Springsteen
+Human Touch/Better Days
+88
+Metallica
+Nothing Else Matters
+89
+Jody Watley
+I'm The One You Need
+90
+Aaron Hall
+Don't Be Afraid
+91
+Gerald Levert (Duet With Eddie Levert)
+Baby Hold On To Me
+92
+Stacy Earl
+Slowly
+93
+Lisa Stansfield
+All Woman
+94
+Laura Enea
+This Is The Last Time
+95
+Nia Peeples
+Faces Of Love
+96
+Paula Abdul
+Will You Marry Me?
+97
+Tevin Campbell
+Goodbye
+98
+House Of Pain
+Jump Around
+99
+K.W.S.
+Please Don't Go
+100
+Rozalla
+Everybody's Free (To Feel Good)

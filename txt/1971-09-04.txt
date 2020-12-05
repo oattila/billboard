@@ -1,0 +1,300 @@
+1
+Paul & Linda McCartney
+Uncle Albert/Admiral Halsey
+2
+Bee Gees
+How Can You Mend A Broken Heart
+3
+The Undisputed Truth
+Smiling Faces Sometimes
+4
+Aretha Franklin
+Spanish Harlem
+5
+Donny Osmond
+Go Away Little Girl
+6
+Bill Withers
+Ain't No Sunshine
+7
+John Denver
+Take Me Home, Country Roads
+8
+Five Man Electrical Band
+Signs
+9
+Three Dog Night
+Liar
+10
+Rare Earth
+I Just Want To Celebrate
+11
+The Dramatics
+Whatcha See Is Whatcha Get
+12
+Jean Knight
+Mr. Big Stuff
+13
+Marvin Gaye
+Mercy, Mercy Me (The Ecology)
+14
+The Doors
+Riders On The Storm
+15
+Chicago
+Beginnings/Colour My World
+16
+Creedence Clearwater Revival
+Sweet Hitch-Hiker
+17
+The Honey Cone
+Stick-Up
+18
+Joan Baez
+The Night They Drove Old Dixie Down
+19
+Rod Stewart
+Maggie May/Reason To Believe
+20
+The Who
+Won't Get Fooled Again
+21
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Woke Up In Love This Morning
+22
+James Taylor
+You've Got A Friend
+23
+James Brown
+Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt. 1)
+24
+George Harrison
+Bangla-Desh/Deep Blue
+25
+Olivia Newton-John
+If Not For You
+26
+Al Green
+Tired Of Being Alone
+27
+The Raiders
+Indian Reservation (The Lament Of The Cherokee Reservation Indian)
+28
+Tom Clay
+What The World Needs Now Is Love/Abraham, Martin and John
+29
+Tommy James
+Draggin' The Line
+30
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+31
+The Moody Blues
+The Story In Your Eyes
+32
+Blood, Sweat & Tears
+Go Down Gamblin'
+33
+Jackson 5
+Maybe Tomorrow
+34
+Lee Michaels
+Do You Know What I Mean
+35
+Bobby Russell
+Saturday Morning Confusion
+36
+Paul Stookey
+Wedding Song (There Is Love)
+37
+Stevie Wonder
+If You Really Love Me
+38
+The Guess Who
+Rain Dance
+39
+Carole King
+So Far Away/Smackwater Jack
+40
+The People's Choice
+I Likes To Do It
+41
+B.J. Thomas
+Mighty Clouds Of Joy
+42
+The Glass Bottle
+I Ain't Got Time Anymore
+43
+Stampeders
+Sweet City Woman
+44
+Diana Ross
+Surrender
+45
+The Nite-Liters
+K-Jee
+46
+Redbone
+Maggie
+47
+War
+All Day Music
+48
+Stephen Stills
+Marianne
+49
+Carpenters
+Superstar/Bless The Beasts And Children
+50
+Bread
+Mother Freedom
+51
+The Poppy Family
+Where Evil Grows
+52
+The Dells
+The Love We Had (Stays On My Mind)
+53
+Rufus Thomas
+The Breakdown (Part I)
+54
+Jr. Walker & The All Stars
+Take Me Girl, I'm Ready
+55
+Bobby Sherman
+Waiting At The Bus Stop
+56
+James Brown
+Make It Funky (Part 1)
+57
+Helen Reddy
+Crazy Love
+58
+The Free Movement
+I've Found Someone Of My Own
+59
+Barbra Streisand
+Where You Lead
+60
+Tommy Roe
+Stagger Lee
+61
+Freddie Hart
+Easy Loving
+62
+The Stylistics
+Stop, Look, Listen (To Your Heart)
+63
+Kris Kristofferson
+Loving Her Was Easier (Than Anything I'll Ever Do Again)
+64
+Engelbert Humperdinck
+Another Time, Another Place
+65
+Denise LaSalle
+Trapped By A Thing Called Love
+66
+The Persuaders
+Thin Line Between Love & Hate
+67
+Buddy Miles & The Freedom Express
+Them Changes
+68
+Hamilton, Joe Frank & Reynolds
+Annabella
+69
+Wilson Pickett
+Call My Name, I'll Be There
+70
+Dusk
+I Hear Those Church Bells Ringing
+71
+Steppenwolf
+Ride With Me
+72
+Grand Funk Railroad
+Gimme Shelter
+73
+Tin Tin
+Is That The Way
+74
+Jerry Reed
+Ko-Ko Joe
+75
+Lynn Anderson
+How Can I Unlove You
+76
+Cat Stevens
+Moon Shadow
+77
+Lou Rawls
+A Natural Man
+78
+Elvis Presley
+I'm Leavin'
+79
+Ray Price
+I'd Rather Be Sorry
+80
+Johnny Rivers
+Think His Name
+81
+Lobo
+California Kid And Reemo
+82
+Andy Williams
+A Song For You
+83
+John Baldry
+Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll
+84
+Clarence Carter
+Slipped, Tripped And Fell In Love
+85
+Ray Stevens
+All My Trials
+86
+Ocean
+We Got A Dream
+87
+Dionne Warwicke
+Amanda
+88
+Tom T. Hall
+The Year That Clayton Delaney Died
+89
+Johnnie Taylor (The Soul Philosopher)
+Hijackin' Love
+90
+The New Colony Six
+Roll On
+91
+Detroit Emeralds
+Wear This Ring (With Love)
+92
+Runt-Todd Rundgren
+A Long Time, A Long Way To Go
+93
+Joni Mitchell
+Carey
+94
+Heaven Bound with Tony Scotti
+He'd Rather Have The Rain
+95
+Ray Charles
+Feel So Bad
+96
+The Searchers
+Desdemona
+97
+Graham Nash
+Military Madness
+98
+Laura Lee
+Women's Love Rights
+99
+Brenda & The Tabulations
+A Part Of You
+100
+Whatnauts
+We're Friends By Day (And Lovers By Night)

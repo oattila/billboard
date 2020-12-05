@@ -1,0 +1,300 @@
+1
+John Denver
+I'm Sorry
+2
+David Bowie
+Fame
+3
+Glen Campbell
+Rhinestone Cowboy
+4
+The Isley Brothers
+Fight The Power Part 1
+5
+David Geddes
+Run Joey Run
+6
+Barry Manilow
+Could It Be Magic
+7
+Janis Ian
+At Seventeen
+8
+Freddy Fender
+Wasted Days And Wasted Nights
+9
+Sweet
+Ballroom Blitz
+10
+Bad Company
+Feel Like Makin' Love
+11
+Helen Reddy
+Ain't No Way To Treat A Lady
+12
+Orleans
+Dance With Me
+13
+Earth, Wind & Fire
+That's The Way Of The World
+14
+Dickie Goodman
+Mr. Jaws
+15
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+16
+Morris Albert
+Feelings
+17
+Tavares
+It Only Takes A Minute
+18
+The Spinners
+They Just Can't Stop It the (Games People Play)
+19
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+20
+America
+Daisy Jane
+21
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+22
+The Osmonds
+The Proud One
+23
+The Ritchie Family
+Brazil
+24
+Austin Roberts
+Rocky
+25
+Neil Sedaka
+Bad Blood
+26
+Paul Simon/Phoebe Snow
+Gone At Last
+27
+Jefferson Starship
+Miracles
+28
+KC And The Sunshine Band
+Get Down Tonight
+29
+Leon Russell
+Lady Blue
+30
+The 4 Seasons
+Who Loves You
+31
+Michael Murphey
+Carolina In The Pines
+32
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+33
+People's Choice
+Do It Any Way You Wanna
+34
+Tony Orlando & Dawn
+You're All I Need To Get By
+35
+Esther Phillips
+What A Diff'rence A Day Makes
+36
+Carpenters
+Solitaire
+37
+Jim Stafford
+I Got Stoned And I Missed It
+38
+Art Garfunkel
+I Only Have Eyes For You
+39
+AWB
+If I Ever Lose This Heaven
+40
+Eagles
+Lyin' Eyes
+41
+Amazing Rhythm Aces
+Third Rate Romance
+42
+John Fogerty
+Rockin' All Over The World
+43
+Natalie Cole
+This Will Be
+44
+Linda Ronstadt
+Heat Wave/love Is A Rose
+45
+Willie Nelson
+Blue Eyes Crying In The Rain
+46
+Bob Seger
+Katmandu
+47
+James Taylor
+How Sweet It Is (To Be Loved By You)
+48
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+49
+George Harrison
+You
+50
+The Outlaws
+There Goes Another Love Song
+51
+Evie Sands
+I Love Makin' Love To You
+52
+Ohio Players
+Sweet Sticky Thing
+53
+Fox
+Only You Can
+54
+Jigsaw
+Sky High
+55
+Smokey Robinson
+The Agony And The Ecstasy
+56
+Graham Central Station
+Your Love
+57
+Gladys Knight And The Pips
+Money
+58
+Bruce Springsteen
+Born To Run
+59
+Sly Stone
+I Get High On You
+60
+Crown Heights Affair
+Dreaming A Dream
+61
+Chicago
+Brand New Love Affair (Part I & II)
+62
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+63
+Pete Wingfield
+Eighteen With A Bullet
+64
+Faith, Hope And Charity
+To Each His Own
+65
+Jessi Colter
+You Ain't Never Been Loved (Like I'm Gonna Love You)
+66
+Olivia Newton-John
+Something Better To Do
+67
+The Nitty Gritty Dirt Band
+(All I Have To Do Is) Dream
+68
+War
+Low Rider
+69
+Melissa Manchester
+Just Too Many People
+70
+Leon Haywood
+I Want'a Do Something Freaky To You
+71
+Arthur Alexander
+Every Day I Have To Cry Some
+72
+The Eleventh Hour
+Hollywood Hot
+73
+Aretha Franklin
+Mr. D.J. (5 For The D.J.)
+74
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+75
+B.T. Express
+Give It What You Got/Peace Pipe
+76
+ABBA
+S.O.S.
+77
+The Manhattan Transfer
+Operator
+78
+Pat Lundi
+Party Music
+79
+Waylon Jennings
+Are You Sure Hank Done It This Way
+80
+Captain & Tennille
+The Way I Want To Touch You
+81
+Emmylou Harris
+If I Could Only Win Your Love
+82
+Rusty Wier
+Don't It Make You Wanna Dance?
+83
+Joan Baez
+Diamonds And Rust
+84
+Elton John
+Someone Saved My Life Tonight
+85
+The Grass Roots
+Mamacita
+86
+The Salsoul Orchestra
+Salsoul Hustle
+87
+Millie Jackson
+Leftovers
+88
+John Dawson Read
+A Friend Of Mine Is Going Blind
+89
+Mike Post
+Manhattan Spiritual
+90
+Poco
+Keep On Tryin'
+91
+Ray Charles
+Living For The City
+92
+Buddy Miles
+Rockin' And Rollin' On The Streets Of Hollywood
+93
+David Bellamy
+Nothin' Heavy
+94
+Cotton, Lloyd & Christian
+I Go To Pieces
+95
+Duke & The Drivers
+What You Got
+96
+Katfish
+Dear Prudence
+97
+Baron Stewart
+We Been Singin' Songs
+98
+The Road Apples
+Let's Live Together
+99
+Curtis Mayfield
+So In Love
+100
+Travis Wammack
+Easy Evil

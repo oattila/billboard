@@ -1,0 +1,300 @@
+1
+Ricky Nelson
+Travelin' Man
+2
+Pat Boone
+Moody River
+3
+Roy Orbison
+Running Scared
+4
+Ben E. King
+Stand By Me
+5
+Dee Clark
+Raindrops
+6
+Adam Wade
+The Writing On The Wall
+7
+Elvis Presley
+I Feel So Bad
+8
+Pips
+Every Beat Of My Heart
+9
+U.S. Bonds
+Quarter To Three
+10
+Brook Benton
+The Boll Weevil Song
+11
+Little Caesar and The Romans
+Those Oldies But Goodies (Remind Me Of You)
+12
+The Shirelles
+Mama Said
+13
+The Regents
+Barbara-Ann
+14
+Clarence Henry
+You Always Hurt The One You Love
+15
+Ricky Nelson
+Hello Mary Lou
+16
+Shep And The Limelites
+Daddy's Home
+17
+Bobby Lewis
+Tossin' And Turnin'
+18
+Faron Young
+Hello Walls
+19
+Gene McDaniels
+A Hundred Pounds Of Clay
+20
+The Fleetwoods
+Tragedy
+21
+Paul Anka
+Dance On Little Girl
+22
+Ernie K-Doe
+Mother-In-Law
+23
+Arthur Lyman Group
+Yellow Bird
+24
+The Marathons
+Peanut Butter
+25
+The Coasters
+Little Egypt (Ying-Yang)
+26
+The Edsels
+Rama Lama Ding Dong
+27
+Joe Barry
+I'm A Fool To Care
+28
+Connie Francis
+Breakin' In A Brand New Broken Heart
+29
+Del Shannon
+Runaway
+30
+Neil Sedaka
+Little Devil
+31
+Frank Gari
+Lullaby Of Love
+32
+The Everly Brothers
+Temptation
+33
+Johnny Maestro The Voice Of The Crests
+What A Surprise
+34
+Ral Donner
+Girl Of My Best Friend
+35
+Janie Grant
+Triangle
+36
+Eddie Harris
+Exodus
+37
+Don Costa And His Orchestra And Chorus
+Never On Sunday
+38
+Donnie and The Dreamers
+Count Every Star
+39
+Andy Williams
+The Bilbao Song
+40
+The Starlets
+Better Tell Him No
+41
+The Belmonts
+Tell Me Why
+42
+Tony Orlando
+Halfway To Paradise
+43
+The Cleftones
+Heart And Soul
+44
+Fats Domino
+It Keeps Rainin'
+45
+Gladys Knight And The Pips
+Every Beat Of My Heart
+46
+Steve Lawrence
+Portrait Of My Love
+47
+Bobby Rydell
+That Old Black Magic
+48
+Elvis Presley With The Jordanaires
+Wild In The Country
+49
+Linda Scott
+I've Told Every Little Star
+50
+The Everly Brothers
+Stick With Me Baby
+51
+Matt Monro
+My Kind Of Girl
+52
+Gogi Grant
+The Wayward Wind
+53
+Marty Robbins
+Jimmy Martinez
+54
+Jorgen Ingmann & His Guitar
+Anna
+55
+James Brown And The Famous Flames
+I Don't Mind
+56
+Brenda Lee
+You Can Depend On Me
+57
+Carla Thomas
+A Love Of My Own
+58
+Freddy Cannon
+Buzz Buzz A-Diddle-It
+59
+Adam Wade
+Take Good Care Of Her
+60
+The McGuire Sisters
+Just For Old Time's Sake
+61
+Roy Drusky
+Three Hearts In A Tangle
+62
+Jeanette (Baby) Washington
+Nobody Cares (about me)
+63
+Bobby Vee
+How Many Tears
+64
+Sam Cooke
+Cupid
+65
+The Drifters
+Please Stay
+66
+Les Paul And Mary Ford
+Jura (I Swear I Love You)
+67
+The Velvets featuring Virgil Johnson
+Tonight (Could Be The Night)
+68
+Patsy Cline
+I Fall To Pieces
+69
+Slim Harpo
+Rainin' In My Heart
+70
+Del Shannon
+Hats Off To Larry
+71
+The Castells
+Sacred
+72
+Jackie Wilson
+I'm Comin' On On Back To You
+73
+Johnny Burnette
+Big Big World
+74
+Floyd Cramer
+San Antonio Rose
+75
+Chris Kenner
+I Like It Like That, Part 1
+76
+The Dukays
+The Girl's A Devil
+77
+Bill Black's Combo
+Ole Buttermilk Sky
+78
+Jimmy Reed
+Big Boss Man
+79
+Lawrence Welk And His Orchestra
+Yellow Bird
+80
+Jackie Wilson
+Lonely Life
+81
+Teresa Brewer
+Milord
+82
+Wanda Jackson
+Right Or Wrong
+83
+Etta James
+Fool That I Am
+84
+Bobby Darin
+Nature Boy
+85
+The Marcels
+Summertime
+86
+The Delacardos
+Hold Back The Tears
+87
+Teddy Vann
+The Lonely Crowd
+88
+Johnny Crawford
+Daydreams
+89
+The New Yorkers
+Miss Fine
+90
+Freddy King
+Lonesome Whistle Blues
+91
+Ferrante & Teicher
+(Theme From) "Goodbye Again"
+92
+Bobby Parker
+Watch Your Step
+93
+Little Willie John
+(I've Got) Spring Fever
+94
+Patti Page
+Mom And Dad's Waltz
+95
+The Echoes
+Sad Eyes (Don't You Cry)
+96
+Duane Eddy
+Ring Of Fire
+97
+Frankie Calen
+Joanie
+98
+The String-A-Longs
+Should I
+99
+Billy Vaughn And His Orchestra
+Blue Tomorrow
+100
+Neil Scott
+Bobby

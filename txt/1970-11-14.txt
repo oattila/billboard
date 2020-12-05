@@ -1,0 +1,300 @@
+1
+Jackson 5
+I'll Be There
+2
+Carpenters
+We've Only Just Begun
+3
+James Taylor
+Fire And Rain
+4
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+5
+R. Dean Taylor
+Indiana Wants Me
+6
+Sugarloaf
+Green-Eyed Lady
+7
+Smokey Robinson & The Miracles
+The Tears Of A Clown
+8
+100 Proof Aged in Soul
+Somebody's Been Sleeping
+9
+Brian Hyland
+Gypsy Woman
+10
+Bread
+It Don't Matter To Me
+11
+Joe Cocker
+Cry Me A River
+12
+Free
+All Right Now
+13
+Bobby Bloom
+Montego Bay
+14
+Neil Diamond
+Cracklin' Rosie
+15
+James Brown
+Super Bad (Part 1 & Part 2)
+16
+The Kinks
+Lola
+17
+Dawn
+Candida
+18
+Four Tops
+Still Water (Love)
+19
+Wilson Pickett
+Engine Number 9
+20
+Stevie Wonder
+Heaven Help Us All
+21
+Glen Campbell
+It's Only Make Believe
+22
+Elvis Presley
+You Don't Have To Say You Love Me/Patch It Up
+23
+Charles Wright And The Watts 103rd Street Rhythm Band
+Express Yourself
+24
+Candi Staton
+Stand By Your Man
+25
+The Who
+See Me, Feel Me
+26
+Christie
+Yellow River
+27
+Freda Payne
+Deeper & Deeper
+28
+The Guess Who
+Share The Land
+29
+The New Seekers featuring Eve Graham
+Look What They've Done To My Song Ma
+30
+The Presidents
+5-10-15-20 (25-30 Years Of Love)
+31
+Canned Heat
+Let's Work Together
+32
+Mashmakhan
+As The Years Go By
+33
+Simon & Garfunkel
+El Condor Pasa (If I Could)
+34
+Crosby, Stills, Nash & Young
+Our House
+35
+Eric Clapton
+After Midnight
+36
+Teegarden & Van Winkle
+God, Love And Rock & Roll
+37
+Blood, Sweat & Tears
+Lucretia Mac Evil
+38
+Ray Price
+For The Good Times
+39
+Johnnie Taylor
+I Am Somebody Part II
+40
+Kenny Rogers & The First Edition
+Heed The Call
+41
+The 5th Dimension
+One Less Bell To Answer
+42
+Badfinger
+No Matter What
+43
+The Temptations
+Ungena Za Ulimwengu (Unite The World)
+44
+Mark Lindsay
+And The Grass Won't Pay No Mind
+45
+Dionne Warwick
+Make It Easy On Yourself
+46
+Ann Peebles
+Part Time Love
+47
+Engelbert Humperdinck
+Sweetheart
+48
+The Supremes
+Stoned Love
+49
+Quicksilver Messenger Service
+Fresh Air
+50
+Chicago
+Does Anybody Really Know What Time It Is?
+51
+The Flaming Ember
+I'm Not My Brothers Keeper
+52
+Ronnie Dyson
+I Don't Wanna Cry
+53
+Jake Holmes
+So Close
+54
+Neil Diamond
+He Ain't Heavy...He's My Brother
+55
+Santana
+Black Magic Woman
+56
+B.B. King
+Chains And Things
+57
+Ray Charles
+If You Were Mine
+58
+Tyrone Davis
+Let Me Back In
+59
+Andy Kim
+Be My Baby
+60
+Neil Young
+Only Love Can Break Your Heart
+61
+The Friends Of Distinction
+Time Waits For No One
+62
+Gary Puckett
+I Just Don't Know What To Do With Myself
+63
+CROW
+Don't Try To Lay No Boogie Woogie On The "King Of Rock & Roll"
+64
+Neil Diamond
+Do It
+65
+The Whispers
+Seems Like I Gotta Do Wrong
+66
+Shirley Bassey
+Something
+67
+Clarence Carter
+It's All In Your Mind
+68
+Iron Butterfly
+Easy Rider (Let The Wind Pay The Way)
+69
+Bobby Byrd
+I Need Help (I Can't Do It Alone) Pt. 1
+70
+Barbra Streisand
+Stoney End
+71
+David & Jimmy Ruffin
+Stand By Me
+72
+Israel "Popper Stopper" Tolbert
+Big Leg Woman (With A Short Short Mini Skirt)
+73
+Poco
+You Better Think Twice
+74
+Traffic
+Empty Pages
+75
+Charley Pride
+I Can't Believe That You've Stopped Loving Me
+76
+Steppenwolf
+Who Needs Ya
+77
+O.V. Wright
+Ace Of Spade
+78
+Chairman Of The Board
+Pay To The Piper
+79
+King Floyd
+Groove Me
+80
+Fantasy
+Stoned Cowboy
+81
+Conway Twitty
+Fifteen Years Ago
+82
+Crystal Mansion Featuring Johnny Caswell
+Carolina In My Mind
+83
+Dennis Yost And The Classics IV
+Where Did All The Good Times Go
+84
+Gene Chandler
+Simply Call It Love
+85
+Van Morrison
+Domino
+86
+Ray Stevens
+Sunset Strip
+87
+Redeye
+Games
+88
+The Intruders
+This Is My Love Song
+89
+The Mike Curb Congregation
+Burning Bridges
+90
+Roy Clark
+Thank God And Greyhound
+91
+Dunn & McCashen
+Alright In The City
+92
+Runt
+We Gotta Get You A Woman
+93
+Joe Simon
+That's The Way I Want Our Love
+94
+Martha Reeves & The Vandellas
+I Gotta Let You Go
+95
+Jerry Reed
+Amos Moses
+96
+Ringo Starr
+Beaucoups Of Blues
+97
+The Flame
+See The Light
+98
+Jim Ed Brown
+Morning
+99
+James Taylor
+Carolina In My Mind
+100
+Perry Como
+It's Impossible

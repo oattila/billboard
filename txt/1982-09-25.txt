@@ -1,0 +1,300 @@
+1
+The Steve Miller Band
+Abracadabra
+2
+John Cougar
+Jack & Diane
+3
+Chicago
+Hard To Say I'm Sorry
+4
+Survivor
+Eye Of The Tiger
+5
+Melissa Manchester
+You Should Hear How She Talks About You
+6
+The Alan Parsons Project
+Eye In The Sky
+7
+Men At Work
+Who Can It Be Now?
+8
+Jackson Browne
+Somebody's Baby
+9
+John Cougar
+Hurts So Good
+10
+Donna Summer
+Love Is In Control (Finger On The Trigger)
+11
+Paul McCartney
+Take It Away
+12
+America
+You Can Do Magic
+13
+Kenny Rogers
+Love Will Turn You Around
+14
+Elton John
+Blue Eyes
+15
+Michael McDonald
+I Keep Forgettin' (Every Time You're Near)
+16
+Eddie Money
+Think I'm In Love
+17
+Asia
+Only Time Will Tell
+18
+Jermaine Jackson
+Let Me Tickle Your Fancy
+19
+Santana
+Hold On
+20
+Joan Jett & the Blackhearts
+Do You Wanna Touch Me (Oh Yeah)
+21
+A Flock Of Seagulls
+I Ran (So Far Away)
+22
+Michael Murphey
+What's Forever For
+23
+Billy Idol
+Hot In The City
+24
+Kool & The Gang
+Big Fun
+25
+Aretha Franklin
+Jump To It
+26
+Laura Branigan
+Gloria
+27
+Juice Newton
+Break It To Me Gently
+28
+Randy Meisner
+Never Been In Love
+29
+Kim Carnes
+Voyeur
+30
+Toto
+Make Believe
+31
+The Gap Band
+You Dropped A Bomb On Me
+32
+Fleetwood Mac
+Hold Me
+33
+Glenn Frey
+The One You Love
+34
+Kenny Loggins with Steve Perry
+Don't Fight It
+35
+Fleetwood Mac
+Gypsy
+36
+Steel Breeze
+You Don't Want Me Anymore
+37
+Tane Cain
+Holdin' On
+38
+Barry Manilow
+Oh Julie
+39
+Olivia Newton-John
+Heart Attack
+40
+Willie Nelson
+Let It Be Me
+41
+Huey Lewis & The News
+Workin' For A Livin'
+42
+Air Supply
+Even The Nights Are Better
+43
+Evelyn King
+Love Come Down
+44
+38 Special
+You Keep Runnin' Away
+45
+The Clash
+Should I Stay Or Should I Go
+46
+Joe Cocker And Jennifer Warnes
+Up Where We Belong
+47
+Steve Winwood
+Still In The Game
+48
+Don Henley
+Johnny Can't Read
+49
+REO Speedwagon
+Sweet Time
+50
+The Who
+Athena
+51
+Sylvia
+Nobody
+52
+Neil Diamond
+Heartlight
+53
+Dolly Parton
+I Will Always Love You
+54
+Rick Springfield
+I Get Excited
+55
+Joe Jackson
+Steppin' Out
+56
+Toni Basil
+Mickey
+57
+Sheena Easton
+Machinery
+58
+Go-Go's
+Vacation
+59
+The Motels
+Take The L.
+60
+ABC
+The Look Of Love (Part One)
+61
+Paul Carrack
+I Need You
+62
+Crosby, Stills & Nash
+Southern Cross
+63
+Rush
+New World Man
+64
+Stray Cats
+Rock This Town
+65
+Alabama
+Close Enough To Perfect
+66
+Robert Plant
+Burning Down One Side
+67
+Clocks
+She Looks A Lot Like You
+68
+Moving Pictures
+What About Me
+69
+Air Supply
+Young Love
+70
+Tavares
+A Penny For Your Thoughts
+71
+The Pointer Sisters
+I'm So Excited
+72
+Billy Joel
+Pressure
+73
+Crosby, Stills & Nash
+Wasted On The Way
+74
+Chicago
+Love Me Tomorrow
+75
+Frank Zappa
+Valley Girl
+76
+Stevie Wonder
+Ribbon In The Sky
+77
+Bobby Caldwell
+All Of My Love
+78
+Michael Stanley Band
+When I'm Holding You Tight
+79
+Survivor
+American Heartbeat
+80
+Roberta Flack
+I'm The One
+81
+Nicolette Larson
+I Only Want To Be With You
+82
+Go-Go's
+Get Up And Go
+83
+Jeffrey Osborne
+On The Wings Of Love
+84
+Yaz
+Situation
+85
+Karla Bonoff
+Please Be The One
+86
+Ronnie Milsap
+He Got You
+87
+Quarterflash
+Night Shift
+88
+Kansas
+Right Away
+89
+Josie Cotton
+He Could Be The One
+90
+Billy Preston
+I'm Never Gonna Say Goodbye
+91
+Toronto
+Your Daddy Don't Know
+92
+Jennifer Holliday
+And I Am Telling You I'm Not Going
+93
+The Pointer Sisters
+American Music
+94
+REO Speedwagon
+Keep The Fire Burnin'
+95
+Walter Murphy
+Themes From E.T. (The Extra-Terrestrial)
+96
+Afrika Bambaataa & The Soul Sonic Force
+Planet Rock
+97
+Gary U.S. Bonds
+Out Of Work
+98
+Soft Cell
+Tainted Love
+99
+Dazz Band
+Let It Whip
+100
+The Motels
+Only The Lonely

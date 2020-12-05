@@ -1,0 +1,300 @@
+1
+Ke$ha
+TiK ToK
+2
+Lady Gaga
+Bad Romance
+3
+Young Money Featuring Lloyd
+BedRock
+4
+The Black Eyed Peas
+Imma Be
+5
+David Guetta Featuring Akon
+Sexy Chick
+6
+Ludacris
+How Low
+7
+Iyaz
+Replay
+8
+Lady Antebellum
+Need You Now
+9
+Train
+Hey, Soul Sister
+10
+Rihanna Featuring Jeezy
+Hard
+11
+Timbaland Featuring Justin Timberlake
+Carry Out
+12
+Jay-Z + Alicia Keys
+Empire State Of Mind
+13
+Justin Timberlake & Matt Morris Featuring Charlie Sexton
+Hallelujah
+14
+Jason Derulo
+In My Head
+15
+Owl City
+Fireflies
+16
+The Black Eyed Peas
+I Gotta Feeling
+17
+Trey Songz Featuring Fabolous
+Say Aah
+18
+Jay Sean Featuring Sean Paul & Lil Jon
+Do You Remember
+19
+Lady Gaga Featuring Beyonce
+Telephone
+20
+Boys Like Girls Featuring Taylor Swift
+Two Is Better Than One
+21
+Orianthi
+According To You
+22
+Taylor Swift
+Today Was A Fairytale
+23
+Kris Allen
+Live Like We're Dying
+24
+Jay Sean Featuring Lil Wayne
+Down
+25
+Justin Bieber Featuring Ludacris
+Baby
+26
+Taylor Swift
+You Belong With Me
+27
+Ke$ha Featuring 3OH!3
+Blah Blah Blah
+28
+Jason Derulo
+Whatcha Say
+29
+New Boyz Featuring Ray J
+Tie Me Down
+30
+Kelly Clarkson
+Already Gone
+31
+Kings Of Leon
+Use Somebody
+32
+Lady Gaga
+Paparazzi
+33
+The Black Eyed Peas
+Meet Me Halfway
+34
+Drake Featuring Kanye West, Lil Wayne & Eminem
+Forever
+35
+Adam Lambert
+Whataya Want From Me
+36
+Michael Buble
+Haven't Met You Yet
+37
+Miley Cyrus
+Party In The U.S.A.
+38
+Cascada
+Evacuate The Dancefloor
+39
+Britney Spears
+3
+40
+Jason Aldean
+The Truth
+41
+Snoop Dogg
+I Wanna Rock
+42
+Pitbull Featuring Akon
+Shut It Down
+43
+Melanie Fiona
+It Kills Me
+44
+Josh Turner
+Why Don't We Just Dance
+45
+Colbie Caillat
+Fallin' For You
+46
+Timbaland Featuring Drake
+Say Something
+47
+Sheryl Crow, Kid Rock & Keith Urban
+Lean On Me
+48
+Beyonce
+Sweet Dreams
+49
+Shinedown
+If You Only Knew
+50
+OneRepublic
+All The Right Moves
+51
+Daughtry
+Life After You
+52
+Birdman Featuring Lil Wayne & Drake
+Money To Blow
+53
+The Script
+Breakeven
+54
+Miranda Lambert
+White Liar
+55
+Selena Gomez & The Scene
+Naturally
+56
+Alicia Keys
+Try Sleeping With A Broken Heart
+57
+John Mayer
+Heartbreak Warfare
+58
+Jay-Z + Swizz Beatz
+On To The Next One
+59
+Snoop Dogg Featuring The-Dream
+Gangsta Luv
+60
+Mary J. Blige
+I Am
+61
+Carrie Underwood
+Cowboy Casanova
+62
+Lifehouse
+Halfway Gone
+63
+Darius Rucker
+History In The Making
+64
+Tim McGraw
+Southern Voice
+65
+Trey Songz Featuring Drake
+I Invented Sex
+66
+Blake Shelton Featuring Trace Adkins
+Hillbilly Bone
+67
+Brad Paisley
+American Saturday Night
+68
+Nickelback
+Never Gonna Be Alone
+69
+LMFAO Featuring Lil Jon
+Shots
+70
+Carrie Underwood
+Temporary Home
+71
+Snow Patrol Featuring Martha Wainwright
+Set The Fire To The Third Bar
+72
+Taylor Swift
+Breathless
+73
+Robin Thicke
+Sex Therapy
+74
+Sade
+Soldier Of Love
+75
+Dierks Bentley
+I Wanna Make You Close Your Eyes
+76
+Billy Currington
+That's How Country Boys Roll
+77
+Lil Wayne Featuring Eminem
+Drop The World
+78
+Toby Keith
+Cryin' For Me (Wayman's Song)
+79
+Rob Thomas
+Someday
+80
+Usher Featuring Plies
+Hey Daddy (Daddy's Home)
+81
+Zac Brown Band
+Highway 20 Ride
+82
+Easton Corbin
+A Little More Country Than That
+83
+Chris Brown Featuring Lil Wayne & Swizz Beatz
+I Can Transform Ya
+84
+Reba
+Consider Me Gone
+85
+Jay-Z, Bono, The Edge & Rihanna
+Stranded (Haiti Mon Amour)
+86
+Keith Urban
+'Til Summer Comes Around
+87
+Gucci Mane Featuring Usher
+Spotlight
+88
+Pearl Jam
+Just Breathe
+89
+B.o.B Featuring Bruno Mars
+Nothin' On You
+90
+Phoenix
+1901
+91
+Justin Bieber
+One Less Lonely Girl
+92
+Eddie Vedder
+My City Of Ruins (Live From The Kennedy Center Honors)
+93
+Ke$ha
+Your Love Is My Drug
+94
+Jake Owen
+Eight Second Ride
+95
+Young Money Featuring Gucci Mane
+Steady Mobbin'
+96
+Jaheim
+Ain't Leavin Without You
+97
+Usher
+Papers
+98
+Jennifer Hudson Featuring The Roots
+Let It Be
+99
+Jason Michael Carroll
+Hurry Home
+100
+Roscoe Dash Featuring Soulja Boy Tell'em
+All The Way Turnt Up

@@ -1,0 +1,300 @@
+1
+Tiffany
+I Think We're Alone Now
+2
+Madonna
+Causing A Commotion
+3
+Billy Idol
+Mony Mony
+4
+Fleetwood Mac
+Little Lies
+5
+Michael Jackson
+Bad
+6
+Bill Medley & Jennifer Warnes
+(I've Had) The Time Of My Life
+7
+Swing Out Sister
+Breakout
+8
+Bruce Springsteen
+Brilliant Disguise
+9
+Expose
+Let Me Be The One
+10
+Pet Shop Boys
+It's A Sin
+11
+Belinda Carlisle
+Heaven Is A Place On Earth
+12
+Levert
+Casanova
+13
+U2
+Where The Streets Have No Name
+14
+Richard Marx
+Should've Known Better
+15
+Kenny G. (Vocal By Lenny Williams)
+Don't Make Me Wait For Love
+16
+Cutting Crew
+I've Been In Love Before
+17
+Prince
+U Got The Look
+18
+R.E.M.
+The One I Love
+19
+Poison
+I Won't Forget You
+20
+Sting
+We'll Be Together
+21
+Los Lobos
+Come On, Let's Go
+22
+Lisa Lisa And Cult Jam
+Lost In Emotion
+23
+Squeeze
+Hourglass
+24
+Debbie Gibson
+Shake Your Love
+25
+Timothy B. Schmit
+Boys Night Out
+26
+Jody Watley
+Don't You Want Me
+27
+George Michael
+Faith
+28
+Whitesnake
+Here I Go Again
+29
+Pretty Poison
+Catch Me (I'm Falling) (From The Film "Hiding Out")
+30
+Whitesnake
+Is This Love
+31
+REO Speedwagon
+In My Dreams
+32
+Stevie Wonder
+Skeletons
+33
+The Cars
+You Are The Girl
+34
+Europe
+Carrie
+35
+Steve Winwood
+Valerie
+36
+Wa Wa Nee
+Sugar Free
+37
+Yes
+Love Will Find A Way
+38
+Whitney Houston
+So Emotional
+39
+Heart
+Who Will You Run To
+40
+Michael Bolton
+That's What Love Is All About
+41
+Aerosmith
+Dude (Looks Like A Lady)
+42
+The Jets
+I Do You
+43
+Taylor Dayne
+Tell It To My Heart(Dub)
+44
+George Harrison
+Got My Mind Set On You
+45
+The Other Ones
+Holiday
+46
+Starship
+Beat Patrol
+47
+John Mellencamp
+Paper In Fire
+48
+Def Leppard
+Animal
+49
+Gloria Estefan & Miami Sound Machine
+Betcha Say That
+50
+John Mellencamp
+Cherry Bomb
+51
+Bananarama
+I Heard A Rumour (From "Disorderlies")
+52
+Whitney Houston
+Didn't We Almost Have It All
+53
+Noel
+Silent Morning
+54
+INXS
+Need You Tonight
+55
+Bourgeois Tagg
+I Don't Mind At All
+56
+Wendy And Lisa
+Waterfall
+57
+Anita Baker
+No One In The World
+58
+The Cure
+Just Like Heaven
+59
+Fat Boys & The Beach Boys
+Wipeout
+60
+Laura Branigan
+Power Of Love
+61
+Smokey Robinson
+One Heartbeat
+62
+Natalie Cole
+Jump Start
+63
+Hooters
+Satellite
+64
+Icehouse
+Crazy
+65
+Debbie Gibson
+Only In My Dreams
+66
+The Kane Gang
+Motortown
+67
+New Order
+True Faith
+68
+Elton John
+Candle In The Wind
+69
+Los Lobos
+La Bamba
+70
+Heart
+There's The Girl
+71
+Pink Floyd
+Learning To Fly
+72
+Glen Burtnick
+Follow You
+73
+Dan Hill (Duet With Vonda Shepard)
+Can't We Try
+74
+Kool & The Gang
+Special Way
+75
+Big Trouble
+Crazy World
+76
+Dionne & Kashif
+Reservations For Two
+77
+Loverboy
+Notorious
+78
+Men Without Hats
+Pop Goes The World
+79
+Jimmy Davis & Junction
+Kick The Wall
+80
+Terence Trent D'Arby
+If You Let Me Stay
+81
+Shanice Wilson
+(Baby Tell Me) Can You Dance
+82
+Glenn Jones
+We've Only Just Begun (The Romance Is Not Over)
+83
+Sammy Hagar
+Eagles Fly
+84
+Earth, Wind & Fire
+System Of Survival
+85
+Beau Coup
+Sweet Rachel
+86
+Taja Sevelle
+Love Is Contagious
+87
+Samantha Fox
+Nothing's Gonna Stop Me Now
+88
+Eric Carmen
+Hungry Eyes (From "Dirty Dancing")
+89
+Great White
+Rock Me
+90
+Natalie Cole
+I Live For Your Love
+91
+Atlantic Starr
+One Lover At A Time
+92
+Jellybean Featuring Steven Dante
+The Real Thing
+93
+Stryper
+Honestly
+94
+The Whispers
+Rock Steady
+95
+Bryan Adams
+Victim Of Love
+96
+ABC
+When Smokey Sings
+97
+KISS
+Crazy Crazy Nights
+98
+Living In A Box
+So The Story Goes
+99
+Michael Jackson With Siedah Garrett
+I Just Can't Stop Loving You
+100
+Mick Jagger
+Let's Work

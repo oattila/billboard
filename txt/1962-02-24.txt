@@ -1,0 +1,300 @@
+1
+Gene Chandler
+Duke Of Earl
+2
+Dion
+The Wanderer
+3
+Sue Thompson
+Norman
+4
+Chubby Checker
+The Twist
+5
+Bruce Channel
+Hey! Baby
+6
+Brenda Lee
+Break It To Me Gently
+7
+Joey Dee & the Starliters
+Peppermint Twist - Part I
+8
+The Everly Brothers
+Crying In The Rain
+9
+Gary U.S. Bonds
+Dear Lady Twist
+10
+Burl Ives
+A Little Bitty Tear
+11
+Gene McDaniels
+Chip Chip
+12
+Elvis Presley With The Jordanaires
+Can't Help Falling In Love
+13
+The Highwaymen
+Cotton Fields
+14
+The Shirelles
+Baby It's You
+15
+Barbara George
+I Know (You Don't Love Me No More)
+16
+Kenny Ball and his Jazzmen
+Midnight In Moscow
+17
+The Sensations
+Let Me In
+18
+Ace Cannon
+Tuff
+19
+Billy Joe & The Checkmates
+Percolator (Twist)
+20
+The Ikettes
+I'm Blue (The Gong-Gong Song)
+21
+James Darren
+Her Royal Majesty
+22
+Jimmy Dean
+The Cajun Queen
+23
+Connie Francis
+Don't Break The Heart That Loves You
+24
+The Corsairs Featuring Jay "Bird" Uzzell
+Smoky Places
+25
+Charlie Drake
+My Boomerang Won't Come Back
+26
+Don & Juan
+What's Your Name
+27
+Brook Benton
+Shadrack
+28
+Ral Donner
+She's Everything (I Wanted You To Be)
+29
+Jimmy Dean
+To A Sleeping Beauty
+30
+Bobby Darin
+Irresistible You
+31
+The Marketts
+Surfer's Stomp
+32
+Gene Pitney
+Town Without Pity
+33
+Sam Cooke
+Twistin' The Night Away
+34
+Jackie Wilson
+The Greatest Hurt
+35
+The Miracles
+What's So Good About Good-by
+36
+Patsy Cline
+She's Got You
+37
+Gladys Knight And The Pips
+Letter Full Of Tears
+38
+Floyd Cramer
+Chattanooga Choo Choo
+39
+The Tokens
+The Lion Sleeps Tonight
+40
+Pat Boone
+I'll See You In My Dreams
+41
+Sandy Nelson
+Drums Are My Beat
+42
+Henry Mancini And His Orchestra
+Moon River
+43
+Bert Kaempfert And His Orchestra
+Afrikaan Beat
+44
+The Marvelettes
+Twistin' Postman
+45
+The Kingston Trio
+Where Have All The Flowers Gone
+46
+Joey Dee & the Starliters
+Hey, Let's Twist
+47
+Bobby Darin
+Multiplication
+48
+James Brown And The Famous Flames
+Lost Someone
+49
+Bobby Vee
+Run To Him
+50
+The Paris Sisters
+He Knows I Love Him Too Much
+51
+Sheb Wooley
+That's My Pa
+52
+The Dovells
+(Do The New) Continental
+53
+Roy Orbison
+Dream Baby (How Long Must I Dream)
+54
+The Lettermen
+When I Fall In Love
+55
+Solomon Burke
+Cry To Me
+56
+Eddie Holland
+Jamie
+57
+The Chad Mitchell Trio
+Lizzie Borden
+58
+The Lettermen
+Come Back Silly Girl
+59
+The Tokens
+B'wa Nina (Pretty Girl)
+60
+James Ray
+If You Gotta Make A Fool Of Somebody
+61
+Ben E. King
+Ecstasy
+62
+The Marcels
+My Melancholy Baby
+63
+Shep And The Limelites
+Our Anniversary
+64
+Fats Domino
+You Win Again
+65
+Johnny Tillotson
+Dreamy Eyes
+66
+Bobby Rydell
+(I've Got) Bonnie
+67
+Timi Yuro
+Let Me Call You Sweetheart
+68
+Brenda Lee
+So Deep
+69
+Huey Smith
+Pop-Eye
+70
+The Brothers Four
+Blue Water Line
+71
+Brook Benton
+Walk On The Wild Side
+72
+Eddie Hodges
+Bandit Of My Dreams
+73
+Dinah Washington
+Tears And Laughter
+74
+Linda Scott
+Yessiree
+75
+Sandy Nelson
+The Birth Of The Beat
+76
+Johnny Gibson
+Midnight
+77
+Rod McKuen
+Oliver Twist
+78
+Linda Scott
+Bermuda
+79
+Bobby Rydell
+Lose Her
+80
+Pete Fountain
+Yes Indeed
+81
+Bobby Vee
+Please Don't Ask About Barbara
+82
+Pat Boone
+Pictures In The Fire
+83
+The Angels
+Cry Baby Cry
+84
+Ketty Lester
+Love Letters
+85
+Paul Anka
+Love Me Warm And Tender
+86
+Etta James
+Something's Got A Hold On Me
+87
+Arthur Alexander
+You Better Move On
+88
+The Megatons
+Shimmy, Shimmy Walk, Part 1
+89
+Saverio Saridis
+Love Is The Sweetest Thing
+90
+The Beach Boys
+Surfin
+91
+The Platters
+It's Magic
+92
+Bobby Vee
+I Can't Say Goodbye
+93
+Aretha Franklin
+I Surrender, Dear
+94
+The Drifters
+When My Little Girl Is Smiling
+95
+Anita & Th' So-And-So's
+Joey Baby
+96
+David Carroll And His Orchestra
+The White Rose Of Athens
+97
+Jimmy Reed
+Aw Shucks, Hush Your Mouth
+98
+Robert Mitchum
+The Ballad Of Thunder Road
+99
+Ernie K-Doe
+Popeye Joe
+100
+Larry Finnegan
+Dear One

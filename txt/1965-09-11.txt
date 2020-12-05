@@ -1,0 +1,300 @@
+1
+The Beatles
+Help!
+2
+Bob Dylan
+Like A Rolling Stone
+3
+Barry McGuire
+Eve Of Destruction
+4
+We Five
+You Were On My Mind
+5
+The Beach Boys
+California Girls
+6
+The Righteous Brothers
+Unchained Melody
+7
+Sonny & Cher
+I Got You Babe
+8
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+9
+The Turtles
+It Ain't Me Babe
+10
+Ramsey Lewis Trio
+The "In" Crowd
+11
+The McCoys
+Hang On Sloopy
+12
+Four Tops
+It's The Same Old Song
+13
+The Dave Clark Five
+Catch Us If You Can
+14
+The Yardbirds
+Heart Full Of Soul
+15
+Mel Carter
+Hold Me, Thrill Me, Kiss Me
+16
+The Supremes
+Nothing But Heartaches
+17
+Billy Joe Royal
+Down In The Boondocks
+18
+Freddy Cannon
+Action
+19
+Sonny
+Laugh At Me
+20
+The Miracles
+The Tracks Of My Tears
+21
+Dean Martin
+Houston
+22
+The Temptations
+Since I Lost My Baby
+23
+Barbara Lewis
+Baby, I'm Yours
+24
+Cher
+All I Really Want To Do
+25
+Wilson Pickett
+In The Midnight Hour
+26
+The Animals
+We Gotta Get Out Of This Place
+27
+Edwin Starr
+Agent Double-O-Soul
+28
+Marianne Faithfull
+Summer Nights
+29
+Jr. Walker & The All Stars
+Shake And Fingerpop
+30
+Barbara Mason
+Sad, Sad Girl
+31
+The Fortunes
+You've Got Your Troubles
+32
+Sonny & Cher
+Baby Don't Go
+33
+Gary Lewis And The Playboys
+Save Your Heart For Me
+34
+Sam Cooke
+Sugar Dumpling
+35
+The Kinks
+Who'll Be The Next In Line
+36
+Gene Pitney
+Looking Through The Eyes Of Love
+37
+Chad & Jeremy
+I Don't Wanna Lose You Baby
+38
+The Jive Five
+I'm A Happy Man
+39
+Martha & The Vandellas
+You've Been In Love Too Long
+40
+Sam The Sham and the Pharaohs
+Ju Ju Hand
+41
+The Rolling Stones
+(I Can't Get No) Satisfaction
+42
+The Lovin' Spoonful
+Do You Believe In Magic
+43
+The Royalettes
+It's Gonna Take A Miracle
+44
+Ronnie Dove
+I'll Make All Your Dreams Come True
+45
+Dino, Desi & Billy
+I'm A Fool
+46
+Roy Orbison
+Ride Away
+47
+The Kingsmen
+Annie Fanny
+48
+Chuck Jackson
+If I Didn't Love You
+49
+Tom Jones
+With These Hands
+50
+Sonny & Cher
+Just You
+51
+Elvis Presley
+I'm Yours
+52
+The Drifters
+I'll Take You Where The Music's Playing
+53
+Little Caesar And The Consuls
+(My Girl) Sloopy
+54
+Vic Dana
+Moonlight And Roses (Bring Mem'ries Of You)
+55
+The Castaways
+Liar, Liar
+56
+Roy Head And The Traits
+Treat Her Right
+57
+Charlie Rich
+Mohair Sam
+58
+Jody Miller
+Home Of The Brave
+59
+The Contours
+First I Look At The Purse
+60
+Freddie And The Dreamers
+A Little You
+61
+Jay & The Americans
+Some Enchanted Evening
+62
+The Marvelettes
+Danger Heartbreak Dead Ahead
+63
+Donovan
+Colours
+64
+Johnny Tillotson
+Heartaches By The Number
+65
+Stevie Wonder
+High Heel Sneakers
+66
+Bert Kaempfert And His Orchestra
+Moon Over Naples
+67
+The Impressions
+I Need You
+68
+Gerry And The Pacemakers
+Give All Your Love To Me
+69
+Andy Williams
+Ain't It True
+70
+Lenny Welch
+Two Different Worlds
+71
+G.L. Crockett
+It's A Man Down There
+72
+Roger Miller
+Kansas City Star
+73
+Baby Washington
+Only Those In Love
+74
+Ian Whitcomb
+N-E-R-V-O-U-S!
+75
+Joe Tex
+I Want To (Do Everything For You)
+76
+The Gentrys
+Keep On Dancing
+77
+Otis Redding
+Respect
+78
+Bobby Goldsboro
+If You Wait For Love
+79
+Jim Reeves
+Is It Really Over?
+80
+Herb Alpert & The Tijuana Brass
+3rd Man Theme
+81
+Bonnie & The Treasures
+Home Of The Brave
+82
+The Sunrays
+I Live For The Sun
+83
+Lesley Gore
+My Town, My Guy And Me
+84
+Dickey Lee
+The Girl From Peyton Place
+85
+Bobby Bland
+These Hands (Small But Mighty)
+86
+Connie Francis
+Roundabout
+87
+O.V. Wright
+You're Gonna Make Me Cry
+88
+Neil Sedaka
+The World Through A Tear
+89
+Solomon Burke
+Someone Is Watching
+90
+Joan Baez
+There But For Fortune
+91
+Chuck Jackson & Maxine Brown
+Can't Let You Out Of My Sight
+92
+Barbara Lewis
+Make Me Your Baby
+93
+Major Lance
+Too Hot To Hold
+94
+Patti Page
+You Can't Be True, Dear
+95
+Mary Wells
+Me Without You
+96
+Al Hirt
+The Silence (Il Silenzio)
+97
+San Remo Golden Strings
+Hungry For Love
+98
+The Toys
+A Lover's Concerto
+99
+The Dixie Drifter
+Soul Heaven
+100
+The Five Emprees
+Little Miss Sad

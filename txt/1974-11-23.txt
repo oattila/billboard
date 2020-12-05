@@ -1,0 +1,300 @@
+1
+Billy Swan
+I Can Help
+2
+B.T. Express
+Do It ('til You're Satisfied)
+3
+Bobby Vinton
+My Melody Of Love
+4
+America
+Tin Man
+5
+Neil Diamond
+Longfellow Serenade
+6
+Carl Carlton
+Everlasting Love
+7
+Carl Douglas
+Kung Fu Fighting
+8
+The Three Degrees
+When Will I See You Again
+9
+John Denver
+Back Home Again
+10
+Harry Chapin
+Cat's In The Cradle
+11
+Jim Weatherly
+The Need To Be
+12
+John Lennon With The Plastic Ono Nuclear Band
+Whatever Gets You Thru The Night
+13
+The Kiki Dee Band
+I've Got The Music In Me
+14
+Helen Reddy
+Angie Baby
+15
+Chicago
+Wishing You Were Here
+16
+Reunion
+Life Is A Rock (But The Radio Rolled Me)
+17
+Al Green
+Sha-La-La (Make Me Happy)
+18
+The Hues Corporation
+Rockin' Soul
+19
+Carole King
+Jazzman
+20
+Rufus Featuring Chaka Khan
+You Got The Love
+21
+The Hudson Brothers
+So You Are A Star
+22
+Gino Vannelli
+People Gotta Move
+23
+Elvis Presley
+Promised Land
+24
+Prelude
+After The Goldrush
+25
+Fancy
+Touch Me
+26
+The Pointer Sisters
+Fairytale
+27
+Barry White
+You're The First, The Last, My Everything
+28
+Paul McCartney And Wings
+Junior's Farm/Sally G
+29
+Gladys Knight And The Pips
+I Feel A Song (In My Heart)/Don't Burn Down The Bridge
+30
+Al Wilson
+La La Peace Song
+31
+The Spinners
+Love Don't Love Nobody - Pt. I
+32
+Neil Sedaka
+Laughter In The Rain
+33
+The Rolling Stones
+Ain't Too Proud To Beg
+34
+Bachman-Turner Overdrive
+You Ain't Seen Nothing Yet/Free Wheelin'
+35
+Andy Kim
+Fire, Baby I'm On Fire
+36
+Blue Magic
+Three Ring Circus
+37
+Shirley Brown
+Woman To Woman
+38
+The J. Geils Band
+Must Of Got Lost
+39
+Latimore
+Let's Straighten It Out
+40
+Eric Clapton
+Willie And The Hand Jive
+41
+The Stylistics
+Heavy Fallin' Out
+42
+Gordon Lightfoot
+Carefree Highway
+43
+Paul Davis
+Ride 'em Cowboy
+44
+Elton John
+The Bitch Is Back
+45
+Stevie Wonder
+You Haven't Done Nothin
+46
+Three Dog Night
+Play Something Sweet (Brickyard Blues)
+47
+Jackson 5
+Whatever You Got, I Want
+48
+Sam Neely
+You Can Have Her
+49
+Paul Anka with Odia Coates
+One Man Woman/One Woman Man
+50
+Jethro Tull
+Bungle In The Jungle
+51
+Stevie Wonder
+Boogie On Reggae Woman
+52
+Ecstasy, Passion & Pain
+Ask Me
+53
+Ringo Starr
+Only You
+54
+The Righteous Brothers
+Dream On
+55
+Bo Donaldson And The Heywoods
+The Heartbreak Kid
+56
+Gloria Gaynor
+Never Can Say Goodbye
+57
+Barry Manilow
+Mandy
+58
+The Doobie Brothers
+Nobody
+59
+Johnny Bristol
+You And I
+60
+Dave Loggins
+Someday
+61
+The Joneses
+Sugar Pie Guy Pt. 1
+62
+Paper Lace
+The Black-Eyed Boys
+63
+Donny & Marie Osmond
+Morning Side Of The Mountain
+64
+Tavares
+She's Gone
+65
+Aretha Franklin
+Without Love
+66
+Raspberries
+Overnight Sensation (Hit Record)
+67
+Cheech & Chong
+Black Lassie (Featuring Johnny Stash)
+68
+Sammy Johns
+Early Morning Love
+69
+George Harrison
+Dark Horse
+70
+Charley Pride
+Mississippi Cotton Picking Delta Town
+71
+Maureen McGovern
+Give Me A Reason To Be Gone
+72
+Grand Canyon
+Evil Boll-weevil
+73
+James Brown
+Funky President (People It's Bad)/Coldblooded
+74
+Ike & Tina Turner
+Sexy Ida (Part 1)
+75
+Dynamic Superiors
+Shoe Shoe Shine
+76
+The Main Ingredient
+California My Way
+77
+Carpenters
+Please Mr. Postman
+78
+Commodores
+I Feel Sanctified
+79
+The Miracles
+Do It Baby
+80
+Harold Melvin And The Blue Notes
+Where Are All My Friends
+81
+The Guess Who
+Dancin' Fool
+82
+Gene Cotton
+Sunshine Roses
+83
+Dionne Warwicke & Spinners
+Then Came You
+84
+Jefferson Starship
+Ride The Tiger
+85
+Percy Sledge
+I'll Be Your Everything
+86
+Donna Fargo
+U.S. Of A
+87
+Lynyrd Skynyrd
+Free Bird
+88
+The Independents
+Let This Be A Lesson To You
+89
+Atlanta Rhythm Section
+Doraville
+90
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+91
+The First Class
+Dreams Are Ten A Penny
+92
+Billy "Crash" Craddock
+Ruby, Baby
+93
+Marvin Gaye
+Distant Lover
+94
+Frankie Valli
+My Eyes Adored You
+95
+Bobby Bland
+I Wouldn't Treat A Dog (The Way You Treated Me)
+96
+Mac Davis
+Stop And Smell The Roses
+97
+Brother To Brother
+In The Bottle
+98
+Bad Company
+Can't Get Enough
+99
+The Osmonds
+Love Me For A Reason
+100
+Olivia Newton-John
+I Honestly Love You

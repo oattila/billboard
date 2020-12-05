@@ -1,0 +1,300 @@
+1
+Bobby Vinton
+Roses Are Red (My Love)
+2
+David Rose and His Orchestra
+The Stripper
+3
+Ray Charles
+I Can't Stop Loving You
+4
+The Orlons
+The Wah Watusi
+5
+Brian Hyland
+Sealed With A Kiss
+6
+Freddy Cannon
+Palisades Park
+7
+Claude King
+Wolverton Mountain
+8
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+9
+Dee Dee Sharp
+Gravy (For My Mashed Potatoes)
+10
+Emilio Pericoli
+Al Di La'
+11
+Joanie Sommers
+Johnny Get Angry
+12
+Joe Henderson
+Snap Your Fingers
+13
+Pat Boone
+Speedy Gonzales
+14
+Bobby Rydell
+I'll Never Dance Again
+15
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+16
+The Marvelettes
+Playboy
+17
+Sam Cooke
+Having A Party
+18
+Ray Stevens
+Ahab, The Arab
+19
+Neil Sedaka
+Breaking Up Is Hard To Do
+20
+Chubby Checker
+Dancin' Party
+21
+Johnny Crawford
+Cindy's Birthday
+22
+Shelley Fabares
+Johnny Loves Me
+23
+The Isley Brothers
+Twist And Shout
+24
+Don Gardner And Dee Dee Ford
+I Need Your Loving
+25
+Clyde McPhatter
+Little Bitty Pretty One
+26
+Roy Orbison
+The Crowd
+27
+The Dovells
+Bristol Twistin' Annie
+28
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+29
+Eddie Hodges
+(Girls, Girls, Girls) Made To Love
+30
+Bobby Vee
+Sharing You
+31
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+32
+Gary U.S. Bonds
+Seven Day Weekend
+33
+Barbara Lynn
+You'll Lose A Good Thing
+34
+The Shirelles
+Welcome Home Baby
+35
+Little Joey And The Flips
+Bongo Stomp
+36
+Mr. Acker Bilk
+Stranger On The Shore
+37
+Toni Fisher
+West Of The Wall
+38
+Andy Williams
+Stranger On The Shore
+39
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+40
+The Champs
+Limbo Rock
+41
+Brenda Lee
+It Started All Over Again
+42
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+43
+Ketty Lester
+But Not For Me
+44
+The Volume's
+I Love You
+45
+Mary Wells
+The One Who Really Loves You
+46
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+47
+The Miracles
+I'll Try Something New
+48
+Dinah Washington
+Where Are You
+49
+Bobby Curtola
+Fortuneteller
+50
+Sue Thompson
+Have A Good Time
+51
+Jimmy Dean
+Steel Men
+52
+Little Eva
+The Loco-Motion
+53
+Dion
+Little Diane
+54
+Nelson Riddle
+Route 66 Theme
+55
+Brenda Lee
+Heart In Hand
+56
+Jimmy Norman
+I Don't Love You No More (I Don't Care About You)
+57
+Earl Grant
+Swingin' Gently
+58
+Joe Dowell
+Little Red Rented Rowboat
+59
+The Jamies
+Summertime, Summertime
+60
+Claudine Clark
+Party Lights
+61
+Bobby Darin
+Things
+62
+James Darren
+Mary's Little Lamb
+63
+Valjean on Piano
+Theme From Ben Casey
+64
+John Lee Hooker
+Boom Boom
+65
+Mickey Shorr and The Cutups
+Dr. Ben Basey
+66
+Elvis Presley
+Follow That Dream
+67
+Connie Stevens
+Why'd You Wanna Make Me Cry
+68
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+69
+Paul Petersen
+Keep Your Love Locked (Deep In Your Heart)
+70
+Linda Scott
+Never In A Million Years
+71
+Lawrence Welk And His Orchestra
+Baby Elephant Walk
+72
+Vince Edwards
+Why Did You Leave Me?
+73
+James Brown And The Famous Flames
+Shout And Shimmy
+74
+Solomon Burke
+Down In The Valley
+75
+Dreamlovers
+If I Should Lose You
+76
+Floyd Cramer
+Hot Pepper
+77
+Jimmy Reed
+Good Lover
+78
+Duane Eddy
+The Ballad Of Paladin
+79
+Arthur Alexander
+Where Have You Been (All My Life)
+80
+Dickie Goodman
+Ben Crazy
+81
+Ray Anthony
+Worried Mind
+82
+Fats Domino
+Nothing New (Same Old Thing)
+83
+Little Jo Ann
+My Daddy Is President
+84
+Jackie Wilson
+I Just Can't Help It
+85
+Sam Cooke
+Bring It On Home To Me
+86
+Janie Grant
+That Greasy Kid Stuff
+87
+Mr. Acker Bilk
+Above The Stars
+88
+Timi Yuro
+What's A Matter Baby (Is It Hurting You)
+89
+Sandy Nelson
+All Night Long
+90
+Jerry Reed And The Hully Girlies
+Goodnight, Irene
+91
+Bobby Gregg and His Friends
+Potato Peeler
+92
+The Highwaymen
+The Bird Man
+93
+April Stevens & Nino Tempo
+Sweet And Lovely
+94
+The Playmates
+Keep Your Hands In Your Pockets
+95
+Martin Denny and His Orchestra
+A Taste Of Honey
+96
+Jerry Butler
+Make It Easy On Yourself
+97
+Baby Cortez
+Rinky Dink
+98
+Henry Mancini And His Orchestra
+Theme From "Hatari!"
+99
+The Tokens
+La Bomba
+100
+Frankie Avalon
+A Miracle

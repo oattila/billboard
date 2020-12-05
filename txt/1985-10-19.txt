@@ -1,0 +1,300 @@
+1
+a-ha
+Take On Me
+2
+Whitney Houston
+Saving All My Love For You
+3
+Stevie Wonder
+Part-Time Lover
+4
+Ready For The World
+Oh Sheila
+5
+Jan Hammer
+Miami Vice Theme
+6
+John Mellencamp
+Lonely Ol' Night
+7
+Dire Straits
+Money For Nothing
+8
+David Bowie & Mick Jagger
+Dancing In The Street
+9
+Sting
+Fortress Around Your Heart
+10
+Tears For Fears
+Head Over Heels
+11
+Bruce Springsteen
+I'm Goin' Down
+12
+Loverboy
+Lovin' Every Minute Of It
+13
+Kool & The Gang
+Cherish
+14
+Madonna
+Dress You Up
+15
+Glenn Frey
+You Belong To The City
+16
+Paul Young
+I'm Gonna Tear Your Playhouse Down
+17
+Starship
+We Built This City
+18
+ABC
+Be Near Me
+19
+Bryan Adams
+One Night Love Affair
+20
+Night Ranger
+Four In The Morning (I Can't Take Anymore)
+21
+Freddie Jackson
+You Are My Lady
+22
+Don Henley
+Sunset Grill
+23
+Hooters
+And We Danced
+24
+Thompson Twins
+Lay Your Hands On Me
+25
+Wham!
+Freedom
+26
+David Foster
+Love Theme From St. Elmo's Fire (Instrumental)
+27
+Heart
+Never
+28
+Aretha Franklin
+Who's Zoomin' Who
+29
+Phil Collins and Marilyn Martin
+Separate Lives
+30
+Godley & Creme
+Cry
+31
+Daryl Hall John Oates
+The Way You Do The Things You Do/My Girl
+32
+Phil Collins
+Don't Lose My Number
+33
+Corey Hart
+Boy In The Box
+34
+The Power Station
+Communication
+35
+Mr. Mister
+Broken Wings
+36
+Orchestral Manoeuvres In The Dark
+So In Love
+37
+Tina Turner
+One Of The Living
+38
+John Cafferty & The Beaver Brown Band
+C-I-T-Y
+39
+John Parr
+St. Elmo's Fire (Man In Motion)
+40
+The Pointer Sisters
+Dare Me
+41
+Scritti Politti
+Perfect Way
+42
+Ray Parker Jr.
+Girls Are More Fun
+43
+Billy Joel
+The Night Is Still Young
+44
+Olivia Newton-John
+Soul Kiss
+45
+Oingo Boingo
+Weird Science
+46
+Klymaxx
+I Miss You
+47
+Cheap Trick
+Tonight It's You
+48
+Cheech & Chong
+Born In East L.A.
+49
+ZZ Top
+Sleeping Bag
+50
+Huey Lewis & The News
+The Power Of Love
+51
+Maurice White
+Stand By Me
+52
+Simple Minds
+Alive & Kicking
+53
+9.9
+All Of Me For All Of You
+54
+Howard Jones
+Like To Get To Know You Well
+55
+Roger Daltrey
+After The Fire
+56
+El DeBarge With DeBarge
+You Wear It Well
+57
+Kate Bush
+Running Up That Hill
+58
+Rene & Angela
+I'll Be Good
+59
+Prince And The Revolution
+Pop Life
+60
+Starpoint
+Object Of My Desire
+61
+Tina Turner
+We Don't Need Another Hero (Thunderdome)
+62
+Eurythmics & Aretha Franklin
+Sisters Are Doin' It For Themselves
+63
+The Family
+Screams Of Passion
+64
+Talking Heads
+And She Was
+65
+Five Star
+All Fall Down
+66
+Eddie Murphy
+Party All The Time
+67
+John Waite
+Every Step Of The Way
+68
+Morris Day
+The Oak Tree
+69
+Jennifer Holliday
+Hard Times For Lovers
+70
+Prince And The Revolution
+America
+71
+Wang Chung
+To Live And Die In L.A.
+72
+Aretha Franklin
+Freeway Of Love
+73
+Gino Vannelli
+Hurts To Be In Love
+74
+Go West
+Eye To Eye
+75
+Katrina And The Waves
+Que Te Quiero
+76
+Marillion
+Kayleigh
+77
+Jane Wiedlin
+Blue Kiss
+78
+Dead Or Alive
+Lover Come Back To Me
+79
+Diana Ross
+Eaten Alive
+80
+Baltimora
+Tarzan Boy (From "Teenage Mutant Ninja Turtles III")
+81
+Tommy Shaw
+Remo's Theme (What If)
+82
+Ta Mara & The Seen
+Everybody Dance
+83
+Pat Benatar
+Invincible (Theme From The Legend Of Billie Jean)
+84
+Laura Branigan
+Hold Me
+85
+KISS
+Tears Are Falling
+86
+UB40
+I Got You Babe
+87
+Lisa Lisa And Clult Jam With Full Force
+I Wonder If I Take You Home
+88
+Bryan Adams
+Summer Of '69
+89
+John Waite
+Welcome To Paradise
+90
+Quarterflash
+Talk To Me
+91
+Kenny Loggins
+I'll Be There
+92
+Billy Joel
+You're Only Human (Second Wind)
+93
+Ratt
+You're In Love
+94
+Motley Crue
+Smokin' In The Boys Room
+95
+Miami Sound Machine
+Conga
+96
+Corey Hart
+Never Surrender
+97
+Heart
+What About Love?
+98
+Tears For Fears
+Shout
+99
+Howard Jones
+Life In One Day
+100
+Kenny Loggins
+Forever

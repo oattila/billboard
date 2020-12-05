@@ -1,0 +1,300 @@
+1
+Mariah Carey
+Honey
+2
+Boyz II Men
+4 Seasons Of Loneliness
+3
+Usher
+You Make Me Wanna...
+4
+LeAnn Rimes
+How Do I Live
+5
+Backstreet Boys
+Quit Playing Games (With My Heart)
+6
+The Notorious B.I.G. Featuring Puff Daddy & Mase
+Mo Money Mo Problems
+7
+Puff Daddy & Faith Evans Featuring 112
+I'll Be Missing You
+8
+Spice Girls
+2 Become 1
+9
+Third Eye Blind
+Semi-Charmed Life
+10
+Jewel
+Foolish Games/You Were Meant For Me
+11
+Aqua
+Barbie Girl
+12
+98 Degrees
+Invisible Man
+13
+Sister Hazel
+All For You
+14
+Sarah McLachlan
+Building A Mystery
+15
+Allure Featuring 112
+All Cried Out
+16
+Magoo And Timbaland
+Up Jumps Da Boogie
+17
+Lil' Kim Feat. Da Brat, Left Eye, Missy Elliott & Angie Mar
+Not Tonight
+18
+Dru Hill
+Never Make A Promise
+19
+Shawn Colvin
+Sunny Came Home
+20
+Robyn
+Do You Know (What It Takes)
+21
+Brian McKnight Featuring Mase
+You Should Be Mine (Don't Waste Your Time)
+22
+Somethin' For The People Featuring Trina & Tamara
+My Love Is The Shhh!
+23
+Total
+What About Us
+24
+Meredith Brooks
+Bitch
+25
+Mark Morrison
+Return Of The Mack
+26
+Mr. President
+Coco Jamboo
+27
+The Verve Pipe
+The Freshmen
+28
+Duncan Sheik
+Barely Breathing
+29
+Mary J. Blige
+Everything
+30
+Master P Featuring Pimp C And The Shocker
+I Miss My Homies
+31
+SWV (Featuring Puff Daddy)
+Someone
+32
+Changing Faces
+G.H.E.T.T.O.U.T.
+33
+Monica
+For You I Will (From "Space Jam")
+34
+LeAnn Rimes
+You Light Up My Life
+35
+Next
+Butta Love
+36
+Rome
+Do You Like This
+37
+Mack 10
+Backyard Boogie
+38
+Az Yet Featuring Peter Cetera
+Hard To Say I'm Sorry
+39
+Milestone
+I Care 'Bout You
+40
+Coolio Featuring 40 Thevz
+C U When U Get There (From "Nothing To Lose")
+41
+Spice Girls
+Say You'll Be There
+42
+Diana King
+I Say A Little Prayer
+43
+R. Kelly
+Gotham City
+44
+Various Artists
+ESPN Presents The Jock Jam
+45
+Peach Union
+On My Own
+46
+Refugee Camp All Stars Featuring Pras (With Ky-mani)
+Avenues
+47
+Chumbawamba
+Tubthumping
+48
+Savage Garden
+I Want You
+49
+Sneaker Pimps
+6 Underground
+50
+Hanson
+MMMBop
+51
+Sam Salter
+After 12, Before 6
+52
+702
+All I Want (From "GOOD Burger")
+53
+Mary J. Blige
+I Can Love You
+54
+Lost Boyz
+Me And My Crazy World
+55
+Tim McGraw With Faith Hill
+It's Your Love
+56
+10,000 Maniacs
+More Than This
+57
+Savage Garden
+To The Moon And Back
+58
+Imani Coppola
+Legend Of A Cowgirl
+59
+Los Umbrellos
+No Tengo Dinero
+60
+Rampage Featuring Billy Lawrence
+Take It To The Streets
+61
+Deborah Cox
+Things Just Ain't The Same
+62
+4.0
+Have A Little Mercy
+63
+No Mercy
+When I Die
+64
+Foxy Brown Featuring Dru Hill
+Big Bad Mamma (From "Def Jam's How To Be A Player")
+65
+Dana
+As We Lay
+66
+Daft Punk
+Around The World
+67
+Bone Thugs-N-Harmony
+Look Into My Eyes (From "Batman & Robin")
+68
+Michael Bolton
+Go The Distance (From "Hercules")
+69
+Immature
+I'm Not A Fool
+70
+Jon B
+Don't Say
+71
+Aerosmith
+Hole In My Soul
+72
+Scarface Featuring 2Pac & Johnny P
+Smile
+73
+Beck
+Jack-Ass
+74
+Shaggy (Featuring Marsha)
+Piece Of My Heart
+75
+Bee Gees
+Alone
+76
+Nastyboy Klick Featuring Roger Troutman
+Down For Yours
+77
+Billy Joel
+To Make You Feel My Love
+78
+Jagged Edge Featuring Da Brat & JD
+The Way That You Talk
+79
+Le Click Featuring Kayo
+Don't Go
+80
+DJ Company
+Rhythm Of Love
+81
+En Vogue
+Whatever
+82
+Big Bub Featuring Queen Latifah & Heavy D
+Need Your Love
+83
+K-Ci & JoJo
+You Bring Me Up
+84
+BLACKstreet With Special Guests Ol' Dirty Bastard & Slash
+Fix
+85
+Shaquille O'Neal, Ice Cube, B Real, Peter Gunz & KRS-One
+Men Of Steel (From "Steel")
+86
+Myron
+We Can Get Down
+87
+Ultra Nate
+Free
+88
+The Beatnuts Featuring Big Punisher & Cuban Link
+Off The Books
+89
+Laurnea
+Can't Let Go
+90
+3rd Party
+Love Is Alive
+91
+Lisa Stansfield
+Never, Never Gonna Give You Up
+92
+Wild Orchid
+Supernatural
+93
+Depeche Mode
+It's No Good
+94
+Abra Moore
+Four Leaf Clover
+95
+Samantha Cole
+Happy With You
+96
+Patti LaBelle
+When You Talk About Love
+97
+Lil Suzy
+Can't Get You Out Of My Mind
+98
+Raybon Bros.
+Butterfly Kisses
+99
+SWV
+Can We (From "Booty Call")
+100
+Queen Latifah
+It's Alright

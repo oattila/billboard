@@ -1,0 +1,300 @@
+1
+Andy Gibb
+Shadow Dancing
+2
+Gerry Rafferty
+Baker Street
+3
+ABBA
+Take A Chance On Me
+4
+The O'Jays
+Use Ta Be My Girl
+5
+Bob Seger & The Silver Bullet Band
+Still The Same
+6
+Bonnie Tyler
+It's A Heartache
+7
+The Rolling Stones
+Miss You
+8
+Peter Brown With Betty Wright
+Dance With Me
+9
+Heatwave
+The Groove Line
+10
+Carly Simon
+You Belong To Me
+11
+Meat Loaf
+Two Out Of Three Ain't Bad
+12
+Michael Johnson
+Bluer Than Blue
+13
+Donna Summer
+Last Dance
+14
+John Travolta & Olivia Newton-John
+You're The One That I Want
+15
+Sweet
+Love Is Like Oxygen
+16
+Frankie Valli
+Grease
+17
+Eric Clapton
+Wonderful Tonight
+18
+Eruption
+I Can't Stand The Rain
+19
+Patti Smith Group
+Because The Night
+20
+Jefferson Starship
+Runaway
+21
+Pablo Cruise
+Love Will Find A Way
+22
+Barry Manilow
+Copacabana (at The Copa)
+23
+Joe Walsh
+Life's Been Good
+24
+Billy Joel
+Only The Good Die Young
+25
+Love And Kisses
+Thank God It's Friday
+26
+Commodores
+Three Times A Lady
+27
+Roberta Flack
+If Ever I See You Again
+28
+Steely Dan
+FM (No Static At All)
+29
+Toby Beau
+My Angel Baby
+30
+Foreigner
+Hot Blooded
+31
+Walter Egan
+Magnet And Steel
+32
+Tuxedo Junction
+Chattanooga Choo Choo
+33
+Bob Welch
+Hot Love, Cold World
+34
+Barbra Streisand
+Songbird
+35
+Steve Martin And The Toot Uncommons
+King Tut
+36
+Atlanta Rhythm Section
+I'm Not Gonna Let It Bother Me Tonight
+37
+Todd Rundgren
+Can We Still Be Friends
+38
+Jackson Browne
+Stay/The Load-Out
+39
+Dave Mason
+Will You Still Love Me Tomorrow
+40
+Seals & Crofts
+You're The Love
+41
+Bruce Springsteen
+Prove It All Night
+42
+Robert Palmer
+Every Kinda People
+43
+Barry Manilow
+Even Now
+44
+Joey Travolta
+I Don't Wanna Go
+45
+Kenny Rogers
+Love Or Something Like It
+46
+Boney M
+Rivers Of Babylon
+47
+Johnny Mathis/Deniece Williams
+Too Much, Too Little, Too Late
+48
+Wings
+I've Had Enough
+49
+England Dan & John Ford Coley
+You Can't Dance
+50
+Quincy Jones
+Stuff Like That
+51
+Demis Roussos
+That Once In A Lifetime
+52
+Rod Stewart
+I Was Only Joking
+53
+Gene Cotton With Kim Carnes
+You're A Part Of Me
+54
+Genesis
+Follow You Follow Me
+55
+Tom Petty And The Heartbreakers
+I Need To Know
+56
+Evelyn "Champagne" King
+Shame
+57
+Chuck Mangione
+Feels So Good
+58
+Foghat
+Stone Blue
+59
+Electric Light Orchestra
+Mr. Blue Sky
+60
+KC And The Sunshine Band
+It's The Same Old Song
+61
+Wings
+With A Little Luck
+62
+A Taste Of Honey
+Boogie Oogie Oogie
+63
+Eddie Money
+Two Tickets To Paradise
+64
+Nick Gilder
+Hot Child In The City
+65
+Bill LaBounty
+This Night Won't Last Forever
+66
+Village People
+Macho Man
+67
+The Cars
+Just What I Needed
+68
+Olivia Newton-John
+Hopelessly Devoted To You
+69
+Eddie Rabbitt
+You Don't Love Me Anymore
+70
+Jimmy "Bo" Horne
+Dance Across The Floor
+71
+Louisiana's LeRoux
+New Orleans Ladies
+72
+Andrew Gold
+Never Let Her Slip Away
+73
+Rita Coolidge
+You
+74
+Kansas
+Portrait (He Knew)
+75
+The Marshall Tucker Band
+Dream Lover
+76
+Rick James
+You And I
+77
+Steely Dan
+Deacon Blues
+78
+Ronnie Milsap
+Only One Love In My Life
+79
+Linda Clifford
+Runaway Love
+80
+Heart
+Heartless
+81
+Smokey Robinson
+Daylight And Darkness
+82
+Kevin Lamb
+On The Wrong Track
+83
+Journey
+Anytime
+84
+Teddy Pendergrass
+Close The Door
+85
+Exile
+Kiss You All Over
+86
+Alicia Bridges
+I Love The Nightlife (Disco 'round)
+87
+Celebration featuring Mike Love
+Almost Summer
+88
+Teri DeSario
+Ain't Nothing Gonna Keep Me From You
+89
+Chris Rea
+Fool If You Think It's Over
+90
+Debby Boone
+God Knows/Baby, I'm Yours
+91
+REO Speedwagon
+Roll With The Changes
+92
+Barry White
+Oh What A Night For Dancing
+93
+Kraftwerk
+Trans-europe Express
+94
+Rare Earth
+Warm Ride
+95
+Climax Blues Band
+Makin' Love
+96
+Spyro Gyra
+Shaker Song
+97
+Airwaves
+So Hard Livin' Without You
+98
+Jane Olivor
+He's So Fine
+99
+Eddie Money
+Baby Hold On
+100
+George Benson
+On Broadway

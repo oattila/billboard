@@ -1,0 +1,300 @@
+1
+David Bowie
+Fame
+2
+Glen Campbell
+Rhinestone Cowboy
+3
+Janis Ian
+At Seventeen
+4
+John Denver
+I'm Sorry
+5
+The Isley Brothers
+Fight The Power Part 1
+6
+Barry Manilow
+Could It Be Magic
+7
+David Geddes
+Run Joey Run
+8
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+9
+Freddy Fender
+Wasted Days And Wasted Nights
+10
+Bad Company
+Feel Like Makin' Love
+11
+Sweet
+Ballroom Blitz
+12
+Earth, Wind & Fire
+That's The Way Of The World
+13
+Helen Reddy
+Ain't No Way To Treat A Lady
+14
+Amazing Rhythm Aces
+Third Rate Romance
+15
+KC And The Sunshine Band
+Get Down Tonight
+16
+Orleans
+Dance With Me
+17
+Carpenters
+Solitaire
+18
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+19
+Dickie Goodman
+Mr. Jaws
+20
+Morris Albert
+Feelings
+21
+America
+Daisy Jane
+22
+The Osmonds
+The Proud One
+23
+The Spinners
+They Just Can't Stop It the (Games People Play)
+24
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+25
+Tavares
+It Only Takes A Minute
+26
+Austin Roberts
+Rocky
+27
+The Ritchie Family
+Brazil
+28
+Paul Simon/Phoebe Snow
+Gone At Last
+29
+James Taylor
+How Sweet It Is (To Be Loved By You)
+30
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+31
+Jefferson Starship
+Miracles
+32
+Neil Sedaka
+Bad Blood
+33
+Leon Russell
+Lady Blue
+34
+Michael Murphey
+Carolina In The Pines
+35
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+36
+People's Choice
+Do It Any Way You Wanna
+37
+Tony Orlando & Dawn
+You're All I Need To Get By
+38
+Graham Central Station
+Your Love
+39
+Esther Phillips
+What A Diff'rence A Day Makes
+40
+The 4 Seasons
+Who Loves You
+41
+Jim Stafford
+I Got Stoned And I Missed It
+42
+Art Garfunkel
+I Only Have Eyes For You
+43
+AWB
+If I Ever Lose This Heaven
+44
+Bee Gees
+Jive Talkin'
+45
+Merry Clayton
+Keep Your Eye On The Sparrow
+46
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+47
+Bob Seger
+Katmandu
+48
+Eagles
+One Of These Nights
+49
+John Fogerty
+Rockin' All Over The World
+50
+Faith, Hope And Charity
+To Each His Own
+51
+Natalie Cole
+This Will Be
+52
+Evie Sands
+I Love Makin' Love To You
+53
+Linda Ronstadt
+Heat Wave/love Is A Rose
+54
+Eagles
+Lyin' Eyes
+55
+Willie Nelson
+Blue Eyes Crying In The Rain
+56
+Jigsaw
+Sky High
+57
+Fox
+Only You Can
+58
+Emmylou Harris
+If I Could Only Win Your Love
+59
+Gladys Knight And The Pips
+Money
+60
+The Outlaws
+There Goes Another Love Song
+61
+Chicago
+Brand New Love Affair (Part I & II)
+62
+Sly Stone
+I Get High On You
+63
+Crown Heights Affair
+Dreaming A Dream
+64
+Ohio Players
+Sweet Sticky Thing
+65
+Jessi Colter
+You Ain't Never Been Loved (Like I'm Gonna Love You)
+66
+Smokey Robinson
+The Agony And The Ecstasy
+67
+The Nitty Gritty Dirt Band
+(All I Have To Do Is) Dream
+68
+Bruce Springsteen
+Born To Run
+69
+Elton John
+Someone Saved My Life Tonight
+70
+Pete Wingfield
+Eighteen With A Bullet
+71
+The Grass Roots
+Mamacita
+72
+Captain & Tennille
+Por Amor Viviremos
+73
+Arthur Alexander
+Every Day I Have To Cry Some
+74
+Captain & Tennille
+Love Will Keep Us Together
+75
+George Harrison
+You
+76
+Leon Haywood
+I Want'a Do Something Freaky To You
+77
+Olivia Newton-John
+Something Better To Do
+78
+War
+Low Rider
+79
+Melissa Manchester
+Just Too Many People
+80
+The Eleventh Hour
+Hollywood Hot
+81
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+82
+Waylon Jennings
+Are You Sure Hank Done It This Way
+83
+Aretha Franklin
+Mr. D.J. (5 For The D.J.)
+84
+Rusty Wier
+Don't It Make You Wanna Dance?
+85
+B.T. Express
+Give It What You Got/Peace Pipe
+86
+ABBA
+S.O.S.
+87
+The Manhattan Transfer
+Operator
+88
+Pat Lundi
+Party Music
+89
+Joan Baez
+Diamonds And Rust
+90
+The Salsoul Orchestra
+Salsoul Hustle
+91
+The Choice Four
+When You're Young And In Love
+92
+Ray Charles
+Living For The City
+93
+Batdorf & Rodney
+You Are A Song
+94
+Buddy Miles
+Rockin' And Rollin' On The Streets Of Hollywood
+95
+Ralph Carter
+When You're Young And In Love
+96
+David Bellamy
+Nothin' Heavy
+97
+Duke & The Drivers
+What You Got
+98
+Hamilton Bohannon
+Foot Stompin Music
+99
+Poco
+Keep On Tryin'
+100
+Dr. Hook
+The Millionaire

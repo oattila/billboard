@@ -1,0 +1,300 @@
+1
+Helen Reddy
+I Am Woman
+2
+The Temptations
+Papa Was A Rollin' Stone
+3
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+4
+Johnny Nash
+I Can See Clearly Now
+5
+Al Green
+You Ought To Be With Me
+6
+Billy Paul
+Me And Mrs. Jones
+7
+Albert Hammond
+It Never Rains In Southern California
+8
+America
+Ventura Highway
+9
+Gilbert O'Sullivan
+Clair
+10
+The Stylistics
+I'm Stone In Love With You
+11
+Seals & Crofts
+Summer Breeze
+12
+Donna Fargo
+Funny Face
+13
+Austin Roberts
+Something's Wrong With Me
+14
+The Osmonds
+Crazy Horses
+15
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+16
+Lobo
+I'd Love You To Want Me
+17
+Jim Croce
+Operator (That's Not the Way it Feels)
+18
+The Spinners
+I'll Be Around
+19
+Jackson 5
+Corner Of The Sky
+20
+Bread
+Sweet Surrender
+21
+The 5th Dimension
+If I Could Reach You
+22
+Curtis Mayfield
+Superfly
+23
+Neil Diamond
+Walk On Water
+24
+Chicago
+Dialogue (Part I & II)
+25
+Four Tops
+Keeper Of The Castle
+26
+Jethro Tull
+Living In The Past
+27
+Cat Stevens
+Sitting
+28
+The Delegates
+Convention '72
+29
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+30
+The Hollies
+Long Dark Road
+31
+Grand Funk Railroad
+Rock 'N Roll Soul
+32
+Stevie Wonder
+Superstition
+33
+Three Dog Night
+Pieces Of April
+34
+Lighthouse
+Sunny Days
+35
+Bee Gees
+Alive
+36
+Gary Glitter
+I Didn't Know I Loved You (Till I Saw You Rock And Roll)
+37
+Raspberries
+I Wanna Be With You
+38
+Isaac Hayes
+Theme From The Men
+39
+Dennis Yost And The Classics IV
+What Am I Crying For?
+40
+Carole King
+Been To Canaan
+41
+James Taylor
+Don't Let Me Be Lonely Tonight
+42
+J.J. Cale
+Lies
+43
+Rod Stewart
+Angel
+44
+James Brown
+I Got A Bag Of My Own
+45
+Yes
+And You And I (Part II)
+46
+Betty Wright
+Baby Sitter
+47
+Blood, Sweat & Tears
+So Long Dixie
+48
+Eric Clapton
+Let It Rain
+49
+Clean Living
+In Heaven There Is No Beer
+50
+Bulldog
+No
+51
+The Isley Brothers
+Work To Do
+52
+Jerry Butler
+One Night Affair
+53
+Elvis Presley
+Separate Ways
+54
+Blue Haze
+Smoke Gets In Your Eyes
+55
+Joni Mitchell
+You Turn Me On, I'm A Radio
+56
+Joe Simon
+Trouble In My Home/I Found My Dad
+57
+The O'Jays
+992 Arguments
+58
+King Harvest
+Dancing In The Moonlight
+59
+Hurricane Smith
+Oh, Babe, What Would You Say?
+60
+Carly Simon
+You're So Vain
+61
+John Denver
+Rocky Mountain High
+62
+Timmy Thomas
+Why Can't We Live Together
+63
+Petula Clark
+Wedding Song (There Is Love)
+64
+The Heywoods
+Special Someone
+65
+The Wackers
+Day And Night
+66
+Tower Of Power
+Down To The Nightclub
+67
+Rare Earth
+Good Time Sally
+68
+Mac Davis
+Everybody Loves A Love Song
+69
+The Chi-lites
+We Need Order
+70
+Rick Springfield
+What Would The Children Think
+71
+War
+The World Is A Ghetto
+72
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+73
+Elton John
+Crocodile Rock
+74
+Steely Dan
+Do It Again
+75
+David Bowie
+The Jean Genie
+76
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+77
+Chuck Berry
+Reelin' & Rockin'
+78
+Peter Skellern
+You're A Lady
+79
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+80
+Brighter Side Of Darkness
+Love Jones
+81
+Bill Withers
+Let Us Love
+82
+The Who
+The Relay
+83
+Candi Staton
+Lovin' You, Lovin' Me
+84
+Dawn Featuring Tony Orlando
+You're A Lady
+85
+Foghat
+I Just Want To Make Love To You
+86
+Lyn Collins
+Me And My Baby Got A Good Thing Going
+87
+Slade
+Mama Weer All Crazee Now
+88
+The Allman Brothers Band
+One Way Out
+89
+Daniel Boone
+Annabelle
+90
+Delbert & Glen
+I Received A Letter
+91
+Limmie & Family Cookin'
+You Can Do Magic
+92
+Glen Campbell
+One Last Time
+93
+Bobby Womack & Peace
+Harry Hippie
+94
+Jermaine Jackson
+Daddy's Home
+95
+Joey Heatherton
+I'm Sorry
+96
+Valerie Simpson
+Silly Wasn't I
+97
+Mary Hopkin
+Knock Knock Who's There
+98
+Barbra Streisand
+Didn't We
+99
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+100
+Millie Jackson
+I Miss You Baby

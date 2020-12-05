@@ -1,0 +1,300 @@
+1
+The Monkees
+Daydream Believer
+2
+Gladys Knight And The Pips
+I Heard It Through The Grapevine
+3
+The Beatles
+Hello Goodbye
+4
+Smokey Robinson & The Miracles
+I Second That Emotion
+5
+The Union Gap Featuring Gary Puckett
+Woman, Woman
+6
+The Cowsills
+The Rain, The Park & Other Things
+7
+The Fantastic Johnny C
+Boogaloo Down Broadway
+8
+Strawberry Alarm Clock
+Incense And Peppermints
+9
+Cher
+You Better Sit Down Kids
+10
+Dionne Warwick
+I Say A Little Prayer
+11
+John Fred And The Playboys
+Judy In Disguise (With Glasses)
+12
+Diana Ross & The Supremes
+In And Out Of Love
+13
+The American Breed
+Bend Me, Shape Me
+14
+The Turtles
+She's My Girl
+15
+Joe Tex
+Skinny Legs And All
+16
+Martha Reeves & The Vandellas
+Honey Chile
+17
+Aretha Franklin
+Chain Of Fools
+18
+Johnny Rivers
+Summer Rain
+19
+Jay And The Techniques
+Keep The Ball Rollin'
+20
+Bee Gees
+(The Lights Went Out In) Massachusetts
+21
+Lulu
+To Sir With Love
+22
+The Rose Garden
+Next Plane To London
+23
+Marvin Gaye & Tammi Terrell
+If I Could Build My Whole World Around You
+24
+The Box Tops
+Neon Rainbow
+25
+The Who
+I Can See For Miles
+26
+Stone Poneys Featuring Linda Ronstadt
+Different Drum
+27
+Bobby Vinton
+Please Love Me Forever
+28
+Donovan
+Wear Your Love Like Heaven
+29
+The Esquires
+And Get Away
+30
+Glen Campbell
+By The Time I Get To Phoenix
+31
+The Young Rascals
+It's Wonderful
+32
+Jackie Wilson
+Since You Showed Me How To Be Happy
+33
+The Lemon Pipers
+Green Tambourine
+34
+The Buckinghams
+Susan
+35
+Brenton Wood
+Baby You Got It
+36
+Jr. Walker & The All Stars
+Come See About Me
+37
+Bobby Vee And The Strangers
+Beautiful People
+38
+Kenny O'Dell
+Beautiful People
+39
+Peter, Paul & Mary
+Too Much Of Nothing
+40
+Spanky And Our Gang
+Lazy Day
+41
+Petula Clark
+The Other Man's Grass Is Always Greener
+42
+Paul Revere & The Raiders Featuring Mark Lindsay
+Peace Of Mind
+43
+Ohio Express
+Beg, Borrow And Steal
+44
+Wes Montgomery
+Windy
+45
+Harpers Bizarre
+Chattanooga Choo Choo
+46
+Dean Martin
+In The Misty Moonlight
+47
+Percy Sledge
+Cover Me
+48
+The Doors
+Love Me Two Times
+49
+Dusty Springfield
+What's It Gonna Be
+50
+Etta James
+Tell Mama
+51
+Ed Ames
+Who Will Answer?
+52
+The Sandpebbles
+Love Power
+53
+Small Faces
+Itchycoo Park
+54
+Ray Charles
+Yesterday
+55
+James Brown And The Famous Flames
+I Can't Stand Myself (When You Touch Me)
+56
+The Beatles
+I Am The Walrus
+57
+Wilson Pickett
+I'm In Love
+58
+Lulu
+Best Of Both Worlds
+59
+The Lettermen
+Goin' Out Of My Head/Can't Take My Eyes Off You
+60
+The Hollies
+Dear Eloise
+61
+Jefferson Airplane
+Watch Her Ride
+62
+The Mamas & The Papas
+Dancing Bear
+63
+The Marvelettes
+My Baby Must Be A Magician
+64
+Eric Burdon & The Animals
+Monterey
+65
+Billy Vera & Judy Clay
+Storybook Children
+66
+The Dells
+O-O, I Love You
+67
+Deon Jackson
+Ooh Baby
+68
+The O'Jays
+I'll Be Sweeter Tomorrow (Than I Was Today)
+69
+Engelbert Humperdinck
+Am I That Easy To Forget
+70
+The Dave Clark Five
+Everybody Knows
+71
+John Roberts
+Sockin' 1-2-3-4
+72
+Bill Cosby
+Hooray For The Salvation Army Band
+73
+Erma Franklin
+Piece Of My Heart
+74
+Peaches & Herb
+Two Little Kids
+75
+Hugh Masekela
+Up-Up And Away
+76
+Sonny & Cher
+Good Combination
+77
+The Human Beinz
+Nobody But Me
+78
+Al Greene & The Soul Mate's
+Back Up Train
+79
+Soul Survivors
+Explosion (In Your Soul)
+80
+Jimi Hendrix
+Foxey Lady
+81
+The Foundations
+Baby, Now That I've Found You
+82
+The Beach Boys
+Darlin'
+83
+Henson Cargill
+Skip A Rope
+84
+Vikki Carr
+The Lesson
+85
+Classics IV
+Spooky
+86
+Al Martino
+A Voice In The Choir
+87
+Tommy Boyce & Bobby Hart
+I Wonder What She's Doing Tonite
+88
+Bill Wyman
+In Another Land
+89
+Ronnie Dove
+Dancin' Out Of My Heart
+90
+Bruce Channel
+Mr. Bus Driver
+91
+Eddy Arnold
+Here Comes Heaven
+92
+5 Stairsteps and Cubie
+Something's Missing
+93
+Billy Stewart
+Cross My Heart
+94
+Aretha Franklin
+Mockingbird
+95
+Johnnie Taylor
+Somebody's Sleeping In My Bed
+96
+Lulu And The Luvers
+Shout
+97
+The Manhattans
+I Call It Love
+98
+Barbara Mason
+Oh, How It Hurts
+99
+Laura Lee
+Up Tight, Good Man
+100
+The Epic Splendor
+A Little Rain Must Fall

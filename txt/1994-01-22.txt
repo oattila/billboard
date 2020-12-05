@@ -1,0 +1,300 @@
+1
+Bryan Adams/Rod Stewart/Sting
+All For Love
+2
+Mariah Carey
+Hero
+3
+Toni Braxton
+Breathe Again
+4
+Janet Jackson
+Again
+5
+Ace Of Base
+All That She Wants
+6
+Michael Bolton
+Said I Loved You...But I Lied
+7
+Bryan Adams
+Please Forgive Me
+8
+Salt-N-Pepa
+Shoop
+9
+Tevin Campbell
+Can We Talk
+10
+Celine Dion
+The Power Of Love
+11
+DRS
+Gangsta Lean
+12
+The Cranberries
+Linger
+13
+Domino
+Getto Jam
+14
+10,000 Maniacs
+Because The Night
+15
+Snoop Dogg
+What's My Name?
+16
+Tag Team
+Whoomp! (There It Is)
+17
+Culture Beat
+Mr. Vain
+18
+Babyface
+Never Keeping Secrets
+19
+Xscape
+Understanding
+20
+Jimmy Cliff
+I Can See Clearly Now (From "Cool Runnings")
+21
+2Pac
+Keep Ya Head Up
+22
+Meat Loaf
+I'd Do Anything For Love (But I Won't Do That)
+23
+Jodeci
+Cry For You
+24
+Aerosmith
+Amazing
+25
+Queen Latifah
+U.N.I.T.Y.
+26
+Gabrielle
+Dreams
+27
+Joshua Kadison
+Jessie
+28
+Xscape
+Just Kickin' It
+29
+Ace Of Base
+The Sign
+30
+Haddaway
+What Is Love
+31
+Gin Blossoms
+Found Out About You
+32
+Mariah Carey
+Dreamlover
+33
+Color Me Badd
+Choose
+34
+Billy Joel
+All About Soul
+35
+Hi-Five
+Never Should've Let You Go (From "Sister Act 2")
+36
+Zhane
+Hey Mr. D.J.
+37
+All-4-One
+So Much In Love
+38
+US3
+Cantaloop (Flip Fantasia)
+39
+Def Leppard
+Miss You In A Heartbeat
+40
+Billy Joel
+The River Of Dreams
+41
+R. Kelly
+Sex Me (Parts I & II)
+42
+Haddaway
+Life (Everybody Needs Somebody To Love)
+43
+Zapp & Roger
+Slow And Easy
+44
+Blind Melon
+No Rain
+45
+K7
+Come Baby Come
+46
+Color Me Badd
+Time And Chance
+47
+Aerosmith
+Cryin'
+48
+Inner Circle
+Sweat (A La La La La Long)
+49
+Janet Jackson
+If
+50
+Rod Stewart
+Having A Party
+51
+Heart
+Will You Be There (In The Morning)
+52
+UB40
+Higher Ground
+53
+A Tribe Called Quest
+Award Tour
+54
+Lisette Melendez
+Goody Goody
+55
+CeCe Peniston
+I'm In The Mood
+56
+Zhane
+Groove Thang
+57
+Richard Marx
+Now And Forever
+58
+SWV
+Always On My Mind
+59
+Shaquille O'Neal
+(I Know I Got) Skillz
+60
+Eternal
+Stay
+61
+U2
+Stay (Faraway, So Close!)
+62
+Mr. Big
+Wild World
+63
+Tony Toni Tone
+Anniversary
+64
+The Breeders
+Cannonball
+65
+Tom Petty And The Heartbreakers
+Mary Jane's Last Dance
+66
+Collage
+I'll Be Loving You
+67
+Def Leppard
+Two Steps Behind (From "Last Action Hero")
+68
+Tony Toni Tone
+(Lay Your Head On My) Pillow
+69
+Salt-N-Pepa Featuring En Vogue
+Whatta Man
+70
+Eazy-E
+Real Muthaphuckkin G's
+71
+Sagat
+Funk Dat/Why Is It?
+72
+Shai
+Yours
+73
+Phil Collins
+Both Sides Of The Story
+74
+Chantay Savage
+Betcha'll Never Find
+75
+NKOTB
+Dirty Dawg
+76
+The Goodmen
+Give It Up
+77
+Rozalla
+I Love Music (From "Carlito's Way")
+78
+Mary J. Blige
+You Don't Have To Worry
+79
+Elton John & Kiki Dee
+True Love
+80
+Cypress Hill
+We Ain't Goin' Out Like That
+81
+Kenny G
+Sentimental
+82
+12 Gauge
+Dunkie Butt (Please Please Please)
+83
+Mint Condition
+U Send Me Swingin'
+84
+Lisa Keith
+I'm In Love
+85
+Joe Diffie
+John Deere Green
+86
+Little Texas
+God Blessed Texas
+87
+Boyz II Men
+Let It Snow
+88
+The Lemonheads
+Into Your Arms
+89
+Das EFX
+Freakit
+90
+Dwight Yoakam
+Fast As You
+91
+Mista Grimm
+Indo Smoke (From "Poetic Justice")
+92
+R.E.M.
+Everybody Hurts
+93
+Kate Bush
+Rubberband Girl
+94
+To Be Continued...
+One On One
+95
+Dr. Dre
+Let Me Ride
+96
+Jade
+Looking For Mr. Do Right
+97
+Doug Stone
+I Never Knew Love
+98
+Trisha Yearwood
+The Song Remembers When
+99
+Lords Of The Underground
+Here Come The Lords
+100
+Ice Cube
+Really Doe

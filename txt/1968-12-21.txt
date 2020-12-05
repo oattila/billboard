@@ -1,0 +1,300 @@
+1
+Marvin Gaye
+I Heard It Through The Grapevine
+2
+Diana Ross & The Supremes
+Love Child
+3
+Stevie Wonder
+For Once In My Life
+4
+Dion
+Abraham, Martin And John
+5
+Glen Campbell
+Wichita Lineman
+6
+Classics IV Featuring Dennis Yost
+Stormy
+7
+Johnnie Taylor
+Who's Making Love
+8
+Judy Collins
+Both Sides Now
+9
+Bobby Vinton
+I Love How You Love Me
+10
+Steppenwolf
+Magic Carpet Ride
+11
+The Beatles
+Hey Jude
+12
+The Temptations
+Cloud Nine
+13
+Derek
+Cinnamon
+14
+Aretha Franklin
+See Saw
+15
+Ohio Express
+Chewy Chewy
+16
+Sergio Mendes & Brasil '66
+Scarborough Fair
+17
+Diana Ross And The Supremes & The Temptations
+I'm Gonna Make You Love Me
+18
+Eddie Floyd
+Bring It On Home To Me
+19
+Mary Hopkin
+Those Were The Days
+20
+Young-Holt Unlimited
+Soulful Strut
+21
+Leapy Lee
+Little Arrows
+22
+B.J. Thomas
+Hooked On A Feeling
+23
+Dionne Warwick
+Promises, Promises
+24
+Dusty Springfield
+Son-Of-A Preacher Man
+25
+Johnny Nash
+Hold Me Tight
+26
+Canned Heat
+Going Up The Country
+27
+The Vogues
+Till
+28
+Clarence Carter
+Too Weak To Fight
+29
+Magic Lanterns
+Shame, Shame
+30
+Rene & Rene
+Lo Mucho Que Te Quiero (The More I Love You)
+31
+Otis Redding
+Papa's Got A Brand New Bag
+32
+The Archies
+Bang-Shang-A-Lang
+33
+Peggy Scott & Jo Jo Benson
+Pickin' Wild Mountain Berries
+34
+Andy Williams with the St. Charles Borromeo Choir
+Battle Hymn Of The Republic
+35
+The Rascals
+A Ray Of Hope
+36
+Elvis Presley
+If I Can Dream
+37
+The Chambers Brothers
+I Can't Turn You Loose
+38
+Deep Purple
+Kentucky Woman
+39
+Tommy James And The Shondells
+Crimson And Clover
+40
+1910 Fruitgum Co.
+Goody Goody Gumdrops
+41
+Booker T. & The MG's
+Hang 'Em High
+42
+Wilson Pickett
+A Man And A Half
+43
+The Impressions
+This Is My Country
+44
+Dean Martin
+Not Enough Indians
+45
+James Brown
+Goodbye My Love
+46
+The Lettermen
+Put Your Head On My Shoulder
+47
+Herb Alpert & The Tijuana Brass
+My Favorite Things
+48
+Autry Inman
+Ballad Of Two Brothers
+49
+The Grass Roots
+Bella Linda
+50
+The Royal Guardsmen
+Baby Let's Wait
+51
+Tammy Wynette
+Stand By Your Man
+52
+The Jimi Hendrix Experience
+Crosstown Traffic
+53
+The Tymes
+People
+54
+Aretha Franklin
+My Song
+55
+Sly & The Family Stone
+Everyday People
+56
+Jeannie C. Riley
+The Girl Most Likely
+57
+Bobby Taylor & The Vancouvers
+Malinda
+58
+The Intruders
+Slow Drag
+59
+Creedence Clearwater Revival
+I Put A Spell On You
+60
+The Delfonics
+Ready Or Not Here I Come (Can't Hide From Love)
+61
+Bee Gees
+I Started A Joke
+62
+Petula Clark
+American Boys
+63
+The Fireballs
+Come On, React!
+64
+Bobby Bland
+Rockin' In The Same Old Boat
+65
+Nancy Sinatra
+Good Time Girl
+66
+Alvin Cash
+Keep On Dancing
+67
+The Beach Boys
+Bluebirds Over The Mountain
+68
+Eric Burdon & The Animals
+White Houses
+69
+Joe Cocker
+With A Little Help From My Friends
+70
+Barbara Acklin
+Just Ain't No Love
+71
+Bobby Womack
+California Dreamin'
+72
+The 5th Dimension
+California Soul
+73
+Vanilla Fudge
+Season Of The Witch, Pt. 1
+74
+Tyrone Davis
+Can I Change My Mind
+75
+Archie Bell & The Drells
+There's Gonna Be A Showdown
+76
+O.C. Smith
+Isn't It Lonely Together
+77
+The O'Kaysions
+Love Machine
+78
+Jerry Butler
+Are You Happy
+79
+Della Humphrey
+Don't Make The Good Girls Go Bad
+80
+The Mamas & The Papas
+Do You Wanna Dance
+81
+Sam & Dave
+Soul Sister, Brown Sugar
+82
+Merrilee Rush
+Reach Out
+83
+Paul Mauriat
+Chitty Chitty Bang Bang
+84
+Bob Seger System
+Ramblin' Gamblin' Man
+85
+The Unifics
+The Beginning Of My End
+86
+Johnny Adams
+Release Me
+87
+Andy Kim
+Rainbow Ride
+88
+Tom Jones
+A Minute Of Your Time
+89
+Johnny Nash
+You Got Soul
+90
+Wilson Pickett
+Hey Jude
+91
+John W. Anderson presents KaSandra
+Don't Pat Me On The Back And Call Me Brother
+92
+James Brown
+Tit For Tat (Ain't No Taking Back)
+93
+Sammy Davis Jr.
+I've Gotta Be Me
+94
+Spanky And Our Gang
+Yesterday's Rain
+95
+Five Stairsteps & Cubie
+Stay Close To Me
+96
+Chambers Brothers
+Shout! - Part 1
+97
+Roger Miller
+Vance
+98
+Brooklyn Bridge
+Worst That Could Happen
+99
+The Crystal Mansion
+The Thought Of Loving You
+100
+The Goodees
+Condition Red

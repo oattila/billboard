@@ -1,0 +1,300 @@
+1
+The Knack
+My Sharona
+2
+Robert John
+Sad Eyes
+3
+Herb Alpert
+Rise
+4
+Michael Jackson
+Don't Stop 'til You Get Enough
+5
+Earth, Wind & Fire
+After The Love Has Gone
+6
+Little River Band
+Lonesome Loser
+7
+Dionne Warwick
+I'll Never Love This Way Again
+8
+Commodores
+Sail On
+9
+The Charlie Daniels Band
+The Devil Went Down To Georgia
+10
+Electric Light Orchestra
+Don't Bring Me Down
+11
+M
+Pop Muzik
+12
+Nick Lowe
+Cruel To Be Kind
+13
+Bonnie Pointer
+Heaven Must Have Sent You
+14
+Robert Palmer
+Bad Case Of Loving You (Doctor, Doctor)
+15
+Sniff 'n' the Tears
+Driver's Seat
+16
+Patrick Hernandez
+Born To Be Alive
+17
+Maxine Nightingale
+Lead Me On
+18
+Maureen McGovern
+Different Worlds
+19
+Donna Summer
+Dim All The Lights
+20
+GQ
+I Do Love You
+21
+Diana Ross
+The Boss
+22
+Stephanie Mills
+What Cha Gonna Do With My Lovin'
+23
+Journey
+Lovin', Touchin', Squeezin'
+24
+Atlanta Rhythm Section
+Spooky
+25
+Chic
+Good Times
+26
+Gerry Rafferty
+Get It Right Next Time
+27
+Foreigner
+Dirty White Boy
+28
+The Doobie Brothers
+Dependin' On You
+29
+The Knack
+Good Girls Don't
+30
+Kenny Rogers
+You Decorated My Life
+31
+Lobo
+Where Were You When I Was Falling In Love
+32
+Barbra Streisand
+The Main Event/Fight
+33
+Wings
+Arrow Through Me
+34
+Moon Martin
+Rolene
+35
+Cheap Trick
+Ain't That A Shame
+36
+Jennifer Warnes
+I Know A Heartache When I See One
+37
+Michael Johnson
+This Night Won't Last Forever
+38
+John Stewart
+Midnight Wind
+39
+KC And The Sunshine Band
+Please Don't Go
+40
+France Joli
+Come To Me
+41
+Mary Macgregor
+Good Friend
+42
+Ian Gomm
+Hold On
+43
+Mass Production
+Firecracker
+44
+Louise Goffin
+Remember (Walking In The Sand)
+45
+Ashford & Simpson
+Found A Cure
+46
+Brenda Russell
+So Good, So Right
+47
+Eddie Money
+Get A Move On
+48
+Suzi Quatro
+I've Never Been In Love
+49
+Supertramp
+Goodbye Stranger
+50
+Bob Dylan
+Gotta Serve Somebody
+51
+Elton John
+Mama Can't Buy You Love
+52
+Chris Thompson & Night
+If You Remember Me
+53
+The Crusaders
+Street Life
+54
+Fern Kinney
+Groove Me
+55
+KISS
+Sure Know Something
+56
+Pat Travers
+Boom Boom (Out Go The Lights)
+57
+Toby Beau
+Then You Can Tell Me Goodbye
+58
+J.D. Souther
+You're Only Lonely
+59
+Jimmy Buffett
+Fins
+60
+Kansas
+Reason To Be
+61
+Charlie
+Killer Cut
+62
+The Cars
+Let's Go
+63
+Anne Murray
+Broken Hearted Me
+64
+Cher
+Hell On Wheels
+65
+Dave Edmunds
+Girls Talk
+66
+Kermit (Jim Henson)
+Rainbow Connection
+67
+Rita Coolidge
+One Fine Day
+68
+Commodores
+Still
+69
+New England
+Hello, Hello, Hello
+70
+Lauren Wood
+Please Don't Leave
+71
+Carolyne Mas
+Stillsane
+72
+Gloria Gaynor
+Let Me Know (I Have A Right)
+73
+Southside Johnny & The Asbury Jukes
+I'm So Anxious
+74
+Blue Oyster Cult
+In Thee
+75
+ABBA
+Angeleyes
+76
+Elton John
+Victim Of Love
+77
+Night
+Hot Summer Nights
+78
+Steve Dahl And Teenage Radiation
+Do You Think I'm Disco?
+79
+Blondie
+Dreaming
+80
+Crystal Gayle
+Half The Way
+81
+The Who
+5:15
+82
+Olivia Newton-John
+Dancin' 'round And 'round
+83
+Sammy Hagar
+Plain Jane
+84
+Hotel
+Hold On To The Night
+85
+Van Halen
+Beautiful Girls
+86
+Niteflyte
+If You Want It
+87
+The Alan Parsons Project
+Damned If I Do
+88
+Dan Peek
+All Things Are Possible
+89
+The Records
+Starry Eyes
+90
+Dolly Parton
+Sweet Summer Lovin'
+91
+Chicago
+Must Have Been Crazy
+92
+Wayne Newton
+You Stepped Into My Life
+93
+Rockets
+Oh Well
+94
+Pousette-Dart Band
+For Love
+95
+Billy Thorpe
+Children Of The Sun
+96
+Eddie Rabbitt
+Suspicions
+97
+Dr. Hook
+When You're In Love With A Beautiful Woman
+98
+Donna Summer
+Bad Girls
+99
+Addrisi Brothers
+Ghost Dancer
+100
+Anita Ward
+Ring My Bell

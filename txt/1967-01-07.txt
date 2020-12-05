@@ -1,0 +1,300 @@
+1
+The Monkees
+I'm A Believer
+2
+The Royal Guardsmen
+Snoopy Vs. The Red Baron
+3
+Aaron Neville
+Tell It Like It Is
+4
+The New Vaudeville Band
+Winchester Cathedral
+5
+Nancy Sinatra
+Sugar Town
+6
+Frank Sinatra
+That's Life
+7
+Paul Revere & The Raiders Featuring Mark Lindsay
+Good Thing
+8
+The Mamas & The Papas
+Words Of Love
+9
+Four Tops
+Standing In The Shadows Of Love
+10
+Donovan
+Mellow Yellow
+11
+Bobby Vinton
+Coming Home Soldier
+12
+Sandy Posey
+Single Girl
+13
+The Temptations
+(I Know) I'm Losing You
+14
+Mitch Ryder And The Detroit Wheels
+Devil With A Blue Dress On & Good Golly Miss Molly
+15
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Tell It To The Rain
+16
+The Music Machine
+Talk Talk
+17
+The Beach Boys
+Good Vibrations
+18
+Ronnie Dove
+Cry
+19
+Stevie Wonder
+A Place In The Sun
+20
+The Seekers
+Georgy Girl
+21
+The Supremes
+You Keep Me Hangin' On
+22
+Roger Williams
+Born Free
+23
+Jimmy Ruffin
+I've Passed This Way Before
+24
+The Lovin' Spoonful
+Nashville Cats
+25
+? (Question Mark) & The Mysterians
+I Need Somebody
+26
+Wilson Pickett
+Mustang Sally
+27
+Herman's Hermits
+East West
+28
+Petula Clark
+Color My World
+29
+Eric Burdon & The Animals
+Help Me Girl
+30
+The Yardbirds
+Happenings Ten Years Time Ago
+31
+Blues Magoos
+(We Ain't Got) Nothin' Yet
+32
+The Monkees
+(I'm Not Your) Steppin' Stone
+33
+Senator Everett McKinley Dirksen
+Gallant Men
+34
+Otis Redding
+Try A Little Tenderness
+35
+Peter And Gordon
+Lady Godiva
+36
+The Innocence
+There's Got To Be A Word!
+37
+Keith
+98.6
+38
+Jackie Wilson
+Whispers (Gettin' Louder)
+39
+Gary Lewis And The Playboys
+Where Will The Words Come From
+40
+Herb Alpert & The Tijuana Brass
+Mame
+41
+Peter And Gordon
+Knight In Rusty Armour
+42
+Bobby Goldsboro
+Blue Autumn
+43
+Spyder Turner
+Stand By Me
+44
+The Association
+Pandora's Golden Heebie Jeebies
+45
+Gene Chandler
+I Fooled You This Time
+46
+Terry Knight and The Pack
+I (Who Have Nothing)
+47
+The Electric Prunes
+I Had Too Much To Dream (Last Night)
+48
+Pozo Seco Singers
+Look What You've Done
+49
+Joe Tex
+Papa Was Too
+50
+Sam The Sham and the Pharaohs
+How Do You Catch A Girl
+51
+Tom Jones
+Green, Green Grass Of Home
+52
+The Happenings
+Goodnight My Love
+53
+The Young Holt Trio
+Wack Wack
+54
+Dr. West's Medicine Show and Junk Band
+The Eggplant That Ate Chicago
+55
+Lou Rawls
+You Can Bring Me All Your Heartaches
+56
+The Critters
+Bad Misunderstanding
+57
+The Emperor's
+Karate
+58
+Bob Crewe Generation
+Music To Watch Girls By
+59
+Dionne Warwick
+Another Night
+60
+Roy Orbison
+Communication Breakdown
+61
+The Youngbloods
+Grizzly Bear
+62
+The Drifters
+Baby What I Mean
+63
+Dean Martin
+(Open Up The Door) Let The Good Times In
+64
+Tommy Roe
+It's Now Winters Day
+65
+The Sopwith "Camel"
+Hello Hello
+66
+The Buckinghams
+Kind Of A Drag
+67
+Jimmy Castor
+Hey, Leroy, Your Mama's Callin' You
+68
+Bobby Darin
+The Girl That Stood Beside Me
+69
+Baby Ray
+There's Something On Your Mind
+70
+Gene Pitney
+Just One Smile
+71
+The Artistics
+I'm Gonna Miss You
+72
+The Gunter Kallmann Chorus
+Wish Me A Rainbow
+73
+Damita Jo
+If You Go Away
+74
+Ramsey Lewis
+Day Tripper
+75
+The Mamas & The Papas
+Dancing In The Street
+76
+The Seeds
+Pushin' Too Hard
+77
+Senator Bobby Featuring Bill Minkin
+Wild Thing
+78
+James Brown And The Famous Flames
+Bring It Up
+79
+Freddy Scott
+Are You Lonely For Me
+80
+The Spencer Davis Group
+Gimme Some Lovin'
+81
+Sergio Mendes & Brasil '66
+Constant Rain (Chove Chuva)
+82
+Cannonball Adderley
+Mercy, Mercy, Mercy
+83
+J.J. Jackson
+I Dig Girls
+84
+The Dave Clark Five
+I've Got To Have A Reason
+85
+The Joe Cuba Sextet
+Oh Yeah!
+86
+Sam & Dave
+You Got Me Hummin'
+87
+Howard Tate
+Look At Granny Run, Run
+88
+Marvin Gaye & Kim Weston
+It Takes Two
+89
+Patti LaBelle And The Blue Belles
+Take Me For A Little While
+90
+Peaches & Herb
+Let's Fall In Love
+91
+The McCoys
+I Got To Go Back (And Watch That Little Girl Dance)
+92
+Bobby Hebb
+Love Me
+93
+Boots Randolph
+The Shadow Of Your Smile
+94
+The Bachelors
+Walk With Faith In Your Heart
+95
+Don Ho and the Aliis
+Tiny Bubbles
+96
+The Left Banke
+Pretty Ballerina
+97
+The Hardtimes
+Fortune Teller
+98
+The Kinks
+Deadend Street
+99
+The Lovin' Spoonful
+Full Measure
+100
+Jack Greene
+There Goes My Everything

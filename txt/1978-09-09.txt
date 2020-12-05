@@ -1,0 +1,300 @@
+1
+A Taste Of Honey
+Boogie Oogie Oogie
+2
+Commodores
+Three Times A Lady
+3
+Foreigner
+Hot Blooded
+4
+Olivia Newton-John
+Hopelessly Devoted To You
+5
+Exile
+Kiss You All Over
+6
+Frankie Valli
+Grease
+7
+Andy Gibb
+An Everlasting Love
+8
+John Travolta & Olivia Newton-John & Cast
+Summer Nights
+9
+Evelyn "Champagne" King
+Shame
+10
+Earth, Wind & Fire
+Got To Get You Into My Life
+11
+Nick Gilder
+Hot Child In The City
+12
+Boston
+Don't Look Back
+13
+Chris Rea
+Fool If You Think It's Over
+14
+John Paul Young
+Love Is In The Air
+15
+The Rolling Stones
+Miss You
+16
+Rick James
+You And I
+17
+Little River Band
+Reminiscing
+18
+Anne Murray
+You Needed Me
+19
+Bob Seger & The Silver Bullet Band
+Hollywood Nights
+20
+Walter Egan
+Magnet And Steel
+21
+Pablo Cruise
+Love Will Find A Way
+22
+Eddie Money
+Two Tickets To Paradise
+23
+Kenny Loggins
+Whenever I Call You "Friend"
+24
+Robin Gibb
+Oh! Darling
+25
+Barbra Streisand
+Love Theme From "Eyes Of Laura Mars" (Prisoner)
+26
+Teddy Pendergrass
+Close The Door
+27
+Toby Beau
+My Angel Baby
+28
+The Cars
+Just What I Needed
+29
+Gerry Rafferty
+Right Down The Line
+30
+Linda Ronstadt
+Back In The U.s.a.
+31
+The Kinks
+A Rock 'N' Roll Fantasy
+32
+Foxy
+Get Off
+33
+Aerosmith
+Come Together
+34
+Cheryl Ladd
+Think It Over
+35
+Billy Joel
+She's Always A Woman
+36
+Captain & Tennille
+You Never Done It Like That
+37
+Alicia Bridges
+I Love The Nightlife (Disco 'round)
+38
+Crystal Gayle
+Talking In Your Sleep
+39
+The Moody Blues
+Steppin' In A Slide Zone
+40
+City Boy
+5.7.0.5.
+41
+The Who
+Who Are You
+42
+Meat Loaf
+Paradise By The Dashboard Light
+43
+Michael Johnson
+Almost Like Being In Love
+44
+Stonebolt
+I Will Still Love You
+45
+Carly Simon & James Taylor
+Devoted To You
+46
+Donna Summer
+Last Dance
+47
+Dan Hill
+All I See Is Your Face
+48
+Quincy Jones
+Stuff Like That
+49
+Village People
+Macho Man
+50
+Bruce Springsteen
+Badlands
+51
+Sylvester
+Dance (Disco Heat)
+52
+Jimmy Buffett
+Livingston Saturday Night
+53
+Barry Manilow
+Copacabana (at The Copa)
+54
+Charlie
+She Loves To Be In Love
+55
+The McCrarys
+You
+56
+Steely Dan
+Josie
+57
+David Gates
+Took The Last Train
+58
+Dolly Parton
+Heartbreaker
+59
+Trooper
+Raise A Little Hell
+60
+L.T.D.
+Holding On (When Love Is Gone)
+61
+Johnny Mathis & Deniece Williams
+You're All I Need To Get By
+62
+Daryl Hall John Oates
+It's A Laugh
+63
+Paul Davis
+Sweet Life
+64
+Rita Coolidge
+You
+65
+Joe Walsh
+Life's Been Good
+66
+ConFunkShun
+Shake And Dance With Me
+67
+Andy Gibb
+Shadow Dancing
+68
+Journey
+Lights
+69
+Boney M
+Rivers Of Babylon
+70
+The Rolling Stones
+Beast Of Burden
+71
+Linda Clifford
+If My Friends Could See Me Now
+72
+Jackson Browne
+Stay/The Load-Out
+73
+Teri DeSario
+Ain't Nothing Gonna Keep Me From You
+74
+Prism
+Flyin'
+75
+Wings
+London Town
+76
+Wendy Waldman
+Long Hot Summer Nights
+77
+Diana Ross & Michael Jackson
+Ease On Down The Road
+78
+Meco
+Themes From The Wizard Of Oz
+79
+Seals & Crofts
+Takin' It Easy
+80
+Ambrosia
+How Much I Feel
+81
+Rupert Holmes
+Let's Get Crazy Tonight
+82
+The Beach Boys
+Peggy Sue
+83
+John Travolta & Olivia Newton-John
+You're The One That I Want
+84
+Jefferson Starship
+Crazy Feelin'
+85
+Donna Summer
+MacArthur Park
+86
+Louisiana's LeRoux
+New Orleans Ladies
+87
+Gino Vannelli
+I Just Wanna Stop
+88
+The Dirt Band
+In For The Night
+89
+Player
+Prisoner Of Your Love
+90
+Shaun Cassidy
+Our Night
+91
+Clout
+Substitute
+92
+Cheap Trick
+Surrender
+93
+Chilliwack
+Arms Of Mary
+94
+Mick Jackson
+Blame It On The Boogie
+95
+Electric Light Orchestra
+Mr. Blue Sky
+96
+Jefferson Starship
+Runaway
+97
+Peter Brown With Betty Wright
+Dance With Me
+98
+Linda Clifford
+Runaway Love
+99
+Kristy And Jimmy McNichol
+He's So Fine
+100
+Bob Seger & The Silver Bullet Band
+Still The Same

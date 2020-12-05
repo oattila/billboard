@@ -1,0 +1,300 @@
+1
+Donna Summer
+MacArthur Park
+2
+Foreigner
+Double Vision
+3
+Ambrosia
+How Much I Feel
+4
+Anne Murray
+You Needed Me
+5
+Barbra Streisand & Neil Diamond
+You Don't Bring Me Flowers
+6
+Nick Gilder
+Hot Child In The City
+7
+Exile
+Kiss You All Over
+8
+Gino Vannelli
+I Just Wanna Stop
+9
+Kenny Loggins
+Whenever I Call You "Friend"
+10
+Captain & Tennille
+You Never Done It Like That
+11
+Barry Manilow
+Ready To Take A Chance Again
+12
+Alicia Bridges
+I Love The Nightlife (Disco 'round)
+13
+Dr. Hook
+Sharing The Night Together
+14
+Andy Gibb
+(Our Love) Don't Throw It All Away
+15
+Al Stewart
+Time Passages
+16
+Firefall
+Strange Way
+17
+Chicago
+Alive Again
+18
+The Rolling Stones
+Beast Of Burden
+19
+Billy Joel
+My Life
+20
+Sylvester
+Dance (Disco Heat)
+21
+Styx
+Blue Collar Man (Long Nights)
+22
+Village People
+Y.M.C.A.
+23
+Heart
+Straight On
+24
+Paul Davis
+Sweet Life
+25
+Foxy
+Get Off
+26
+Pablo Cruise
+Don't Want To Live Without It
+27
+Eric Carmen
+Change Of Heart
+28
+Funkadelic
+One Nation Under A Groove - Part I
+29
+Dan Fogelberg/Tim Weisberg
+The Power Of Gold
+30
+Alice Cooper
+How You Gonna See Me Now
+31
+Linda Ronstadt
+Ooh Baby Baby
+32
+Stephen Bishop
+Everybody Needs Love
+33
+Toto
+Hold The Line
+34
+Elton John
+Part-Time Love
+35
+Bee Gees
+Too Much Heaven
+36
+Chaka Khan
+I'm Every Woman
+37
+Chic
+Le Freak
+38
+Paul Anka
+This Is Love
+39
+Donny & Marie Osmond
+On The Shelf
+40
+Gene Cotton
+Like A Sunday In Salem (The Amos & Andy Song)
+41
+Lindisfarne
+Run For Home
+42
+Eric Clapton And His Band
+Promises
+43
+Switch
+There'll Never Be
+44
+10cc
+Dreadlock Holiday
+45
+Bob Seger & The Silver Bullet Band
+We've Got Tonight
+46
+Ace Frehley
+New York Groove
+47
+Dan Hartman
+Instant Replay
+48
+Joe Cocker
+Fun Time
+49
+Glen Campbell
+Can You Fool
+50
+Justin Hayward
+Forever Autumn
+51
+The Cars
+My Best Friend's Girl
+52
+The Who
+Who Are You
+53
+Little River Band
+Reminiscing
+54
+Nick Gilder
+Here Comes The Night
+55
+Walter Egan
+Hot Summer Nights
+56
+Queen
+Bicycle Race/Fat Bottomed Girls
+57
+John Paul Young
+Love Is In The Air
+58
+Livingston Taylor
+I Will Be In Love With You
+59
+Hot Chocolate
+Every 1's A Winner
+60
+A Taste Of Honey
+Boogie Oogie Oogie
+61
+Daryl Hall John Oates
+It's A Laugh
+62
+The Jacksons
+Blame It On The Boogie
+63
+Crystal Gayle
+Talking In Your Sleep
+64
+Commodores
+Flying High
+65
+Rick James
+Mary Jane
+66
+Paul Stanley
+Hold Me, Touch Me
+67
+Kenny Rogers
+The Gambler
+68
+Musique
+In The Bush
+69
+Van Morrison
+Wavelength
+70
+The Pointer Sisters
+Fire
+71
+Talking Heads
+Take Me To The River
+72
+Leif Garrett
+I Was Made For Dancin'
+73
+Chanson
+Don't Hold Back
+74
+Rita Coolidge
+Love Me Again
+75
+Electric Light Orchestra
+It's Over
+76
+Cooper Brothers
+The Dream Never Dies
+77
+Chris Rea
+Whatever Happened To Benny Santini?
+78
+The Moody Blues
+Driftwood
+79
+Earth, Wind & Fire
+September
+80
+Clout
+Substitute
+81
+Santana
+Well All Right
+82
+James Walsh Gypsy Band
+Cuz It's You, Girl
+83
+Meat Loaf
+You Took The Words Right Out Of My Mouth
+84
+Boston
+A Man I'll Never Be
+85
+Peter Tosh with Mick Jagger
+(You Got To Walk And) Don't Look Back
+86
+Karen Young
+Hot Shot
+87
+Melissa Manchester
+Don't Cry Out Loud
+88
+Goody Goody
+#1 Dee Jay
+89
+The J. Geils Band
+One Last Kiss
+90
+Ian Matthews
+Shake It
+91
+Loleatta Holloway And Bunny Sigler
+Only You
+92
+El Coco
+Dancing In Paradise
+93
+Barry White
+Your Sweetness Is My Weakness
+94
+Prince
+Soft And Wet
+95
+Player
+Prisoner Of Your Love
+96
+Billy Joel
+She's Always A Woman
+97
+John Travolta & Olivia Newton-John & Cast
+Summer Nights
+98
+John Travolta
+Greased Lightnin'
+99
+Bonnie Pointer
+Free Me From My Freedom/Tie Me To A Tree (Handcuff Me)
+100
+Gerry Rafferty
+Right Down The Line

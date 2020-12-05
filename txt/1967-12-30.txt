@@ -1,0 +1,300 @@
+1
+The Beatles
+Hello Goodbye
+2
+Gladys Knight And The Pips
+I Heard It Through The Grapevine
+3
+The Monkees
+Daydream Believer
+4
+Smokey Robinson & The Miracles
+I Second That Emotion
+5
+The Union Gap Featuring Gary Puckett
+Woman, Woman
+6
+John Fred And The Playboys
+Judy In Disguise (With Glasses)
+7
+Aretha Franklin
+Chain Of Fools
+8
+The American Breed
+Bend Me, Shape Me
+9
+The Fantastic Johnny C
+Boogaloo Down Broadway
+10
+Joe Tex
+Skinny Legs And All
+11
+Martha Reeves & The Vandellas
+Honey Chile
+12
+Cher
+You Better Sit Down Kids
+13
+Strawberry Alarm Clock
+Incense And Peppermints
+14
+The Cowsills
+The Rain, The Park & Other Things
+15
+Johnny Rivers
+Summer Rain
+16
+Dionne Warwick
+I Say A Little Prayer
+17
+The Rose Garden
+Next Plane To London
+18
+Marvin Gaye & Tammi Terrell
+If I Could Build My Whole World Around You
+19
+Stone Poneys Featuring Linda Ronstadt
+Different Drum
+20
+The Turtles
+She's My Girl
+21
+Diana Ross & The Supremes
+In And Out Of Love
+22
+The Esquires
+And Get Away
+23
+Donovan
+Wear Your Love Like Heaven
+24
+The Box Tops
+Neon Rainbow
+25
+The Lemon Pipers
+Green Tambourine
+26
+The Young Rascals
+It's Wonderful
+27
+Bee Gees
+(The Lights Went Out In) Massachusetts
+28
+Jay And The Techniques
+Keep The Ball Rollin'
+29
+The Buckinghams
+Susan
+30
+Jr. Walker & The All Stars
+Come See About Me
+31
+Petula Clark
+The Other Man's Grass Is Always Greener
+32
+Eric Burdon & The Animals
+Monterey
+33
+Glen Campbell
+By The Time I Get To Phoenix
+34
+Brenton Wood
+Baby You Got It
+35
+Peter, Paul & Mary
+Too Much Of Nothing
+36
+Ed Ames
+Who Will Answer?
+37
+James Brown And The Famous Flames
+I Can't Stand Myself (When You Touch Me)
+38
+The Doors
+Love Me Two Times
+39
+Lulu
+To Sir With Love
+40
+Etta James
+Tell Mama
+41
+Jackie Wilson
+Since You Showed Me How To Be Happy
+42
+The Sandpebbles
+Love Power
+43
+Percy Sledge
+Cover Me
+44
+Wes Montgomery
+Windy
+45
+Wilson Pickett
+I'm In Love
+46
+Dean Martin
+In The Misty Moonlight
+47
+Lulu
+Best Of Both Worlds
+48
+The Lettermen
+Goin' Out Of My Head/Can't Take My Eyes Off You
+49
+Dusty Springfield
+What's It Gonna Be
+50
+The Hollies
+Dear Eloise
+51
+The Marvelettes
+My Baby Must Be A Magician
+52
+The Mamas & The Papas
+Dancing Bear
+53
+Small Faces
+Itchycoo Park
+54
+Engelbert Humperdinck
+Am I That Easy To Forget
+55
+Kenny O'Dell
+Beautiful People
+56
+Peaches & Herb
+Two Little Kids
+57
+Bobby Vee And The Strangers
+Beautiful People
+58
+Billy Vera & Judy Clay
+Storybook Children
+59
+Sonny & Cher
+Good Combination
+60
+The Dave Clark Five
+Everybody Knows
+61
+Jefferson Airplane
+Watch Her Ride
+62
+The Human Beinz
+Nobody But Me
+63
+The Beach Boys
+Darlin'
+64
+Soul Survivors
+Explosion (In Your Soul)
+65
+The Dells
+O-O, I Love You
+66
+The Foundations
+Baby, Now That I've Found You
+67
+The O'Jays
+I'll Be Sweeter Tomorrow (Than I Was Today)
+68
+Henson Cargill
+Skip A Rope
+69
+Vikki Carr
+The Lesson
+70
+Classics IV
+Spooky
+71
+Bill Cosby
+Hooray For The Salvation Army Band
+72
+Tommy Boyce & Bobby Hart
+I Wonder What She's Doing Tonite
+73
+Al Greene & The Soul Mate's
+Back Up Train
+74
+Hugh Masekela
+Up-Up And Away
+75
+The Beatles
+I Am The Walrus
+76
+Harpers Bizarre
+Chattanooga Choo Choo
+77
+The Rolling Stones
+She's A Rainbow
+78
+Frankie Valli
+To Give (The Reason I Live)
+79
+Jimi Hendrix
+Foxey Lady
+80
+Strawberry Alarm Clock
+Tomorrow
+81
+Tom Jones
+I'm Coming Home
+82
+Carla Thomas
+Pick Up The Pieces
+83
+Bobby Vinton
+Just As Much As Ever
+84
+Jerry Butler
+Lost
+85
+Al Martino
+A Voice In The Choir
+86
+King Curtis & The Kingpins
+I Was Made To Love Her
+87
+Ronnie Dove
+Dancin' Out Of My Heart
+88
+Bill Wyman
+In Another Land
+89
+5 Stairsteps and Cubie
+Something's Missing
+90
+Bruce Channel
+Mr. Bus Driver
+91
+Billy Stewart
+Cross My Heart
+92
+The Music Makers
+United (Part 1)
+93
+Leon Haywood
+Mellow Moonlight
+94
+Aretha Franklin
+Mockingbird
+95
+Barbara Mason
+Oh, How It Hurts
+96
+The Epic Splendor
+A Little Rain Must Fall
+97
+The Manhattans
+I Call It Love
+98
+Laura Lee
+Up Tight, Good Man
+99
+The Impressions
+We're A Winner
+100
+The Fireballs
+Bottle Of Wine

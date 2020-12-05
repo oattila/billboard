@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Man In The Mirror
+2
+Richard Marx
+Endless Summer Nights
+3
+Billy Ocean
+Get Outta My Dreams, Get Into My Car
+4
+Debbie Gibson
+Out Of The Blue
+5
+Keith Sweat
+I Want Her
+6
+The Jets
+Rocket 2 U
+7
+INXS
+Devil Inside
+8
+Rick Astley
+Never Gonna Give You Up
+9
+Pebbles
+Girlfriend
+10
+Whitney Houston
+Where Do Broken Hearts Go
+11
+Michael Bolton
+(Sittin' On) The Dock Of The Bay
+12
+Terence Trent D'Arby
+Wishing Well
+13
+Def Leppard
+Hysteria
+14
+Jody Watley
+Some Kind Of Lover
+15
+Belinda Carlisle
+I Get Weak
+16
+Aerosmith
+Angel
+17
+Tiffany
+I Saw Him Standing There
+18
+John Mellencamp
+Check It Out
+19
+George Michael
+Father Figure
+20
+Taylor Dayne
+Prove Your Love
+21
+Patrick Swayze (Featuring Wendy Fraser)
+She's Like The Wind
+22
+Rick Springfield
+Rock Of Life
+23
+Natalie Cole
+Pink Cadillac
+24
+David Lee Roth
+Just Like Paradise
+25
+Bruce Springsteen
+One Step Up
+26
+Icehouse
+Electric Blue
+27
+Scarlett & Black
+You Don't Know
+28
+Alexander O'Neal Featuring Cherrelle
+Never Knew Love Like This
+29
+Gloria Estefan & Miami Sound Machine
+Anything For You
+30
+Morris Day
+Fishnet
+31
+LL Cool J
+Going Back To Cali (From "Less Than Zero")
+32
+Louis Armstrong
+What A Wonderful World
+33
+George Harrison
+When We Was Fab
+34
+Toto
+Pamela
+35
+Henry Lee Summer
+I Wish I Had A Girl
+36
+Samantha Fox
+Naughty Girls (Need Love Too)
+37
+Cher
+I Found Someone
+38
+The Deele
+Two Occasions
+39
+Johnny Hates Jazz
+Shattered Dreams
+40
+Brenda Russell Featuring Joe Esposito
+Piano In The Dark
+41
+White Lion
+Wait
+42
+Foreigner
+I Don't Want To Live Without You
+43
+So
+Are You Sure
+44
+Pet Shop Boys
+Always On My Mind
+45
+Bryan Ferry
+Kiss And Tell (From "Bright Lights, Big City")
+46
+Gloria Estefan & Miami Sound Machine
+Can't Stay Away From You
+47
+M/A/R/R/S
+Pump Up The Volume
+48
+Sting
+Be Still My Beating Heart
+49
+Orchestral Manoeuvres In The Dark
+Dreaming
+50
+Jermaine Stewart
+Say It Again
+51
+Eric Carmen
+Hungry Eyes (From "Dirty Dancing")
+52
+Salt-N-Pepa
+Push It
+53
+Times Two
+Strange But True
+54
+Eria Fachin
+Savin' Myself
+55
+Gladys Knight And The Pips
+Love Overboard
+56
+Paul Carrack
+One Good Reason
+57
+Whitesnake
+Give Me All Your Love
+58
+Heart
+I Want You So Bad
+59
+Suave
+My Girl
+60
+Dan Reed Network
+Ritual
+61
+Merry Clayton
+Yes (From The Motion Picture "Dirty Dancing")
+62
+The Cover Girls
+Because Of You
+63
+Pet Shop Boys & Dusty Springfield
+What Have I Done To Deserve This?
+64
+Bananarama
+Love In The First Degree
+65
+Steve Winwood
+Talking Back To The Night
+66
+Paul Carrack
+Don't Shed A Tear
+67
+Foreigner
+Say You Will
+68
+The Cure
+Hot Hot Hot!!!
+69
+Tiffany
+Could've Been
+70
+Stacey Q
+Don't Make A Fool Of Yourself
+71
+Blue Mercedes
+I Want To Be Your Property
+72
+INXS
+Need You Tonight
+73
+Cellarful Of Noise
+Samantha (What You Gonna Do?)
+74
+Expose
+Seasons Change
+75
+Roxanne
+Play That Funky Music
+76
+Dan Hill
+Never Thought (That I Could Love)
+77
+The Cover Girls
+Promise Me
+78
+Big Pig
+Breakaway
+79
+Pretty Poison
+Nightime
+80
+Brenda K. Starr
+I Still Believe
+81
+Great White
+Save Your Love
+82
+Bardeux
+Magic Carpet Ride
+83
+Natalie Cole
+I Live For Your Love
+84
+Tommy Shaw
+Ever Since The World Began
+85
+The Alarm
+Presence Of Love
+86
+Midnight Oil
+Beds Are Burning
+87
+Teena Marie
+Ooo La La La
+88
+James Taylor
+Never Die Young
+89
+Tami Show
+She's Only 20
+90
+Lita Ford
+Kiss Me Deadly
+91
+Lonzo And World Class Wreckin Kru
+Turn Off The Lights
+92
+Donald Fagen
+Century's End (From "Bright Lights, Big City")
+93
+Kingdom Come
+Get It On
+94
+3 Man Island
+Jack The Lad
+95
+Fleetwood Mac
+Family Man
+96
+Robert Palmer
+Sweet Lies
+97
+Prince
+Hot Thing
+98
+Earth, Wind & Fire
+Thinking Of You
+99
+Roger
+I Want To Be Your Man
+100
+The Bangles
+Hazy Shade Of Winter

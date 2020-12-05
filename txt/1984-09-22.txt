@@ -1,0 +1,300 @@
+1
+John Waite
+Missing You
+2
+Prince And The Revolution
+Let's Go Crazy
+3
+Cyndi Lauper
+She Bop
+4
+Tina Turner
+What's Love Got To Do With It
+5
+The Cars
+Drive
+6
+Huey Lewis & The News
+If This Is It
+7
+Scandal Featuring Patty Smyth
+The Warrior
+8
+Sheila E.
+The Glamorous Life
+9
+Stevie Wonder
+I Just Called To Say I Love You
+10
+Bananarama
+Cruel Summer
+11
+Bruce Springsteen
+Cover Me
+12
+Lionel Richie
+Stuck On You
+13
+Ray Parker Jr.
+Ghostbusters
+14
+Chicago
+Hard Habit To Break
+15
+Jermaine Jackson
+Dynamite
+16
+Madonna
+Lucky Star
+17
+Night Ranger
+When You Close Your Eyes
+18
+Peter Wolf
+Lights Out
+19
+The Jacksons
+Torture
+20
+Corey Hart
+Sunglasses At Night
+21
+Twisted Sister
+We're Not Gonna Take It
+22
+Billy Ocean
+Caribbean Queen (No More Love On The Run)
+23
+Prince
+When Doves Cry
+24
+Billy Squier
+Rock Me Tonite
+25
+Laura Branigan
+The Lucky One
+26
+Donna Summer
+There Goes My Baby
+27
+Lindsey Buckingham
+Go Insane
+28
+The Fixx
+Are We Ourselves?
+29
+The Pointer Sisters
+I'm So Excited
+30
+Peabo Bryson
+If Ever You're In My Arms Again
+31
+Rod Stewart
+Some Guys Have All The Luck
+32
+John Cafferty & The Beaver Brown Band
+On The Dark Side
+33
+Rick Springfield
+Bop 'til You Drop
+34
+Spandau Ballet
+Only When You Leave
+35
+Diana Ross
+Swept Away
+36
+Elton John
+Who Wears These Shoes?
+37
+Billy Idol
+Flesh For Fantasy
+38
+Julio Iglesias & Diana Ross
+All Of You
+39
+Dennis DeYoung
+Desert Moon
+40
+Sheena Easton
+Strut
+41
+Naked Eyes
+(what) In The Name Of Love
+42
+Barry Gibb
+Shine Shine
+43
+Ratt
+Round And Round
+44
+David Bowie
+Blue Jean
+45
+Thompson Twins
+You Take Me Up
+46
+Joyce Kennedy & Jeffrey Osborne
+The Last Time I Made Love
+47
+Dan Hartman
+I Can Dream About You
+48
+Wham!
+Wake Me Up Before You Go-Go
+49
+Chaka Khan
+I Feel For You
+50
+Kenny Rogers With Kim Carnes & James Ingram
+What About Me?
+51
+Billy Joel
+Leave A Tender Moment Alone
+52
+Tina Turner
+Better Be Good To Me
+53
+Romeo Void
+A Girl In Trouble (Is A Temporary Thing)
+54
+Bruce Springsteen
+Dancing In The Dark
+55
+Elton John
+Sad Songs (say So Much)
+56
+Eurythmics
+Right By Your Side
+57
+Steve Perry
+Strung Out
+58
+The Everly Brothers
+On The Wings Of A Nightingale
+59
+Glenn Frey
+Sexy Girl
+60
+The Jacksons
+State of Shock
+61
+Maria Vidal
+Body Rock
+62
+Rick James
+17
+63
+Van Stephenson
+What The Big Girls Do
+64
+Survivor
+I Can't Hold Back
+65
+Ralph MacDonald With Bill Withers
+In The Name Of Love
+66
+A Flock Of Seagulls
+The More You Live, The More You Love
+67
+The S.O.S. Band
+Just The Way You Like It
+68
+Barbra Streisand
+Left In The Dark
+69
+Jefferson Starship
+Layin' It On The Line
+70
+Honeymoon Suite
+New Girl Now
+71
+Sam Harris
+Sugar Don't Bite
+72
+Stephen Stills
+Stranger
+73
+Sammy Hagar
+Two Sides Of Love
+74
+Coyote Sisters
+Straight From The Heart (Into Your Life)
+75
+Chris de Burgh
+High On Emotion
+76
+Vanity
+Pretty Mess
+77
+Van Halen
+Panama
+78
+Matthew Wilder
+Bouncing Off The Wall
+79
+Sergio Mendes
+Alibis
+80
+Neil Diamond
+Turn Around
+81
+The Pointer Sisters
+Jump (for My Love)
+82
+Krokus
+Midnite Maniac
+83
+Teddy Pendergrass And Whitney Houston
+Hold Me
+84
+New Edition
+Cool It Now
+85
+Mtume
+You, Me And He
+86
+Go-Go's
+Yes Or No
+87
+Rod Stewart
+Infatuation
+88
+Wang Chung
+Don't Be My Enemy
+89
+Rubber Rodeo
+Anywhere With You
+90
+Herb Alpert's Tijuana Brass
+Bullish
+91
+Ollie And Jerry
+Breakin'...there's No Stopping Us
+92
+Laura Branigan
+Self Control
+93
+ZZ Top
+Legs
+94
+Madonna
+Borderline
+95
+Billy Idol
+Eyes Without A Face
+96
+Quiet Riot
+Mama, Weer All Crazee Now
+97
+Steve Perry
+She's Mine
+98
+Billy Satellite
+Satisfy Me
+99
+Elvis Costello & The Atrractions
+The Only Flame In Town
+100
+Mike Reno And Ann Wilson
+Almost Paradise...Love Theme From Footloose

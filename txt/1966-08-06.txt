@@ -1,0 +1,300 @@
+1
+The Troggs
+Wild Thing
+2
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+3
+The Lovin' Spoonful
+Summer In The City
+4
+Crispian St. Peters
+The Pied Piper
+5
+Napoleon XIV
+They're Coming To Take Me Away, Ha-Haaa!
+6
+The Mamas & The Papas
+I Saw Her Again
+7
+Tommy James And The Shondells
+Hanky Panky
+8
+Tommy Roe
+Sweet Pea
+9
+The Rolling Stones
+Mothers Little Helper
+10
+Ray Conniff And The Singers
+Somewhere, My Love
+11
+Bobby Hebb
+Sunny
+12
+Paul Revere & The Raiders Featuring Mark Lindsay
+Hungry
+13
+Herman's Hermits
+This Door Swings Both Ways
+14
+The Yardbirds
+Over Under Sideways Down
+15
+The Happenings
+See You In September
+16
+Petula Clark
+I Couldn't Live Without Your Love
+17
+Tommy McLain
+Sweet Dreams
+18
+The Beatles
+Paperback Writer
+19
+Herb Alpert & The Tijuana Brass
+The Work Song
+20
+Bob Dylan
+I Want You
+21
+Elvis Presley
+Love Letters
+22
+Dionne Warwick
+Trains And Boats And Planes
+23
+The Cyrkle
+Red Rubber Ball
+24
+Stevie Wonder
+Blowin In The Wind
+25
+The Temptations
+Ain't Too Proud To Beg
+26
+Dusty Springfield
+You Don't Have To Say You Love Me
+27
+Frank Sinatra
+Strangers In The Night
+28
+Bobby Moore & The Rhythm Aces
+Searching For My Love
+29
+Manfred Mann
+Pretty Flamingo
+30
+The Grass Roots
+Where Were You When I Needed You
+31
+The Standells
+Dirty Water
+32
+The Association
+Along Comes Mary
+33
+Billy Stewart
+Summertime
+34
+B.J. Thomas And The Triumphs
+Billy And Sue
+35
+Percy Sledge
+Warm And Tender Love
+36
+Nancy Sinatra
+Friday's Child
+37
+Brian Hyland
+The Joker Went Wild
+38
+Sandy Posey
+Born A Woman
+39
+The Rolling Stones
+Lady Jane
+40
+Jack Jones
+The Impossible Dream (The Quest)
+41
+Chad & Jeremy
+Distant Shores
+42
+Verdelle Smith
+Tar And Cement
+43
+Wilson Pickett
+Land Of 1000 Dances
+44
+The Byrds
+5 D (Fifth Dimension)
+45
+Lee Dorsey
+Working In The Coal Mine
+46
+Barbara Lewis
+Make Me Belong To You
+47
+"Groove" Holmes
+Misty
+48
+Eddy Arnold
+The Tip Of My Fingers
+49
+Syndicate Of Sound
+Little Girl
+50
+Mel Carter
+You You You
+51
+The Sandpipers
+Guantanamera
+52
+Cher
+Alfie
+53
+David Houston
+Almost Persuaded
+54
+Ronnie Dove
+Happy Summer Days
+55
+Ramsey Lewis
+Wade In The Water
+56
+Dean Martin
+A Million And One
+57
+Gary Lewis And The Playboys
+My Heart's Symphony
+58
+The Hollies
+Bus Stop
+59
+The McCoys
+(You Make Me Feel) So Good
+60
+The Ides Of March
+You Wouldn't Listen
+61
+Donovan
+Sunshine Superman
+62
+The Beach Boys
+Wouldn't It Be Nice
+63
+Bobby Vee And The Strangers
+Look At Me Girl
+64
+James Brown And The Famous Flames
+Money Won't Change You (Part 1)
+65
+The Isley Brothers
+I Guess I'll Always Love You
+66
+Darrell Banks
+Open The Door To Your Heart
+67
+The Bachelors
+Can I Trust You?
+68
+Joe Tex
+I Believe I'm Gonna Make It
+69
+The Miracles
+Whole Lot Of Shakin' In My Heart (Since I Met You)
+70
+The Outsiders
+Respectable
+71
+Tommy James And The Shondells
+Say I Am (What I Am)
+72
+The Righteous Brothers
+Go Ahead And Cry
+73
+Mike Williams
+Lonely Soldier
+74
+The Cryan' Shames
+Sugar And Spice
+75
+The Troggs
+With A Girl Like You
+76
+The Surfaris
+Wipe Out
+77
+Roy Orbison
+Too Soon To Know
+78
+B.J. Thomas
+Bring Back The Time
+79
+Love
+7 And 7 Is
+80
+The Shades Of Blue
+Lonely Summer
+81
+Vic Dana
+A Million And One
+82
+The Intruders
+(We'll Be) United
+83
+Jay & The Americans
+Livin' Above Your Head
+84
+Nancy Wilson
+Uptight (Everything's Alright)
+85
+Bobby Vinton
+Petticoat White (Summer Sky Blue)
+86
+The Chiffons
+Out Of This World
+87
+The Razor's Edge
+Let's Call It A Day Girl
+88
+Alan Price Set
+I Put A Spell On You
+89
+Tony Bennett
+Georgia Rose
+90
+The Kinks
+Sunny Afternoon
+91
+Nat King Cole
+Let Me Tell You, Babe
+92
+Simon & Garfunkel
+The Dangling Conversation
+93
+The Five Stairsteps
+World Of Fantasy
+94
+Alvin Cash & The Registers
+The Philly Freeze
+95
+Jr. Walker & The All Stars
+How Sweet It Is (To Be Loved By You)
+96
+Mable John
+Your Good Thing (Is About To End)
+97
+Al Martino
+Just Yesterday
+98
+Peter And Gordon
+To Show I Love You
+99
+The Sidekicks
+Suspicions
+100
+Rosco Robinson
+That's Enough

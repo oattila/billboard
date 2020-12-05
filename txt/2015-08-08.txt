@@ -1,0 +1,300 @@
+1
+OMI
+Cheerleader
+2
+The Weeknd
+Can't Feel My Face
+3
+Silento
+Watch Me
+4
+Taylor Swift Featuring Kendrick Lamar
+Bad Blood
+5
+Wiz Khalifa Featuring Charlie Puth
+See You Again
+6
+Fetty Wap
+Trap Queen
+7
+Fetty Wap Featuring Monty
+My Way
+8
+Rachel Platten
+Fight Song
+9
+WALK THE MOON
+Shut Up And Dance
+10
+Major Lazer & DJ Snake Featuring MO
+Lean On
+11
+The Weeknd
+The Hills
+12
+Fifth Harmony Featuring Kid Ink
+Worth It
+13
+Skrillex & Diplo With Justin Bieber
+Where Are U Now
+14
+Andy Grammer
+Honey, I'm Good.
+15
+David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack
+Hey Mama
+16
+Selena Gomez Featuring A$AP Rocky
+Good For You
+17
+Mark Ronson Featuring Bruno Mars
+Uptown Funk!
+18
+Fetty Wap Featuring Remy Boyz
+679
+19
+Jason Derulo
+Want To Want Me
+20
+Ed Sheeran
+Photograph
+21
+Omarion Featuring Chris Brown & Jhene Aiko
+Post To Be
+22
+5 Seconds Of Summer
+She's Kinda Hot
+23
+Maroon 5
+Sugar
+24
+Demi Lovato
+Cool For The Summer
+25
+Jidenna Featuring Roman GianArthur
+Classic Man
+26
+The Weeknd
+Earned It (Fifty Shades Of Grey)
+27
+Ed Sheeran
+Thinking Out Loud
+28
+Rihanna
+B**** Better Have My Money
+29
+Rich Homie Quan
+Flex (Ooh Ooh Ooh)
+30
+Meek Mill Featuring Chris Brown & Nicki Minaj
+All Eyes On You
+31
+Fall Out Boy
+Uma Thurman
+32
+Luke Bryan
+Kick The Dust Up
+33
+Ellie Goulding
+Love Me Like You Do
+34
+Tove Lo
+Talking Body
+35
+DJ Snake & AlunaGeorge
+You Know You Like It
+36
+Little Big Town
+Girl Crush
+37
+T-Wayne
+Nasty Freestyle
+38
+Sam Hunt
+Take Your Time
+39
+Sam Hunt
+House Party
+40
+Trey Songz
+Slow Motion
+41
+Sia
+Elastic Heart
+42
+Pitbull Featuring Chris Brown
+Fun
+43
+Kid Ink Featuring DeJ Loaf
+Be Real
+44
+Brantley Gilbert
+One Hell Of An Amen
+45
+Thomas Rhett
+Crash And Burn
+46
+Meek Mill Featuring Drake
+R.I.C.O.
+47
+Taylor Swift
+Shake It Off
+48
+Charlie Puth Featuring Meghan Trainor
+Marvin Gaye
+49
+Jason Aldean
+Tonight Looks Good On You
+50
+X Ambassadors
+Renegades
+51
+Zac Brown Band
+Loving You Easy
+52
+Eric Church
+Like A Wrecking Ball
+53
+Chris Janson
+Buy Me A Boat
+54
+Shawn Mendes
+Stitches
+55
+Jeremih Featuring J. Cole
+Planez
+56
+Flo Rida Featuring Robin Thicke & Verdine White
+I Don't Like It, I Love It
+57
+Keith Urban
+John Cougar, John Deere, John 3:16
+58
+Blake Shelton
+Sangria
+59
+Michael Ray
+Kiss You In The Morning
+60
+Calvin Harris & Disciples
+How Deep Is Your Love
+61
+Rae Sremmurd
+This Could Be Us
+62
+Canaan Smith
+Love You Like That
+63
+Nicki Minaj
+The Night Is Still Young
+64
+Maroon 5
+This Summer's Gonna Hurt...
+65
+Frankie Ballard
+Young & Crazy
+66
+Dustin Lynch
+Hell Of A Night
+67
+Brad Paisley
+Crushin' It
+68
+Future Featuring Drake
+Where Ya At
+69
+Brett Eldredge
+Lose My Mind
+70
+Nicky Jam & Enrique Iglesias
+El Perdon (Forgiveness)
+71
+Adam Lambert
+Ghost Town
+72
+J. Cole
+Wet Dreamz
+73
+Future
+Commas
+74
+Jake Owen
+Real Life
+75
+Sage The Gemini Featuring Nick Jonas
+Good Thing
+76
+Kelsea Ballerini
+Love Me Like You Mean It
+77
+Meghan Trainor Featuring John Legend
+Like I'm Gonna Lose You
+78
+Pia Mia Featuring Chris Brown & Tyga
+Do It Again
+79
+DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean
+How Many Times
+80
+Echosmith
+Bright
+81
+Luke Bryan
+Strip It Down
+82
+Wale Featuring Usher
+The Matrimony
+83
+Tori Kelly
+Should've Been Us
+84
+Zedd Featuring Jon Bellion
+Beautiful Now
+85
+R. City Featuring Adam Levine
+Locked Away
+86
+Elle King
+Ex's & Oh's
+87
+Janelle Monae & Jidenna
+Yoga
+88
+Cam
+Burning House
+89
+Maddie & Tae
+Fly
+90
+Kendrick Lamar
+Alright
+91
+Chris Young
+I'm Comin' Over
+92
+Easton Corbin
+Baby Be My Love Song
+93
+Old Dominion
+Break Up With Him
+94
+Florida Georgia Line
+Sippin' On Fire
+95
+Future
+Blow A Bag
+96
+twenty one pilots
+Tear In My Heart
+97
+Big Sean Featuring Kanye West & John Legend
+One Man Can Change The World
+98
+Florida Georgia Line
+Anything Goes
+99
+Kenny Chesney
+Save It For A Rainy Day
+100
+Ciara
+Dance Like We're Making Love

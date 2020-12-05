@@ -1,0 +1,300 @@
+1
+Sonny & Cher
+I Got You Babe
+2
+The Beatles
+Help!
+3
+The Beach Boys
+California Girls
+4
+The Righteous Brothers
+Unchained Melody
+5
+Four Tops
+It's The Same Old Song
+6
+Bob Dylan
+Like A Rolling Stone
+7
+Gary Lewis And The Playboys
+Save Your Heart For Me
+8
+Mel Carter
+Hold Me, Thrill Me, Kiss Me
+9
+Billy Joe Royal
+Down In The Boondocks
+10
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+11
+Barbara Lewis
+Baby, I'm Yours
+12
+We Five
+You Were On My Mind
+13
+The Supremes
+Nothing But Heartaches
+14
+Patty Duke
+Don't Just Stand There
+15
+Cher
+All I Really Want To Do
+16
+The Rolling Stones
+(I Can't Get No) Satisfaction
+17
+The Temptations
+Since I Lost My Baby
+18
+Tom Jones
+What's New Pussycat?
+19
+The Miracles
+The Tracks Of My Tears
+20
+Herman's Hermits
+I'm Henry VIII, I Am
+21
+The Turtles
+It Ain't Me Babe
+22
+Ramsey Lewis Trio
+The "In" Crowd
+23
+Dino, Desi & Billy
+I'm A Fool
+24
+Wilson Pickett
+In The Midnight Hour
+25
+The Yardbirds
+Heart Full Of Soul
+26
+Sam The Sham and the Pharaohs
+Ju Ju Hand
+27
+Barry McGuire
+Eve Of Destruction
+28
+Gene Pitney
+Looking Through The Eyes Of Love
+29
+Dean Martin
+Houston
+30
+Little Anthony And The Imperials
+Take Me Back
+31
+Freddy Cannon
+Action
+32
+Jr. Walker & The All Stars
+Shake And Fingerpop
+33
+Lesley Gore
+Sunshine, Lollipops And Rainbows
+34
+Petula Clark
+You'd Better Come Home
+35
+Chad & Jeremy
+I Don't Wanna Lose You Baby
+36
+The Strangeloves
+I Want Candy
+37
+Sam Cooke
+Sugar Dumpling
+38
+The Beau Brummels
+You Tell Me Why
+39
+The Dave Clark Five
+I Like It Like That
+40
+Jay & The Americans
+Cara, Mia
+41
+Edwin Starr
+Agent Double-O-Soul
+42
+The Dave Clark Five
+Catch Us If You Can
+43
+The Animals
+We Gotta Get Out Of This Place
+44
+Barbara Mason
+Sad, Sad Girl
+45
+The Kinks
+Who'll Be The Next In Line
+46
+Marianne Faithfull
+Summer Nights
+47
+The Byrds
+All I Really Want To Do
+48
+Freddie And The Dreamers
+A Little You
+49
+The McCoys
+Hang On Sloopy
+50
+Martha & The Vandellas
+You've Been In Love Too Long
+51
+The Spinners
+I'll Always Love You
+52
+Sonny
+Laugh At Me
+53
+The Royalettes
+It's Gonna Take A Miracle
+54
+Chuck Jackson
+If I Didn't Love You
+55
+The Jive Five
+I'm A Happy Man
+56
+The Drifters
+I'll Take You Where The Music's Playing
+57
+Lee Dorsey
+Ride Your Pony
+58
+Little Caesar And The Consuls
+(My Girl) Sloopy
+59
+Bert Kaempfert And His Orchestra
+Moon Over Naples
+60
+Sonny & Cher
+Baby Don't Go
+61
+Eddie Hodges
+New Orleans
+62
+The Kingsmen
+Annie Fanny
+63
+The Righteous Brothers
+Hung On You
+64
+The Astors
+Candy
+65
+The Contours
+First I Look At The Purse
+66
+Vic Dana
+Moonlight And Roses (Bring Mem'ries Of You)
+67
+The Marvelettes
+Danger Heartbreak Dead Ahead
+68
+Arthur Prysock
+It's Too Late, Baby Too Late
+69
+G.L. Crockett
+It's A Man Down There
+70
+Ronnie Dove
+I'll Make All Your Dreams Come True
+71
+Gerry And The Pacemakers
+Give All Your Love To Me
+72
+Sonny & Cher
+Just You
+73
+Roy Orbison
+Ride Away
+74
+Jackie Wilson
+No Pity (In The Naked City)
+75
+The Impressions
+I Need You
+76
+Donovan
+Colours
+77
+The Fortunes
+You've Got Your Troubles
+78
+Wayne Newton
+Summer Wind
+79
+The Lovin' Spoonful
+Do You Believe In Magic
+80
+Derek Martin
+You Better Go
+81
+Lenny Welch
+Two Different Worlds
+82
+Tom Jones
+With These Hands
+83
+Elvis Presley
+I'm Yours
+84
+Jim Reeves
+Is It Really Over?
+85
+Baby Washington
+Only Those In Love
+86
+Charlie Rich
+Mohair Sam
+87
+The Castaways
+Liar, Liar
+88
+Bobby Goldsboro
+If You Wait For Love
+89
+Jody Miller
+Home Of The Brave
+90
+Johnny Tillotson
+Heartaches By The Number
+91
+Solomon Burke
+Someone Is Watching
+92
+Joe Tex
+I Want To (Do Everything For You)
+93
+David Jones
+What Are We Going To Do?
+94
+Bonnie & The Treasures
+Home Of The Brave
+95
+Gene Chandler
+Good Times
+96
+Chuck Jackson & Maxine Brown
+Can't Let You Out Of My Sight
+97
+Major Lance
+Too Hot To Hold
+98
+Neil Sedaka
+The World Through A Tear
+99
+Stevie Wonder
+High Heel Sneakers
+100
+Bobby Bland
+These Hands (Small But Mighty)

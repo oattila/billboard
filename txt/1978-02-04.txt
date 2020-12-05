@@ -1,0 +1,300 @@
+1
+Bee Gees
+Stayin' Alive
+2
+Randy Newman
+Short People
+3
+Player
+Baby Come Back
+4
+Queen
+We Are The Champions
+5
+Andy Gibb
+(Love Is) Thicker Than Water
+6
+Billy Joel
+Just The Way You Are
+7
+Bee Gees
+How Deep Is Your Love
+8
+Dan Hill
+Sometimes When We Touch
+9
+Rod Stewart
+You're In My Heart (The Final Acclaim)
+10
+Samantha Sang
+Emotion
+11
+Chic
+Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+12
+Shaun Cassidy
+Hey Deanie
+13
+Electric Light Orchestra
+Turn To Stone
+14
+Earth, Wind & Fire
+Serpentine Fire
+15
+Paul Simon
+Slip Slidin' Away
+16
+Paul Davis
+I Go Crazy
+17
+Neil Diamond
+Desiree
+18
+Styx
+Come Sail Away
+19
+Santa Esmeralda Starring Leroy Gomez
+Don't Let Me Be Misunderstood
+20
+Steely Dan
+Peg
+21
+Lynyrd Skynyrd
+What's Your Name
+22
+John Williams
+Theme From "Close Encounters Of The Third Kind"
+23
+Foreigner
+Long, Long Way From Home
+24
+Odyssey
+Native New Yorker
+25
+Dolly Parton
+Here You Come Again
+26
+Commodores
+Too Hot Ta Trot
+27
+ConFunkShun
+Ffun
+28
+Eric Clapton
+Lay Down Sally
+29
+Meco
+Theme From Close Encounters
+30
+Bill Withers
+Lovely Day
+31
+Little River Band
+Happy Anniversary
+32
+Debby Boone
+You Light Up My Life
+33
+Jay Ferguson
+Thunder Island
+34
+Wet Willie
+Street Corner Serenade
+35
+ABBA
+The Name Of The Game
+36
+Leo Sayer
+Easy To Love
+37
+Donna Summer
+I Love You
+38
+Rita Coolidge
+The Way You Do The Things You Do
+39
+LeBlanc & Carr
+Falling
+40
+Heatwave
+Always And Forever
+41
+LTD
+(Every Time I Turn Around) Back In Love Again
+42
+Johnny Rivers
+Curious Mind (Um, Um, Um, Um, Um, Um)
+43
+War
+Galaxy
+44
+Tom Petty And The Heartbreakers
+Breakdown
+45
+Leif Garrett
+Runaround Sue
+46
+El Coco
+Cocomotion
+47
+Bob Welch
+Sentimental Lady
+48
+Raydio
+Jack And Jill
+49
+David Gates
+Goodbye Girl
+50
+Firefall
+So Long
+51
+Natalie Cole
+Our Love
+52
+Stillwater
+Mind Bender
+53
+Art Garfunkel With James Taylor & Paul Simon
+(What A)  Wonderful World
+54
+George Duke
+Reach For It
+55
+High Inergy
+You Can't Turn Me Off (In The Middle Of Turning Me On)
+56
+Linda Ronstadt
+Blue Bayou
+57
+Kansas
+Point Of Know Return
+58
+KISS
+Shout It Out Loud
+59
+Kenny Rogers
+Sweet Music Man
+60
+Lou Rawls
+Lady Love
+61
+Prism
+Take Me To The Kaptin
+62
+Heart
+Crazy On You
+63
+Barry Manilow
+Can't Smile Without You
+64
+Kansas
+Dust In The Wind
+65
+Linda Ronstadt
+Poor Poor Pitiful Me
+66
+Ramones
+Rockaway Beach
+67
+Andrea True Connection
+What's Your Name, What's Your Number
+68
+Le Pamplemousse
+Le Spank
+69
+Dave Mason
+Let It Go, Let It Flow
+70
+Al Martino
+The Next Hundred Years
+71
+Marilyn Scott
+God Only Knows
+72
+B.J. Thomas
+Everybody Loves A Rain Song
+73
+Gary Wright
+Touch And Gone
+74
+Cerrone
+Supernature
+75
+Stevie Wonder
+As
+76
+Bee Gees
+Night Fever
+77
+Bob Welch
+Ebony Eyes
+78
+Yvonne Elliman
+If I Can't Have You
+79
+Ted Nugent
+Home Bound
+80
+Van Halen
+You Really Got Me
+81
+Enchantment
+It's You That I Need
+82
+Bobby Arvon
+Until Now
+83
+Bette Midler
+Storybook Children (Daybreak)
+84
+Stargard
+Theme Song From "Which Way Is Up"
+85
+The Babys
+Silver Dreams
+86
+Gene Cotton
+Before My Heart Finds Out
+87
+Boz Scaggs
+Hollywood
+88
+Pockets
+Come Go With Me
+89
+Carpenters
+Sweet, Sweet Smile
+90
+Hot
+You Brought The Woman Out Of Me
+91
+Denise LaSalle
+Love Me Right
+92
+Eloise Laws
+1,000 Laughs
+93
+Brick
+Ain't Gonna' Hurt Nobody
+94
+Pablo Cruise
+Never Had A Love
+95
+Crystal Gayle
+Don't It Make My Brown Eyes Blue
+96
+Bay City Rollers
+The Way I Feel Tonight
+97
+Linda Ronstadt
+It's So Easy
+98
+Rose Royce
+Ooh Boy
+99
+Kellee Patterson
+If It Don't Fit, Don't Force It
+100
+Al Green
+Belle

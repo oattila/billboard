@@ -1,0 +1,300 @@
+1
+The Beatles
+Hey Jude
+2
+Mary Hopkin
+Those Were The Days
+3
+Diana Ross & The Supremes
+Love Child
+4
+Steppenwolf
+Magic Carpet Ride
+5
+Johnny Nash
+Hold Me Tight
+6
+Cream
+White Room
+7
+O.C. Smith
+Little Green Apples
+8
+Johnnie Taylor
+Who's Making Love
+9
+Dion
+Abraham, Martin And John
+10
+The Turtles
+Elenore
+11
+The Crazy World Of Arthur Brown
+Fire
+12
+Gary Puckett And The Union Gap
+Over You
+13
+The 5th Dimension
+Sweet Blindness
+14
+Stevie Wonder
+For Once In My Life
+15
+The Grass Roots
+Midnight Confessions
+16
+Jerry Butler
+Hey, Western Union Man
+17
+Ohio Express
+Chewy Chewy
+18
+The Dells
+Always Together
+19
+Creedence Clearwater Revival
+Suzie Q. (Part One)
+20
+The Beatles
+Revolution
+21
+The O'Kaysions
+Girl Watcher
+22
+The Impressions
+Fool For You
+23
+Glen Campbell
+Wichita Lineman
+24
+Marvin Gaye & Tammi Terrell
+Keep On Lovin' Me Honey
+25
+Jose Feliciano
+Hi-Heel Sneakers
+26
+Bobby Vinton
+I Love How You Love Me
+27
+The Archies
+Bang-Shang-A-Lang
+28
+James Brown
+Say It Loud - I'm Black And I'm Proud (Part 1)
+29
+Big Brother And The Holding Company
+Piece Of My Heart
+30
+Eddie Floyd
+Bring It On Home To Me
+31
+Leapy Lee
+Little Arrows
+32
+The Unifics
+Court Of Love
+33
+Classics IV Featuring Dennis Yost
+Stormy
+34
+Kasenetz-Katz Singing Orchestral Circus
+Quick Joey Small (Run Joey Run)
+35
+Jeannie C. Riley
+Harper Valley P.T.A.
+36
+The Jimi Hendrix Experience
+All Along The Watchtower
+37
+Frank Sinatra
+Cycles
+38
+Vanilla Fudge
+Take Me For A Little While
+39
+Bull & The Matadors
+The Funky Judge
+40
+Max Frost And The Troopers
+Shape Of Things To Come
+41
+Dionne Warwick
+Promises, Promises
+42
+Peggy Scott & Jo Jo Benson
+Pickin' Wild Mountain Berries
+43
+Engelbert Humperdinck
+Les Bicyclettes De Belsize
+44
+Marvin Gaye
+Chained
+45
+The Temptations
+Cloud Nine
+46
+Judy Collins
+Both Sides Now
+47
+Clarence Carter
+Too Weak To Fight
+48
+Andy Williams with the St. Charles Borromeo Choir
+Battle Hymn Of The Republic
+49
+Bobby Goldsboro
+The Straight Life
+50
+Derek
+Cinnamon
+51
+Magic Lanterns
+Shame, Shame
+52
+Bobby Russell
+1432 Franklin Pike Circle Hero
+53
+1910 Fruitgum Co.
+Goody Goody Gumdrops
+54
+Jose Feliciano
+The Star-Spangled Banner
+55
+Tommy James And The Shondells
+Do Something To Me
+56
+Fantastic Four
+I Love You Madly
+57
+Gene Chandler & Barbara Acklin
+From The Teacher To The Preacher
+58
+Bill Medley
+Peace Brother Peace
+59
+Paul Revere & The Raiders Featuring Mark Lindsay
+Cinderella Sunshine
+60
+James Brown
+Goodbye My Love
+61
+Deep Purple
+Kentucky Woman
+62
+The Monkees
+Porpoise Song
+63
+Five By Five
+Fire
+64
+Richard Harris
+The Yard Went On Forever
+65
+Gloria Walker
+Talking About My Baby
+66
+Booker T. & The MG's
+Hang 'Em High
+67
+Ben Colder
+Harper Valley P.T.A. (Later That Same Day)
+68
+Shadows Of Knight
+Shake
+69
+Dean Martin
+Not Enough Indians
+70
+Jackie Wilson
+For Once In My Life
+71
+Jefferson Airplane
+Crown Of Creation
+72
+The Intruders
+Slow Drag
+73
+Sam & Dave
+Everybody Got To Believe In Somebody
+74
+Neil Diamond
+Sunday Sun
+75
+Peaches & Herb
+Let's Make A Promise
+76
+Sergio Mendes & Brasil '66
+Scarborough Fair
+77
+Bobby Bland
+Rockin' In The Same Old Boat
+78
+Wilson Pickett
+A Man And A Half
+79
+Tammy Wynette
+Stand By Your Man
+80
+Martha Reeves & The Vandellas
+Sweet Darlin'
+81
+The Lettermen
+Put Your Head On My Shoulder
+82
+Bobbie Gentry & Glen Campbell
+Mornin' Glory
+83
+Nina Simone
+Do What You Gotta Do
+84
+The Tymes
+People
+85
+Arthur Conley
+Aunt Dora's Love Soul Shack
+86
+Joe Cocker
+With A Little Help From My Friends
+87
+The Fantastic Johnny C
+(She's) Some Kind Of Wonderful
+88
+Marty Robbins
+I Walk Alone
+89
+Barbara Acklin
+Just Ain't No Love
+90
+Mama Cass
+California Earthquake
+91
+The Royal Guardsmen
+Baby Let's Wait
+92
+Gene Pitney
+Billy You're My Friend
+93
+Autry Inman
+Ballad Of Two Brothers
+94
+Patti Drew
+Hard To Handle
+95
+Young Hearts
+I've Got Love For My Baby
+96
+Creedence Clearwater Revival
+I Put A Spell On You
+97
+B.J. Thomas
+Hooked On A Feeling
+98
+Joe Simon
+I Worry About You
+99
+The Fireballs
+Come On, React!
+100
+The Hesitations
+A Whiter Shade Of Pale

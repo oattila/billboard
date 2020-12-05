@@ -1,0 +1,300 @@
+1
+Madonna
+Who's That Girl
+2
+Los Lobos
+La Bamba
+3
+Suzanne Vega
+Luka
+4
+Richard Marx
+Don't Mean Nothing
+5
+George Michael
+I Want Your Sex (From "Beverly Hills Cop II")
+6
+U2
+I Still Haven't Found What I'm Looking For
+7
+Debbie Gibson
+Only In My Dreams
+8
+The Whispers
+Rock Steady
+9
+T'Pau
+Heart And Soul
+10
+Michael Jackson With Siedah Garrett
+I Just Can't Stop Loving You
+11
+Starship
+It's Not Over ('til It's Over)
+12
+Dan Hill (Duet With Vonda Shepard)
+Can't We Try
+13
+Dionne Warwick & Jeffrey Osborne
+Love Power
+14
+The Jets
+Cross My Broken Heart (From "Beverly Hills Cop II")
+15
+Steve Winwood
+Back In The High Life Again
+16
+Whitney Houston
+Didn't We Almost Have It All
+17
+Living In A Box
+Living In A Box
+18
+ABC
+When Smokey Sings
+19
+Huey Lewis & The News
+Doing It All For My Baby
+20
+Whitesnake
+Here I Go Again
+21
+Gloria Estefan & Miami Sound Machine
+Rhythm Is Gonna Get You
+22
+Bob Seger
+Shakedown (From "Beverly Hills Cop II")
+23
+Fat Boys & The Beach Boys
+Wipeout
+24
+Sammy Hagar
+Give To Live
+25
+Grateful Dead
+Touch Of Grey
+26
+Bananarama
+I Heard A Rumour (From "Disorderlies")
+27
+Fleetwood Mac
+Seven Wonders
+28
+Danny Wilson
+Mary's Prayer
+29
+Heart
+Alone
+30
+Jonathan Butler
+Lies
+31
+LL Cool J
+I Need Love
+32
+The Outfield
+Since You've Been Gone
+33
+Jellybean Featuring Elisa Fiorillo
+Who Found Who
+34
+Janet Jackson
+The Pleasure Principle
+35
+Freddie Jackson
+Jam Tonight
+36
+Smokey Robinson
+One Heartbeat
+37
+Lisa Lisa And Cult Jam
+Lost In Emotion
+38
+Europe
+Carrie
+39
+Robbie Nevil
+Wot's It To Ya
+40
+Natalie Cole
+Jump Start
+41
+Whitney Houston
+I Wanna Dance With Somebody (Who Loves Me)
+42
+Klymaxx
+I'd Still Say Yes
+43
+Prince
+U Got The Look
+44
+Herb Alpert
+Making Love In The Rain
+45
+John Mellencamp
+Paper In Fire
+46
+Heart
+Who Will You Run To
+47
+Thirty Eight Special
+Back To Paradise (From "Revenge Of The Nerds II")
+48
+Laura Branigan
+Shattered Glass
+49
+The Nylons
+Kiss Him Goodbye
+50
+Will To Power
+Dreamin'
+51
+INXS & Jimmy Barnes
+Good Times (From "The Lost Boys")
+52
+Alexander O'Neal
+Fake
+53
+Kim Wilde
+Say You Really Want Me
+54
+Motley Crue
+Girls, Girls, Girls
+55
+The Breakfast Club
+Kiss And Tell
+56
+Crowded House
+Something So Strong
+57
+David Bowie
+Never Let Me Down
+58
+Expose
+Let Me Be The One
+59
+The Pointer Sisters
+Be There (From "Beverly Hills Cop II")
+60
+Expose
+Point Of No Return
+61
+The Cure
+Why Can't I Be You?
+62
+REO Speedwagon
+In My Dreams
+63
+Levert
+Casanova
+64
+Hooters
+Johnny B
+65
+Curiosity Killed The Cat
+Misfit
+66
+Go West
+Don't Look Down - The Sequel
+67
+Bryan Adams
+Hearts On Fire
+68
+Regina Belle
+Show Me The Way
+69
+The System
+Don't Disturb This Groove
+70
+Kenny G
+Songbird
+71
+Surface
+Happy
+72
+Yello
+Oh Yeah
+73
+Mr. Mister
+Something Real (Inside Me/Inside You)
+74
+The Other Ones
+Holiday
+75
+Bryan Adams
+Victim Of Love
+76
+Depeche Mode
+Strangelove
+77
+Atlantic Starr
+One Lover At A Time
+78
+Crowded House
+World Where You Live
+79
+John Waite
+These Times Are Hard For Lovers
+80
+Swing Out Sister
+Breakout
+81
+Jon Astley
+Jane's Getting Serious
+82
+Noel
+Silent Morning
+83
+Level 42
+Running In The Family
+84
+Glenn Medeiros
+Watching Over You
+85
+Donna Summer
+Dinner With Gershwin
+86
+Pepsi & Shirlie
+Heartache
+87
+Pseudo Echo
+Funkytown
+88
+Lisa Lisa And Cult Jam
+Head To Toe
+89
+The Silencers
+Painted Moon
+90
+Club Nouveau
+Why You Treat Me So Bad
+91
+Loverboy
+Notorious
+92
+Atlantic Starr
+Always
+93
+Al Jarreau
+Moonlighting (Theme)
+94
+Def Leppard
+Women
+95
+Anita Baker
+No One In The World
+96
+Great White
+Rock Me
+97
+Alisha
+Into My Secret
+98
+Kenny Loggins
+Meet Me Half Way
+99
+Bruce Hornsby & The Range
+Every Little Kiss
+100
+Wang Chung
+Hypnotize Me (From "Innerspace")

@@ -1,0 +1,300 @@
+1
+Olivia Newton-John
+Have You Never Been Mellow
+2
+The Doobie Brothers
+Black Water
+3
+Frankie Valli
+My Eyes Adored You
+4
+Labelle
+Lady Marmalade
+5
+America
+Lonely People
+6
+Styx
+Lady
+7
+Eagles
+Best Of My Love
+8
+Minnie Riperton
+Lovin' You
+9
+AWB
+Pick Up The Pieces
+10
+Electric Light Orchestra
+Can't Get It Out Of My Head
+11
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+12
+Maria Muldaur
+I'm A Woman
+13
+B.T. Express
+Express
+14
+Bachman-Turner Overdrive
+Roll On Down The Highway
+15
+Phoebe Snow
+Poetry Man
+16
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+17
+Polly Brown
+Up In A Puff Of Smoke
+18
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+19
+Bad Company
+Movin' On
+20
+Elvis Presley
+My Boy
+21
+Sweet Sensation
+Sad Sweet Dreamer
+22
+Jackson 5
+I Am Love (Parts I & II)
+23
+Shirley And Company
+Shame, Shame, Shame
+24
+Carole King
+Nightingale
+25
+Ringo Starr
+No No Song/snookeroo
+26
+Linda Ronstadt
+You're No Good
+27
+B.J. Thomas
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+28
+Rufus Featuring Chaka Khan
+Once You Get Started
+29
+David Gates
+Never Let Her Go
+30
+Grand Funk
+Some Kind Of Wonderful
+31
+Sammy Johns
+Chevy Van
+32
+Helen Reddy
+Emotion
+33
+Chicago
+Harry Truman
+34
+Neil Diamond
+I've Been This Way Before
+35
+Dan Fogelberg
+Part Of The Plan
+36
+Hot Chocolate
+Emma
+37
+George McCrae
+I Get Lifted
+38
+Ben E. King
+Supernatural Thing - Part I
+39
+Ohio Players
+Fire
+40
+Freddy Fender
+Before The Next Teardrop Falls
+41
+Flash Cadillac And The Continental Kids
+Good Times, Rock & Roll
+42
+Fanny
+Butter Boy
+43
+The Charlie Daniels Band
+The South's Gonna Do It
+44
+John Denver
+Sweet Surrender
+45
+C.W. McCall
+Wolf Creek Pass
+46
+The Blackbyrds
+Walking In Rhythm
+47
+John Lennon
+#9 Dream
+48
+Love Unlimited Orchestra
+Satin Soul
+49
+Charlie Rich
+My Elusive Dreams
+50
+Stevie Wonder
+Boogie On Reggae Woman
+51
+Earth, Wind & Fire
+Shining Star
+52
+Carl Douglas
+Dance The Kung Fu
+53
+The Elton John Band
+Philadelphia Freedom
+54
+The Jimmy Castor Bunch
+The Bertha Butt Boogie-Part 1
+55
+T.G. Sheppard
+Devil In The Bottle
+56
+Carol Douglas
+Doctor's Orders
+57
+Ozark Mountain Daredevils
+Jackie Blue
+58
+Al Green
+L-O-V-E (Love)
+59
+Leo Sayer
+Long Tall Glasses (I Can Dance)
+60
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+61
+The Manhattans
+Don't Take Your Love
+62
+Carpenters
+Please Mr. Postman
+63
+Blue Swede
+Hush/I'm Alive
+64
+The Hues Corporation
+Love Corporation
+65
+Donny Osmond
+I Have A Dream
+66
+Eddie Kendricks
+Shoeshine Boy
+67
+Harry Chapin
+I Wanna Learn A Love Song
+68
+Gladys Knight And The Pips
+Love Finds It's Own Way
+69
+Millie Jackson
+If Loving You Is Wrong I Don't Want To Be Right
+70
+Queen
+Killer Queen
+71
+Conway Twitty
+Linda On My Mind
+72
+Barry Manilow
+It's A Miracle
+73
+Lana Cantrell
+Like A Sunday Morning
+74
+Bob Dylan
+Tangled Up In Blue
+75
+Sam Neely
+I Fought The Law
+76
+Barry White
+What Am I Gonna Do With You
+77
+The Spinners
+Living A Little, Laughing A Little
+78
+Michael Jackson
+We're Almost There
+79
+Commander Cody
+Don't Let Go
+80
+Wet Willie
+Leona
+81
+James Brown
+Reality
+82
+Dooley Silverspoon
+Bump Me Baby Part 1
+83
+Marie Osmond
+Who's Sorry Now
+84
+Loretta Lynn
+The Pill
+85
+Love Unlimited
+I Belong To You
+86
+Atlanta Rhythm Section
+Angel (What In The World's Come Over Us)
+87
+Al Downing
+I'll Be Holding On
+88
+Pure Prairie League
+Amie
+89
+Ace
+How Long
+90
+Odia Coates
+Showdown
+91
+Carl Carlton
+Smokin' Room
+92
+The Chi-lites
+Toby/that's How Long
+93
+Joe Walsh
+Turn To Stone
+94
+Nigel Olsson
+Only One Woman
+95
+Benny Bell
+Shaving Cream
+96
+The Pointer Sisters
+Live Your Life Before You Die
+97
+Jim Gilstrap
+Swing Your Daddy
+98
+Randy Edelman
+Everybody Wants To Find A Bluebird
+99
+Susan Jacks
+You're A Part Of Me
+100
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"

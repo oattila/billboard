@@ -1,0 +1,300 @@
+1
+Rod Stewart
+Maggie May/Reason To Believe
+2
+Cher
+Gypsys, Tramps & Thieves
+3
+The Osmonds
+Yo-Yo
+4
+Carpenters
+Superstar/Bless The Beasts And Children
+5
+Isaac Hayes
+Theme From Shaft
+6
+John Lennon Plastic Ono Band
+Imagine
+7
+Lee Michaels
+Do You Know What I Mean
+8
+Joan Baez
+The Night They Drove Old Dixie Down
+9
+Cat Stevens
+Peace Train
+10
+The Free Movement
+I've Found Someone Of My Own
+11
+Donny Osmond
+Go Away Little Girl
+12
+Al Green
+Tired Of Being Alone
+13
+Denise LaSalle
+Trapped By A Thing Called Love
+14
+Stevie Wonder
+If You Really Love Me
+15
+The Persuaders
+Thin Line Between Love & Hate
+16
+Stampeders
+Sweet City Woman
+17
+The 5th Dimension
+Never My Love
+18
+Paul & Linda McCartney
+Uncle Albert/Admiral Halsey
+19
+Marvin Gaye
+Inner City Blues (Make Me Wanna Holler)
+20
+Freddie Hart
+Easy Loving
+21
+The Chi-lites
+Have You Seen Her
+22
+Bill Withers
+Ain't No Sunshine
+23
+The Raiders
+Birds Of A Feather
+24
+Delaney & Bonnie
+Only You Know And I Know
+25
+Tommy Roe
+Stagger Lee
+26
+Lighthouse
+One Fine Morning
+27
+Carole King
+So Far Away/Smackwater Jack
+28
+Santana
+Everybody's Everything
+29
+Les Crane
+Desiderata
+30
+The 8th Day
+You've Got To Crawl (Before You Walk)
+31
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+32
+James Taylor
+Long Ago And Far Away
+33
+Paul Stookey
+Wedding Song (There Is Love)
+34
+Lou Rawls
+A Natural Man
+35
+Chicago
+Questions 67 And 68/I'm A Man
+36
+Laura Lee
+Women's Love Rights
+37
+Kris Kristofferson
+Loving Her Was Easier (Than Anything I'll Ever Do Again)
+38
+The Grass Roots
+Two Divided By Love
+39
+Coven
+One Tin Soldier, The Legend of Billy Jack
+40
+Five Man Electrical Band
+Absolutely Right
+41
+Dawn Featuring Tony Orlando
+What Are You Doing Sunday
+42
+Fanny
+Charity Ball
+43
+Bread
+Baby I'm - A Want You
+44
+The Guess Who
+Rain Dance
+45
+Tommy James
+I'm Comin' Home
+46
+The Dells
+The Love We Had (Stays On My Mind)
+47
+Freddie North
+She's All I Got
+48
+Ten Years After
+I'd Love To Change The World
+49
+The Isley Brothers
+Spill The Wine
+50
+Gayle McCormick
+It's A Cryin' Shame
+51
+The Lettermen
+Love
+52
+Elvis Presley
+It's Only Love
+53
+Freda Payne
+You Brought The Joy
+54
+The New Birth
+It's Impossible
+55
+Van Morrison
+Wild Night
+56
+Martha Reeves & The Vandellas
+Bless You
+57
+Jean Knight
+You Think You're Hot Stuff
+58
+Sonny & Cher
+All I Ever Need Is You
+59
+Four Tops
+MacArthur Park (Part II)
+60
+Tom T. Hall
+The Year That Clayton Delaney Died
+61
+Springwell
+It's For You
+62
+Messengers
+That's The Way A Woman Is
+63
+The Staple Singers
+Respect Yourself
+64
+Bee Gees
+Don't Wanna Live Inside Myself
+65
+Bobby Sherman
+Jennifer
+66
+Yes
+Your Move (I've Seen All Good People)
+67
+Paul Anka
+Do I Love You
+68
+Donnie Elbert
+Where Did Our Love Go
+69
+Aretha Franklin
+Rock Steady
+70
+Layng Martine
+Rub It In
+71
+Tom Jones
+Till
+72
+Nitty Gritty Dirt Band
+Some Of Shelly's Blues
+73
+The Band
+Life Is A Carnival
+74
+Nolan
+I Like What You Give
+75
+Roberta Flack & Donny Hathaway
+You've Lost That Lovin' Feelin'
+76
+Peter Nero
+Theme From "Summer Of '42"
+77
+Dennis Coffey & The Detroit Guitar Band
+Scorpio
+78
+Pop-Tops
+Mammy Blue
+79
+The Fortunes
+Freedom Comes, Freedom Goes
+80
+The Supremes
+Touch
+81
+Barbra Streisand
+Mother
+82
+Ponderosa Twins + One
+You Send Me
+83
+Traffic, Etc.
+Gimme Some Lovin'-Pt. 1
+84
+Humble Pie
+I Don't Need No Doctor
+85
+Jimi Hendrix
+Dolly Dagger
+86
+Bill Withers
+Grandma's Hands
+87
+Melanie
+Brand New Key
+88
+Glen Campbell/Anne Murray
+I Say A Little Prayer/By The Time I Get To Phoenix
+89
+Michael Jackson
+Got To Be There
+90
+Blood, Sweat & Tears
+Lisa, Listen To Me
+91
+Jody Miller
+Baby, I'm Yours
+92
+James Brown
+My Part/Make It Funky (Part 3)
+93
+The Beach Boys
+Long Promised Road
+94
+James Gang
+Midnight Man
+95
+Olivia Newton-John
+Banks Of The Ohio
+96
+Rose Colored Glass
+If It's Alright With You
+97
+Yvonne Elliman
+Everything's Alright
+98
+Mark Lindsay
+Are You Old Enough
+99
+The Intruders
+I Bet He Don't Love You (Like I Love You)
+100
+The Delfonics
+Walk Right Up To The Sun

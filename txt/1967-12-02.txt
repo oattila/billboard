@@ -1,0 +1,300 @@
+1
+The Monkees
+Daydream Believer
+2
+The Cowsills
+The Rain, The Park & Other Things
+3
+Strawberry Alarm Clock
+Incense And Peppermints
+4
+Lulu
+To Sir With Love
+5
+Dionne Warwick
+I Say A Little Prayer
+6
+Bobby Vinton
+Please Love Me Forever
+7
+Sam & Dave
+Soul Man
+8
+Gladys Knight And The Pips
+I Heard It Through The Grapevine
+9
+The Who
+I Can See For Miles
+10
+Victor Lundberg
+An Open Letter To My Teenage Son
+11
+Smokey Robinson & The Miracles
+I Second That Emotion
+12
+Cher
+You Better Sit Down Kids
+13
+Diana Ross & The Supremes
+In And Out Of Love
+14
+Spanky And Our Gang
+Lazy Day
+15
+The Fantastic Johnny C
+Boogaloo Down Broadway
+16
+Jay And The Techniques
+Keep The Ball Rollin'
+17
+Robert Knight
+Everlasting Love
+18
+Soul Survivors
+Expressway (To Your Heart)
+19
+Miriam Makeba
+Pata Pata
+20
+Bee Gees
+(The Lights Went Out In) Massachusetts
+21
+Vikki Carr
+It Must Be Him
+22
+Wilson Pickett
+Stag-O-Lee
+23
+The Hombres
+Let It Out (Let It All Hang Out)
+24
+The Turtles
+She's My Girl
+25
+Ray Charles
+Yesterday
+26
+Joe Tex
+Skinny Legs And All
+27
+The Temptations
+(Loneliness Made Me Realize) It's You That I Need
+28
+Glen Campbell
+By The Time I Get To Phoenix
+29
+Ohio Express
+Beg, Borrow And Steal
+30
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Watch The Flowers Grow
+31
+The Beach Boys
+Wild Honey
+32
+The Union Gap Featuring Gary Puckett
+Woman, Woman
+33
+Neil Diamond
+Kentucky Woman
+34
+The Mamas & The Papas
+Glad To Be Unhappy
+35
+Martha Reeves & The Vandellas
+Honey Chile
+36
+The Sunshine Company
+Back On The Street Again
+37
+The Box Tops
+Neon Rainbow
+38
+Jerry Butler
+Mr. Dream Merchant
+39
+Marvin Gaye & Tammi Terrell
+Your Precious Love
+40
+Johnny Rivers
+Summer Rain
+41
+The Lovin' Spoonful
+She Is Still A Mystery
+42
+Scott McKenzie
+Like An Old Time Movie
+43
+Stone Poneys Featuring Linda Ronstadt
+Different Drum
+44
+The 5th Dimension
+Paper Cup
+45
+The Beatles
+Hello Goodbye
+46
+Donovan
+Wear Your Love Like Heaven
+47
+The Rose Garden
+Next Plane To London
+48
+Bobby Vee And The Strangers
+Beautiful People
+49
+Ramsey Lewis
+Soul Man
+50
+Kenny O'Dell
+Beautiful People
+51
+Tommy James And The Shondells
+Out Of The Blue
+52
+Harpers Bizarre
+Chattanooga Choo Choo
+53
+Paul Revere & The Raiders Featuring Mark Lindsay
+Peace Of Mind
+54
+James Brown And The Famous Flames
+Get It Together (Part 1)
+55
+The Esquires
+And Get Away
+56
+Noel Harrison
+Suzanne
+57
+Dusty Springfield
+What's It Gonna Be
+58
+Jackie Wilson
+Since You Showed Me How To Be Happy
+59
+Bobbie Gentry
+Okolona River Bottom Band
+60
+Brenda & The Tabulations
+When You're Gone
+61
+Brenton Wood
+Baby You Got It
+62
+Peter, Paul & Mary
+Too Much Of Nothing
+63
+Jr. Walker & The All Stars
+Come See About Me
+64
+The Dells
+O-O, I Love You
+65
+Marvin Gaye & Tammi Terrell
+If I Could Build My Whole World Around You
+66
+Wes Montgomery
+Windy
+67
+The Sandpebbles
+Love Power
+68
+Deon Jackson
+Ooh Baby
+69
+Etta James
+Tell Mama
+70
+The Platters
+Sweet, Sweet Lovin'
+71
+Percy Sledge
+Cover Me
+72
+Small Faces
+Itchycoo Park
+73
+The American Breed
+Bend Me, Shape Me
+74
+John Fred And The Playboys
+Judy In Disguise (With Glasses)
+75
+Erma Franklin
+Piece Of My Heart
+76
+Chuck Jackson
+Shame On Me
+77
+Petula Clark
+The Other Man's Grass Is Always Greener
+78
+Bill Cosby
+Hooray For The Salvation Army Band
+79
+The O'Jays
+I'll Be Sweeter Tomorrow (Than I Was Today)
+80
+John Roberts
+Sockin' 1-2-3-4
+81
+Billy Vera & Judy Clay
+Storybook Children
+82
+Wilson Pickett
+I'm In Love
+83
+The Candymen
+Georgia Pines
+84
+Laura Lee
+Wanted: Lover, No Experience Necessary
+85
+Nancy Sinatra
+Tony Rome
+86
+The Hollies
+Dear Eloise
+87
+Dean Martin
+In The Misty Moonlight
+88
+The Standells
+Can't Help But Love You
+89
+The Byrds
+Goin' Back
+90
+Helena Ferguson
+Where Is The Party
+91
+Eddy Arnold
+Here Comes Heaven
+92
+Eddie Floyd
+On A Saturday Night
+93
+Lou Donaldson
+Alligator Bogaloo
+94
+The Intruders
+A Love That's Real
+95
+Sally Field
+Felicidad
+96
+5 Stairsteps and Cubie
+Something's Missing
+97
+Every Father's Teenage Son
+A Letter To Dad
+98
+King Curtis & The Kingpins
+For What It's Worth
+99
+Billy Stewart
+Cross My Heart
+100
+Jack Jones
+Live For Life

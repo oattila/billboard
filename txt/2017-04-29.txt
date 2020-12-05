@@ -1,0 +1,300 @@
+1
+Ed Sheeran
+Shape Of You
+2
+Bruno Mars
+That's What I Like
+3
+Kendrick Lamar
+Humble.
+4
+Harry Styles
+Sign Of The Times
+5
+The Chainsmokers & Coldplay
+Something Just Like This
+6
+KYLE Featuring Lil Yachty
+iSpy
+7
+Future
+Mask Off
+8
+Lil Uzi Vert
+XO TOUR Llif3
+9
+Sam Hunt
+Body Like A Back Road
+10
+The Chainsmokers
+Paris
+11
+Kygo x Selena Gomez
+It Ain't Me
+12
+Julia Michaels
+Issues
+13
+Clean Bandit Featuring Sean Paul & Anne-Marie
+Rockabye
+14
+Zedd & Alessia Cara
+Stay
+15
+Kodak Black
+Tunnel Vision
+16
+James Arthur
+Say You Won't Let Go
+17
+The Weeknd Featuring Daft Punk
+I Feel It Coming
+18
+Migos Featuring Lil Uzi Vert
+Bad And Boujee
+19
+Post Malone Featuring Quavo
+Congratulations
+20
+Khalid
+Location
+21
+Maroon 5 Featuring Future
+Cold
+22
+Drake
+Passionfruit
+23
+The Chainsmokers Featuring Halsey
+Closer
+24
+Rihanna
+Love On The Brain
+25
+Big Sean
+Bounce Back
+26
+Zayn / Taylor Swift
+I Don't Wanna Live Forever (Fifty Shades Darker)
+27
+Katy Perry Featuring Skip Marley
+Chained To The Rhythm
+28
+Migos
+T-Shirt
+29
+Rae Sremmurd
+Swang
+30
+Bruno Mars
+24K Magic
+31
+Alessia Cara
+Scars To Your Beautiful
+32
+Ayo & Teo
+Rolex
+33
+Justin Timberlake
+Can't Stop The Feeling!
+34
+Shawn Mendes
+Mercy
+35
+Marian Hill
+Down
+36
+Calvin Harris Featuring Frank Ocean & Migos
+Slide
+37
+XXXTENTACION
+Look At Me!
+38
+Drake
+Fake Love
+39
+The Weeknd Featuring Daft Punk
+Starboy
+40
+Brett Young
+In Case You Didn't Know
+41
+Drake Featuring Quavo & Travis Scott
+Portland
+42
+Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign
+Swalla
+43
+Travis Scott
+Goosebumps
+44
+Gucci Mane Featuring Drake
+Both
+45
+Jon Pardi
+Dirt On My Boots
+46
+Maroon 5 Featuring Kendrick Lamar
+Don't Wanna Know
+47
+Imagine Dragons
+Believer
+48
+Luis Fonsi & Daddy Yankee Featuring Justin Bieber
+Despacito
+49
+Childish Gambino
+Redbone
+50
+Halsey
+Now Or Never
+51
+Luke Combs
+Hurricane
+52
+Jason Aldean
+Any Ol' Barstool
+53
+Keith Urban Featuring Carrie Underwood
+The Fighter
+54
+Lorde
+Green Light
+55
+Chris Brown Featuring Usher & Gucci Mane
+Party
+56
+Josh Turner
+Hometown Girl
+57
+Ed Sheeran
+Castle On The Hill
+58
+Linkin Park Featuring Kiiara
+Heavy
+59
+DJ Khaled Featuring Beyonce & JAY Z
+Shining
+60
+Auli'i Cravalho
+How Far I'll Go
+61
+Dierks Bentley
+Black
+62
+Drake
+Gyalchester
+63
+Russ
+Losin Control
+64
+Brantley Gilbert
+The Weekend
+65
+Starley
+Call On Me
+66
+Luke Bryan
+Fast
+67
+Big Sean
+Moves
+68
+Florida Georgia Line Featuring Backstreet Boys
+God, Your Mama, And Me
+69
+Future Featuring Rihanna
+Selfish
+70
+Train
+Play That Song
+71
+J. Cole
+Deja Vu
+72
+Drake
+Free Smoke
+73
+Kelsea Ballerini
+Yeah Boy
+74
+French Montana Featuring Swae Lee
+Unforgettable
+75
+A Boogie Wit da Hoodie Featuring Kodak Black
+Drowning
+76
+Tee Grizzley
+First Day Out
+77
+Lauren Alaina
+Road Less Traveled
+78
+The Chainsmokers
+The One
+79
+YFN Lucci Featuring PnB Rock
+Everyday We Lit
+80
+Martin Garrix & Dua Lipa
+Scared To Be Lonely
+81
+Thomas Rhett Featuring Maren Morris
+Craving You
+82
+2 Chainz x Gucci Mane x Quavo
+Good Drank
+83
+Future
+Draco
+84
+Drake
+Blem
+85
+Lady Antebellum
+You Look Good
+86
+Dan + Shay
+How Not To
+87
+Nicki Minaj, Drake & Lil Wayne
+No Frauds
+88
+6LACK
+Prblms
+89
+Flo Rida & 99 Percent
+Cake
+90
+Michael Ray
+Think A Little Less
+91
+Drake
+Teenage Fever
+92
+Kenny Chesney
+Bar At The End Of The World
+93
+Dwayne Johnson
+You're Welcome
+94
+Machine Gun Kelly Featuring Hailee Steinfeld
+At My Best
+95
+Zayn Featuring PARTYNEXTDOOR
+Still Got Time
+96
+Enrique Iglesias Featuring Descemer Bueno, Zion & Lennox Or Sean Paul
+Subeme La Radio
+97
+AJR
+Weak
+98
+Alessia Cara
+How Far I'll Go
+99
+Darius Rucker
+If I Told You
+100
+Cole Swindell
+Flatliner

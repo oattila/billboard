@@ -1,0 +1,300 @@
+1
+Chuck Berry
+My Ding-A-Ling
+2
+Bill Withers
+Use Me
+3
+Elvis Presley
+Burning Love
+4
+The Main Ingredient
+Everybody Plays The Fool
+5
+The Moody Blues
+Nights In White Satin
+6
+Michael Jackson
+Ben
+7
+Mac Davis
+Baby Don't Get Hooked On Me
+8
+Rick Nelson And The Stone Canyon Band
+Garden Party
+9
+Hot Butter
+Popcorn
+10
+Raspberries
+Go All The Way
+11
+Leon Russell
+Tight Rope
+12
+Curtis Mayfield
+Freddie's Dead (Theme From "Superfly")
+13
+Rod Stewart
+You Wear It Well
+14
+Danny O'Keefe
+Good Time Charlie's Got The Blues
+15
+Donny Osmond
+Why/Lonely Boy
+16
+Rick Springfield
+Speak To The Sky
+17
+The Doobie Brothers
+Listen To The Music
+18
+James Brown
+Get On The Good Foot-Part 1
+19
+Arlo Guthrie
+The City Of New Orleans
+20
+Johnny Nash
+I Can See Clearly Now
+21
+The 5th Dimension
+If I Could Reach You
+22
+Eagles
+Witchy Woman
+23
+Mel And Tim
+Starting All Over Again
+24
+Cornelius Brothers & Sister Rose
+Don't Ever Be Lonely (A Poor Little Fool Like Me)
+25
+Chi Coltrane
+Thunder And Lightning
+26
+Gallery
+I Believe In Music
+27
+Helen Reddy
+I Am Woman
+28
+The Spinners
+I'll Be Around
+29
+Joe Cocker and The Chris Stainton Band
+Midnight Rider
+30
+Lobo
+I'd Love You To Want Me
+31
+Sam Neely
+Loving You Just Crossed My Mind
+32
+Nilsson
+Spaceman
+33
+Three Dog Night
+Black & White
+34
+Seals & Crofts
+Summer Breeze
+35
+The O'Jays
+Back Stabbers
+36
+The Band
+Don't Do It
+37
+Alice Cooper
+Elected
+38
+David Cassidy
+Rock Me Baby
+39
+Cashman & West
+American City Suite
+40
+Emerson, Lake & Palmer
+From The Beginning
+41
+Neil Diamond
+Play Me
+42
+Chicago
+Saturday In The Park
+43
+Michael Murphey
+Geronimo's Cadillac
+44
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+45
+Gladstone
+A Piece Of Paper
+46
+Cher
+Don't Hide Your Love
+47
+Mott The Hoople
+All The Young Dudes
+48
+Jermaine Jackson
+That's How Love Goes
+49
+Wayne Newton
+Can't You Hear The Song?
+50
+Billy Preston
+Slaughter
+51
+Jim Croce
+Operator (That's Not the Way it Feels)
+52
+Grand Funk Railroad
+Rock 'N Roll Soul
+53
+Four Tops
+(It's The Way) Nature Planned It
+54
+The Temptations
+Papa Was A Rollin' Stone
+55
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+56
+Casey Kelly
+Poor Boy
+57
+The Chi-lites
+A Lonely Man/The Man & The Woman (The Boy & The Girl)
+58
+Bobby Womack & Peace
+Sweet Caroline (Good Times Never Seemed So Good)
+59
+Donna Fargo
+Funny Face
+60
+Eric Clapton
+Let It Rain
+61
+King Floyd
+Woman Don't Go Astray
+62
+B.B. King
+Guess Who/Them Changes
+63
+America
+Ventura Highway
+64
+Beverly Bremers
+I'll Make You Music
+65
+Albert Hammond
+It Never Rains In Southern California
+66
+Danny Holien
+Colorado
+67
+The Dramatics
+Toast To The Fool
+68
+Blood, Sweat & Tears
+So Long Dixie
+69
+Denise LaSalle
+Man Sized Job
+70
+Steve & Eydie Featuring The Osmonds
+We Can Make It Together
+71
+The Stylistics
+I'm Stone In Love With You
+72
+Austin Roberts
+Something's Wrong With Me
+73
+Isaac Hayes
+Theme From The Men
+74
+Lighthouse
+Sunny Days
+75
+Laura Lee
+If You Can Beat Me Rockin' (You Can Have My Chair)
+76
+Eddie Kendricks
+If You Let Me
+77
+Al Green
+Guilty
+78
+Betty Wright
+Baby Sitter
+79
+Holland-Dozier
+Why Can't We Be Lovers
+80
+The Delegates
+Convention '72
+81
+Bulldog
+No
+82
+Styx
+Best Thing
+83
+Petula Clark
+Wedding Song (There Is Love)
+84
+The New Seekers featuring Marty Kristian
+Dance, Dance, Dance
+85
+The Doors
+The Mosquito
+86
+Boz Scaggs
+Dinah Flo
+87
+Donny Hathaway
+I Love You More Than You'll Ever Know
+88
+Melanie
+Together Alone
+89
+Harry Chapin
+Sunday Morning Sunshine
+90
+The Osmonds
+Crazy Horses
+91
+Al Green
+You Ought To Be With Me
+92
+Mouth & MacNeal
+Hey, You Love
+93
+National Lampoon
+Deteriorata
+94
+Tower Of Power
+Down To The Nightclub
+95
+Joe Simon
+Misty Blue
+96
+Sammy Davis, Jr. with The Mike Curb Congregation
+The People Tree
+97
+The Guess Who
+Runnin' Back To Saskatoon
+98
+The Raiders
+Song Seller
+99
+Dennis Yost And The Classics IV
+What Am I Crying For?
+100
+The Supremes
+I Guess I'll Miss The Man

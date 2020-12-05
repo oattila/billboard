@@ -1,0 +1,300 @@
+1
+Nilsson
+Without You
+2
+Neil Young
+Heart Of Gold
+3
+Robert John
+The Lion Sleeps Tonight
+4
+The Osmonds
+Down By The Lazy River
+5
+Bread
+Everything I Own
+6
+Climax
+Precious And Few
+7
+America
+A Horse With No Name
+8
+Carpenters
+Hurting Each Other
+9
+Cher
+The Way Of Love
+10
+T. Rex
+Bang A Gong (Get It On)
+11
+Donny Osmond
+Puppy Love
+12
+Paul Simon
+Mother And Child Reunion
+13
+Carole King
+Sweet Seasons
+14
+Apollo featuring Tom Parker
+Joy
+15
+The Chakachas
+Jungle Fever
+16
+The Supremes
+Floy Joy
+17
+Beverly Bremers
+Don't Say You Don't Remember
+18
+Joe Tex
+I Gotcha
+19
+Don McLean
+American Pie (Parts I & II)
+20
+Al Green
+Let's Stay Together
+21
+B.J. Thomas
+Rock And Roll Lullaby
+22
+Donnie Elbert
+I Can't Help Myself (Sugar Pie, Honey Bunch)
+23
+Bee Gees
+My World
+24
+Jerry Butler & Brenda Lee Eager
+Ain't Understanding Mellow
+25
+Sly & The Family Stone
+Runnin' Away
+26
+Three Dog Night
+Never Been To Spain
+27
+The Dramatics
+In The Rain
+28
+Addrisi Brothers
+We've Got To Get It On Again
+29
+The English Congregation
+Softly Whispering I Love You
+30
+James Brown
+Talking Loud And Saying Nothing - Part I
+31
+Melanie
+Ring The Living Bell
+32
+Yes
+Roundabout
+33
+Sonny & Cher
+A Cowboys Work Is Never Done
+34
+The Stylistics Featuring Russell Thompkins,Jr.
+Betcha By Golly, Wow
+35
+Melanie
+The Nickel Song
+36
+Detroit Emeralds
+You Want It, You Got It
+37
+Santana
+No One To Depend On
+38
+J.J. Cale
+Crazy Mama
+39
+Dennis Coffey & The Detroit Guitar Band
+Taurus
+40
+Elvis Presley
+Until It's Time For You To Go
+41
+David Cassidy
+Could It Be Forever
+42
+Rod Stewart
+Handbags And Gladrags
+43
+The Grass Roots
+Glory Bound
+44
+Grand Funk Railroad
+Footstompin' Music
+45
+Bobby Vinton
+Every Day Of My Life
+46
+Frank Mills
+Love Me, Love Me Love
+47
+The Honey Cone
+The Day I Found Myself
+48
+Denise LaSalle
+Now Run And Tell That
+49
+Isaac Hayes
+Do Your Thing
+50
+The Temptations
+Take A Look Around
+51
+James Brown
+King Heroin
+52
+Black Sabbath
+Iron Man
+53
+Led Zeppelin
+Black Dog
+54
+War
+Slippin' Into Darkness
+55
+Roberta Flack
+The First Time Ever I Saw Your Face
+56
+Redbone
+The Witch Queen Of New Orleans
+57
+Shirley Bassey
+Diamonds Are Forever
+58
+Michel Legrand
+Brian's Song
+59
+Little Milton
+That's What Love Will Make You Do
+60
+The Nite-Liters
+Afro-Strut
+61
+Terry Black & Laurel Ward
+Goin' Down (On The Road To L.A.)
+62
+Giorgio
+Son Of My Father
+63
+Lunar Funk
+Mr. Penguin-Pt. I
+64
+Bobby Bland
+Do What You Set Out To Do
+65
+Goose Creek Symphony
+(Oh Lord Won't You Buy Me A) Mercedes Benz
+66
+Elton John
+Tiny Dancer
+67
+Jerry Lee Lewis
+Chantilly Lace
+68
+Michael Jackson
+Rockin' Robin
+69
+Malo
+Suavecito
+70
+Potliquor
+Cheer
+71
+Paul Williams
+Waking Up Alone
+72
+The JB's
+Gimme Some More
+73
+The Guess Who
+Heartbroken Bopper
+74
+The Undisputed Truth
+What It Is
+75
+Grin
+White Lies
+76
+Mike Kennedy
+Louisianna
+77
+Quincy Jones
+Money Runner
+78
+Wings
+Give Ireland Back To The Irish
+79
+Manfred Mann's Earth Band
+Living Without You
+80
+Laura Lee
+Since I Fell For You
+81
+Alice Cooper
+Be My Lover
+82
+John Denver
+Everyday
+83
+Gallery
+Nice To Be With You
+84
+Ike & Tina Turner
+Up In Heah
+85
+Linda Jones
+Your Precious Love
+86
+The Fantastics
+(Love Me) Love The Life I Lead
+87
+Linda Ronstadt
+Rock Me On The Water
+88
+Bobby Byrd
+Keep On Doin' What You're Doin'
+89
+Tommy James
+Tell 'Em Willie Boy 's A'Comin'
+90
+Dionne Warwicke
+If We Only Have Love
+91
+Scott English
+Brandy
+92
+Chicory
+Son Of My Father
+93
+Jackie Wilson
+You Got Me Walking
+94
+The Dells
+It's All Up To You
+95
+B.B. King
+Sweet Sixteen
+96
+Bullet
+Willpower Weak, Temptation Strong
+97
+Sammy Davis, Jr. with The Mike Curb Congregation
+The Candy Man
+98
+Sugar Bears
+You Are The One
+99
+Kris Kristofferson
+Josie
+100
+Harry Chapin
+Taxi

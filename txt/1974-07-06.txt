@@ -1,0 +1,300 @@
+1
+The Hues Corporation
+Rock The Boat
+2
+Gordon Lightfoot
+Sundown
+3
+Bo Donaldson And The Heywoods
+Billy, Don't Be A Hero
+4
+George McCrae
+Rock Your Baby
+5
+Olivia Newton-John
+If You Love Me (let Me Know)
+6
+Kool & The Gang
+Hollywood Swinging
+7
+The Stylistics
+You Make Me Feel Brand New
+8
+John Denver
+ANNIE's SONG
+9
+Anne Murray
+You Won't See Me
+10
+Gladys Knight And The Pips
+On And On
+11
+The Hollies
+The Air That I Breathe
+12
+William DeVaughn
+Be Thankful For What You Got
+13
+Steely Dan
+Rikki Don't Lose That Number
+14
+Mac Davis
+One Hell Of A Woman
+15
+The Righteous Brothers
+Rock And Roll Heaven
+16
+Blue Magic
+Sideshow
+17
+Paul McCartney And Wings
+Band On The Run
+18
+Ray Stevens
+The Streak
+19
+Jackson 5
+Dancing Machine
+20
+Golden Earring
+Radar Love
+21
+The Spinners
+I'm Coming Home
+22
+Maria Muldaur
+Midnight At The Oasis
+23
+Marvin Hamlisch/"The Sting"
+The Entertainer
+24
+ABBA
+Waterloo
+25
+Elton John
+Don't Let The Sun Go Down On Me
+26
+The O'Jays
+For The Love Of Money
+27
+The Impressions
+Finally Got Myself Together (I'm A Changed Man)
+28
+Carly Simon
+Haven't Got Time For The Pain
+29
+Ozark Mountain Daredevils
+If You Wanna Get To Heaven
+30
+Bachman-Turner Overdrive
+Takin' Care Of Business
+31
+Cher
+Train Of Thought
+32
+Elvis Presley
+If You Talk In Your Sleep
+33
+Eagles
+Already Gone
+34
+Commodores
+Machine Gun
+35
+Jim Croce
+Workin' At The Car Wash Blues
+36
+Roberta Flack
+Feel Like Makin' Love
+37
+Jimmy Buffett
+Come Monday
+38
+Gene Redding
+This Heart
+39
+Lamont Dozier
+Fish Ain't Bitin'
+40
+Wet Willie
+Keep On Smilin'
+41
+Dave Loggins
+Please Come To Boston
+42
+The DeFranco Family featuring Tony DeFranco
+Save The Last Dance For Me
+43
+Rufus Featuring Chaka Khan
+Tell Me Something Good
+44
+War
+Ballero
+45
+Jim Stafford
+My Girl Bill
+46
+ZZ Top
+La Grange
+47
+Cat Stevens
+Oh Very Young
+48
+Brownsville Station
+I'm The Leader Of The Gang
+49
+Joni Mitchell
+Help Me
+50
+Ohio Players
+Jive Turkey (Part 1)
+51
+James Brown
+My Thang
+52
+Chicago
+Call On Me
+53
+Helen Reddy
+You And Me Against The World
+54
+Hoyt Axton
+When The Morning Comes
+55
+Grand Funk
+The Loco-Motion
+56
+Andy Kim
+Rock Me Gently
+57
+Mickey Gilley
+Room Full Of Roses
+58
+Stevie Wonder
+Don't You Worry 'Bout A Thing
+59
+Paper Lace
+The Night Chicago Died
+60
+Tavares
+Too Late
+61
+Three Dog Night
+The Show Must Go On
+62
+The New Birth
+Wildflower
+63
+Tom T. Hall
+That Song Is Driving Me Crazy
+64
+Bill Withers
+The Same Love That Made Me Laugh
+65
+Fancy
+Wild Thing
+66
+The Chi-lites
+There Will Never Be Any Peace (Until God Is Seated At The Conference Table)
+67
+Joe Cocker
+Put Out The Light
+68
+Johnny Bristol
+Hang On In There Baby
+69
+David Bowie
+Rebel Rebel
+70
+Curtis Mayfield
+Kung Fu
+71
+Three Dog Night
+Sure As I'm Sittin' Here
+72
+Terry Jacks
+If You Go Away
+73
+Dickie Goodman
+Mr. President
+74
+Billy "Crash" Craddock
+Rub It In
+75
+Blue Swede
+Silly Milly
+76
+The Temptations
+You've Got My Soul On Fire
+77
+The Main Ingredient
+Happiness Is Just Around The Bend
+78
+Millie Jackson
+How Do You Feel The Morning After
+79
+Fanny
+I've Had It
+80
+C.W. McCall
+Old Home Filler-up An' Keep On-a-truckin' Cafe
+81
+Johnnie Taylor
+I've Been Born Again
+82
+Paul Anka with Odia Coates
+(You're) Having My Baby
+83
+Donna Fargo
+You Can't Be A Beacon (if Your Light Don't Shine)
+84
+Jim Stafford
+Wildwood Weed
+85
+Billy Joel
+Worse Comes To Worst
+86
+MFSB Featuring The Three Degrees
+Love Is The Message
+87
+Albert Hammond
+Air Disaster
+88
+Little Anthony And The Imperials
+I'm Falling In Love With You
+89
+Tyrone Davis
+What Goes Up (Must Come Down)
+90
+Donny & Marie Osmond
+I'm Leaving It (All) Up To You
+91
+Simon Stokes
+Captain Howdy
+92
+Blood, Sweat & Tears
+Tell Me That I'm Wrong
+93
+Ecstasy, Passion & Pain
+Good Things Don't Last Forever
+94
+The Dells
+I Wish It Was Me You Loved
+95
+Gladys Knight And The Pips
+Between Her Goodbye And My Hello
+96
+Andy & David Williams
+What's Your Name
+97
+Bobby Womack
+You're Welcome, Stop On By
+98
+Sly & The Family Stone
+Time For Livin'
+99
+Willie Henderson
+Dance Master Pt. 1
+100
+April
+Wake Up And Love Me

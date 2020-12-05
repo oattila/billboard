@@ -1,0 +1,300 @@
+1
+James Taylor
+You've Got A Friend
+2
+The Raiders
+Indian Reservation (The Lament Of The Cherokee Reservation Indian)
+3
+Carole King
+It's Too Late/I Feel The Earth Move
+4
+Jean Knight
+Mr. Big Stuff
+5
+Tommy James
+Draggin' The Line
+6
+Bee Gees
+How Can You Mend A Broken Heart
+7
+Hamilton, Joe Frank & Reynolds
+Don't Pull Your Love
+8
+John Denver
+Take Me Home, Country Roads
+9
+The Grass Roots
+Sooner Or Later
+10
+Tom Clay
+What The World Needs Now Is Love/Abraham, Martin and John
+11
+Marvin Gaye
+Mercy, Mercy Me (The Ecology)
+12
+Cornelius Brothers & Sister Rose
+Treat Her Like A Lady
+13
+Delaney & Bonnie & Friends
+Never Ending Song Of Love
+14
+Freda Payne
+Bring The Boys Home
+15
+The Fortunes
+Here Comes That Rainy Day Feeling Again
+16
+Chicago
+Beginnings/Colour My World
+17
+Gladys Knight And The Pips
+I Don't Want To Do Wrong
+18
+James Brown
+Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt. 1)
+19
+Five Man Electrical Band
+Signs
+20
+Carly Simon
+That's The Way I've Always Heard It Should Be
+21
+The 8th Day
+She's Not Just Another Woman
+22
+The Isley Brothers
+Love The One You're With
+23
+Dave & Ansil Collins
+Double Barrel
+24
+Chase
+Get It On
+25
+Carpenters
+Rainy Days And Mondays
+26
+Three Dog Night
+Liar
+27
+The Beginning Of The End
+Funky Nassau-Part I
+28
+Cymarron
+Rings
+29
+Creedence Clearwater Revival
+Sweet Hitch-Hiker
+30
+Jackson 5
+Maybe Tomorrow
+31
+Roberta Flack & Donny Hathaway
+You've Got A Friend
+32
+Cat Stevens
+Moon Shadow
+33
+Dawn
+Summer Sand
+34
+Olivia Newton-John
+If Not For You
+35
+Graham Nash
+Chicago
+36
+The Doors
+Riders On The Storm
+37
+The Undisputed Truth
+Smiling Faces Sometimes
+38
+The Rolling Stones
+Wild Horses
+39
+Sounds Of Sunshine
+Love Means (You Never Have To Say You're Sorry)
+40
+The Dramatics
+Whatcha See Is Whatcha Get
+41
+Ashton, Gardner & Dyke
+Resurrection Shuffle
+42
+Bob Dylan
+Watching The River Flow
+43
+B.J. Thomas
+Mighty Clouds Of Joy
+44
+Joe Cocker
+High Time We Went/Black-Eyed Blues
+45
+Elvis Presley
+I'm Leavin'
+46
+Lobo
+She Didn't Do Magic/I'm The Only One
+47
+Rare Earth
+I Just Want To Celebrate
+48
+Bread
+Mother Freedom
+49
+The Who
+Won't Get Fooled Again
+50
+Tom Jones
+Puppet Man/Resurrection Shuffle
+51
+Neil Diamond
+I'm A Believer
+52
+Davy Jones
+Rainy Jane
+53
+Jody Miller
+He's So Fine
+54
+The Stylistics
+Stop, Look, Listen (To Your Heart)
+55
+Bill Withers
+Ain't No Sunshine
+56
+Smokey Robinson & The Miracles
+Crazy About The La La La
+57
+The Temptations
+It's Summer
+58
+The Delfonics
+Hey! Love/Over And Over
+59
+Stephen Stills
+Change Partners
+60
+The James Gang
+Walk Away
+61
+Glen Campbell
+The Last Time I Saw Her
+62
+Dusk
+I Hear Those Church Bells Ringing
+63
+Mary Travers
+Follow Me
+64
+Bobby Russell
+Saturday Morning Confusion
+65
+Redbone
+Maggie
+66
+Gordon Lightfoot
+Talking In Your Sleep
+67
+Al Green
+Tired Of Being Alone
+68
+Barbra Streisand
+Where You Lead
+69
+Aretha Franklin
+Spanish Harlem
+70
+Steppenwolf
+Ride With Me
+71
+Waldo De Los Rios
+Mozart Symphony No. 40 In G Minor K.550, 1st Movement
+72
+Steve Alaimo
+When My Little Girl Is Smiling
+73
+The People's Choice
+I Likes To Do It
+74
+John Kongos
+He's Gonna Step On You Again
+75
+Tyrone Davis
+One-Way Ticket
+76
+Chuck Mangione
+Hill Where The Lord Hides
+77
+The Poppy Family
+Where Evil Grows
+78
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+79
+Bobby Goldsboro
+Come Back Home
+80
+Audience
+Indian Summer
+81
+The Chi-lites
+We Are Neighbors
+82
+The Fuzz
+Like An Open Door
+83
+Rod Stewart
+Maggie May/Reason To Believe
+84
+Gayle McCormick
+Gonna Be Alright Now
+85
+The Glass Bottle
+I Ain't Got Time Anymore
+86
+The Free Movement
+I've Found Someone Of My Own
+87
+Paul Stookey
+Wedding Song (There Is Love)
+88
+Blood, Sweat & Tears
+Go Down Gamblin'
+89
+Joe Simon
+You're The One For Me
+90
+The Electric Express
+It's The Real Thing - Pt. I
+91
+Sonny James
+Bright Lights, Big City
+92
+The Dillards
+It's About Time
+93
+Earth, Wind & Fire
+Love Is Life
+94
+Ronnie Dyson
+When You Get Right Down To It
+95
+The Impressions
+Love Me
+96
+Matthews' Southern Comfort
+Mare, Take Me Home
+97
+Lee Michaels
+Do You Know What I Mean
+98
+The Nite-Liters
+K-Jee
+99
+The Staple Singers
+You've Got To Earn It
+100
+Jeannie C. Riley
+Good Enough To Be Your Wife

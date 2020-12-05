@@ -1,0 +1,300 @@
+1
+Olivia Newton-John
+Physical
+2
+Daryl Hall John Oates
+Private Eyes
+3
+Foreigner
+Waiting For A Girl Like You
+4
+The Rolling Stones
+Start Me Up
+5
+Air Supply
+Here I Am (Just When I Thought I Was Over You)
+6
+Bob Seger
+Tryin' To Live My Life Without You
+7
+Little River Band
+The Night Owls
+8
+The Police
+Every Little Thing She Does Is Magic
+9
+Christopher Cross
+Arthur's Theme (Best That You Can Do)
+10
+Mike Post featuring Larry Carlton
+The Theme From Hill Street Blues
+11
+Commodores
+Oh No
+12
+Diana Ross
+Why Do Fools Fall In Love
+13
+Rick Springfield
+I've Done Everything For You
+14
+Four Tops
+When She Was My Girl
+15
+Rod Stewart
+Young Turks
+16
+Barry Manilow
+The Old Songs
+17
+Quincy Jones Featuring James Ingram
+Just Once
+18
+Earth, Wind & Fire
+Let's Groove
+19
+Lindsey Buckingham
+Trouble
+20
+Al Jarreau
+We're In This Love Together
+21
+Stevie Nicks With Don Henley
+Leather And Lace
+22
+Quarterflash
+Harden My Heart
+23
+Neil Diamond
+Yesterday's Songs
+24
+Journey
+Don't Stop Believin'
+25
+Diesel
+Sausalito Summernight
+26
+Go-Go's
+Our Lips Are Sealed
+27
+Kool & The Gang
+Take My Heart (You Can Have It If You Want It)
+28
+Chilliwack
+My Girl (Gone, Gone, Gone)
+29
+Juice Newton
+The Sweetest Thing (I've Ever Known)
+30
+Genesis
+No Reply At All
+31
+The Steve Miller Band
+Heart Like A Wheel
+32
+Daryl Hall John Oates
+I Can't Go For That (No Can Do)
+33
+Sheena Easton
+For Your Eyes Only
+34
+Stevie Woods
+Steal The Night
+35
+Luther Vandross
+Never Too Much
+36
+Dan Fogelberg
+Hard To Say
+37
+Chris Christian
+I Want You, I Need You
+38
+Diana Ross & Lionel Richie
+Endless Love
+39
+George Benson
+Turn Your Love Around
+40
+Survivor
+Poor Man's Son
+41
+The J. Geils Band
+Centerfold
+42
+Royal Philharmonic Orchestra
+Hooked On Classics
+43
+Electric Light Orchestra
+Twilight
+44
+Ronnie Milsap
+I Wouldn't Have Missed It For The World
+45
+Barbra Streisand
+Comin' In And Out Of Your Life
+46
+Billy Joel
+Say Goodbye To Hollywood
+47
+Eddie Rabbitt
+Step By Step
+48
+Rick James
+Super Freak (Part I)
+49
+Paul Davis
+Cool Night
+50
+Carl Carlton
+She's A Bad Mama Jama (She's Built, She's Stacked)
+51
+Marty Balin
+Atlanta Lady (Something About Your Love)
+52
+Stevie Nicks With Tom Petty And The Heartbreakers
+Stop Draggin' My Heart Around
+53
+Ringo Starr
+Wrack My Brain
+54
+Queen & David Bowie
+Under Pressure
+55
+Pat Benatar
+Promises In The Dark
+56
+Kenny Rogers
+Share Your Love With Me
+57
+Triumph
+Magic Power
+58
+Don McLean
+Castles In The Air
+59
+Eddie Rabbitt
+Someone Could Lose A Heart Tonight
+60
+Sneaker
+More Than Just The Two Of Us
+61
+Journey
+Who's Crying Now
+62
+Johnny Lee
+Bet Your Heart On Me
+63
+Bee Gees
+Living Eyes
+64
+Jermaine Jackson
+I'm Just Too Shy
+65
+Joey Scarbury
+When She Dances
+66
+John Denver
+The Cowboy And The Lady
+67
+The Knack
+Pay The Devil (Ooo, Baby, Ooo)
+68
+The Moody Blues
+Talking Out Of Turn
+69
+Loverboy
+Working For The Weekend
+70
+Prince
+Controversy
+71
+Atlanta Rhythm Section
+Alien
+72
+Foreigner
+Urgent
+73
+Electric Light Orchestra
+Hold On Tight
+74
+Kim Carnes
+Mistaken Identity
+75
+Billy Squier
+In The Dark
+76
+The Cars
+Shake It Up
+77
+Arlan Day
+I Surrender
+78
+Tierra
+La La Means I Love You
+79
+Billy Joel
+She's Got A Way
+80
+Donnie Iris
+Sweet Merilee
+81
+Alabama
+Love In The First Degree
+82
+Bertie Higgins
+Key Largo
+83
+Greg Lake
+Let Me Love You Once
+84
+Roger
+I Heard It Through The Grapevine (Part 1)
+85
+Lulu
+If I Were You
+86
+Kenny Rogers
+Blaze Of Glory
+87
+Steve Carlisle
+Wkrp In Cincinnati
+88
+Central Line
+Walking Into Sunshine
+89
+The Beach Boys
+Come Go With Me
+90
+Balance
+Falling In Love
+91
+Slave
+Snap Shot
+92
+Lulu
+I Could Never Miss You (More Than I Do)
+93
+Juice Newton
+Queen Of Hearts
+94
+The Moody Blues
+The Voice
+95
+Burton Cummings
+You Saved My Soul
+96
+The Beach Boys
+The Beach Boys Medley
+97
+The Kinks
+Destroyer
+98
+Devo
+Working In The Coal Mine
+99
+Anne Murray
+It's All I Can Do
+100
+Streek
+One More Night

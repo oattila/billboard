@@ -1,0 +1,300 @@
+1
+Ray Charles
+Georgia On My Mind
+2
+Johnny Tillotson
+Poetry In Motion
+3
+Joe Jones
+You Talk Too Much
+4
+Brenda Lee
+I Want To Be Wanted
+5
+The Drifters
+Save The Last Dance For Me
+6
+Maurice Williams & The Zodiacs
+Stay
+7
+Hank Ballard And The Midnighters
+Let's Go, Let's Go, Let's Go
+8
+Floyd Cramer
+Last Date
+9
+Kathy Young With The Innocents
+A Thousand Stars
+10
+Roy Orbison
+Blue Angel
+11
+U.S. Bonds
+New Orleans
+12
+Johnny Horton
+North To Alaska
+13
+Little Willie John
+Sleep
+14
+Bill Black's Combo
+Don't Be Cruel
+15
+Jackie Wilson
+Alone At Last
+16
+Bob Luman
+Let's Think About Living
+17
+Bobby Vee
+Devil Or Angel
+18
+Chubby Checker
+The Hucklebuck
+19
+Connie Francis
+My Heart Has A Mind Of Its Own
+20
+Sam Cooke
+Chain Gang
+21
+Bobby Darin
+Artificial Flowers
+22
+The Platters
+To Each His Own
+23
+Jerry Butler
+He Will Break Your Heart
+24
+Paul Anka
+Summer's Gone
+25
+Ferrante & Teicher
+Theme From The Apartment
+26
+Brook Benton
+Kiddio
+27
+Duane Eddy His Twangy Guitar And The Rebels
+Peter Gunn
+28
+Damita Jo
+I'll Save The Last Dance For You
+29
+Chubby Checker
+The Twist
+30
+Dinah Washington
+Love Walked In
+31
+The Ventures
+Perfidia
+32
+The Everly Brothers
+So Sad (To Watch Good Love Go Bad)
+33
+Frankie Avalon
+Togetherness
+34
+Lolita
+Sailor (Your Home Is The Sea)
+35
+Elvis Presley With The Jordanaires
+Are You Lonesome To-night?
+36
+Dion
+Lonely Teenager
+37
+Fats Domino
+My Girl Josephine
+38
+Tobin Mathews & Co.
+Ruby Duby Du
+39
+Jimmy Charles and The Revelletts
+A Million To One
+40
+Bobby Rydell
+Sway
+41
+Johnny Burnette
+You're Sixteen
+42
+Jackie Wilson
+Am I The Man
+43
+Etta James
+My Dearest Darling
+44
+The Playmates
+Wait For Me
+45
+The Shirelles
+Tonights The Night
+46
+The Paradons
+Diamonds And Pearls
+47
+Elvis Presley With The Jordanaires
+It's Now Or Never
+48
+Larry Verne
+Mr. Custer
+49
+Connie Francis
+Many Tears Ago
+50
+Bert Kaempfert And His Orchestra
+Wonderland By Night
+51
+Frank Sinatra
+Ol' Mac Donald
+52
+Pat Boone
+Dear John
+53
+Jim Reeves
+Am I Losing You
+54
+Brook Benton
+Fools Rush In (Where Angels Fear To Tread)
+55
+Marty Robbins
+Ballad Of The Alamo
+56
+Ike & Tina Turner
+A Fool In Love
+57
+Fats Domino
+Natural Born Lover
+58
+Marv Johnson
+(You've Got To) Move Two Mountains
+59
+Billy Vaughn And His Orchestra
+The Sundowners
+60
+Fats Domino
+Three Nights A Week
+61
+Bobby Darin
+Somebody To Love
+62
+Anita Bryant
+One Of The Lucky Ones
+63
+Chubby Checker
+Whole Lotta Shakin' Goin' On
+64
+Bud & Travis
+Ballad Of The Alamo
+65
+Elvis Presley With The Jordanaires
+I Gotta Know
+66
+The Everly Brothers
+Like Strangers
+67
+Teresa Brewer
+Anymore
+68
+The Olympics
+Shimmy Like Kate
+69
+Conway Twitty
+Whole Lot Of Shakin' Going On
+70
+Ernie Freeman
+(Theme from) "The Dark At The Top Of The Stairs"
+71
+Ferrante & Teicher
+Exodus
+72
+The Bobbettes
+Have Mercy Baby
+73
+Bobby Hendricks
+Psycho
+74
+Danny & The Juniors
+Twistin' U.S.A.
+75
+Pat Boone
+Alabam
+76
+Cowboy Copas
+Alabam
+77
+James Booker
+Gonzo
+78
+The Mark II
+Night Theme
+79
+Don Costa And His Orchestra And Chorus
+Never On Sunday
+80
+The Ventures
+Walk -- Don't Run
+81
+Patti Page
+I Wish I'd Never Been Born
+82
+The Brothers Four
+The Green Leaves Of Summer
+83
+The Chimes
+Once In Awhile
+84
+Charlie Ryan and the Timberline Riders
+Side Car Cycle
+85
+Etta Jones
+Don't Go To Strangers
+86
+Neil Sedaka
+Run Samson Run
+87
+Bobby Bland
+Cry Cry Cry
+88
+Louis Prima
+Wonderland By Night
+89
+Jim Reeves
+I Missed Me
+90
+Austin Taylor
+Push Push
+91
+James Brown
+The Bells
+92
+Charles Wolcott
+Ruby Duby Du From Key Witness
+93
+Felix Slatkin Orchestra and Chorus
+Theme From The Sundowners
+94
+Cornbread & Biscuits
+The Big Time Spender (Parts I & II)
+95
+Jan & Dean
+Gee
+96
+LaVern Baker
+Bumble Bee
+97
+Don Gibson
+Sweet Dreams
+98
+Brian Hyland
+That's How Much
+99
+The Browns Featuring Jim Edward Brown
+Send Me The Pillow You Dream On
+100
+Annette With The Afterbeats
+Pineapple Princess

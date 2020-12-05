@@ -1,0 +1,300 @@
+1
+Pharrell Williams
+Happy
+2
+Katy Perry Featuring Juicy J
+Dark Horse
+3
+John Legend
+All Of Me
+4
+Jason Derulo Featuring 2 Chainz
+Talk Dirty
+5
+Bastille
+Pompeii
+6
+Lorde
+Team
+7
+Beyonce Featuring Jay Z
+Drunk In Love
+8
+OneRepublic
+Counting Stars
+9
+Idina Menzel
+Let It Go
+10
+Pitbull Featuring Ke$ha
+Timber
+11
+A Great Big World & Christina Aguilera
+Say Something
+12
+Aloe Blacc
+The Man
+13
+Passenger
+Let Her Go
+14
+One Direction
+Story Of My Life
+15
+Kid Ink Featuring Chris Brown
+Show Me
+16
+American Authors
+Best Day Of My Life
+17
+Eminem Featuring Rihanna
+The Monster
+18
+Lorde
+Royals
+19
+Ellie Goulding
+Burn
+20
+Avicii
+Hey Brother
+21
+YG Featuring Jeezy & Rich Homie Quan
+My Hitta
+22
+Imagine Dragons
+Demons
+23
+Avicii
+Wake Me Up!
+24
+Coldplay
+Magic
+25
+Katy Perry
+Roar
+26
+Martin Garrix
+Animals
+27
+DJ Snake & Lil Jon
+Turn Down For What
+28
+The Chainsmokers
+#SELFIE
+29
+Shakira Featuring Rihanna
+Can't Remember To Forget You
+30
+Brantley Gilbert
+Bottoms Up
+31
+Imagine Dragons
+Radioactive
+32
+Ty Dolla $ign Featuring B.o.B
+Paranoid
+33
+Beyonce
+Partition
+34
+Bruno Mars
+Young Girls
+35
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga
+Loyal
+36
+Florida Georgia Line Ft. Jason Derulo & Luke Bryan
+This Is How We Roll
+37
+Miley Cyrus
+Wrecking Ball
+38
+Drake Featuring Majid Jordan
+Hold On, We're Going Home
+39
+Blake Shelton
+Doin' What She Likes
+40
+Sara Bareilles
+Brave
+41
+Jason Aldean
+When She Says Baby
+42
+Demi Lovato
+Neon Lights
+43
+Robin Thicke Featuring T.I. + Pharrell
+Blurred Lines
+44
+Dierks Bentley
+I Hold On
+45
+AWOLNATION
+Sail
+46
+Trey Songz
+Na Na
+47
+Miley Cyrus
+Adore You
+48
+John Newman
+Love Me Again
+49
+Keith Urban
+Cop Car
+50
+Lady Antebellum
+Compass
+51
+Eric Church
+Give Me Back My Hometown
+52
+Christina Perri
+Human
+53
+Jerrod Niemann
+Drink To That All Night
+54
+Scotty McCreery
+See You Tonight
+55
+Luke Bryan
+Drink A Beer
+56
+Frankie Ballard
+Helluva Life
+57
+Young Thug
+Stoner
+58
+Phillip Phillips
+Raging Fire
+59
+Cash Cash Featuring Bebe Rexha
+Take Me Home
+60
+Thomas Rhett
+Get Me Some Of That
+61
+Demi Lovato
+Let It Go
+62
+Rascal Flatts
+Rewind
+63
+Dan + Shay
+19 You + Me
+64
+Jhene Aiko
+The Worst
+65
+Randy Houser
+Goodnight Kiss
+66
+T-Pain Featuring B.o.B
+Up Down (Do This All Day)
+67
+Justin Timberlake
+Not A Bad Thing
+68
+ScHoolboy Q
+Man Of The Year
+69
+Thompson Square
+Everything I Shouldn't Be Thinking About
+70
+Arctic Monkeys
+Do I Wanna Know?
+71
+Naughty Boy Featuring Sam Smith
+La La La
+72
+Kristen Bell, Agatha Lee Monn & Katie Lopez
+Do You Want To Build A Snowman?
+73
+Young Money Featuring Drake
+Trophies
+74
+Kristen Bell & Idina Menzel
+For The First Time In Forever
+75
+Paramore
+Ain't It Fun
+76
+SoMo
+Ride
+77
+Brett Eldredge
+Beat Of The Music
+78
+Rick Ross Featuring Kanye West & Big Sean
+Sanctified
+79
+Imagine Dragons
+On Top Of The World
+80
+Jay Z Featuring Beyonce
+Part II (On The Run)
+81
+Pitbull Featuring G.R.L.
+Wild Wild Love
+82
+Drake
+The Language
+83
+MKTO
+Classic
+84
+U2
+Ordinary Love
+85
+Romeo Santos Featuring Drake
+Odio
+86
+Rick Ross Featuring JAY Z
+The Devil Is A Lie
+87
+Hillsong UNITED
+Oceans (Where Feet May Fail)
+88
+Iggy Azalea Featuring Charli XCX
+Fancy
+89
+Miranda Lambert
+Automatic
+90
+Lorde
+Glory And Gore
+91
+Neon Trees
+Sleeping With A Friend
+92
+Justin Moore
+Lettin' The Night Roll
+93
+Austin Mahone Featuring Pitbull
+Mmm Yeah
+94
+Wisin Featuring Jennifer Lopez & Ricky Martin
+Adrenalina
+95
+K. Michelle
+Can't Raise A Man
+96
+Fitz And The Tantrums
+The Walker
+97
+Rico Love
+They Don't Know
+98
+Katy Perry
+Unconditionally
+99
+Daughtry
+Waiting For Superman
+100
+The 1975
+Chocolate

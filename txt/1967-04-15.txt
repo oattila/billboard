@@ -1,0 +1,300 @@
+1
+Nancy Sinatra & Frank Sinatra
+Somethin' Stupid
+2
+The Turtles
+Happy Together
+3
+Petula Clark
+This Is My Song
+4
+Four Tops
+Bernadette
+5
+The Monkees
+A Little Bit Me, A Little Bit You
+6
+The Five Americans
+Western Union
+7
+Tommy James And The Shondells
+I Think We're Alone Now
+8
+The Mamas & The Papas
+Dedicated To The One I Love
+9
+Aretha Franklin
+I Never Loved A Man (The Way I Love You)
+10
+Martha & The Vandellas
+Jimmy Mack
+11
+Arthur Conley
+Sweet Soul Music
+12
+The Beatles
+Penny Lane
+13
+Herman's Hermits
+There's A Kind Of Hush
+14
+Harpers Bizarre
+The 59th Street Bridge Song (Feelin' Groovy)
+15
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+16
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Beggin'
+17
+Simon & Garfunkel
+At The Zoo
+18
+The Platters
+With This Ring
+19
+The Supremes
+The Happening
+20
+Brenda & The Tabulations
+Dry Your Eyes
+21
+The Beatles
+Strawberry Fields Forever
+22
+The Spencer Davis Group
+I'm A Man
+23
+The Buckinghams
+Don't You Care
+24
+The Young Rascals
+I've Been Lonely Too Long
+25
+Smokey Robinson & The Miracles
+The Love I Saw In You Was Just A Mirage
+26
+Mitch Ryder And The Detroit Wheels
+Sock It To Me-Baby!
+27
+Lesley Gore
+California Nights
+28
+Tom Jones
+Detroit City
+29
+Nancy Sinatra
+Love Eyes
+30
+Jimmy Ruffin
+Gonna Give Her All The Love I've Got
+31
+Sandy Posey
+What A Woman In Love Won't Do
+32
+Ed Ames
+My Cup Runneth Over
+33
+Peaches & Herb
+Close Your Eyes
+34
+Peter And Gordon
+Sunday For Tea
+35
+Joe Tex
+Show Me
+36
+The Hollies
+On A Carousel
+37
+Keith
+Tell Me To My Face
+38
+The Dave Clark Five
+You Got What It Takes
+39
+The Monkees
+The Girl I Knew Somewhere
+40
+Stevie Wonder
+Travlin' Man
+41
+The Buckinghams
+Laudy Miss Claudy
+42
+Herman's Hermits
+No Milk Today
+43
+Wilson Pickett
+I Found A Love - Part 1
+44
+Sam & Dave
+When Something Is Wrong With My Baby
+45
+The Electric Prunes
+Get Me To The World On Time
+46
+The Easybeats
+Friday On My Mind
+47
+Andy Williams
+Music To Watch Girls By
+48
+Johnny Rivers
+Baby I Need Your Lovin'
+49
+Nancy Sinatra with Lee Hazlewood
+Summer Wine
+50
+Dusty Springfield
+I'll Try Anything
+51
+Roger Miller
+Walkin' In The Sunshine
+52
+The Byrds
+My Back Pages
+53
+Neil Diamond
+Girl, You'll Be A Woman Soon
+54
+Sam The Sham and the Pharaohs
+Oh That's Good, No That's Bad
+55
+Lou Rawls
+Dead End Street Monologue/Dead End Street
+56
+Gary Lewis And The Playboys
+The Loser (With A Broken Heart)
+57
+The Yellow Balloon
+Yellow Balloon
+58
+The Mojo Men
+Sit Down, I Think I Love You
+59
+The Happenings
+I Got Rhythm
+60
+? (Question Mark) & The Mysterians
+Can't Get Enough Of You, Baby
+61
+Eric Burdon & The Animals
+When I Was Young
+62
+Ray Price
+Danny Boy
+63
+Booker T. & The MG's
+Hip Hug-Her
+64
+Blues Magoos
+Pipe Dream
+65
+Herb Alpert & The Tijuana Brass
+Casino Royale
+66
+Gene Chandler
+Girl Don't Care
+67
+The Nitty Gritty Dirt Band
+Buy For Me The Rain
+68
+Jefferson Airplane
+Somebody To Love
+69
+The Artistics
+Girl I Need You
+70
+Freddie Scott
+Cry To Me
+71
+Engelbert Humperdinck
+Release Me (And Let Me Love Again)
+72
+The Tremeloes
+Here Comes My Baby
+73
+Percy Sledge
+Out Of Left Field
+74
+Toussaint McCall
+Nothing Takes The Place Of You
+75
+Frankie Laine
+Making Memories
+76
+The Romeos
+Precious Memories
+77
+The Fantastic Four
+The Whole World Is A Stage
+78
+Bobby Darin
+The Lady Came From Baltimore
+79
+Cannonball Adderley
+Why? (Am I Treated So Bad)
+80
+Otis Redding
+I Love You More Than Words Can Say
+81
+Blues Magoos
+There's A Chance We Can Make It
+82
+James & Bobby Purify
+Shake A Tail Feather
+83
+Lou Courtney
+Do The Thing
+84
+The Parade
+Sunshine Girl
+85
+The Contours
+It's So Hard Being A Loser
+86
+The Tokens
+Portrait Of My Love
+87
+Jerry Jaye
+My Girl Josephine
+88
+Dionne Warwick
+Alfie
+89
+The Five Stairsteps
+Ain't Gonna Rest (Till I Get You)
+90
+Walter Jackson
+Speak Her Name
+91
+Dyke And The Blazers
+Funky Broadway Part I
+92
+Aaron Neville
+She Took You For A Ride
+93
+The Raelets/Ray Charles Orchestra
+One Hurt Deserves Another
+94
+Connie Francis
+Time Alone Will Tell
+95
+William Bell
+Everybody Loves A Winner
+96
+Johnny Thunder & Ruby Winters
+Make Love To Me
+97
+Buck Owens and The Buckaroos
+Sam's Place
+98
+Brenton Wood
+The Oogum Boogum Song
+99
+The Who
+Happy Jack
+100
+Jack Jones
+I'm Indestructible

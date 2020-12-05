@@ -1,0 +1,300 @@
+1
+Elton John
+Lucy In The Sky With Diamonds
+2
+Barry White
+You're The First, The Last, My Everything
+3
+Paul McCartney And Wings
+Junior's Farm/Sally G
+4
+Neil Sedaka
+Laughter In The Rain
+5
+Barry Manilow
+Mandy
+6
+Ringo Starr
+Only You
+7
+Stevie Wonder
+Boogie On Reggae Woman
+8
+Carpenters
+Please Mr. Postman
+9
+Carl Douglas
+Kung Fu Fighting
+10
+Paul Anka with Odia Coates
+One Man Woman/One Woman Man
+11
+Donny & Marie Osmond
+Morning Side Of The Mountain
+12
+Jethro Tull
+Bungle In The Jungle
+13
+Helen Reddy
+Angie Baby
+14
+Gloria Gaynor
+Never Can Say Goodbye
+15
+George Harrison
+Dark Horse
+16
+Ohio Players
+Fire
+17
+Carol Douglas
+Doctor's Orders
+18
+AWB
+Pick Up The Pieces
+19
+Grand Funk
+Some Kind Of Wonderful
+20
+Mac Davis
+Rock N' Roll (I Gave You The Best Years Of My Life)
+21
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+22
+Harry Chapin
+Cat's In The Cradle
+23
+Al Green
+Sha-La-La (Make Me Happy)
+24
+Paul Davis
+Ride 'em Cowboy
+25
+Rufus Featuring Chaka Khan
+You Got The Love
+26
+Eagles
+Best Of My Love
+27
+Lynyrd Skynyrd
+Free Bird
+28
+The Three Degrees
+When Will I See You Again
+29
+Linda Ronstadt
+You're No Good
+30
+Barbara Mason
+From His Woman To You
+31
+Love Unlimited
+I Belong To You
+32
+Billy Preston
+Struttin'
+33
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+34
+Billy Joel
+The Entertainer
+35
+John Lennon
+#9 Dream
+36
+Cat Stevens
+Ready
+37
+John Denver
+Sweet Surrender
+38
+The Doobie Brothers
+Black Water
+39
+Gladys Knight And The Pips
+I Feel A Song (In My Heart)/Don't Burn Down The Bridge
+40
+Billy Swan
+I Can Help
+41
+Billy "Crash" Craddock
+Ruby, Baby
+42
+David Bowie
+Changes
+43
+The Guess Who
+Dancin' Fool
+44
+The J. Geils Band
+Must Of Got Lost
+45
+B.T. Express
+Do It ('til You're Satisfied)
+46
+Jim Stafford
+Your Bulldog Drinks Champagne
+47
+The Joneses
+Sugar Pie Guy Pt. 1
+48
+Frankie Valli
+My Eyes Adored You
+49
+Elvis Presley
+Promised Land
+50
+America
+Lonely People
+51
+Styx
+Lady
+52
+Electric Light Orchestra
+Can't Get It Out Of My Head
+53
+The Temptations
+Happy People
+54
+The O'Jays
+Sunshine Part II
+55
+Carole King
+Nightingale
+56
+Carl Graves
+Baby, Hang Up The Phone
+57
+The Rolling Stones
+Ain't Too Proud To Beg
+58
+Shirley Brown
+Woman To Woman
+59
+Chicago
+Wishing You Were Here
+60
+James Brown
+Funky President (People It's Bad)/Coldblooded
+61
+The Kiki Dee Band
+I've Got The Music In Me
+62
+Bobby Vinton
+My Melody Of Love
+63
+Joni Mitchell
+Big Yellow Taxi
+64
+B.B. King
+Philadelphia
+65
+Candi Staton
+As Long As He Takes Care Of Home
+66
+Maria Muldaur
+I'm A Woman
+67
+Bachman-Turner Overdrive
+You Ain't Seen Nothing Yet/Free Wheelin'
+68
+Michael Holm
+When A Child Is Born
+69
+Anne Murray
+Day Tripper
+70
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+71
+The Pointer Sisters
+Fairytale
+72
+Roy Rogers
+Hoppy, Gene And Me
+73
+Tavares
+She's Gone
+74
+Smokey Robinson
+I Am I Am
+75
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+76
+Latimore
+Let's Straighten It Out
+77
+Eddie Kendricks
+One Tear
+78
+The Miracles
+Don't Cha Love It
+79
+Neil Diamond
+Longfellow Serenade
+80
+The Isley Brothers
+Midnight Sky (Part 1)
+81
+George Harrison
+Ding Dong; Ding Dong
+82
+Peter Shelley
+Gee Baby
+83
+Splinter
+Costafine Town
+84
+Kool & The Gang
+Rhyme Tyme People
+85
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+86
+Diamond Reo
+Ain't That Peculiar
+87
+Phoebe Snow
+Poetry Man
+88
+The Manhattans
+Don't Take Your Love
+89
+Bill Withers
+Heartbreak Road
+90
+Sweet Sensation
+Sad Sweet Dreamer
+91
+Lamont Dozier
+Let Me Start Tonite
+92
+Sister Sledge
+Love Don't You Go Through No Changes On Me
+93
+Lynn Anderson
+What A Man, My Man Is
+94
+The Tymes
+Ms. Grace
+95
+Margie Joseph
+Words (are Impossible)
+96
+Labelle
+Lady Marmalade
+97
+Polly Brown
+Up In A Puff Of Smoke
+98
+Shirley And Company
+Shame, Shame, Shame
+99
+Al Wilson
+I Won't Last A Day Without You/Let Me Be The One
+100
+Chilliwack
+Crazy Talk

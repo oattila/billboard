@@ -1,0 +1,300 @@
+1
+Snow
+Informer
+2
+Silk
+Freak Me
+3
+Dr. Dre
+Nuthin' But A "G" Thang
+4
+Whitney Houston
+I Have Nothing
+5
+Jade
+Don't Walk Away
+6
+Whitney Houston
+I'm Every Woman (From "The Bodyguard")
+7
+Duran Duran
+Ordinary World
+8
+Arrested Development
+Mr. Wendal
+9
+Ugly Kid Joe
+Cat's In The Cradle
+10
+Bon Jovi
+Bed Of Roses
+11
+Spin Doctors
+Two Princes
+12
+Peabo Bryson & Regina Belle
+A Whole New World (Aladdin's Theme)
+13
+Shai
+Comforter
+14
+Naughty By Nature
+Hip Hop Hooray
+15
+Vanessa Williams/Brian McKnight
+Love Is (From "Beverly Hills, 90210")
+16
+SWV
+I'm So Into You
+17
+Jeremy Jordan
+The Right Kind Of Love (From "Beverly Hills, 90210")
+18
+Positive K
+I Got A Man
+19
+Paperboy
+Ditty
+20
+Kenny G
+Forever In Love
+21
+Boy Krazy
+That's What Love Can Do
+22
+Whitney Houston
+I Will Always Love You
+23
+Jon Secada
+Angel
+24
+P.M. Dawn
+Looking Through Patient Eyes
+25
+Digable Planets
+Rebirth Of Slick (Cool Like Dat)
+26
+Sting
+If I Ever Lose My Faith In You
+27
+Prince And The New Power Generation
+7
+28
+Mary J. Blige
+Sweet Thing
+29
+Portrait
+Here We Go Again!
+30
+R.E.M.
+Man On The Moon
+31
+Ice Cube
+It Was A Good Day
+32
+Michael Jackson
+Heal The World
+33
+Run-D.M.C.
+Down With The King
+34
+Joey Lawrence
+Nothin' My Love Can't Fix
+35
+Boy George
+The Crying Game (From "The Crying Game")
+36
+Bobby Brown
+Get Away
+37
+Shai
+If I Ever Fall In Love
+38
+Snap!
+Rhythm Is A Dancer
+39
+Madonna
+Bad Girl
+40
+Elton John
+Simple Life
+41
+Men At Large
+So Alone
+42
+TLC
+Hat 2 Da Back
+43
+Duice
+Dazzey Duks
+44
+Jon Secada
+Do You Believe In Us
+45
+Wreckx-N-Effect
+Rump Shaker
+46
+Depeche Mode
+I Feel You
+47
+Sunscreem
+Love U More
+48
+Gloria Estefan
+I See Your Smile
+49
+Shanice
+Saving Forever For You (From "Beverly Hills, 90210")
+50
+INXS
+Beautiful Girl
+51
+Boyz II Men
+In The Still Of The Nite (From "The Jacksons")
+52
+Bizarre Inc
+I'm Gonna Get You
+53
+RuPaul
+Supermodel (You Better Work)
+54
+R. Kelly & Public Announcement
+Dedicated
+55
+Dolly Parton & Friends
+Romeo
+56
+Young Black Teenagers
+Tap The Bottle
+57
+LL Cool J
+How I'm Comin'
+58
+Faith No More
+Easy
+59
+En Vogue
+Give It Up, Turn It Loose
+60
+Wendy Moten
+Come In Out Of The Rain
+61
+Baltimora
+Tarzan Boy (From "Teenage Mutant Ninja Turtles III")
+62
+Mary Chapin Carpenter
+Passionate Kisses
+63
+Go West
+What You Won't Do For Love
+64
+Father M.C.
+Everything's Gonna Be Alright
+65
+En Vogue
+Love Don't Love You
+66
+Green Jelly
+Three Little Pigs
+67
+Michael Cooper
+Shoop Shoop (Never Stop Givin' You Love)
+68
+10,000 Maniacs
+Candy Everybody Wants
+69
+Stereo MC's
+Connected
+70
+Billy Ray Cyrus
+She's Not Cryin' Anymore
+71
+Restless Heart Featuring Warren Hill
+Tell Me What You Dream
+72
+Michael W. Smith
+Somebody Love Me
+73
+Neneh Cherry
+Buddy X
+74
+Lighter Shade Of Brown
+Homies
+75
+Chaka Demus & Pliers
+Murder She Wrote
+76
+Remedy
+Closer
+77
+Prince And The New Power Generation
+The Morning Papers
+78
+Sound Factory
+Understand This Groove
+79
+Annie Lennox
+Little Bird
+80
+Levert
+Good Ol' Days
+81
+Onyx
+Throw Ya Gunz
+82
+Expose
+I'll Never Get Over You (Getting Over Me)
+83
+Sade
+Kiss Of Life
+84
+Lords Of The Underground
+Funky Child
+85
+Jude Cole
+Tell The Truth
+86
+The Flavor Unit MC's
+Roll Wit Tha Flava
+87
+Wreckx-N-Effect
+Knock-N-Boots
+88
+Patty Smyth
+No Mistakes
+89
+Bad Boys Blue
+Save Your Love
+90
+Mary J. Blige
+Reminisce
+91
+Def Leppard
+Tonight
+92
+Brand Nubian
+Love Me Or Leave Me Alone
+93
+Monie Love
+Born 2 B.R.E.E.D.
+94
+Prince Markie Dee And The Soul Convention
+Typical Reasons (Swing My Way)
+95
+Robin S.
+Show Me Love
+96
+Poison
+Stand
+97
+Black Moon
+Who Got The Props
+98
+Regina Belle
+If I Could
+99
+Apache
+Gangsta Bitch
+100
+Rapination & Kym Mazelle
+Love Me The Right Way

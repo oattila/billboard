@@ -1,0 +1,300 @@
+1
+Elton John
+Crocodile Rock
+2
+Carly Simon
+You're So Vain
+3
+Stevie Wonder
+Superstition
+4
+Timmy Thomas
+Why Can't We Live Together
+5
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+6
+Hurricane Smith
+Oh, Babe, What Would You Say?
+7
+Marvin Gaye
+Trouble Man
+8
+War
+The World Is A Ghetto
+9
+Steely Dan
+Do It Again
+10
+Wings
+Hi, Hi, Hi
+11
+Billy Paul
+Me And Mrs. Jones
+12
+Lobo
+Don't Expect Me To Be Your Friend
+13
+The Spinners
+Could It Be I'm Falling In Love
+14
+John Denver
+Rocky Mountain High
+15
+King Harvest
+Dancing In The Moonlight
+16
+Brighter Side Of Darkness
+Love Jones
+17
+Curtis Mayfield
+Superfly
+18
+Deliverance/Eric Weissberg & Steve Mandell
+Dueling Banjos
+19
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+20
+Elvis Presley
+Separate Ways
+21
+Jermaine Jackson
+Daddy's Home
+22
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+23
+Gilbert O'Sullivan
+Clair
+24
+Edward Bear
+Last Song
+25
+Joni Mitchell
+You Turn Me On, I'm A Radio
+26
+James Taylor
+Don't Let Me Be Lonely Tonight
+27
+Don McLean
+Dreidel
+28
+The O'Jays
+Love Train
+29
+Bette Midler
+Do You Want To Dance?
+30
+Donna Fargo
+Funny Face
+31
+Raspberries
+I Wanna Be With You
+32
+Chuck Berry
+Reelin' & Rockin'
+33
+Bobby Womack & Peace
+Harry Hippie
+34
+Roberta Flack
+Killing Me Softly With His Song
+35
+Blue Haze
+Smoke Gets In Your Eyes
+36
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+37
+Three Dog Night
+Pieces Of April
+38
+Eagles
+Peaceful Easy Feeling
+39
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+40
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+41
+Jethro Tull
+Living In The Past
+42
+Gallery
+Big City Miss Ruth Ann
+43
+The Doobie Brothers
+Jesus Is Just Alright
+44
+The 5th Dimension
+Living Together, Growing Together
+45
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+46
+James Brown
+I Got Ants In My Pants (and i want to dance) (Part 1)
+47
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+48
+The Main Ingredient
+You've Got To Take It (If You Want It)
+49
+Anne Murray
+Danny's Song
+50
+Seals & Crofts
+Hummingbird
+51
+Emerson, Lake & Palmer
+Lucky Man
+52
+Barbara Mason
+Give Me Your Love
+53
+Diana Ross
+Good Morning Heartache
+54
+Keith Hampshire
+Daytime Night-Time
+55
+Holland-Dozier
+Don't Leave Me Starvin' For Your Love (Part 1)
+56
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+57
+America
+Don't Cross The River
+58
+The Moody Blues
+I'm Just A Singer (In A Rock And Roll Band)
+59
+Cashman & West
+Songman
+60
+David Bowie
+Space Oddity
+61
+Engelbert Humperdinck
+I Never Said Goodbye
+62
+Gladys Knight And The Pips
+Neither One Of Us (Wants To Be The First To Say Goodbye)
+63
+Valerie Simpson
+Silly Wasn't I
+64
+Little Jimmy Osmond
+Tweedlee Dee
+65
+Joe Stampley
+Soul Song
+66
+Loudon Wainwright III
+Dead Skunk
+67
+Les Emmerson
+Control Of Me
+68
+Sam Neely
+Rosalie
+69
+Cymande
+The Message
+70
+Paul Davis
+Boogie Woogie Man
+71
+Bettye Swann
+Today I Started Loving You Again
+72
+Alice Cooper
+Hello Hurray
+73
+Albert Hammond
+It Never Rains In Southern California
+74
+Deodato
+Also Sprach Zarathustra (2001)
+75
+Rick Nelson And The Stone Canyon Band
+Palace Guard
+76
+Rita Coolidge
+Fever/My Crew
+77
+Bobby Darin
+Happy
+78
+Bread
+Aubrey
+79
+Al Green
+Hot Wire
+80
+Jim Croce
+One Less Set Of Footsteps
+81
+The Grass Roots
+Love Is What You Make It
+82
+Bobby Vinton
+But I Do
+83
+Johnny Williams
+Slow Motion (Part 1)
+84
+Travis Wammack
+How Can I Tell You
+85
+Helen Reddy
+Peaceful
+86
+Austin Roberts
+Keep On Singing
+87
+Four Tops
+Ain't No Woman (Like The One I've Got)
+88
+Bill Withers
+Kissing My Love
+89
+The Sweet
+Little Willy
+90
+The Guess Who
+Follow Your Daughter Home
+91
+Uriah Heep
+Blind Eye/Sweet Lorraine
+92
+Candi Staton
+Do It In The Name Of Love
+93
+Paul Kelly
+Don't Burn Me
+94
+Grateful Dead
+Sugar Magnolia
+95
+The New Seekers
+Come Softly To Me
+96
+The Whispers
+Somebody Loves You
+97
+The Sylvers
+Wish That I Could Talk To You
+98
+Dottie West
+If It's All Right With You
+99
+Rare Earth
+We're Gonna Have A Good Time
+100
+The Raiders
+Love Music

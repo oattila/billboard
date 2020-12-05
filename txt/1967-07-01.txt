@@ -1,0 +1,300 @@
+1
+The Association
+Windy
+2
+The Young Rascals
+Groovin'
+3
+The Music Explosion
+Little Bit O' Soul
+4
+Scott McKenzie
+San Francisco (Be Sure To Wear Flowers In Your Hair)
+5
+The Turtles
+She'd Rather Be With Me
+6
+Aretha Franklin
+Respect
+7
+Frankie Valli
+Can't Take My Eyes Off You
+8
+The Grass Roots
+Let's Live For Today
+9
+Every Mothers' Son
+Come On Down To My Boat
+10
+Petula Clark
+Don't Sleep In The Subway
+11
+The Fifth Estate
+Ding Dong! The Witch Is Dead
+12
+The 5th Dimension
+Up -- Up And Away
+13
+Johnny Rivers
+The Tracks Of My Tears
+14
+Bee Gees
+New York Mining Disaster 1941 (Have You Seen My Wife, Mr. Jones)
+15
+Dionne Warwick
+Alfie
+16
+Spanky And Our Gang
+Sunday Will Never Be The Same
+17
+Jefferson Airplane
+Somebody To Love
+18
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+C'mon Marianne
+19
+The Doors
+Light My Fire
+20
+Four Tops
+7 Rooms Of Gloom
+21
+Marvin Gaye & Tammi Terrell
+Ain't No Mountain High Enough
+22
+Janis Ian
+Society's Child (Baby I've Been Thinking)
+23
+Ray Charles
+Here We Go Again
+24
+Jon & Robin And The In Crowd
+Do It Again A Little Bit Slower
+25
+Stevie Wonder
+I Was Made To Love Her
+26
+Oscar Toney, Jr.
+For Your Precious Love
+27
+Engelbert Humperdinck
+Release Me (And Let Me Love Again)
+28
+Procol Harum
+A Whiter Shade Of Pale
+29
+The Hollies
+Pay You Back With Interest
+30
+Al Martino
+Mary In The Morning
+31
+Bar-Kays
+Soul Finger
+32
+Bettye Swann
+Make Me Yours
+33
+Jefferson Airplane
+White Rabbit
+34
+Arthur Conley
+Shake, Rattle & Roll
+35
+The Dave Clark Five
+You Must Have Been A Beautiful Baby
+36
+The Buckinghams
+Mercy, Mercy, Mercy
+37
+Harpers Bizarre
+Come To The Sunshine
+38
+Sammy Davis Jr.
+Don't Blame The Children
+39
+Sandy Posey
+I Take It Back
+40
+The Temptations
+All I Need
+41
+The American Breed
+Step Out Of Your Mind
+42
+Smokey Robinson & The Miracles
+More Love
+43
+The Everly Brothers
+Bowling Green
+44
+Otis & Carla
+Tramp
+45
+The Hollies
+Carrie-Anne
+46
+Peaches & Herb
+For Your Love
+47
+Tommy James And The Shondells
+Mirage
+48
+The Happenings
+I Got Rhythm
+49
+Herman's Hermits
+Don't Go Out Into The Rain (You're Going To Melt)
+50
+Nancy Sinatra & Lee Hazlewood
+Jackson
+51
+The Five Americans
+Sound Of Love
+52
+Brenton Wood
+The Oogum Boogum Song
+53
+Percy Sledge
+Love Me Tender
+54
+The Royal Guardsmen
+Airplane Song (My Airplane)
+55
+Fantastic Four
+You Gave Me Something (And Everything's Alright)
+56
+Joe Tex
+Woman Like That, Yeah
+57
+The Sweet Inspirations
+Why (Am I Treated So Bad)
+58
+The Tremeloes
+Silence Is Golden
+59
+The Arbors
+Graduation Day
+60
+Wilson Pickett
+Soul Dance Number Three
+61
+J.J. Barnes
+Baby Please Come Back Home
+62
+Frankie Laine
+You Wanted Someone To Play With (I Wanted Someone To Love)
+63
+Engelbert Humperdinck
+There Goes My Everything
+64
+The Spencer Davis Group
+Somebody Help Me
+65
+The Five Stairsteps
+Oooh, Baby Baby
+66
+Lesley Gore
+Summer And Sandy
+67
+Brenda & The Tabulations
+Who's Lovin' You
+68
+The Choir
+It's Cold Outside
+69
+Sam & Dave
+Soothe Me
+70
+Brenda & The Tabulations
+Stay Together Young Lovers
+71
+Blues Magoos
+One By One
+72
+Nancy Sinatra
+You Only Live Twice
+73
+Jack Jones
+Now I Know
+74
+The Byrds
+Have You Seen Her Face
+75
+Sam The Sham and the Pharaohs
+Black Sheep
+76
+Linda Jones
+Hypnotized
+77
+Tommy James And The Shondells
+I Like The Way
+78
+Lou Rawls
+Show Business
+79
+Crispian St. Peters
+You Were On My Mind
+80
+Keith
+Daylight Savin' Time
+81
+Toussaint McCall
+I'll Do It For You
+82
+Sergio Mendes & Brasil '66
+Night And Day
+83
+The Glories
+I Stand Accused (Of Loving You)
+84
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+85
+The Love Generation
+Groovy Summertime
+86
+Carla Thomas
+I'll Always Have Faith In You
+87
+Solomon Burke
+Take Me (Just As I Am)
+88
+Pieces Of Eight
+Lonely Drifter
+89
+Dusty Springfield
+Give Me Time
+90
+The Who
+Pictures Of Lily
+91
+Bobby Powell
+Why (Am I Treated So Bad)
+92
+The Johnny Mann Singers
+Up-Up And Away
+93
+Sagittarius
+My World Fell Down
+94
+Gene Chandler
+To Be A Lover
+95
+The Parliaments
+(I Wanna) Testify
+96
+Marvin Gaye
+Your Unchanging Love
+97
+The Platters
+Washed Ashore (On A Lonely Island In The Sea)
+98
+Eddie Floyd
+Don't Rock The Boat
+99
+The Kinks
+Mr. Pleasant
+100
+Mitch Ryder
+Joy

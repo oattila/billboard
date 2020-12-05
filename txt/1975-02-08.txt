@@ -1,0 +1,300 @@
+1
+Ohio Players
+Fire
+2
+Linda Ronstadt
+You're No Good
+3
+Stevie Wonder
+Boogie On Reggae Woman
+4
+AWB
+Pick Up The Pieces
+5
+Eagles
+Best Of My Love
+6
+Grand Funk
+Some Kind Of Wonderful
+7
+The Doobie Brothers
+Black Water
+8
+Neil Sedaka
+Laughter In The Rain
+9
+America
+Lonely People
+10
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+11
+Carol Douglas
+Doctor's Orders
+12
+Frankie Valli
+My Eyes Adored You
+13
+John Lennon
+#9 Dream
+14
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+15
+Carpenters
+Please Mr. Postman
+16
+Barry Manilow
+Mandy
+17
+John Denver
+Sweet Surrender
+18
+Donny & Marie Osmond
+Morning Side Of The Mountain
+19
+Carole King
+Nightingale
+20
+Gloria Gaynor
+Never Can Say Goodbye
+21
+Styx
+Lady
+22
+Mac Davis
+Rock N' Roll (I Gave You The Best Years Of My Life)
+23
+Electric Light Orchestra
+Can't Get It Out Of My Head
+24
+Jim Stafford
+Your Bulldog Drinks Champagne
+25
+Maria Muldaur
+I'm A Woman
+26
+Joni Mitchell
+Big Yellow Taxi
+27
+Love Unlimited
+I Belong To You
+28
+Paul Anka with Odia Coates
+One Man Woman/One Woman Man
+29
+Labelle
+Lady Marmalade
+30
+Bachman-Turner Overdrive
+Roll On Down The Highway
+31
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+32
+Elton John
+Lucy In The Sky With Diamonds
+33
+B.T. Express
+Express
+34
+Olivia Newton-John
+Have You Never Been Mellow
+35
+Billy Preston
+Struttin'
+36
+George Harrison
+Ding Dong; Ding Dong
+37
+Phoebe Snow
+Poetry Man
+38
+Polly Brown
+Up In A Puff Of Smoke
+39
+Bad Company
+Movin' On
+40
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+41
+The Temptations
+Happy People
+42
+Elvis Presley
+My Boy
+43
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+44
+Diamond Reo
+Ain't That Peculiar
+45
+The Manhattans
+Don't Take Your Love
+46
+Cat Stevens
+Ready
+47
+Sweet Sensation
+Sad Sweet Dreamer
+48
+Minnie Riperton
+Lovin' You
+49
+David Gates
+Never Let Her Go
+50
+Paul McCartney And Wings
+Junior's Farm/Sally G
+51
+Lynyrd Skynyrd
+Free Bird
+52
+Jackson 5
+I Am Love (Parts I & II)
+53
+Shirley And Company
+Shame, Shame, Shame
+54
+Barry White
+You're The First, The Last, My Everything
+55
+Jethro Tull
+Bungle In The Jungle
+56
+Ringo Starr
+Only You
+57
+The Stylistics
+Star On A TV Show
+58
+Ramsey Lewis And Earth, Wind & Fire
+Hot Dawgit
+59
+David Bowie
+Changes
+60
+Carl Douglas
+Kung Fu Fighting
+61
+Helen Reddy
+Angie Baby
+62
+Neil Diamond
+I've Been This Way Before
+63
+Paul Davis
+Ride 'em Cowboy
+64
+Millie Jackson
+If Loving You Is Wrong I Don't Want To Be Right
+65
+Kool & The Gang
+Rhyme Tyme People
+66
+Charlie Ross
+Thanks For The Smiles
+67
+Jim Capaldi
+It's All Right
+68
+Sammy Johns
+Chevy Van
+69
+George McCrae
+I Get Lifted
+70
+Harry Chapin
+Cat's In The Cradle
+71
+Hello People
+Future Shock
+72
+Helen Reddy
+Emotion
+73
+Charlie Rich
+My Elusive Dreams
+74
+Sam Neely
+I Fought The Law
+75
+Smokey Robinson
+I Am I Am
+76
+Paula Webb
+Please, Mr. President
+77
+Dan Fogelberg
+Part Of The Plan
+78
+Ringo Starr
+No No Song/snookeroo
+79
+Flash Cadillac And The Continental Kids
+Good Times, Rock & Roll
+80
+C.W. McCall
+Wolf Creek Pass
+81
+Al Wilson
+I Won't Last A Day Without You/Let Me Be The One
+82
+Fanny
+Butter Boy
+83
+Maureen McGovern
+We May Never Love Like This Again
+84
+T.G. Sheppard
+Devil In The Bottle
+85
+Ben E. King
+Supernatural Thing - Part I
+86
+The Charlie Daniels Band
+The South's Gonna Do It
+87
+Loggins & Messina
+Changes
+88
+The Blackbyrds
+Walking In Rhythm
+89
+Hot Chocolate
+Emma
+90
+Love Unlimited Orchestra
+Satin Soul
+91
+B.J. Thomas
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+92
+Freddy Fender
+Before The Next Teardrop Falls
+93
+Jim Weatherly
+I'll Still Love You
+94
+Ozark Mountain Daredevils
+Jackie Blue
+95
+Stark & McBrien
+Isn't It Lonely Together
+96
+Tim Moore
+Charmer
+97
+Philly Devotions
+I Just Can't Say Goodbye
+98
+Queen
+Killer Queen
+99
+Herbie Mann
+Hijack
+100
+Leon Haywood
+Believe Half Of What You See (And None Of What You Hear)

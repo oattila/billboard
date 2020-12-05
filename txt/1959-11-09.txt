@@ -1,0 +1,300 @@
+1
+Bobby Darin
+Mack The Knife
+2
+The Fleetwoods
+Mr. Blue
+3
+Paul Anka
+Put Your Head On My Shoulder
+4
+Della Reese
+Don't You Know
+5
+Andy Williams
+Lonely Street
+6
+Sandy Nelson
+Teen Beat
+7
+Wink Martindale
+Deck Of Cards
+8
+Jerry Wallace With The Jewels
+Primrose Lane
+9
+Paul Evans and the Curls
+(Seven Little Girls) Sitting In The Back Seat
+10
+Guy Mitchell
+Heartaches By The Number
+11
+Conway Twitty
+Danny Boy
+12
+Brook Benton
+So Many Ways
+13
+Ernie Fields & Orch.
+In The Mood
+14
+The Coasters
+Poison Ivy
+15
+Frankie Avalon
+Just Ask Your Heart
+16
+Neil Sedaka
+Oh! Carol
+17
+Dinah Washington
+Unforgettable
+18
+The Islanders
+The Enchanted Sea
+19
+The Everly Brothers
+('til) I Kissed You
+20
+Johnny Mathis
+Misty
+21
+Bobby Rydell
+We Got Love
+22
+Fats Domino
+Be My Guest
+23
+The Drifters
+Dance With Me
+24
+The Mormon Tabernacle Choir
+Battle Hymn Of The Republic
+25
+Rock-A-Teens
+Woo-Hoo
+26
+Fireflies
+You Were Mine
+27
+Dee Clark
+Hey Little Girl
+28
+Johnny And The Hurricanes
+Red River Rock
+29
+Santo & Johnny
+Sleep Walk
+30
+The Kingston Trio
+A Worried Man
+31
+Cliff Richard and The Drifters
+Living Doll
+32
+Bo Diddley
+Say Man
+33
+The Clovers
+Love Potion No. 9
+34
+Ivo Robic and The Song-Masters
+Morgen
+35
+The Crests
+The Angels Listened In
+36
+Fats Domino
+I've Been Around
+37
+Bob Beckham
+Just As Much As Ever
+38
+Tommy Facenda
+High School U.S.A.
+39
+Kitty Kallen
+If I Give My Heart To You
+40
+Duane Eddy His Twangy Guitar And The Rebels
+Some Kind-A Earthquake
+41
+The Exotic Sounds of Martin Denny
+The Enchanted Sea
+42
+Fireballs
+Torquay
+43
+Royal Teens
+Believe Me
+44
+Lloyd Price and His Orchestra
+Come Into My Heart
+45
+Johnny And The Hurricanes
+Reveille Rock
+46
+Bill Haley And His Comets
+Joey's Song
+47
+Jimmie Rodgers
+Tucumcari
+48
+Frank Sinatra
+Talk To Me
+49
+The Spacemen
+The Clouds
+50
+Floyd Robinson
+Makin' Love
+51
+Gene & Eunice
+Poco-Loco
+52
+The Browns
+The Three Bells
+53
+Ronnie Hawkins and The Hawks
+Mary Lou
+54
+Jackie Wilson
+You Better Know It
+55
+The Isley Brothers
+Shout - Part 1
+56
+Sammy Turner
+Always
+57
+The Drifters
+(If You Cry) True Love, True Love
+58
+Annette With The Afterbeats
+First Name Initial
+59
+Lloyd Price
+I'm Gonna Get Married
+60
+Pat Boone
+Fools Hall Of Fame
+61
+Sarah Vaughan
+Broken-Hearted Melody
+62
+Chet Atkins
+Boo Boo Stick Beat
+63
+Nina Simone
+I Loves You, Porgy
+64
+Ruth Brown
+I Don't Know
+65
+Duane Eddy His Twangy Guitar And The Rebels
+First Love, First Tears
+66
+Carl Mann
+Pretend
+67
+The Skyliners
+It Happened Today
+68
+The Revels
+Midnight Stroll
+69
+Homer And Jethro
+The Battle Of Kookamonga
+70
+Webb Pierce
+I Ain't Never
+71
+Johnny Preston
+Running Bear
+72
+Marv Johnson
+You Got What It Takes
+73
+Clyde McPhatter
+You Went Back On Your Word
+74
+Annette With The Afterbeats
+My Heart Became Of Age
+75
+The Browns
+Scarlet Ribbons (For Her Hair)
+76
+Bobby Comstock
+Tennessee Waltz
+77
+Gary Stites
+Starry Eyed
+78
+Bobby Peterson Quintet
+The Hunch
+79
+Jack Scott
+There Comes A Time
+80
+Rocco Granata and the International Quintet
+Marina
+81
+Jerry Fuller
+Tennessee Waltz
+82
+LaVern Baker
+Tiny Tim
+83
+Paul Gayten
+The Hunch
+84
+The Passions
+Just To Be With You
+85
+Skip And Flip
+Fancy Nancy
+86
+The Nutty Squirrels
+Uh! Oh! Part 2
+87
+Jane Morgan
+Happy Anniversary
+88
+Marty Robbins
+El Paso
+89
+Sarah Vaughan
+Smooth Operator
+90
+The Four Lads
+Happy Anniversary
+91
+The Knightsbridge Strings
+Wheel Of Fortune
+92
+Poni-Tails
+I'll Be Seeing You
+93
+Rod Bernard
+One More Chance
+94
+Crash Craddock
+Don't Destroy Me
+95
+Tommy Edwards
+Honestly And Truly
+96
+Ray Charles and his Orchestra
+I'm Movin' On
+97
+Jan & Dean
+There's A Girl
+98
+Ralph DeMarco
+Old Shep
+99
+Sam Cooke
+There, I've Said It Again
+100
+Lloyd Price and His Orchestra
+Wont'cha Come Home

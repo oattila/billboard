@@ -1,0 +1,300 @@
+1
+Marvin Gaye
+I Heard It Through The Grapevine
+2
+Stevie Wonder
+For Once In My Life
+3
+Diana Ross And The Supremes & The Temptations
+I'm Gonna Make You Love Me
+4
+Young-Holt Unlimited
+Soulful Strut
+5
+Glen Campbell
+Wichita Lineman
+6
+The Temptations
+Cloud Nine
+7
+Diana Ross & The Supremes
+Love Child
+8
+Classics IV Featuring Dennis Yost
+Stormy
+9
+Johnnie Taylor
+Who's Making Love
+10
+B.J. Thomas
+Hooked On A Feeling
+11
+Bobby Vinton
+I Love How You Love Me
+12
+Derek
+Cinnamon
+13
+Clarence Carter
+Too Weak To Fight
+14
+Rene & Rene
+Lo Mucho Que Te Quiero (The More I Love You)
+15
+Canned Heat
+Going Up The Country
+16
+Dion
+Abraham, Martin And John
+17
+Tommy James And The Shondells
+Crimson And Clover
+18
+Dusty Springfield
+Son-Of-A Preacher Man
+19
+Eddie Floyd
+Bring It On Home To Me
+20
+Aretha Franklin
+See Saw
+21
+Otis Redding
+Papa's Got A Brand New Bag
+22
+Judy Collins
+Both Sides Now
+23
+The Beatles
+Hey Jude
+24
+Steppenwolf
+Magic Carpet Ride
+25
+The Impressions
+This Is My Country
+26
+Elvis Presley
+If I Can Dream
+27
+Sly & The Family Stone
+Everyday People
+28
+Wilson Pickett
+Hey Jude
+29
+Tyrone Davis
+Can I Change My Mind
+30
+Sergio Mendes & Brasil '66
+Scarborough Fair
+31
+Aretha Franklin
+My Song
+32
+The Rascals
+A Ray Of Hope
+33
+Tammy Wynette
+Stand By Your Man
+34
+Booker T. & The MG's
+Hang 'Em High
+35
+Archie Bell & The Drells
+There's Gonna Be A Showdown
+36
+Ohio Express
+Chewy Chewy
+37
+The Doors
+Touch Me
+38
+Brooklyn Bridge
+Worst That Could Happen
+39
+The Royal Guardsmen
+Baby Let's Wait
+40
+Bee Gees
+I Started A Joke
+41
+Andy Williams with the St. Charles Borromeo Choir
+Battle Hymn Of The Republic
+42
+The Grass Roots
+Bella Linda
+43
+Jerry Butler
+Are You Happy
+44
+The Delfonics
+Ready Or Not Here I Come (Can't Hide From Love)
+45
+Leapy Lee
+Little Arrows
+46
+Herb Alpert & The Tijuana Brass
+My Favorite Things
+47
+Sammy Davis Jr.
+I've Gotta Be Me
+48
+Bobby Taylor & The Vancouvers
+Malinda
+49
+The Tymes
+People
+50
+The Chambers Brothers
+I Can't Turn You Loose
+51
+The Unifics
+The Beginning Of My End
+52
+The Lettermen
+Put Your Head On My Shoulder
+53
+Smokey Robinson & The Miracles
+Baby, Baby Don't Cry
+54
+Bobby Womack
+California Dreamin'
+55
+Jeannie C. Riley
+The Girl Most Likely
+56
+The Jimi Hendrix Experience
+Crosstown Traffic
+57
+The 5th Dimension
+California Soul
+58
+Bobby Bland
+Rockin' In The Same Old Boat
+59
+Sam & Dave
+Soul Sister, Brown Sugar
+60
+Johnny Cash
+Daddy Sang Bass
+61
+The Beach Boys
+Bluebirds Over The Mountain
+62
+Magic Lanterns
+Shame, Shame
+63
+O.C. Smith
+Isn't It Lonely Together
+64
+Creedence Clearwater Revival
+I Put A Spell On You
+65
+Bob Seger System
+Ramblin' Gamblin' Man
+66
+The Dells
+Does Anybody Know I'm Here
+67
+Barbara Acklin
+Just Ain't No Love
+68
+Tom Jones
+A Minute Of Your Time
+69
+Petula Clark
+American Boys
+70
+Vanilla Fudge
+Season Of The Witch, Pt. 1
+71
+Eric Burdon & The Animals
+White Houses
+72
+Johnny Nash
+You Got Soul
+73
+Andy Kim
+Rainbow Ride
+74
+The Goodees
+Condition Red
+75
+The Moments
+Not On The Outside
+76
+Paul Mauriat
+Chitty Chitty Bang Bang
+77
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Electric Stories
+78
+The Archies
+Feelin' So Good (S.k.o.o.b.y-D.o.o)
+79
+Jay & The Americans
+This Magic Moment
+80
+Roger Miller
+Vance
+81
+William Bell
+I Forgot To Be Your Lover
+82
+Frank Sinatra
+Rain In My Heart
+83
+Chambers Brothers
+Shout! - Part 1
+84
+The Foundations
+Build Me Up Buttercup
+85
+The Box Tops
+Sweet Cream Ladies, Forward March
+86
+James Brown
+Tit For Tat (Ain't No Taking Back)
+87
+John Wesley Ryles, I
+Kay
+88
+Arthur Conley
+Ob-La-Di, Ob-La-Da
+89
+John Sebastian
+She's A Lady
+90
+The Turtles
+You Showed Me
+91
+Barry Ryan
+Eloise
+92
+Ray Charles & Jimmy Lewis
+If It Wasn't For Bad Luck
+93
+The Esquires
+You've Got The Power
+94
+Joe Simon
+Looking Back
+95
+The Crystal Mansion
+The Thought Of Loving You
+96
+New Colony Six
+Things I'd Like To Say
+97
+Al Martino
+I Can't Help It (If I'm Still In Love With You)
+98
+Bobby Vee
+I'm Into Lookin' For Someone To Love Me
+99
+Nina Simone
+Ain't Got No; I Got Life
+100
+Paul Anka
+Goodnight My Love

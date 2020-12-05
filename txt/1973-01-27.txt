@@ -1,0 +1,300 @@
+1
+Stevie Wonder
+Superstition
+2
+Carly Simon
+You're So Vain
+3
+Elton John
+Crocodile Rock
+4
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+5
+Timmy Thomas
+Why Can't We Live Together
+6
+Billy Paul
+Me And Mrs. Jones
+7
+Hurricane Smith
+Oh, Babe, What Would You Say?
+8
+Marvin Gaye
+Trouble Man
+9
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+10
+War
+The World Is A Ghetto
+11
+Wings
+Hi, Hi, Hi
+12
+Curtis Mayfield
+Superfly
+13
+Steely Dan
+Do It Again
+14
+Gilbert O'Sullivan
+Clair
+15
+James Taylor
+Don't Let Me Be Lonely Tonight
+16
+Raspberries
+I Wanna Be With You
+17
+King Harvest
+Dancing In The Moonlight
+18
+Brighter Side Of Darkness
+Love Jones
+19
+Donna Fargo
+Funny Face
+20
+Lobo
+Don't Expect Me To Be Your Friend
+21
+Elvis Presley
+Separate Ways
+22
+John Denver
+Rocky Mountain High
+23
+The Spinners
+Could It Be I'm Falling In Love
+24
+Three Dog Night
+Pieces Of April
+25
+Jermaine Jackson
+Daddy's Home
+26
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+27
+Joni Mitchell
+You Turn Me On, I'm A Radio
+28
+Jethro Tull
+Living In The Past
+29
+Blue Haze
+Smoke Gets In Your Eyes
+30
+Don McLean
+Dreidel
+31
+Four Tops
+Keeper Of The Castle
+32
+Bette Midler
+Do You Want To Dance?
+33
+Chuck Berry
+Reelin' & Rockin'
+34
+Edward Bear
+Last Song
+35
+Bobby Womack & Peace
+Harry Hippie
+36
+Albert Hammond
+It Never Rains In Southern California
+37
+The O'Jays
+Love Train
+38
+Cat Stevens
+Sitting
+39
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+40
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+41
+Deliverance/Eric Weissberg & Steve Mandell
+Dueling Banjos
+42
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+43
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+44
+Eagles
+Peaceful Easy Feeling
+45
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+46
+The Who
+The Relay
+47
+The 5th Dimension
+Living Together, Growing Together
+48
+Al Green
+You Ought To Be With Me
+49
+Carole King
+Been To Canaan
+50
+Gallery
+Big City Miss Ruth Ann
+51
+James Brown
+I Got Ants In My Pants (and i want to dance) (Part 1)
+52
+The Main Ingredient
+You've Got To Take It (If You Want It)
+53
+The Doobie Brothers
+Jesus Is Just Alright
+54
+Roberta Flack
+Killing Me Softly With His Song
+55
+Emerson, Lake & Palmer
+Lucky Man
+56
+Nilsson
+Remember (Christmas)
+57
+Holland-Dozier
+Don't Leave Me Starvin' For Your Love (Part 1)
+58
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+59
+Keith Hampshire
+Daytime Night-Time
+60
+Anne Murray
+Danny's Song
+61
+Diana Ross
+Good Morning Heartache
+62
+The Temptations
+Papa Was A Rollin' Stone
+63
+Seals & Crofts
+Hummingbird
+64
+Barbara Mason
+Give Me Your Love
+65
+Cashman & West
+Songman
+66
+Joe Stampley
+Soul Song
+67
+Engelbert Humperdinck
+I Never Said Goodbye
+68
+Valerie Simpson
+Silly Wasn't I
+69
+Little Jimmy Osmond
+Tweedlee Dee
+70
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+71
+David Bowie
+Space Oddity
+72
+Merry Clayton
+Oh No, Not My Baby
+73
+Neil Diamond
+Walk On Water
+74
+Paul Davis
+Boogie Woogie Man
+75
+Les Emmerson
+Control Of Me
+76
+America
+Don't Cross The River
+77
+Rita Coolidge
+Fever/My Crew
+78
+Cymande
+The Message
+79
+Sam Neely
+Rosalie
+80
+Bobby Darin
+Happy
+81
+Al Green
+Hot Wire
+82
+Barbra Streisand
+Didn't We
+83
+Bettye Swann
+Today I Started Loving You Again
+84
+Bobby Vinton
+But I Do
+85
+Johnny Williams
+Slow Motion (Part 1)
+86
+Gladys Knight And The Pips
+Neither One Of Us (Wants To Be The First To Say Goodbye)
+87
+Travis Wammack
+How Can I Tell You
+88
+Loudon Wainwright III
+Dead Skunk
+89
+Shawn Phillips
+We
+90
+Anacostia
+On And Off (Part 1)
+91
+The Grass Roots
+Love Is What You Make It
+92
+The Sweet
+Little Willy
+93
+Uriah Heep
+Blind Eye/Sweet Lorraine
+94
+Paul Kelly
+Don't Burn Me
+95
+Millie Jackson
+I Miss You Baby
+96
+Mott The Hoople
+One Of The Boys
+97
+Dottie West
+If It's All Right With You
+98
+The Whispers
+Somebody Loves You
+99
+Rare Earth
+We're Gonna Have A Good Time
+100
+The New Seekers
+Come Softly To Me

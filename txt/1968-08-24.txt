@@ -1,0 +1,300 @@
+1
+The Rascals
+People Got To Be Free
+2
+Steppenwolf
+Born To Be Wild
+3
+The Doors
+Hello, I Love You
+4
+Jose Feliciano
+Light My Fire
+5
+Mason Williams
+Classical Gas
+6
+Cream
+Sunshine Of Your Love
+7
+The Vogues
+Turn Around, Look At Me
+8
+The 5th Dimension
+Stoned Soul Picnic
+9
+Archie Bell & The Drells
+I Can't Stop Dancing
+10
+The Dells
+Stay In My Corner
+11
+The Vanilla Fudge
+You Keep Me Hangin' On
+12
+Mama Cass With The Mamas & The Papas
+Dream A Little Dream Of Me
+13
+Gary Puckett And The Union Gap
+Lady Willpower
+14
+Donovan
+Hurdy Gurdy Man
+15
+Marvin Gaye & Tammi Terrell
+You're All I Need To Get By
+16
+The Amboy Dukes
+Journey To The Center Of The Mind
+17
+Barbara Acklin
+Love Makes A Woman
+18
+Booker T. & The MG's
+Soul-Limbo
+19
+Gary Lewis And The Playboys
+Sealed With A Kiss
+20
+Hugh Masekela
+Grazing In The Grass
+21
+Aretha Franklin
+The House That Jack Built
+22
+1910 Fruitgum Co.
+1, 2, 3, Red Light
+23
+Bobby Vinton
+Halfway To Paradise
+24
+Clarence Carter
+Slip Away
+25
+The Status Quo
+Pictures Of Matchstick Men
+26
+The Intruders
+(Love Is Like A) Baseball Game
+27
+Tommy Boyce & Bobby Hart
+Alice Long (You're Still My Favorite Girlfriend)
+28
+The Temptations
+Please Return Your Love To Me
+29
+Eric Burdon & The Animals
+Sky Pilot (Part One)
+30
+The Rolling Stones
+Jumpin' Jack Flash
+31
+The Beach Boys
+Do It Again
+32
+Sergio Mendes & Brasil '66
+The Fool On The Hill
+33
+Cliff Nobles & Co.
+The Horse
+34
+B.J. Thomas
+The Eyes Of A New York Woman
+35
+Stevie Wonder
+You Met Your Match
+36
+Bobby Goldsboro
+Autumn Of My Life
+37
+Petula Clark
+Don't Give Up
+38
+Deep Purple
+Hush
+39
+Aretha Franklin
+I Say A Little Prayer
+40
+The Moody Blues
+Tuesday Afternoon (Forever Afternoon)
+41
+Eddie Floyd
+I've Never Found A Girl (To Love Me Like You Do)
+42
+Jackie Wilson
+I Get The Sweetest Feeling
+43
+Ohio Express
+Down At Lulu's
+44
+Peggy Scott & Jo Jo Benson
+Lover's Holiday
+45
+Glen Campbell
+Dreams Of The Everyday Housewife
+46
+Ray Charles
+Understanding
+47
+The Cowsills
+Indian Lake
+48
+The Cherry People
+And Suddenly
+49
+The Fantastic Johnny C
+Hitch It To The Horse
+50
+Ray Stevens
+Mr. Businessman
+51
+Otis Redding
+Hard To Handle
+52
+Betty Wright
+Girls Can't Do What The Guys Do
+53
+Spanky And Our Gang
+Give A Damn
+54
+Sam & Dave
+Can't You Find Another Way (Of Doing It)
+55
+James Brown And The Famous Flames
+I Guess I'll Have To Cry, Cry, Cry
+56
+Tommy James And The Shondells
+Somebody Cares
+57
+The Who
+Magic Bus
+58
+Joe Tex
+Keep The One You Got
+59
+Smokey Robinson & The Miracles
+Special Occasion
+60
+Bill Medley
+Brown Eyed Woman
+61
+The Impressions
+I Loved And I Lost
+62
+Four Tops
+Yesterday's Dreams
+63
+Percy Sledge
+Sudden Stop
+64
+Willie Mitchell
+Prayer Meetin'
+65
+The Ballads
+God Bless Our Love
+66
+Lulu
+Morning Dew
+67
+Eddie Harris
+Listen Here
+68
+Bee Gees
+I've Gotta Get A Message To You
+69
+Martha Reeves & The Vandellas
+I Can't Dance To That Music You're Playin'
+70
+Jr. Walker & The All Stars
+Hip City - Pt. 2
+71
+The O'Kaysions
+Girl Watcher
+72
+Canned Heat
+On The Road Again
+73
+Roger Williams
+The Impossible Dream
+74
+The Happenings
+Breaking Up Is Hard To Do
+75
+The Lovin' Spoonful
+Never Going Back
+76
+Eternity's Children
+Mrs. Bluebird
+77
+Patti Drew
+Workin' On A Groovy Thing
+78
+O.C. Smith
+Little Green Apples
+79
+Jerry Jeff Walker
+Mr. Bojangles
+80
+Al Wilson
+The Snake
+81
+Jeannie C. Riley
+Harper Valley P.T.A.
+82
+Bobby Womack
+Fly Me To The Moon
+83
+King Curtis & The Kingpins
+I Heard It Thru The Grapevine
+84
+Gladys Knight And The Pips
+I Wish It Would Rain
+85
+Bobby Taylor & The Vancouvers
+I Am Your Man
+86
+Wilmer And The Dukes
+Give Me One More Chance
+87
+B.B. King
+I'm Gonna Do What They Do To Me
+88
+The American Breed
+Anyway That You Want Me
+89
+The Association
+Six Man Band
+90
+Five Stairsteps & Cubie
+Don't Change Your Love
+91
+The Chambers Brothers
+Time Has Come Today
+92
+Iron Butterfly
+In-A-Gadda-Da-Vida
+93
+Sly & The Family Stone
+M'Lady
+94
+B.B. King
+The Woman I Love
+95
+Dino, Desi & Billy
+Tell Someone You Love Them
+96
+Dionne Warwick
+Who Is Gonna Love Me?
+97
+Tiny Tim
+Bring Back Those Rockabye Baby Days
+98
+Bull & The Matadors
+The Funky Judge
+99
+Otis Clay
+She's About A Mover
+100
+Jackie DeShannon
+The Weight

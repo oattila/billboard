@@ -1,0 +1,300 @@
+1
+Donny Osmond
+Go Away Little Girl
+2
+Aretha Franklin
+Spanish Harlem
+3
+Bill Withers
+Ain't No Sunshine
+4
+Rod Stewart
+Maggie May/Reason To Believe
+5
+Paul & Linda McCartney
+Uncle Albert/Admiral Halsey
+6
+The Undisputed Truth
+Smiling Faces Sometimes
+7
+Rare Earth
+I Just Want To Celebrate
+8
+Joan Baez
+The Night They Drove Old Dixie Down
+9
+Bee Gees
+How Can You Mend A Broken Heart
+10
+The Dramatics
+Whatcha See Is Whatcha Get
+11
+The Honey Cone
+Stick-Up
+12
+Carpenters
+Superstar/Bless The Beasts And Children
+13
+John Denver
+Take Me Home, Country Roads
+14
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Woke Up In Love This Morning
+15
+The Who
+Won't Get Fooled Again
+16
+Lee Michaels
+Do You Know What I Mean
+17
+Three Dog Night
+Liar
+18
+Five Man Electrical Band
+Signs
+19
+Al Green
+Tired Of Being Alone
+20
+Stevie Wonder
+If You Really Love Me
+21
+Stampeders
+Sweet City Woman
+22
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+23
+George Harrison
+Bangla-Desh/Deep Blue
+24
+The Moody Blues
+The Story In Your Eyes
+25
+Carole King
+So Far Away/Smackwater Jack
+26
+Chicago
+Beginnings/Colour My World
+27
+James Brown
+Make It Funky (Part 1)
+28
+The Doors
+Riders On The Storm
+29
+The Guess Who
+Rain Dance
+30
+Bobby Russell
+Saturday Morning Confusion
+31
+Marvin Gaye
+Mercy, Mercy Me (The Ecology)
+32
+Olivia Newton-John
+If Not For You
+33
+Paul Stookey
+Wedding Song (There Is Love)
+34
+Rufus Thomas
+The Breakdown (Part I)
+35
+The Persuaders
+Thin Line Between Love & Hate
+36
+The Dells
+The Love We Had (Stays On My Mind)
+37
+The Glass Bottle
+I Ain't Got Time Anymore
+38
+Diana Ross
+Surrender
+39
+The Free Movement
+I've Found Someone Of My Own
+40
+The Osmonds
+Yo-Yo
+41
+War
+All Day Music
+42
+Denise LaSalle
+Trapped By A Thing Called Love
+43
+Stephen Stills
+Marianne
+44
+Blood, Sweat & Tears
+Go Down Gamblin'
+45
+Tommy Roe
+Stagger Lee
+46
+The Poppy Family
+Where Evil Grows
+47
+The Stylistics
+Stop, Look, Listen (To Your Heart)
+48
+Kris Kristofferson
+Loving Her Was Easier (Than Anything I'll Ever Do Again)
+49
+Freddie Hart
+Easy Loving
+50
+Engelbert Humperdinck
+Another Time, Another Place
+51
+Helen Reddy
+Crazy Love
+52
+The Nite-Liters
+K-Jee
+53
+Jr. Walker & The All Stars
+Take Me Girl, I'm Ready
+54
+The People's Choice
+I Likes To Do It
+55
+Wilson Pickett
+Call My Name, I'll Be There
+56
+Redbone
+Maggie
+57
+Hamilton, Joe Frank & Reynolds
+Annabella
+58
+Jerry Reed
+Ko-Ko Joe
+59
+Tin Tin
+Is That The Way
+60
+Lou Rawls
+A Natural Man
+61
+Grand Funk Railroad
+Gimme Shelter
+62
+Four Tops
+MacArthur Park (Part II)
+63
+Lynn Anderson
+How Can I Unlove You
+64
+Buddy Miles & The Freedom Express
+Them Changes
+65
+Johnnie Taylor (The Soul Philosopher)
+Hijackin' Love
+66
+Lighthouse
+One Fine Morning
+67
+Johnny Rivers
+Think His Name
+68
+Bobby Sherman
+Waiting At The Bus Stop
+69
+Laura Lee
+Women's Love Rights
+70
+The Raiders
+Birds Of A Feather
+71
+The New Colony Six
+Roll On
+72
+Lobo
+California Kid And Reemo
+73
+Anne Murray
+Talk It Over In The Morning
+74
+John Baldry
+Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll
+75
+Ray Stevens
+All My Trials
+76
+B.B. King
+Ghetto Woman
+77
+Ray Price
+I'd Rather Be Sorry
+78
+Janis Joplin
+Get It While You Can
+79
+Tom T. Hall
+The Year That Clayton Delaney Died
+80
+Ray Charles
+Feel So Bad
+81
+Fanny
+Charity Ball
+82
+Graham Nash
+Military Madness
+83
+Heaven Bound with Tony Scotti
+He'd Rather Have The Rain
+84
+The Newcomers
+Pin The Tail On The Donkey
+85
+Nitty Gritty Dirt Band
+Some Of Shelly's Blues
+86
+Chee-Chee & Peppy
+I Know I'm In Love
+87
+Coven
+One Tin Soldier, The Legend of Billy Jack
+88
+Cher
+Gypsys, Tramps & Thieves
+89
+The 5th Dimension
+Never My Love
+90
+Gayle McCormick
+It's A Cryin' Shame
+91
+The 8th Day
+You've Got To Crawl (Before You Walk)
+92
+Billie Sans
+Solo
+93
+Messengers
+That's The Way A Woman Is
+94
+Funkadelic
+Can You Get To That
+95
+Chase
+Handbags And Gladrags
+96
+Brenda & The Tabulations
+A Part Of You
+97
+Springwell
+It's For You
+98
+Gordon Lightfoot
+Summer Side Of Life
+99
+The Main Ingredient
+Black Seeds Keep On Growing
+100
+Nolan
+I Like What You Give

@@ -1,0 +1,300 @@
+1
+Bee Gees
+Night Fever
+2
+Bee Gees
+Stayin' Alive
+3
+Samantha Sang
+Emotion
+4
+Eric Clapton
+Lay Down Sally
+5
+Andy Gibb
+(Love Is) Thicker Than Water
+6
+Barry Manilow
+Can't Smile Without You
+7
+Paul Davis
+I Go Crazy
+8
+Dan Hill
+Sometimes When We Touch
+9
+Chic
+Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+10
+Billy Joel
+Just The Way You Are
+11
+Jay Ferguson
+Thunder Island
+12
+ABBA
+The Name Of The Game
+13
+Lynyrd Skynyrd
+What's Your Name
+14
+Yvonne Elliman
+If I Can't Have You
+15
+LeBlanc & Carr
+Falling
+16
+Little River Band
+Happy Anniversary
+17
+Art Garfunkel With James Taylor & Paul Simon
+(What A)  Wonderful World
+18
+Natalie Cole
+Our Love
+19
+Raydio
+Jack And Jill
+20
+Rita Coolidge
+The Way You Do The Things You Do
+21
+Heatwave
+Always And Forever
+22
+Bob Welch
+Ebony Eyes
+23
+Kansas
+Dust In The Wind
+24
+David Gates
+Goodbye Girl
+25
+Jackson Browne
+Running On Empty
+26
+England Dan & John Ford Coley
+We'll Never Have To Say Goodbye Again
+27
+Stargard
+Theme Song From "Which Way Is Up"
+28
+Parliament
+Flash Light
+29
+Electric Light Orchestra
+Sweet Talkin' Woman
+30
+Gene Cotton
+Before My Heart Finds Out
+31
+Lou Rawls
+Lady Love
+32
+Steely Dan
+Peg
+33
+Rod Stewart
+Hot Legs
+34
+Andrew Gold
+Thank You For Being A Friend
+35
+Bee Gees
+How Deep Is Your Love
+36
+Queen
+We Are The Champions
+37
+Van Halen
+You Really Got Me
+38
+Enchantment
+It's You That I Need
+39
+Roberta Flack With Donny Hathaway
+The Closer I Get To You
+40
+Chuck Mangione
+Feels So Good
+41
+KC And The Sunshine Band
+Boogie Shoes
+42
+Gordon Lightfoot
+The Circle Is Small (I Can See It In Your Eyes)
+43
+The Trammps
+Disco Inferno
+44
+Waylon & Willie
+Mammas Don't Let Your Babies Grow Up To Be Cowboys
+45
+Atlanta Rhythm Section
+Imaginary Lover
+46
+Styx
+Fooling Yourself (The Angry Young Man)
+47
+Player
+Baby Come Back
+48
+John Williams
+Theme From "Close Encounters Of The Third Kind"
+49
+Linda Ronstadt
+Poor Poor Pitiful Me
+50
+Randy Newman
+Short People
+51
+Eddie Money
+Baby Hold On
+52
+Rubicon
+I'm Gonna Take Care Of Everything
+53
+Carpenters
+Sweet, Sweet Smile
+54
+Earth, Wind & Fire
+Fantasy
+55
+Chicago
+Little One
+56
+Sweet
+Love Is Like Oxygen
+57
+KISS
+Rocket Ride
+58
+Jefferson Starship
+Count On Me
+59
+Rod Stewart
+You're In My Heart (The Final Acclaim)
+60
+Tavares
+More Than A Woman
+61
+Donna Summer
+Rumour Has It
+62
+Leif Garrett
+Put Your Head On My Shoulder
+63
+Diana Ross
+Your Love Is So Good For Me
+64
+James Taylor
+Honey Don't Leave L.a.
+65
+Player
+This Time I'm In It For Love
+66
+Bunny Sigler
+Let Me Party With You (Part 1) (Party, Party, Party)
+67
+Boz Scaggs
+Hollywood
+68
+John Denver
+It Amazes Me
+69
+Dolly Parton
+Two Doors Down
+70
+Cazz
+Let's Live Together
+71
+George Benson
+On Broadway
+72
+Bobby Arvon
+Until Now
+73
+L.T.D.
+Never Get Enough Of Your Love
+74
+Aerosmith
+Kings And Queens
+75
+Sea Level
+That's Your Secret
+76
+The Michael Zager Band
+Let's All Chant
+77
+Wild Cherry
+I Love My Music
+78
+Odyssey
+Native New Yorker
+79
+Billy Joel
+Movin' Out (Anthony's Song)
+80
+Denise LaSalle
+Love Me Right
+81
+Don Brown
+Sitting In Limbo
+82
+Starz
+(Any Way That You Want It) I'll Be There
+83
+Crystal Gayle
+Ready For The Times To Get Better
+84
+Claudja Barry
+Dancin' Fever
+85
+Bill Brandon
+We Fell In Love While Dancing
+86
+The Babys
+Silver Dreams
+87
+Bette Midler
+Storybook Children (Daybreak)
+88
+Ashford & Simpson
+Don't Cost You Nothing
+89
+Bob Weir
+Bombs Away
+90
+Meat Loaf
+Two Out Of Three Ain't Bad
+91
+Stargard
+Disco Rufus
+92
+High Inergy
+Love Is All You Need
+93
+Peter Brown With Betty Wright
+Dance With Me
+94
+Barbara Mandrell
+Woman To Woman
+95
+Hotel
+You'll Love Again
+96
+Eruption
+I Can't Stand The Rain
+97
+Belle Epoque
+Miss Broadway
+98
+Ronnie McDowell
+I Love You, I Love You, I Love You
+99
+Eloise Laws
+Number One
+100
+Talking Heads
+Psycho Killer

@@ -1,0 +1,300 @@
+1
+Heart
+These Dreams
+2
+Starship
+Sara
+3
+Atlantic Starr
+Secret Lovers
+4
+Falco
+Rock Me Amadeus
+5
+John Mellencamp
+R.O.C.K. In The U.S.A. (A Salute to 60's Rock)
+6
+Mr. Mister
+Kyrie
+7
+Elton John
+Nikita
+8
+Thompson Twins
+King For A Day
+9
+INXS
+What You Need
+10
+Prince And The Revolution
+Kiss
+11
+Loverboy
+This Could Be The Night
+12
+Whitney Houston
+How Will I Know
+13
+Sly Fox
+Let's Go All The Way
+14
+Simple Minds
+Sanctify Yourself
+15
+The Bangles
+Manic Monday
+16
+Mike + The Mechanics
+Silent Running (On Dangerous Ground)
+17
+Charlie Sexton
+Beat's So Lonely
+18
+Robert Palmer
+Addicted To Love
+19
+Force M.D.'s
+Tender Love
+20
+ABC
+(How To Be A) Millionaire
+21
+Sade
+The Sweetest Taboo
+22
+Aretha Franklin
+Another Night
+23
+Robert Tepper
+No Easy Way Out
+24
+Electric Light Orchestra
+Calling America
+25
+Stevie Nicks
+I Can't Wait
+26
+James Brown
+Living In America
+27
+The Dream Academy
+Life In A Northern Town
+28
+Marilyn Martin
+Night Moves
+29
+Billy Ocean
+When The Going Gets Tough, The Tough Get Going
+30
+Pet Shop Boys
+West End Girls
+31
+The Rolling Stones
+Harlem Shuffle
+32
+The Cars
+I'm Not The One
+33
+Jermaine Jackson
+I Think It's Love
+34
+Dire Straits
+So Far Away
+35
+Opus
+Live Is Life
+36
+ZZ Top
+Stages
+37
+The Outfield
+Your Love
+38
+Sting
+Russians
+39
+Janet Jackson
+What Have You Done For Me Lately
+40
+Stevie Wonder
+Overjoyed
+41
+Hooters
+Day By Day
+42
+Baltimora
+Tarzan Boy (From "Teenage Mutant Ninja Turtles III")
+43
+Van Halen
+Why Can't This Be Love
+44
+Sheila E.
+A Love Bizarre
+45
+Jackson Browne
+For America
+46
+Cherrelle With Alexander O'Neal
+Saturday Love
+47
+Phil Collins
+Take Me Home
+48
+Bob Seger
+American Storm
+49
+Miami Sound Machine
+Bad Boy
+50
+Dan Seals
+Bop
+51
+Meli'sa Morgan
+Do Me Baby
+52
+Level 42
+Something About You
+53
+John Taylor
+I Do What I Do... (Theme For 9 1/2 Weeks)
+54
+New Edition
+A Little Bit Of Love (Is All It Takes)
+55
+Dionne & Friends
+That's What Friends Are For
+56
+Arcadia
+Goodbye Is Forever
+57
+Orchestral Manoeuvres In The Dark
+If You Leave
+58
+Miami Sound Machine
+Conga
+59
+Jennifer Rush
+The Power Of Love
+60
+Nu Shooz
+I Can't Wait
+61
+The Firm
+All The Kings Horses
+62
+Little Richard
+Great Gosh A'mighty (Down & Out In Bev. Hills Theme)
+63
+Pat Benatar
+Le Bel Age (The Best Years)
+64
+Survivor
+Burning Heart
+65
+Tom Petty & The Heartbreakers With Stevie Nicks
+Needles And Pins
+66
+Phyllis Nelson
+I Like You
+67
+Sam Harris
+I'd Do It All Again
+68
+Five Star
+Let Me Be The One
+69
+Wham!
+I'm Your Man
+70
+Ready For The World
+Digital Display
+71
+Honeymoon Suite
+Feel It Again
+72
+Julian Lennon
+Stick Around
+73
+Dionne Warwick
+Whisper In The Dark
+74
+Mike + The Mechanics
+All I Need Is A Miracle
+75
+Klymaxx
+I Miss You
+76
+John Cafferty
+Heart's On Fire
+77
+Dokken
+In My Dreams
+78
+Animotion
+I Engineer
+79
+Dennis DeYoung
+Call Me
+80
+Lionel Richie
+Say You, Say Me
+81
+Klymaxx
+The Men All Pause
+82
+Jimmy Harnen With Synch
+Where Are You Now?
+83
+The Pointer Sisters
+Twist My Arm
+84
+Wax
+Right Between The Eyes
+85
+Starpoint
+Restless
+86
+Feargal Sharkey
+A Good Heart
+87
+Alisha
+Baby Talk
+88
+Patti LaBelle & Michael McDonald
+On My Own
+89
+Rene & Angela
+Your Smile
+90
+Laura Branigan
+I Found Someone
+91
+Joe Cocker
+Shelter Me
+92
+Anne Murray
+Now And Forever (You And Me)
+93
+Peter Frampton
+Lying
+94
+Jimmy Barnes
+Working Class Man
+95
+Ozzy Osbourne
+Shot in the Dark
+96
+Lisa Lisa And Clult Jam With Full Force
+Can You Feel The Beat
+97
+Dire Straits
+Walk Of Life
+98
+Freddie Jackson
+He'll Never Love You (Like I Do)
+99
+Eurythmics
+It's All Right (Baby's Coming Back)
+100
+a-ha
+The Sun Always Shines on T.V.

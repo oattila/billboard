@@ -1,0 +1,300 @@
+1
+Harry Chapin
+Cat's In The Cradle
+2
+Carl Douglas
+Kung Fu Fighting
+3
+Helen Reddy
+Angie Baby
+4
+The Three Degrees
+When Will I See You Again
+5
+Barry White
+You're The First, The Last, My Everything
+6
+Elton John
+Lucy In The Sky With Diamonds
+7
+Al Green
+Sha-La-La (Make Me Happy)
+8
+Paul McCartney And Wings
+Junior's Farm/Sally G
+9
+Billy Swan
+I Can Help
+10
+B.T. Express
+Do It ('til You're Satisfied)
+11
+Rufus Featuring Chaka Khan
+You Got The Love
+12
+Neil Sedaka
+Laughter In The Rain
+13
+Stevie Wonder
+Boogie On Reggae Woman
+14
+Ringo Starr
+Only You
+15
+Carpenters
+Please Mr. Postman
+16
+The J. Geils Band
+Must Of Got Lost
+17
+The Rolling Stones
+Ain't Too Proud To Beg
+18
+Paul Anka with Odia Coates
+One Man Woman/One Woman Man
+19
+Barry Manilow
+Mandy
+20
+Jethro Tull
+Bungle In The Jungle
+21
+Gladys Knight And The Pips
+I Feel A Song (In My Heart)/Don't Burn Down The Bridge
+22
+Gloria Gaynor
+Never Can Say Goodbye
+23
+Bachman-Turner Overdrive
+You Ain't Seen Nothing Yet/Free Wheelin'
+24
+George Harrison
+Dark Horse
+25
+Donny & Marie Osmond
+Morning Side Of The Mountain
+26
+The Pointer Sisters
+Fairytale
+27
+Paul Davis
+Ride 'em Cowboy
+28
+Elvis Presley
+Promised Land
+29
+Shirley Brown
+Woman To Woman
+30
+The Guess Who
+Dancin' Fool
+31
+Carol Douglas
+Doctor's Orders
+32
+The Righteous Brothers
+Dream On
+33
+Chicago
+Wishing You Were Here
+34
+Bobby Vinton
+My Melody Of Love
+35
+Neil Diamond
+Longfellow Serenade
+36
+Eric Clapton
+Willie And The Hand Jive
+37
+The Kiki Dee Band
+I've Got The Music In Me
+38
+Grand Funk
+Some Kind Of Wonderful
+39
+AWB
+Pick Up The Pieces
+40
+Mac Davis
+Rock N' Roll (I Gave You The Best Years Of My Life)
+41
+Bo Donaldson And The Heywoods
+The Heartbreak Kid
+42
+The Stylistics
+Heavy Fallin' Out
+43
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+44
+Billy Joel
+The Entertainer
+45
+James Brown
+Funky President (People It's Bad)/Coldblooded
+46
+Aretha Franklin
+Without Love
+47
+Billy "Crash" Craddock
+Ruby, Baby
+48
+Eagles
+Best Of My Love
+49
+Carl Carlton
+Everlasting Love
+50
+Tavares
+She's Gone
+51
+Barbara Mason
+From His Woman To You
+52
+Love Unlimited
+I Belong To You
+53
+Lynyrd Skynyrd
+Free Bird
+54
+Jackson 5
+Whatever You Got, I Want
+55
+The Joneses
+Sugar Pie Guy Pt. 1
+56
+John Lennon With The Plastic Ono Nuclear Band
+Whatever Gets You Thru The Night
+57
+Linda Ronstadt
+You're No Good
+58
+Latimore
+Let's Straighten It Out
+59
+Ohio Players
+Fire
+60
+John Denver
+Back Home Again
+61
+Prelude
+After The Goldrush
+62
+The Hues Corporation
+Rockin' Soul
+63
+Jim Weatherly
+The Need To Be
+64
+Cat Stevens
+Ready
+65
+Frankie Valli
+My Eyes Adored You
+66
+Johnny Bristol
+You And I
+67
+David Bowie
+Changes
+68
+John Lennon
+#9 Dream
+69
+Billy Preston
+Struttin'
+70
+The O'Jays
+Sunshine Part II
+71
+Andy Kim
+Fire, Baby I'm On Fire
+72
+America
+Tin Man
+73
+B.B. King
+Philadelphia
+74
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+75
+The Doobie Brothers
+Black Water
+76
+The Staple Singers
+My Main Man
+77
+Eddie Kendricks
+One Tear
+78
+Ike & Tina Turner
+Sexy Ida (Part 1)
+79
+Jim Stafford
+Your Bulldog Drinks Champagne
+80
+Carl Graves
+Baby, Hang Up The Phone
+81
+Commodores
+I Feel Sanctified
+82
+Smokey Robinson
+I Am I Am
+83
+Styx
+Lady
+84
+Michael Holm
+When A Child Is Born
+85
+The Temptations
+Happy People
+86
+Anne Murray
+Day Tripper
+87
+Electric Light Orchestra
+Can't Get It Out Of My Head
+88
+The Miracles
+Don't Cha Love It
+89
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+90
+Roy Rogers
+Hoppy, Gene And Me
+91
+Rod Stewart
+Mine For Me
+92
+Bobby Bland
+I Wouldn't Treat A Dog (The Way You Treated Me)
+93
+Splinter
+Costafine Town
+94
+Peter Shelley
+Gee Baby
+95
+Margie Joseph
+Words (are Impossible)
+96
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+97
+Perry Como
+Christmas Dream
+98
+The Tymes
+Ms. Grace
+99
+Percy Sledge
+I'll Be Your Everything
+100
+The Hudson Brothers
+So You Are A Star

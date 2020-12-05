@@ -1,0 +1,300 @@
+1
+Jackson 5
+I'll Be There
+2
+Carpenters
+We've Only Just Begun
+3
+James Taylor
+Fire And Rain
+4
+Sugarloaf
+Green-Eyed Lady
+5
+R. Dean Taylor
+Indiana Wants Me
+6
+Free
+All Right Now
+7
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+8
+Neil Diamond
+Cracklin' Rosie
+9
+Dawn
+Candida
+10
+The Kinks
+Lola
+11
+Bread
+It Don't Matter To Me
+12
+100 Proof Aged in Soul
+Somebody's Been Sleeping
+13
+Smokey Robinson & The Miracles
+The Tears Of A Clown
+14
+Bobby Bloom
+Montego Bay
+15
+Four Tops
+Still Water (Love)
+16
+Glen Campbell
+It's Only Make Believe
+17
+Joe Cocker
+Cry Me A River
+18
+Brian Hyland
+Gypsy Woman
+19
+James Brown
+Super Bad (Part 1 & Part 2)
+20
+Simon & Garfunkel
+El Condor Pasa (If I Could)
+21
+Charles Wright And The Watts 103rd Street Rhythm Band
+Express Yourself
+22
+Teegarden & Van Winkle
+God, Love And Rock & Roll
+23
+Wilson Pickett
+Engine Number 9
+24
+Freda Payne
+Deeper & Deeper
+25
+Candi Staton
+Stand By Your Man
+26
+The Who
+See Me, Feel Me
+27
+The New Seekers featuring Eve Graham
+Look What They've Done To My Song Ma
+28
+Christie
+Yellow River
+29
+Blood, Sweat & Tears
+Lucretia Mac Evil
+30
+Crosby, Stills, Nash & Young
+Our House
+31
+Diana Ross
+Ain't No Mountain High Enough
+32
+Bobby Sherman
+Julie, Do Ya Love Me
+33
+Canned Heat
+Let's Work Together
+34
+Mashmakhan
+As The Years Go By
+35
+The Guess Who
+Share The Land
+36
+Stevie Wonder
+Heaven Help Us All
+37
+Dionne Warwick
+Make It Easy On Yourself
+38
+Elvis Presley
+You Don't Have To Say You Love Me/Patch It Up
+39
+The Temptations
+Ungena Za Ulimwengu (Unite The World)
+40
+Ray Price
+For The Good Times
+41
+Three Dog Night
+Out In The Country
+42
+The Presidents
+5-10-15-20 (25-30 Years Of Love)
+43
+Eric Clapton
+After Midnight
+44
+Johnnie Taylor
+I Am Somebody Part II
+45
+Kenny Rogers & The First Edition
+Heed The Call
+46
+The 5th Dimension
+One Less Bell To Answer
+47
+Mark Lindsay
+And The Grass Won't Pay No Mind
+48
+Engelbert Humperdinck
+Sweetheart
+49
+Quicksilver Messenger Service
+Fresh Air
+50
+The Whispers
+Seems Like I Gotta Do Wrong
+51
+The Three Degrees
+I Do Take You
+52
+The Flaming Ember
+I'm Not My Brothers Keeper
+53
+Ann Peebles
+Part Time Love
+54
+Ronnie Dyson
+I Don't Wanna Cry
+55
+Shirley Bassey
+Something
+56
+The Delfonics
+When You Get Right Down To It
+57
+Badfinger
+No Matter What
+58
+Jake Holmes
+So Close
+59
+Ray Charles
+If You Were Mine
+60
+Tyrone Davis
+Let Me Back In
+61
+The Supremes
+Stoned Love
+62
+The Friends Of Distinction
+Time Waits For No One
+63
+Gary Puckett
+I Just Don't Know What To Do With Myself
+64
+Paul Davis
+I Just Wanna Keep It Together
+65
+Elephant's Memory
+Mongoose
+66
+B.B. King
+Chains And Things
+67
+CROW
+Don't Try To Lay No Boogie Woogie On The "King Of Rock & Roll"
+68
+Neil Diamond
+He Ain't Heavy...He's My Brother
+69
+Neil Young
+Only Love Can Break Your Heart
+70
+Iron Butterfly
+Easy Rider (Let The Wind Pay The Way)
+71
+Bobby Byrd
+I Need Help (I Can't Do It Alone) Pt. 1
+72
+Chicago
+Does Anybody Really Know What Time It Is?
+73
+Barbra Streisand
+Stoney End
+74
+Herb Alpert & The Tijuana Brass
+Jerusalem
+75
+Andy Kim
+Be My Baby
+76
+Traffic
+Empty Pages
+77
+Poco
+You Better Think Twice
+78
+Neil Diamond
+Do It
+79
+Clarence Carter
+It's All In Your Mind
+80
+Charley Pride
+I Can't Believe That You've Stopped Loving Me
+81
+David & Jimmy Ruffin
+Stand By Me
+82
+Fantasy
+Stoned Cowboy
+83
+Israel "Popper Stopper" Tolbert
+Big Leg Woman (With A Short Short Mini Skirt)
+84
+Crystal Mansion Featuring Johnny Caswell
+Carolina In My Mind
+85
+King Floyd
+Groove Me
+86
+Conway Twitty
+Fifteen Years Ago
+87
+Ray Stevens
+Sunset Strip
+88
+Dennis Yost And The Classics IV
+Where Did All The Good Times Go
+89
+Gene Chandler
+Simply Call It Love
+90
+Redeye
+Games
+91
+Dunn & McCashen
+Alright In The City
+92
+The Mike Curb Congregation
+Burning Bridges
+93
+Roy Clark
+Thank God And Greyhound
+94
+The Satisfactions
+One Light Two Lights
+95
+The Flame
+See The Light
+96
+Joe Simon
+That's The Way I Want Our Love
+97
+Jerry Reed
+Amos Moses
+98
+Martha Reeves & The Vandellas
+I Gotta Let You Go
+99
+Dorothy Morrison
+Spirit In The Sky
+100
+Ringo Starr
+Beaucoups Of Blues

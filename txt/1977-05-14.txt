@@ -1,0 +1,300 @@
+1
+Leo Sayer
+When I Need You
+2
+Stevie Wonder
+Sir Duke
+3
+Eagles
+Hotel California
+4
+Glen Campbell
+Southern Nights
+5
+Climax Blues Band
+Couldn't Get It Right
+6
+Jennifer Warnes
+Right Time Of The Night
+7
+Atlanta Rhythm Section
+So In To You
+8
+KC And The Sunshine Band
+I'm Your Boogie Man
+9
+Marvin Gaye
+Got To Give It Up (Pt. I)
+10
+Rose Royce
+I Wanna Get Next To You
+11
+Boz Scaggs
+Lido Shuffle
+12
+Kenny Rogers
+Lucille
+13
+Captain & Tennille
+Can't Stop Dancin'
+14
+Fleetwood Mac
+Dreams
+15
+Andrew Gold
+Lonely Boy
+16
+KISS
+Calling Dr. Love
+17
+Yvonne Elliman
+Hello Stranger
+18
+Natalie Cole
+I've Got Love On My Mind
+19
+Foreigner
+Feels Like The First Time
+20
+Hot
+Angel In Your Arms
+21
+Bill Conti
+Gonna Fly Now
+22
+Joe Tex
+Ain't Gonna Bump No More (with No Big Fat Woman)
+23
+Q
+Dancin' Man
+24
+Thelma Houston
+Don't Leave Me This Way
+25
+The Marshall Tucker Band
+Heard It In A Love Song
+26
+Tavares
+Whodunit
+27
+Marilyn McCoo & Billy Davis, Jr.
+Your Love
+28
+Alan O'Day
+Undercover Angel
+29
+The Jacksons
+Show You The Way To Go
+30
+Shalamar
+Uptown Festival (Part 1)
+31
+David Soul
+Don't Give Up On Us
+32
+John Denver
+My Sweet Lady
+33
+Jimmy Buffett
+Margaritaville
+34
+Firefall
+Cinderella
+35
+Kenny Nolan
+Love's Grown Deep
+36
+Addrisi Brothers
+Slow Dancin' Don't Turn Me On
+37
+Bob Seger
+Mainstreet
+38
+Aerosmith
+Back In The Saddle
+39
+The Steve Miller Band
+Jet Airliner
+40
+John Miles
+Slowdown
+41
+The Sylvers
+High School Dance
+42
+Dean Friedman
+Ariel
+43
+Starbuck
+Everybody Be Dancin'
+44
+Daryl Hall John Oates
+Rich Girl
+45
+The Rubinoos
+I Think We're Alone Now
+46
+Maynard Ferguson
+Gonna Fly Now (Theme From "Rocky")
+47
+Al Stewart
+On The Border
+48
+Peter Mccann
+Do You Wanna Make Love
+49
+Andy Gibb
+I Just Want To Be Your Everything
+50
+Marie Osmond
+This Is The Way That I Feel
+51
+Jerry Butler
+I Wanna Do It To You
+52
+Chicago
+You Are On My Mind
+53
+Starz
+Cherry Baby
+54
+William Bell
+Tryin' To Love Two
+55
+Manfred Mann's Earth Band
+Spirit In The Night
+56
+Mary Macgregor
+This Girl (Has Turned Into A Woman)
+57
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+58
+Graham Parker And The Rumour
+Hold Back The Night
+59
+Daryl Hall John Oates
+Back Together Again
+60
+Bread
+Hooked On You
+61
+T-Connection
+Do What You Wanna Do
+62
+Jethro Tull
+The Whistler
+63
+Pablo Cruise
+Whatcha Gonna Do?
+64
+The Kinks
+Sleepwalker
+65
+Helen Reddy
+You're My World
+66
+Barry Manilow
+Looks Like We Made It
+67
+Rufus Featuring Chaka Khan
+Hollywood
+68
+James Darren
+You Take My Heart Away
+69
+Peter Gabriel
+Solsbury Hill
+70
+Alice Cooper
+You And Me
+71
+Carrie
+I Gotta Keep Dancin'
+72
+David Soul
+Going In With My Eyes Open
+73
+Eagles
+Life In The Fast Lane
+74
+England Dan & John Ford Coley
+It's Sad To Belong
+75
+Waylon Jennings
+Luckenbach, Texas (Back To The Basics Of Love)
+76
+The Manhattans
+It Feels So Good To Be Loved So Bad
+77
+Rita Coolidge
+(your Love Has Lifted Me) Higher And Higher
+78
+The Isley Brothers
+The Pride (Part I)
+79
+Bette Midler
+You're Movin' Out Today
+80
+ABBA
+Knowing Me, Knowing You
+81
+David Bowie
+Sound And Vision
+82
+B.W. Stevenson
+Down To The Station
+83
+Carl Graves
+Sad Girl
+84
+Angel
+That Magic Touch
+85
+Chilliwack
+Fly At Night
+86
+Boston
+Peace Of Mind
+87
+Grace Jones
+I Need A Man
+88
+Blue
+Capture Your Heart
+89
+Shaun Cassidy
+Da Doo Ron Ron
+90
+Crown Heights Affair
+Dancin'
+91
+Undisputed Truth
+You + Me = Love/Let's Go Down To The Disco
+92
+10cc
+The Things We Do For Love
+93
+Henry Mancini And His Orchestra
+(Theme from) Charlie's Angels
+94
+Current
+Theme From "Rocky" (Gonna Fly Now)
+95
+Wild Cherry
+Hot To Trot
+96
+The Hollywood Stars
+All The Kids On The Street
+97
+Detroit Emeralds
+Feel The Need
+98
+Universal Robot Band
+Dance And Shake Your Tambourine
+99
+Charlene
+Freddie
+100
+The Lovers
+Discomania

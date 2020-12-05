@@ -1,0 +1,300 @@
+1
+The Doors
+Light My Fire
+2
+Stevie Wonder
+I Was Made To Love Her
+3
+The Association
+Windy
+4
+Frankie Valli
+Can't Take My Eyes Off You
+5
+Procol Harum
+A Whiter Shade Of Pale
+6
+The Music Explosion
+Little Bit O' Soul
+7
+The Buckinghams
+Mercy, Mercy, Mercy
+8
+Jefferson Airplane
+White Rabbit
+9
+The 5th Dimension
+Up -- Up And Away
+10
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+C'mon Marianne
+11
+Scott McKenzie
+San Francisco (Be Sure To Wear Flowers In Your Hair)
+12
+Sandy Posey
+I Take It Back
+13
+Every Mothers' Son
+Come On Down To My Boat
+14
+Nancy Sinatra & Lee Hazlewood
+Jackson
+15
+Ray Charles
+Here We Go Again
+16
+The Hollies
+Carrie-Anne
+17
+The Tremeloes
+Silence Is Golden
+18
+Bar-Kays
+Soul Finger
+19
+The Young Rascals
+A Girl Like You
+20
+Engelbert Humperdinck
+There Goes My Everything
+21
+Bettye Swann
+Make Me Yours
+22
+Peaches & Herb
+For Your Love
+23
+Smokey Robinson & The Miracles
+More Love
+24
+The Monkees
+Pleasant Valley Sunday
+25
+Tommy James And The Shondells
+I Like The Way
+26
+Janis Ian
+Society's Child (Baby I've Been Thinking)
+27
+Petula Clark
+Don't Sleep In The Subway
+28
+The Happenings
+My Mammy
+29
+The Beatles
+All You Need Is Love
+30
+Linda Jones
+Hypnotized
+31
+Dean Martin
+In The Chapel In The Moonlight
+32
+Bee Gees
+To Love Somebody
+33
+Herb Alpert & The Tijuana Brass
+The Happening
+34
+Herman's Hermits
+Don't Go Out Into The Rain (You're Going To Melt)
+35
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+36
+Crispian St. Peters
+You Were On My Mind
+37
+Marvin Gaye
+Your Unchanging Love
+38
+Marvin Gaye & Tammi Terrell
+Ain't No Mountain High Enough
+39
+The American Breed
+Step Out Of Your Mind
+40
+The Grass Roots
+Let's Live For Today
+41
+Mitch Ryder
+Joy
+42
+Dionne Warwick
+Alfie
+43
+The Parliaments
+(I Wanna) Testify
+44
+Nancy Sinatra
+You Only Live Twice
+45
+Lou Rawls
+Show Business
+46
+The Monkees
+Words
+47
+Aretha Franklin
+Baby I Love You
+48
+Neil Diamond
+Thank The Lord For The Night Time
+49
+Johnny Rivers
+The Tracks Of My Tears
+50
+The Critters
+Don't Let The Rain Fall Down On Me
+51
+The Forum
+The River Is Wide
+52
+The Who
+Pictures Of Lily
+53
+Solomon Burke
+Take Me (Just As I Am)
+54
+James & Bobby Purify
+I Take What I Want
+55
+Tommy Boyce & Bobby Hart
+Out & About
+56
+Sam & Dave
+Soothe Me
+57
+The Spencer Davis Group
+Somebody Help Me
+58
+James Brown And The Famous Flames
+Cold Sweat - Part 1
+59
+Gladys Knight And The Pips
+Everybody Needs Love
+60
+Buffalo Springfield
+Bluebird
+61
+Pieces Of Eight
+Lonely Drifter
+62
+The Platters
+Washed Ashore (On A Lonely Island In The Sea)
+63
+Frankie Laine
+You Wanted Someone To Play With (I Wanted Someone To Love)
+64
+The Beatles
+Baby You're A Rich Man
+65
+Glen Campbell
+Gentle On My Mind
+66
+Chris Bartley
+The Sweetest Thing This Side Of Heaven
+67
+The Vanilla Fudge
+You Keep Me Hangin' On
+68
+Jr. Walker & The All Stars
+Shoot Your Shot
+69
+Davie Allan And The Arrows
+Blue's Theme
+70
+The Tokens
+It's A Happening World
+71
+Bobby Vee And The Strangers
+Come Back When You Grow Up
+72
+The Seeds
+A Thousand Shadows
+73
+Jimmy Ruffin
+Don't You Miss Me A Little Bit Baby
+74
+The Temptations
+You're My Everything
+75
+Otis Redding
+Glory Of Love
+76
+Booker T. & The MG's
+Slim Jenkin's Place
+77
+Four Tops
+I'll Turn To Stone
+78
+Van Morrison
+Brown Eyed Girl
+79
+Dionne Warwick
+The Windows Of The World
+80
+Roy Orbison
+Cry Softly Lonely One
+81
+Simon & Garfunkel
+Fakin' It
+82
+Dyke And The Blazers
+Funky Broadway Part I
+83
+Jay And The Techniques
+Apples, Peaches, Pumpkin Pie
+84
+The Love Generation
+Groovy Summertime
+85
+Betty Harris
+Nearer To You
+86
+Nino Tempo & April Stevens
+I Can't Go On Livin' Baby Without You
+87
+The Blades Of Grass
+Happy
+88
+The Sunshine Company
+Happy
+89
+David Houston & Tammy Wynette
+My Elusive Dreams
+90
+Andre Williams
+Pearl Time
+91
+Andy Williams
+More And More
+92
+The Elgins
+It's Been A Long Long Time
+93
+Bobby Darin
+Darling Be Home Soon
+94
+The Sweet Inspirations
+Let It Be Me
+95
+Dusty Springfield
+The Look Of Love
+96
+Willie Mitchell
+Slippin' & Slidin'
+97
+Davie Allan And The Arrows
+Devil's Angels
+98
+Don And The Goodtimes
+Happy And Me
+99
+The Wonder Who?
+Lonesome Road
+100
+Sonny James
+I'll Never Find Another You

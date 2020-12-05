@@ -1,0 +1,300 @@
+1
+Paul and Paula
+Hey Paula
+2
+Dion
+Ruby Baby
+3
+The 4 Seasons
+Walk Like A Man
+4
+The Rooftop Singers
+Walk Right In
+5
+The Cascades
+Rhythm Of The Rain
+6
+Ned Miller
+From A Jack To A King
+7
+Bobby Darin
+You're The Reason I'm Living
+8
+Eydie Gorme
+Blame It On The Bossa Nova
+9
+The Miracles
+You've Really Got A Hold On Me
+10
+The Rebels
+Wild Weekend
+11
+The Crystals
+He's Sure The Boy I Love
+12
+Del Shannon
+Little Town Flirt
+13
+Sam Cooke
+Send Me Some Lovin'
+14
+Joe Harnell And His Orchestra
+Fly Me To The Moon - Bossa Nova
+15
+Bobby Vee
+The Night Has A Thousand Eyes
+16
+Jan Bradley
+Mama Didn't Lie
+17
+Johnny Mathis
+What Will My Mary Say
+18
+The Drifters
+Up On The Roof
+19
+Johnny Thunder
+Loop De Loop
+20
+Steve Lawrence
+Go Away Little Girl
+21
+Skeeter Davis
+The End Of The World
+22
+Vince Guaraldi Trio
+Cast Your Fate To The Wind
+23
+Roy Orbison
+In Dreams
+24
+Neil Sedaka
+Alice In Wonderland
+25
+Elvis Presley With The Mello Men
+One Broken Heart For Sale
+26
+Paul Anka
+Love (Makes the World Go 'round)
+27
+Ruby And The Romantics
+Our Day Will Come
+28
+Lou Christie
+The Gypsy Cried
+29
+Bobby Bland
+Call On Me
+30
+Bill Pursell
+Our Winter Love
+31
+The Kingston Trio
+Greenback Dollar
+32
+Brenda Lee
+Your Used To Be
+33
+Tony Bennett
+I Wanna Be Around
+34
+Little Eva
+Let's Turkey Trot
+35
+Rick Nelson
+It's Up To You
+36
+Duane Eddy and the Rebelettes
+Boss Guitar
+37
+Bobby Rydell
+Butterfly Baby
+38
+Gene Pitney
+Half Heaven - Half Heartache
+39
+Bobby Bland
+That's The Way Love Is
+40
+Chubby Checker
+Let's Limbo Some More
+41
+The Pastel Six
+The Cinnamon Cinder (It's A Very Nice Dance)
+42
+Paul Petersen
+My Dad
+43
+Marvin Gaye
+Hitch Hike
+44
+Sandy Stewart
+My Coloring Book
+45
+Dickey Lee
+I Saw Linda Yesterday
+46
+Henry Mancini And His Orchestra
+Days Of Wine And Roses
+47
+Brenda Lee
+She'll Never Know
+48
+The Alley Cats
+Puddin N' Tain (Ask Me Again, I'll Tell You The Same)
+49
+Steve Alaimo
+Every Day I Have To Cry
+50
+The Orlons
+South Street
+51
+The Exciters
+Tell Him
+52
+Chuck Jackson
+Tell Him I'm Not Home
+53
+Kitty Kallen
+My Coloring Book
+54
+Jimmy McGriff
+All About My Girl
+55
+The Matys Bros.
+Who Stole The Keeshka?
+56
+Peter, Paul & Mary
+Settle Down (Goin' Down That Highway)
+57
+Floyd Cramer
+Java
+58
+Connie Francis
+I'm Gonna' Be Warm This Winter
+59
+Richard Chamberlain
+All I Have To Do Is Dream
+60
+Johnny Crawford
+Proud
+61
+Teddy Randazzo
+Big Wide World
+62
+Sammy Davis Jr.
+As Long As She Needs Me
+63
+Little Esther Phillips
+I Really Don't Want To Know
+64
+Peggy Lee
+I'm A Woman
+65
+Arthur Lyman Group
+Love For Sale
+66
+Sam Cooke
+Baby, Baby, Baby
+67
+Dionne Warwick
+Don't Make Me Over
+68
+The Marvelettes
+Strange I Know
+69
+James Darren
+Pin A Medal On Joey
+70
+Mary Wells
+Two Lovers
+71
+Etta James
+Would It Make Any Difference To You
+72
+Bent Fabric and His Piano
+Chicken Feed
+73
+Bob B. Soxx And The Blue Jeans
+Why Do Lovers Break Each Other's Heart?
+74
+Elvis Presley With The Mello Men
+They Remind Me Too Much Of You
+75
+The Tornadoes
+Ridin' The Wind
+76
+The Impressions
+I'm The One Who Loves You
+77
+Chubby Checker
+Twenty Miles
+78
+Mary Wells
+Laughing Boy
+79
+Bobby Comstock
+Let's Stomp
+80
+Richard Chamberlain
+Hi-Lili, Hi-Lo
+81
+The Ribbons
+Ain't Gonna Kiss Ya
+82
+Johnny Cymbal
+Mr. Bass Man
+83
+Patsy Cline
+Leavin' On Your Mind
+84
+Rick Nelson
+I'm In Love Again
+85
+Gene Chandler
+Rainbow
+86
+Ray Charles and his Orchestra
+Don't Set Me Free
+87
+The Chiffons
+He's So Fine
+88
+Ferrante & Teicher
+Theme From Lawrence Of Arabia
+89
+The Dave Brubeck Quartet
+Bossa Nova U.S.A.
+90
+Jan & Dean
+Linda
+91
+The Ventures
+The 2,000 Pound Bee (Part 2)
+92
+Dean Martin
+From The Bottom Of My Heart (Dammi, Dammi, Dammi)
+93
+George Maharis
+Don't Fence Me In
+94
+Boots Randolph and his Combo
+Yakety Sax
+95
+Marcie Blane
+What Does A Girl Do?
+96
+Barbara Lynn
+Don't Be Cruel
+97
+Cannonball Adderley
+The Jive Samba
+98
+Jackie DeShannon
+Faded Love
+99
+Charlie Byrd
+Meditation (Meditacao)
+100
+Mr. Acker Bilk
+Only You (And You Alone)

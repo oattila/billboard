@@ -1,0 +1,300 @@
+1
+Madonna
+Take A Bow
+2
+Soul For Real
+Candy Rain
+3
+Real McCoy
+Run Away
+4
+TLC
+Red Light Special
+5
+Sheryl Crow
+Strong Enough
+6
+Montell Jordan
+This Is How We Do It
+7
+TLC
+Creep
+8
+Brandy
+Baby
+9
+Dionne Farris
+I Know
+10
+The Notorious B.I.G.
+Big Poppa/Warning
+11
+Des'ree
+You Gotta Be
+12
+Adina Howard
+Freak Like Me
+13
+Brownstone
+If You Love Me
+14
+Hootie & The Blowfish
+Hold My Hand
+15
+Real McCoy
+Another Night
+16
+2Pac
+Dear Mama/Old School
+17
+Subway (Featuring 702)
+This Lil' Game We Play
+18
+Dr. Dre
+Keep Their Heads Ringin' (From "Friday")
+19
+Martin Page
+In The House Of Stone And Light
+20
+Elton John
+Believe
+21
+Melissa Etheridge
+Like The Way I Do/If I Wanted To
+22
+Blessid Union Of Souls
+I Believe
+23
+Jamie Walters
+Hold On
+24
+Boyz II Men
+On Bended Knee
+25
+Boyz II Men
+Thank You
+26
+Bon Jovi
+Always
+27
+Firehouse
+I Live My Life For You
+28
+4PM
+Sukiyaki
+29
+Gloria Estefan
+Everlasting Love
+30
+Corona
+The Rhythm Of The Night
+31
+K-Ci Hailey
+If You Think You're Lonely Now
+32
+Rednex
+Cotton Eye Joe
+33
+Bonnie Raitt
+You Got It (From "Boys On The Side")
+34
+Melissa Etheridge
+I'm The Only One
+35
+Stevie B
+Dream About You/Funky Melody
+36
+Tom Petty
+You Don't Know How It Feels
+37
+Raphael Saadiq
+Ask Of You (From "Higher Learning")
+38
+2 Unlimited
+Get Ready For This
+39
+BLACKstreet
+Before I Let You Go
+40
+Jade
+Every Day Of The Week
+41
+Van Halen
+Can't Stop Lovin' You
+42
+Mary J. Blige
+I'm Goin' Down
+43
+N2U
+I Miss You
+44
+Gillette
+Mr. Personality
+45
+Amy Grant With Vince Gill
+House Of Love
+46
+Annie Lennox
+No More "I Love You's"
+47
+The Human League
+Tell Me When
+48
+Vanessa Williams
+The Sweetest Days
+49
+Ini Kamoze
+Here Comes The Hotstepper (From "Ready To Wear")
+50
+Brandy
+I Wanna Be Down
+51
+BLACKstreet
+Joy
+52
+IV Xample
+I'd Rather Be Alone
+53
+Hootie & The Blowfish
+Let Her Cry
+54
+Bone Thugs-N-Harmony Featuring Eazy-E
+Foe Tha Love Of $
+55
+Foreigner
+Until The End Of Time
+56
+K7
+Move It Like This
+57
+Stevie Wonder
+For Your Love
+58
+Ol' Dirty Bastard
+Brooklyn Zoo
+59
+Rappin' 4-Tay Featuring The Spinners
+I'll Be Around
+60
+Usher
+Think Of You
+61
+Craig Mack
+Get Down
+62
+Immature
+Constantly
+63
+All-4-One
+(She's Got) Skillz
+64
+Jon Secada
+Mental Picture
+65
+Keith Martin
+Never Find Someone Like You
+66
+Total Featuring The Notorious B.I.G.
+Can't You See (From "New Jersey Drive")
+67
+Elastica
+Connection
+68
+Letters To Cleo
+Here & Now
+69
+Max-A-Million
+Fat Boy
+70
+Fun Factory
+Close To You
+71
+Blues Traveler
+Run-Around
+72
+Capleton
+Tour
+73
+E-40 (Featuring Leviti)
+1-Luv
+74
+Diana King
+Shy Guy (From "Bad Boys")
+75
+Des'ree
+Feel So High
+76
+Channel Live
+Mad Izm
+77
+The Flaming Lips
+She Don't Use Jelly
+78
+Nicki French
+Total Eclipse Of The Heart
+79
+Mobb Deep
+Shook Ones Part II
+80
+Simple Minds
+She's A River
+81
+95 South
+Rodeo
+82
+R.E.M.
+Bang And Blame
+83
+DJ Quik
+Safe + Sound
+84
+Adam Ant
+Wonderful
+85
+Roula
+Lick It
+86
+Keith Murray
+Get Lifted
+87
+Andru Donalds
+Mishale
+88
+69 Boyz
+Kitty Kitty
+89
+Nine
+Whutcha Want?
+90
+Dru Down
+Pimp Of The Year
+91
+Shabba Ranks
+Let's Get It On
+92
+Scarface Feat. Ice Cube
+People Don't Believe
+93
+Livin' Joy
+Dreamer
+94
+Tracy Byrd
+The Keeper Of The Stars
+95
+Prince
+Purple Medley
+96
+Lil Suzy
+Promise Me
+97
+Joe Diffie
+So Help Me Girl
+98
+Luther Vandross
+Always And Forever
+99
+Billie Ray Martin
+Your Loving Arms
+100
+Portishead
+Sour Times (Nobody Loves Me)

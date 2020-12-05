@@ -1,0 +1,300 @@
+1
+Cher
+Dark Lady
+2
+Terry Jacks
+Seasons In The Sun
+3
+John Denver
+Sunshine On My Shoulders
+4
+Eddie Kendricks
+Boogie Down
+5
+Carly Simon & James Taylor
+Mockingbird
+6
+Elton John
+Bennie And The Jets
+7
+Blue Swede
+Hooked On A Feeling
+8
+Paul McCartney And Wings
+Jet
+9
+Mocedades
+Eres Tu (Touch The Wind)
+10
+Kool & The Gang
+Jungle Boogie
+11
+Redbone
+Come And Get Your Love
+12
+David Essex
+Rock On
+13
+Barbra Streisand
+The Way We Were
+14
+Sister Janet Mead
+The Lord's Prayer
+15
+Lamont Dozier
+Trying To Hold On To My Woman
+16
+MFSB Featuring The Three Degrees
+TSOP (The Sound Of Philadelphia)
+17
+Cliff DeYoung
+My Sweet Lady
+18
+Gladys Knight And The Pips
+Best Thing That Ever Happened To Me
+19
+Charlie Rich
+There Won't Be Anymore
+20
+The Spinners
+Mighty Love - Pt. 1
+21
+Jim Stafford
+Spiders & Snakes
+22
+Charlie Rich
+A Very Special Love Song
+23
+Rick Derringer
+Rock And Roll, Hoochie Koo
+24
+Bobby Womack
+Lookin' For A Love
+25
+Moments
+Sexy Mama
+26
+Love Unlimited Orchestra
+Love's Theme
+27
+Aretha Franklin
+Until You Come Back To Me (That's What I'm Gonna Do)
+28
+Ringo Starr
+Oh My My
+29
+Stealers Wheel
+Star
+30
+Jim Croce
+I'll Have To Say I Love You In A Song
+31
+Anne Murray
+Love Song
+32
+The Main Ingredient
+Just Don't Want To Be Lonely
+33
+The Staple Singers
+Touch A Hand, Make A Friend
+34
+Johnnie Taylor
+We're Getting Careless With Our Love
+35
+The O'Jays
+Put Your Hands Together
+36
+Harry Chapin
+WOLD
+37
+Sami Jo
+Tell Me A Lie
+38
+The Soul Children
+I'll Be The Other Woman
+39
+Elvis Presley
+I've Got A Thing About You Baby/Take Good Care Of Her
+40
+Bachman-Turner Overdrive
+Let It Ride
+41
+Diana Ross
+Last Time I Saw Him
+42
+Tom T. Hall
+I Love
+43
+Helen Reddy
+Keep On Singing
+44
+Bob Dylan
+On A Night Like This
+45
+Diana Ross & Marvin Gaye
+My Mistake (Was To Love You)
+46
+B.B. King
+I Like To Live The Love
+47
+Ringo Starr
+You're Sixteen
+48
+Mike Oldfield
+Tubular Bells
+49
+Barry White
+Honey Please, Can't Ya See
+50
+Grand Funk
+The Loco-Motion
+51
+Billy Joel
+Piano Man
+52
+Olivia Newton-John
+Let Me Be There
+53
+Dickie Goodman
+Energy Crisis '74
+54
+The Chi-lites
+Homely Girl
+55
+Bloodstone
+Outside Woman
+56
+Tanya Tucker
+Would You Lay With Me (in A Field Of Stone)
+57
+Tyrone Davis
+I Wish It Was Me
+58
+Jackson 5
+Dancing Machine
+59
+Billy Paul
+Thanks For Saving My Life
+60
+Daryl Hall John Oates
+She's Gone
+61
+The Steve Miller Band
+Your Cash Ain't Nothin' But Trash
+62
+The Guess Who
+Star Baby
+63
+Maria Muldaur
+Midnight At The Oasis
+64
+Bill Amesbury
+Virginia (Touch Me Like You Do)
+65
+The James Gang
+Must Be Love
+66
+Chicago
+(i've Been) Searchin' So Long
+67
+Albert Hammond
+I'm A Train
+68
+The New Birth
+It's Been A Long Time
+69
+Bobby "Blue" Bland
+Goin' Down Slow
+70
+Seals & Crofts
+Unborn Child
+71
+Al Wilson
+Touch And Go
+72
+Three Dog Night
+The Show Must Go On
+73
+Loggins & Messina
+Watching The River Run
+74
+Earth, Wind & Fire
+Mighty Mighty
+75
+Think
+Once You Understand
+76
+Wednesday
+Last Kiss
+77
+Joni Mitchell
+Help Me
+78
+Cat Stevens
+Oh Very Young
+79
+Neil Diamond
+Skybird
+80
+Southcote
+She
+81
+James Brown
+The Payback - Part I
+82
+Byron MacGregor
+Americans
+83
+Cozy Powell
+Dance With The Devil
+84
+The Stylistics
+You Make Me Feel Brand New
+85
+The Temptations
+Heavenly
+86
+The Peppers
+Pepper Box
+87
+Gilbert O'Sullivan
+Happiness Is Me And You
+88
+Marvin Hamlisch/"The Sting"
+The Entertainer
+89
+The Rolling Stones
+Doo Doo Doo Doo Doo (heartbreaker)
+90
+The Isley Brothers
+Summer Breeze (Part 1)
+91
+The Persuaders
+Best Thing That Ever Happened To Me
+92
+Lou Christie
+Beyond The Blue Horizon
+93
+Bee Gees
+Mr. Natural
+94
+Bill Haley And His Comets
+Rock Around The Clock
+95
+Heartsfield
+Music Eyes
+96
+Herbie Hancock
+Chameleon
+97
+Leon Haywood
+Keep It In The Family
+98
+Kris Kristofferson & Rita Coolidge
+Loving Arms
+99
+Deep Purple
+Might Just Take Your Life
+100
+The Emotions
+Put A Little Love Away

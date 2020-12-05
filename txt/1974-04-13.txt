@@ -1,0 +1,300 @@
+1
+Elton John
+Bennie And The Jets
+2
+Blue Swede
+Hooked On A Feeling
+3
+MFSB Featuring The Three Degrees
+TSOP (The Sound Of Philadelphia)
+4
+Sister Janet Mead
+The Lord's Prayer
+5
+Redbone
+Come And Get Your Love
+6
+John Denver
+Sunshine On My Shoulders
+7
+Gladys Knight And The Pips
+Best Thing That Ever Happened To Me
+8
+Terry Jacks
+Seasons In The Sun
+9
+Ringo Starr
+Oh My My
+10
+Carly Simon & James Taylor
+Mockingbird
+11
+Charlie Rich
+A Very Special Love Song
+12
+Bobby Womack
+Lookin' For A Love
+13
+Jim Croce
+I'll Have To Say I Love You In A Song
+14
+Paul McCartney And Wings
+Jet
+15
+Cher
+Dark Lady
+16
+The Main Ingredient
+Just Don't Want To Be Lonely
+17
+Grand Funk
+The Loco-Motion
+18
+Mocedades
+Eres Tu (Touch The Wind)
+19
+Jackson 5
+Dancing Machine
+20
+Mike Oldfield
+Tubular Bells
+21
+Helen Reddy
+Keep On Singing
+22
+Sami Jo
+Tell Me A Lie
+23
+The Staple Singers
+Touch A Hand, Make A Friend
+24
+Diana Ross & Marvin Gaye
+My Mistake (Was To Love You)
+25
+Kool & The Gang
+Jungle Boogie
+26
+Bachman-Turner Overdrive
+Let It Ride
+27
+Billy Joel
+Piano Man
+28
+Eddie Kendricks
+Boogie Down
+29
+Three Dog Night
+The Show Must Go On
+30
+David Essex
+Rock On
+31
+Chicago
+(i've Been) Searchin' So Long
+32
+The Spinners
+Mighty Love - Pt. 1
+33
+Charlie Rich
+There Won't Be Anymore
+34
+Lamont Dozier
+Trying To Hold On To My Woman
+35
+Maria Muldaur
+Midnight At The Oasis
+36
+The Stylistics
+You Make Me Feel Brand New
+37
+Bloodstone
+Outside Woman
+38
+Barbra Streisand
+The Way We Were
+39
+James Brown
+The Payback - Part I
+40
+Albert Hammond
+I'm A Train
+41
+Joni Mitchell
+Help Me
+42
+Billy Paul
+Thanks For Saving My Life
+43
+The Guess Who
+Star Baby
+44
+Marvin Hamlisch/"The Sting"
+The Entertainer
+45
+Cat Stevens
+Oh Very Young
+46
+Love Unlimited Orchestra
+Love's Theme
+47
+Aretha Franklin
+Until You Come Back To Me (That's What I'm Gonna Do)
+48
+Rick Derringer
+Rock And Roll, Hoochie Koo
+49
+The Temptations
+Heavenly
+50
+Earth, Wind & Fire
+Mighty Mighty
+51
+Tanya Tucker
+Would You Lay With Me (in A Field Of Stone)
+52
+Cliff DeYoung
+My Sweet Lady
+53
+Elvis Presley
+I've Got A Thing About You Baby/Take Good Care Of Her
+54
+The Soul Children
+I'll Be The Other Woman
+55
+Jim Stafford
+Spiders & Snakes
+56
+The Steve Miller Band
+Your Cash Ain't Nothin' But Trash
+57
+Think
+Once You Understand
+58
+Stevie Wonder
+Don't You Worry 'Bout A Thing
+59
+Al Wilson
+Touch And Go
+60
+Cozy Powell
+Dance With The Devil
+61
+Al Green
+Let's Get Married
+62
+Gilbert O'Sullivan
+Happiness Is Me And You
+63
+The James Gang
+Must Be Love
+64
+Leon Haywood
+Keep It In The Family
+65
+Bill Amesbury
+Virginia (Touch Me Like You Do)
+66
+Seals & Crofts
+Unborn Child
+67
+Barbra Streisand
+All In Love Is Fair
+68
+Aretha Franklin
+I'm In Love
+69
+The Isley Brothers
+Summer Breeze (Part 1)
+70
+Carpenters
+I Won't Last A Day Without You
+71
+Lois Fletcher
+I Am What I Am
+72
+Bill Haley And His Comets
+Rock Around The Clock
+73
+The Emotions
+Put A Little Love Away
+74
+Lobo
+Standing At The End Of The Line
+75
+Herbie Hancock
+Chameleon
+76
+The Peppers
+Pepper Box
+77
+Five Man Electrical Band
+Werewolf
+78
+Todd Rundgren
+A Dream Goes On Forever
+79
+Martha Reeves
+Power Of Love
+80
+Mac Davis
+One Hell Of A Woman
+81
+Lou Christie
+Beyond The Blue Horizon
+82
+Nilsson
+Daybreak
+83
+Gordon Lightfoot
+Sundown
+84
+Ray Stevens
+The Streak
+85
+Love Unlimited
+Under The Influence Of Love
+86
+Kris Kristofferson & Rita Coolidge
+Loving Arms
+87
+Olivia Newton-John
+If You Love Me (let Me Know)
+88
+Dawn Featuring Tony Orlando
+It Only Hurts When I Try To Smile
+89
+Ian Lloyd & Stories
+If It Feels Good, Do It
+90
+The O'Jays
+For The Love Of Money
+91
+Johnny Nash
+Loving You
+92
+ZZ Top
+La Grange
+93
+Harold Melvin And The Blue Notes
+Satisfaction Guaranteed (Or Take Your Love Back)
+94
+Creative Source
+Who Is He And What Is He To You
+95
+Linda Ronstadt
+Silver Threads And Golden Needles
+96
+Melba Montgomery
+No Charge
+97
+Bill Withers
+The Same Love That Made Me Laugh
+98
+Frank Sinatra
+Bad, Bad Leroy Brown
+99
+The Eleventh Hour
+So Good
+100
+Deep Purple
+Might Just Take Your Life

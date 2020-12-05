@@ -1,0 +1,300 @@
+1
+Olivia Newton-John
+Physical
+2
+Foreigner
+Waiting For A Girl Like You
+3
+Earth, Wind & Fire
+Let's Groove
+4
+Daryl Hall John Oates
+I Can't Go For That (No Can Do)
+5
+Rod Stewart
+Young Turks
+6
+Quarterflash
+Harden My Heart
+7
+Stevie Nicks With Don Henley
+Leather And Lace
+8
+The J. Geils Band
+Centerfold
+9
+George Benson
+Turn Your Love Around
+10
+Lindsey Buckingham
+Trouble
+11
+Neil Diamond
+Yesterday's Songs
+12
+Barbra Streisand
+Comin' In And Out Of Your Life
+13
+Juice Newton
+The Sweetest Thing (I've Ever Known)
+14
+Royal Philharmonic Orchestra
+Hooked On Classics
+15
+Diana Ross
+Why Do Fools Fall In Love
+16
+Paul Davis
+Cool Night
+17
+Kool & The Gang
+Take My Heart (You Can Have It If You Want It)
+18
+Journey
+Don't Stop Believin'
+19
+Eddie Rabbitt
+Someone Could Lose A Heart Tonight
+20
+The Rolling Stones
+Waiting On A Friend
+21
+The Cars
+Shake It Up
+22
+Ronnie Milsap
+I Wouldn't Have Missed It For The World
+23
+Dan Fogelberg
+Leader Of The Band
+24
+The Beach Boys
+Come Go With Me
+25
+Stevie Woods
+Steal The Night
+26
+Billy Joel
+She's Got A Way
+27
+Go-Go's
+Our Lips Are Sealed
+28
+Sheena Easton
+You Could Have Been With Me
+29
+Queen & David Bowie
+Under Pressure
+30
+Little River Band
+Take It Easy On Me
+31
+Commodores
+Oh No
+32
+Air Supply
+Sweet Dreams
+33
+The Police
+Every Little Thing She Does Is Magic
+34
+Air Supply
+Here I Am (Just When I Thought I Was Over You)
+35
+Rick Springfield
+Love Is Alright Tonite
+36
+Don McLean
+Castles In The Air
+37
+Sneaker
+More Than Just The Two Of Us
+38
+Chilliwack
+My Girl (Gone, Gone, Gone)
+39
+The Steve Miller Band
+Heart Like A Wheel
+40
+Loverboy
+Working For The Weekend
+41
+Alabama
+Love In The First Degree
+42
+Bertie Higgins
+Key Largo
+43
+Daryl Hall John Oates
+Private Eyes
+44
+Eddie Schwartz
+All Our Tomorrows
+45
+Lulu
+If I Were You
+46
+Billy Squier
+My Kinda Lover
+47
+The Rolling Stones
+Start Me Up
+48
+Greg Lake
+Let Me Love You Once
+49
+Barry Manilow
+Somewhere Down The Road
+50
+Al Jarreau
+Breakin' Away
+51
+Del Shannon
+Sea Of Love
+52
+Sheila
+Little Darlin'
+53
+Barry Manilow
+The Old Songs
+54
+Jennifer Warnes
+Could It Be Love
+55
+Bob Seger & The Silver Bullet Band
+Feel Like A Number
+56
+Christopher Cross
+Arthur's Theme (Best That You Can Do)
+57
+Genesis
+Abacab
+58
+Henry Paul Band
+Keeping Our Love Alive
+59
+Balance
+Falling In Love
+60
+Survivor
+Poor Man's Son
+61
+Genesis
+No Reply At All
+62
+Luther Vandross
+Never Too Much
+63
+Ringo Starr
+Wrack My Brain
+64
+Carpenters
+Those Good Old Dreams
+65
+Steve Carlisle
+Wkrp In Cincinnati
+66
+Bob Seger
+Tryin' To Live My Life Without You
+67
+Donnie Iris
+Love Is Like A Rock
+68
+Kenny Rogers
+Through The Years
+69
+Rush
+Closer To The Heart
+70
+Quincy Jones Featuring James Ingram
+One Hundred Ways
+71
+Patti Austin
+Every Home Should Have One
+72
+Neil Young / Crazy Horse
+Southern Pacific
+73
+The John Hall Band
+Crazy (Keep On Falling)
+74
+KISS
+A World Without Heroes
+75
+Bill Champlin
+Tonight Tonight
+76
+Buckner & Garcia
+Pac-Man Fever
+77
+Mike Post featuring Larry Carlton
+The Theme From Hill Street Blues
+78
+Bee Gees
+Living Eyes
+79
+Irene Cara
+Anyone Can See
+80
+Diana Ross
+Mirror, Mirror
+81
+Peabo Bryson
+Let The Feeling Flow
+82
+Quincy Jones Featuring James Ingram
+Just Once
+83
+Teddy Pendergrass
+You're My Latest, My Greatest Inspiration
+84
+Leif Garrett
+Runaway Rita
+85
+Vangelis
+Chariots Of Fire - Titles
+86
+Rick Springfield
+I've Done Everything For You
+87
+ABBA
+When All Is Said And Done
+88
+Dave Stewart and Barbara Gaskin
+It's My Party
+89
+Kano
+Can't Hold Back (Your Loving)
+90
+Little River Band
+The Night Owls
+91
+Crystal Gayle
+The Woman In Me
+92
+The Kinks
+Better Things
+93
+Four Tops
+When She Was My Girl
+94
+Diesel
+Sausalito Summernight
+95
+Al Jarreau
+We're In This Love Together
+96
+Carl Carlton
+She's A Bad Mama Jama (She's Built, She's Stacked)
+97
+Kenny Rogers
+Blaze Of Glory
+98
+Sheena Easton
+For Your Eyes Only
+99
+Rick James
+Super Freak (Part I)
+100
+Diana Ross & Lionel Richie
+Endless Love

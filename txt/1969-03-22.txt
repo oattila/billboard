@@ -1,0 +1,300 @@
+1
+Tommy Roe
+Dizzy
+2
+Creedence Clearwater Revival
+Proud Mary
+3
+Classics IV Featuring Dennis Yost
+Traces
+4
+The Foundations
+Build Me Up Buttercup
+5
+1910 Fruitgum Co.
+Indian Giver
+6
+The Zombies
+Time Of The Season
+7
+Dionne Warwick
+This Girl's In Love With You
+8
+Sly & The Family Stone
+Everyday People
+9
+Tommy James And The Shondells
+Crimson And Clover
+10
+The Temptations
+Run Away Child, Running Wild
+11
+Glen Campbell
+Galveston
+12
+Joe South
+Games People Play
+13
+David Ruffin
+My Whole World Ended (The Moment You Left Me)
+14
+The 5th Dimension
+Aquarius/Let The Sunshine In
+15
+Sammy Davis Jr.
+I've Gotta Be Me
+16
+New Colony Six
+Things I'd Like To Say
+17
+Smokey Robinson & The Miracles
+Baby, Baby Don't Cry
+18
+Jay & The Americans
+This Magic Moment
+19
+Aretha Franklin
+The Weight
+20
+Steppenwolf
+Rock Me
+21
+Blood, Sweat & Tears
+You've Made Me So Very Happy
+22
+The Bubble Puppy
+Hot Smoke & Sasafrass
+23
+Paul Revere & The Raiders Featuring Mark Lindsay
+Mr. Sun, Mr. Moon
+24
+Jerry Butler
+Only The Strong Survive
+25
+Spirit
+I Got A Line On You
+26
+Frankie Laine
+You Gave Me A Mountain
+27
+Edwin Starr
+Twenty-Five Miles
+28
+The Box Tops
+Sweet Cream Ladies, Forward March
+29
+The First Edition
+But You Know I Love You
+30
+Sir Douglas Quintet
+Mendocino
+31
+The Doors
+Touch Me
+32
+The Turtles
+You Showed Me
+33
+Supremes & Temptations
+I'll Try Something New
+34
+The Meters
+Sophisticated Cissy
+35
+Bob Seger System
+Ramblin' Gamblin' Man
+36
+James Brown
+Give It Up Or Turnit A Loose
+37
+The Watts 103rd Street Rhythm Band
+Do Your Thing
+38
+Betty Everett
+There'll Come A Time
+39
+Stevie Wonder
+I Don't Know Why
+40
+Gary Puckett And The Union Gap
+Don't Give In To Him
+41
+Bill Deal & The Rhondels
+May I
+42
+The Isley Brothers
+It's Your Thing
+43
+The Vogues
+No, Not Much
+44
+The Beach Boys
+I Can Hear Music
+45
+Three Dog Night
+Try A Little Tenderness
+46
+The Arbors
+The Letter
+47
+Mongo Santamaria
+Cloud Nine
+48
+Otis Redding
+A Lover's Question
+49
+Neil Diamond
+Brother Love's Travelling Salvation Show
+50
+The Grass Roots
+Lovin' Things
+51
+Brenda Lee
+Johnny One Time
+52
+Glen Campbell & Bobbie Gentry
+Let It Be Me
+53
+Clarence Carter
+Snatching It Back
+54
+The Brooklyn Bridge Featuring Johnny Maestro
+Blessed Is The Rain
+55
+Johnny Rivers
+These Are Not My People
+56
+The Monkees
+Tear Drop City
+57
+Peaches & Herb
+When He Touches Me (Nothing Else Matters)
+58
+Crazy Elephant
+Gimme Gimme Good Lovin'
+59
+Derek
+Back Door Man
+60
+Rhinoceros
+Apricot Brandy
+61
+Bettye Swann
+Don't Touch Me
+62
+Young-Holt Unlimited
+Who's Making Love
+63
+Carla Thomas
+I Like What You're Doing (To Me)
+64
+Dusty Springfield
+Don't Forget About Me
+65
+Engelbert Humperdinck
+The Way It Used To Be
+66
+Red Skelton
+The Pledge Of Allegiance
+67
+Elvis Presley
+Memories
+68
+Thee Prophets
+Playgirl
+69
+The Iveys
+Maybe Tomorrow
+70
+The Cowsills
+Hair
+71
+Joe Simon
+The Chokin' Kind
+72
+Vanilla Fudge
+Shotgun
+73
+The Fireballs
+Long Green
+74
+The Peppermint Rainbow
+Will You Be Staying After Sunday
+75
+Iron Butterfly
+Soul Experience
+76
+Shango
+Day After Day (It's Slippin' Away)
+77
+Gladys Knight And The Pips
+Didn't You Know (You'd Have To Cry Sometime)
+78
+Booker T. & The MG's
+Time Is Tight
+79
+Nazz
+Hello It's Me
+80
+The Association
+Goodbye Columbus
+81
+Tyrone Davis
+Is It Something You've Got
+82
+Bee Gees
+First Of May
+83
+Mama Cass
+Move In A Little Closer, Baby
+84
+B.J. Thomas
+It's Only Love
+85
+Paul Anka
+In The Still Of The Night
+86
+Tommy James And The Shondells
+Sweet Cherry Wine
+87
+The Dynamics
+Ice Cream Song
+88
+The Flirtations
+Nothing But A Heartache
+89
+Sly & The Family Stone
+Sing A Simple Song
+90
+MC5
+Kick Out The Jams
+91
+Aretha Franklin
+Tracks Of My Tears
+92
+The Ventures
+Hawaii Five-O
+93
+Canned Heat
+Time Was
+94
+The Dells
+Hallways Of My Mind
+95
+Bobby Hatfield
+Only You (And You Alone)
+96
+Dee Dee Warwick
+Foolish Fool
+97
+Sam & Dave
+Born Again
+98
+Connie Francis
+The Wedding Cake
+99
+The Chi-lites
+Give It Away
+100
+Nancy Sinatra
+God Knows I Love You

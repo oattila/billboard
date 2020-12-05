@@ -1,0 +1,300 @@
+1
+Tommy Roe
+Dizzy
+2
+Creedence Clearwater Revival
+Proud Mary
+3
+Sly & The Family Stone
+Everyday People
+4
+The Foundations
+Build Me Up Buttercup
+5
+Classics IV Featuring Dennis Yost
+Traces
+6
+Tommy James And The Shondells
+Crimson And Clover
+7
+Dionne Warwick
+This Girl's In Love With You
+8
+1910 Fruitgum Co.
+Indian Giver
+9
+The Zombies
+Time Of The Season
+10
+Jay & The Americans
+This Magic Moment
+11
+The Temptations
+Run Away Child, Running Wild
+12
+Joe South
+Games People Play
+13
+Sammy Davis Jr.
+I've Gotta Be Me
+14
+David Ruffin
+My Whole World Ended (The Moment You Left Me)
+15
+Smokey Robinson & The Miracles
+Baby, Baby Don't Cry
+16
+The Doors
+Touch Me
+17
+New Colony Six
+Things I'd Like To Say
+18
+Glen Campbell
+Galveston
+19
+James Brown
+Give It Up Or Turnit A Loose
+20
+The Turtles
+You Showed Me
+21
+Aretha Franklin
+The Weight
+22
+Tyrone Davis
+Can I Change My Mind
+23
+The First Edition
+But You Know I Love You
+24
+Paul Revere & The Raiders Featuring Mark Lindsay
+Mr. Sun, Mr. Moon
+25
+Spirit
+I Got A Line On You
+26
+Bob Seger System
+Ramblin' Gamblin' Man
+27
+Frankie Laine
+You Gave Me A Mountain
+28
+Jerry Butler
+Only The Strong Survive
+29
+Diana Ross & The Supremes
+I'm Livin' In Shame
+30
+The Box Tops
+Sweet Cream Ladies, Forward March
+31
+The Bubble Puppy
+Hot Smoke & Sasafrass
+32
+Mongo Santamaria
+Cloud Nine
+33
+Steppenwolf
+Rock Me
+34
+Cream
+Crossroads
+35
+Sir Douglas Quintet
+Mendocino
+36
+Blood, Sweat & Tears
+You've Made Me So Very Happy
+37
+The 5th Dimension
+Aquarius/Let The Sunshine In
+38
+Betty Everett
+There'll Come A Time
+39
+Bill Deal & The Rhondels
+May I
+40
+Johnnie Taylor
+Take Care Of Your Homework
+41
+The Meters
+Sophisticated Cissy
+42
+Stevie Wonder
+I Don't Know Why
+43
+Edwin Starr
+Twenty-Five Miles
+44
+Marvin Gaye & Tammi Terrell
+Good Lovin' Ain't Easy To Come By
+45
+The Watts 103rd Street Rhythm Band
+Do Your Thing
+46
+The Rascals
+Heaven
+47
+Three Dog Night
+Try A Little Tenderness
+48
+Glen Campbell & Bobbie Gentry
+Let It Be Me
+49
+The Grass Roots
+Lovin' Things
+50
+Donovan
+To Susan On The West Coast Waiting
+51
+Neil Diamond
+Brother Love's Travelling Salvation Show
+52
+Otis Redding
+A Lover's Question
+53
+Brenda Lee
+Johnny One Time
+54
+Supremes & Temptations
+I'll Try Something New
+55
+The Arbors
+The Letter
+56
+The Monkees
+Tear Drop City
+57
+Young-Holt Unlimited
+Who's Making Love
+58
+O.C. Smith
+Honey (I Miss You)
+59
+Brian Hyland
+Tragedy
+60
+Tommy Leonetti
+Kum Ba Yah
+61
+The Brooklyn Bridge Featuring Johnny Maestro
+Blessed Is The Rain
+62
+Peaches & Herb
+When He Touches Me (Nothing Else Matters)
+63
+Johnny Rivers
+These Are Not My People
+64
+Rhinoceros
+Apricot Brandy
+65
+Derek
+Back Door Man
+66
+Crazy Elephant
+Gimme Gimme Good Lovin'
+67
+The Iveys
+Maybe Tomorrow
+68
+Bobby Goldsboro
+Glad She's A Woman
+69
+Gary Puckett And The Union Gap
+Don't Give In To Him
+70
+The Beach Boys
+I Can Hear Music
+71
+Nazz
+Hello It's Me
+72
+Vanilla Fudge
+Shotgun
+73
+Carla Thomas
+I Like What You're Doing (To Me)
+74
+Dusty Springfield
+Don't Forget About Me
+75
+Iron Butterfly
+Soul Experience
+76
+Clarence Carter
+Snatching It Back
+77
+Engelbert Humperdinck
+The Way It Used To Be
+78
+Bettye Swann
+Don't Touch Me
+79
+The Vogues
+No, Not Much
+80
+The Association
+Goodbye Columbus
+81
+The Fireballs
+Long Green
+82
+The Peppermint Rainbow
+Will You Be Staying After Sunday
+83
+Shango
+Day After Day (It's Slippin' Away)
+84
+The Cowsills
+Hair
+85
+Thee Prophets
+Playgirl
+86
+Booker T. & The MG's
+Time Is Tight
+87
+Gladys Knight And The Pips
+Didn't You Know (You'd Have To Cry Sometime)
+88
+The Flirtations
+Nothing But A Heartache
+89
+Sly & The Family Stone
+Sing A Simple Song
+90
+MC5
+Kick Out The Jams
+91
+Aretha Franklin
+Tracks Of My Tears
+92
+Mama Cass
+Move In A Little Closer, Baby
+93
+The Isley Brothers
+It's Your Thing
+94
+Canned Heat
+Time Was
+95
+Bobby Hatfield
+Only You (And You Alone)
+96
+Red Skelton
+The Pledge Of Allegiance
+97
+The Dells
+Hallways Of My Mind
+98
+Connie Francis
+The Wedding Cake
+99
+The Ventures
+Hawaii Five-O
+100
+Nancy Sinatra
+God Knows I Love You

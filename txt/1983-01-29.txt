@@ -1,0 +1,300 @@
+1
+Men At Work
+Down Under
+2
+Toto
+Africa
+3
+Marvin Gaye
+Sexual Healing
+4
+Don Henley
+Dirty Laundry
+5
+Michael Jackson And Paul McCartney
+The Girl Is Mine
+6
+Daryl Hall John Oates
+Maneater
+7
+Patti Austin A Duet With James Ingram
+Baby, Come To Me
+8
+The Clash
+Rock The Casbah
+9
+Bob Seger & The Silver Bullet Band
+Shame On The Moon
+10
+Eddie Rabbitt With Crystal Gayle
+You And I
+11
+Phil Collins
+You Can't Hurry Love
+12
+Little River Band
+The Other Guy
+13
+Toni Basil
+Mickey
+14
+Adam Ant
+Goody Two Shoes
+15
+Kenny Loggins
+Heart To Heart
+16
+Stray Cats
+Stray Cat Strut
+17
+Musical Youth
+Pass The Dutchie
+18
+Billy Joel
+Allentown
+19
+John Cougar
+Hand To Hold On To
+20
+Tom Petty And The Heartbreakers
+You Got Lucky
+21
+Sammy Hagar
+Your Love Is Driving Me Crazy
+22
+Fleetwood Mac
+Love In Store
+23
+Christopher Cross
+All Right
+24
+Culture Club
+Do You Really Want To Hurt Me
+25
+Juice Newton
+Heart Of The Night
+26
+Dionne Warwick
+Heartbreaker
+27
+Duran Duran
+Hungry Like The Wolf
+28
+Lionel Richie
+You Are
+29
+Peter Gabriel
+Shock The Monkey
+30
+Moving Pictures
+What About Me
+31
+A Flock Of Seagulls
+Space Age Love Song
+32
+Pretenders
+Back On The Chain Gang
+33
+Golden Earring
+Twilight Zone
+34
+Laura Branigan
+Gloria
+35
+Ray Parker Jr.
+Bad Boy
+36
+Kenny Rogers And Sheena Easton
+We've Got Tonight
+37
+Michael Jackson
+Billie Jean
+38
+Linda Ronstadt
+I Knew You When
+39
+Saga
+On The Loose
+40
+Sonny Charles
+Put It In A Magazine
+41
+Glenn Frey
+All Those Lies
+42
+Donna Summer
+The Woman In Me
+43
+ABC
+The Look Of Love (Part One)
+44
+The J. Geils Band
+I Do
+45
+Joe Jackson
+Breaking Us In Two
+46
+Frida
+I Know There's Something Going On
+47
+Pia Zadora
+The Clapping Song
+48
+Lanier & Co.
+After I Cry Tonight
+49
+Neil Diamond
+I'm Alive
+50
+Joe Jackson
+Steppin' Out
+51
+Daryl Hall John Oates
+One On One
+52
+Olivia Newton-John
+Tied Up
+53
+Steel Breeze
+Dreamin' Is Easy
+54
+Earth, Wind & Fire
+Fall In Love With Me
+55
+Air Supply
+Two Less Lonely People In The World
+56
+Supertramp Featuring Rick Davies
+My Kind Of Lady
+57
+Tyrone Davis
+Are You Serious
+58
+Rough Trade
+All Touch
+59
+Poco
+Shoot For The Moon
+60
+Barry Manilow
+Memory
+61
+Eric Clapton
+I've Got A Rock N' Roll Heart
+62
+Night Ranger
+Don't Tell Me You Love Me
+63
+Little Steven
+Forever
+64
+Vandenberg
+Burning Heart
+65
+Randy Newman & Paul Simon
+The Blues
+66
+Don Henley
+I Can't Stand Still
+67
+Chaka Khan
+Got To Be There
+68
+America
+Right Before Your Eyes
+69
+Dexys Midnight Runners
+Come On Eileen
+70
+Jefferson Starship
+Winds Of Change
+71
+Unipop
+What If (I Said I Love You)
+72
+ABC
+Poison Arrow
+73
+Evelyn King
+Betcha She Don't Love You
+74
+Thompson Twins
+Lies
+75
+Missing Persons
+Windows
+76
+Michael Murphey
+Still Taking Chances
+77
+Greg Kihn Band
+Jeopardy
+78
+The Weather Girls
+It's Raining Men
+79
+The John Hall Band
+Love Me Again
+80
+Survivor
+The One That Really Matters
+81
+Chicago
+What You're Missing
+82
+Utopia
+Feet Don't Fail Me Now
+83
+Firefall
+Always
+84
+Neil Young
+Little Thing Called Love
+85
+Stray Cats
+Rock This Town
+86
+Donald Fagen
+New Frontier
+87
+Lionel Richie
+Truly
+88
+Kool & The Gang
+Let's Go Dancin' (ooh La, La, La)
+89
+Crosby, Stills & Nash
+Too Much Love To Hide
+90
+Stephen Bishop
+It Might Be You
+91
+Tavares
+A Penny For Your Thoughts
+92
+Wolf
+Papa Was A Rollin' Stone
+93
+The Steve Miller Band
+Give It Up
+94
+Kim Carnes
+Does It Make You Remember
+95
+Hot Chocolate
+Are You Getting Enough Happiness
+96
+The Spinners
+Funny How Time Slips Away
+97
+The Who
+Eminence Front
+98
+Dire Straits
+Industrial Disease
+99
+Pat Benatar
+Shadows Of The Night
+100
+The Alan Parsons Project
+Psychobabble

@@ -1,0 +1,300 @@
+1
+Mr. Acker Bilk
+Stranger On The Shore
+2
+The Shirelles
+Soldier Boy
+3
+Dee Dee Sharp
+Mashed Potato Time
+4
+Ray Charles
+I Can't Stop Loving You
+5
+Walter Brennan
+Old Rivers
+6
+Brenda Lee
+Everybody Loves Me But You
+7
+Jay & The Americans
+She Cried
+8
+Jimmy Dean
+P.T. 109
+9
+Shelley Fabares
+Johnny Angel
+10
+Dion
+Lovers Who Wander
+11
+Ernie Maresca
+Shout! Shout! (Knock Yourself Out)
+12
+Mary Wells
+The One Who Really Loves You
+13
+The Crystals
+Uptown
+14
+Burl Ives
+Funny Way Of Laughin'
+15
+James Darren
+Conscience
+16
+Ronnie and The Hi-Lites
+I Wish That We Were Married
+17
+Elvis Presley With The Jordanaires
+Good Luck Charm
+18
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+19
+Joey Dee & the Starliters
+Shout - Part I
+20
+The Blue-Belles
+I Sold My Heart To The Junkman
+21
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+22
+Jimmy Soul
+Twistin' Matilda (and the channel)
+23
+Gary U.S. Bonds
+Twist, Twist Senora
+24
+Connie Francis
+Second Hand Love
+25
+Ben E. King
+Don't Play That Song (You Lied)
+26
+Dick and DeeDee
+Tell Me
+27
+Perry Como
+Caterina
+28
+Freddy Cannon
+Palisades Park
+29
+Patti Page
+Most People Get Married
+30
+Elvis Presley
+Follow That Dream
+31
+Frankie Avalon
+You Are Mine
+32
+Henry Mancini And His Orchestra
+Moon River
+33
+The Marvelettes
+Playboy
+34
+Clyde McPhatter
+Lover Please
+35
+James Brown And The Famous Flames
+Night Train
+36
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+37
+Chubby Checker (with Dee Dee Sharp)
+Slow Twistin'
+38
+George Maharis
+Teach Me Tonight
+39
+King Curtis And The Noble Knights
+Soul Twist
+40
+The Castells
+So This Is Love
+41
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+42
+Dion
+(I was) Born To Cry
+43
+Rick Nelson
+Young World
+44
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+45
+Linda Scott
+Count Every Star
+46
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+47
+Ace Cannon
+Blues (Stay Away From Me)
+48
+Brook Benton
+Hit Record
+49
+The Volume's
+I Love You
+50
+James Ray
+Itty Bitty Pieces
+51
+Johnny Crawford
+Cindy's Birthday
+52
+Larry Finnegan
+Dear One
+53
+Neil Sedaka
+King Of Clowns
+54
+Joe Henderson
+Snap Your Fingers
+55
+Bruce Channel
+Number One Man
+56
+Ketty Lester
+Love Letters
+57
+Bobby Vee
+Sharing You
+58
+Wanda Jackson
+If I Cried Every Time You Hurt Me
+59
+Peter, Paul & Mary
+Lemon Tree
+60
+The Marketts
+Balboa Blue
+61
+Ray Charles
+Born To Lose
+62
+David Rose and His Orchestra
+The Stripper
+63
+Johnnie Morisette
+Meet Me At The Twistin' Place
+64
+Vic Dana
+I Will
+65
+Jackie Wilson
+Hearts
+66
+Dinah Washington
+Where Are You
+67
+Hayley Mills
+Johnny Jingo
+68
+Fats Domino
+My Real Name
+69
+Marty Robbins
+Love Can't Wait
+70
+The Lettermen
+How Is Julie?
+71
+Yvonne Baker and the Sensations
+That's My Desire
+72
+The Corsairs Featuring Jay "Bird" Uzzell
+I'll Take You Home
+73
+Patsy Cline
+When I Get Thru With You (You'll Love Me Too)
+74
+Bobby Curtola
+Fortuneteller
+75
+The Falcons & Band (Ohio Untouchables)
+I Found A Love
+76
+Valjean on Piano
+Theme From Ben Casey
+77
+Dr. Feelgood And The Interns
+Doctor Feel-Good
+78
+Bertha Tillman
+Oh My Angel
+79
+Connie Stevens
+Why'd You Wanna Make Me Cry
+80
+Claude King
+Wolverton Mountain
+81
+Emilio Pericoli
+Al Di La'
+82
+The Miracles
+I'll Try Something New
+83
+Sandy Nelson
+Drummin' Up A Storm
+84
+Teddy & The Twilights
+Woman Is A Man's Best Friend
+85
+The Dovells
+Bristol Twistin' Annie
+86
+Sandy Nelson
+Drum Stomp
+87
+The Paris Sisters
+Let Me Be The One
+88
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+89
+Earl Grant
+Swingin' Gently
+90
+Jim Reeves
+Adios Amigo
+91
+Sam Cooke
+Having A Party
+92
+Solomon Burke
+Down In The Valley
+93
+Arthur Alexander
+Where Have You Been (All My Life)
+94
+Benny Spellman
+Lipstick Traces (On A Cigarette)
+95
+Joanie Sommers
+Johnny Get Angry
+96
+The Everly Brothers
+How Can I Meet Her?
+97
+Jan & Dean
+Tennessee
+98
+The Champs
+Limbo Rock
+99
+Toni Fisher
+West Of The Wall
+100
+John Lee Hooker
+Boom Boom

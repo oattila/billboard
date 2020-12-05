@@ -1,0 +1,300 @@
+1
+The Beatles
+Paperback Writer
+2
+Frank Sinatra
+Strangers In The Night
+3
+The Rolling Stones
+Paint It, Black
+4
+The Lovin' Spoonful
+Did You Ever Have To Make Up Your Mind?
+5
+Simon & Garfunkel
+I Am A Rock
+6
+The Cyrkle
+Red Rubber Ball
+7
+Robert Parker
+Barefootin'
+8
+The Capitols
+Cool Jerk
+9
+Dusty Springfield
+You Don't Have To Say You Love Me
+10
+The Chiffons
+Sweet Talkin' Guy
+11
+Percy Sledge
+When A Man Loves A Woman
+12
+Shades Of Blue
+Oh How Happy
+13
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Opus 17 (Don't You Worry 'Bout Me)
+14
+The Animals
+Don't Bring Me Down
+15
+Tommy James And The Shondells
+Hanky Panky
+16
+The Mindbenders
+A Groovy Kind Of Love
+17
+Gary Lewis And The Playboys
+Green Grass
+18
+Chris Montez
+The More I See You
+19
+Swingin' Medallions
+Double Shot (Of My Baby's Love)
+20
+The Temptations
+Ain't Too Proud To Beg
+21
+The Standells
+Dirty Water
+22
+The Outsiders
+Girl In Love
+23
+Sam & Dave
+Hold On! I'm A Comin'
+24
+Syndicate Of Sound
+Little Girl
+25
+Jay & The Americans
+Crying
+26
+The Righteous Brothers
+He
+27
+Jan & Dean
+Popsicle
+28
+B.J. Thomas
+Mama
+29
+The Beatles
+Rain
+30
+Jr. Walker & The All Stars
+(I'm A) Road Runner
+31
+The Platters
+I Love You 1000 Times
+32
+The Association
+Along Comes Mary
+33
+James Brown And The Famous Flames
+It's A Man's Man's Man's World
+34
+The Leaves
+Hey Joe
+35
+The Vogues
+The Land Of Milk And Honey
+36
+Johnny Sea
+Day For Decision
+37
+Ray Charles
+Let's Go Get Stoned
+38
+Johnny Rivers
+(I Washed My Hands In) Muddy Water
+39
+Vic Dana
+I Love You Drops
+40
+Jimmie Rodgers
+It's Over
+41
+The Mamas & The Papas
+Monday, Monday
+42
+The Shadows Of Knight
+Oh Yeah
+43
+The Dave Clark Five
+Please Tell Me Why
+44
+The Kinks
+Dedicated Follower Of Fashion
+45
+Marvin Gaye
+Take This Heart Of Mine
+46
+Dee Jay And The Runaways
+Peter Rabbit
+47
+Eddy Arnold
+The Last Word In Lonesome Is Me
+48
+The Critters
+Younger Girl
+49
+Sonny & Cher
+Have I Stayed Too Long
+50
+Four Tops
+Loving You Is Sweeter Than Ever
+51
+The Young Rascals
+You Better Run
+52
+Love
+My Little Red Book
+53
+Joe Tex
+S.Y.S.L.J.F.M. (The Letter Song)
+54
+The Hondells
+Younger Girl
+55
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+56
+Crispian St. Peters
+The Pied Piper
+57
+Wilson Pickett
+Ninety-Nine And A Half (Won't Do)
+58
+Tommy Roe
+Sweet Pea
+59
+Ray Conniff And The Singers
+Somewhere, My Love
+60
+Neil Diamond
+Solitary Man
+61
+Ronnie Dove
+Happy Summer Days
+62
+Barry McGuire
+Cloudy Summer Afternoon (Raindrops)
+63
+The Holidays
+I'll Love You Forever
+64
+Jack Jones
+The Impossible Dream (The Quest)
+65
+Otis Redding
+My Lover's Prayer
+66
+Jimmy Hughes
+Neighbor, Neighbor
+67
+Paul Revere & The Raiders Featuring Mark Lindsay
+Hungry
+68
+Little Anthony And The Imperials
+Better Use Your Head
+69
+Mitch Ryder And The Detroit Wheels
+Break Out
+70
+The Grass Roots
+Where Were You When I Needed You
+71
+B.J. Thomas And The Triumphs
+Billy And Sue
+72
+Tom Jones
+Not Responsible
+73
+Esther Phillips
+When A Woman Loves A Man
+74
+Buck Owens and The Buckaroos
+Think Of Me
+75
+The Troggs
+Wild Thing
+76
+Bobby Bland
+Good Time Charlie
+77
+Martha & The Vandellas
+What Am I Going To Do Without Your Love
+78
+Susan Christie
+I Love Onions
+79
+The Miracles
+Whole Lot Of Shakin' In My Heart (Since I Met You)
+80
+Joe Simon
+Teenager's Prayer
+81
+The Turtles
+Grim Reaper Of Love
+82
+The Yardbirds
+Over Under Sideways Down
+83
+Tammi Terrell
+Come On And See Me
+84
+The Lettermen
+I Only Have Eyes For You
+85
+Jeannie Seely
+Don't Touch Me
+86
+The Ides Of March
+You Wouldn't Listen
+87
+Tommy McLain
+Sweet Dreams
+88
+Bobby Moore & The Rhythm Aces
+Searching For My Love
+89
+Walter Jackson
+It's An Uphill Climb To The Bottom
+90
+Leroy Pullins
+I'm A Nut
+91
+Len Barry
+It's That Time Of The Year
+92
+Pozo Seco Singers
+I'll Be Gone
+93
+Roger Williams
+Lara's Theme from "Dr. Zhivago"
+94
+Clefs Of Lavender Hill
+Stop! - Get A Ticket
+95
+Bobby Hebb
+Sunny
+96
+Roger Miller
+You Can't Roller Skate In A Buffalo Herd
+97
+Trini Lopez
+La Bamba - Part I
+98
+Lou Christie
+Painter
+99
+The Shangri-Las
+Past, Present And Future
+100
+"Groove" Holmes
+Misty

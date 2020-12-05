@@ -1,0 +1,300 @@
+1
+Jackson 5
+ABC
+2
+The Beatles
+Let It Be
+3
+Norman Greenbaum
+Spirit In The Sky
+4
+John Ono Lennon
+Instant Karma (We All Shine On)
+5
+The Guess Who
+American Woman/No Sugar Tonight
+6
+Edison Lighthouse
+Love Grows (Where My Rosemary Goes)
+7
+Badfinger
+Come And Get It
+8
+The Friends Of Distinction
+Love Or Let Me Be Lonely
+9
+Simon & Garfunkel
+Bridge Over Troubled Water
+10
+Tyrone Davis
+Turn Back The Hands Of Time
+11
+The Supremes
+Up The Ladder To The Roof
+12
+Kenny Rogers & The First Edition
+Something's Burning
+13
+Bobby Sherman
+Easy Come, Easy Go
+14
+The Marmalade
+Reflections Of My Life
+15
+Frijid Pink
+House Of The Rising Sun
+16
+Crosby, Stills, Nash & Young
+Woodstock
+17
+The Originals
+The Bells
+18
+Bobbi Martin
+For The Love Of Him
+19
+The Ides Of March
+Vehicle
+20
+Michael Parks
+Long Lonesome Highway
+21
+Ray Stevens
+Everything Is Beautiful
+22
+Little Sister
+You're The One-Part II
+23
+Jack Blanchard & Misty Morgan
+Tennessee Bird Walk
+24
+Neil Diamond
+Shilo
+25
+The Jaggerz
+The Rapper
+26
+B.J. Thomas
+Everybody's Out Of Town
+27
+Simon & Garfunkel
+Cecilia
+28
+Gladys Knight And The Pips
+You Need Love Like I Do (Don't You)
+29
+Three Dog Night
+Celebrate
+30
+Chairman Of The Board
+Give Me Just A Little More Time
+31
+Johnny Cash
+What Is Truth
+32
+Rare Earth
+Get Ready
+33
+The Moments
+Love On A Two-Way Street
+34
+George Baker Selection
+Little Green Bag
+35
+Vincent Bell
+Airport Love Theme (Gwen And Vern)
+36
+Jr. Walker & The All Stars
+Gotta Hold On To This Feeling
+37
+Aretha Franklin
+Call Me/Son Of A Preacher Man
+38
+The Poppy Family (Featuring Susan Jacks)
+Which Way You Goin' Billy?
+39
+Van Morrison
+Come Running
+40
+Chicago
+Make Me Smile
+41
+The Sandpipers
+Come Saturday Morning
+42
+Rufus Thomas
+Do The Funky Chicken
+43
+Glen Campbell
+Oh Happy Day
+44
+The 5th Dimension
+The Girls' Song
+45
+Eddie Floyd
+California Girl
+46
+Joe Cocker with Leon Russell & The Shelter People
+The Letter
+47
+Mark Lindsay
+Miss America
+48
+Creedence Clearwater Revival
+Up Around The Bend/Run Through The Jungle
+49
+Diana Ross
+Reach Out And Touch (Somebody's Hand)
+50
+Marty Robbins
+My Woman, My Woman, My Wife
+51
+Joe South
+Children
+52
+Steppenwolf
+Hey Lawdy Mama
+53
+Vanity Fare
+Hitchin' A Ride
+54
+El Chicano
+Viva Tirado - Part I
+55
+The Doors
+You Make Me Real/Roadhouse Blues
+56
+The 5th Dimension
+Puppet Man
+57
+Jay & The Americans
+Capture The Moment
+58
+Dionne Warwick
+Let Me Go To Him
+59
+Eddie Holman
+Don't Stop Now/Since I Don't Have You
+60
+The Meters
+Chicken Strut
+61
+George Perkins & The Silver Stars
+Cryin' In The Streets (Part 1)
+62
+Bill Deal & The Rhondels
+Nothing Succeeds Like Success
+63
+Charles Wright And The Watts 103rd Street Rhythm Band
+Love Land
+64
+B.B. King
+So Excited
+65
+Doris Duke
+To The Other Woman (I'm The Other Woman)
+66
+The 5 Stairsteps
+Dear Prudence
+67
+The O'Jays
+Deeper (In Love With You)
+68
+Eddie & Dutch
+My Wife, The Dancer
+69
+Ike & Tina Turner & The Ikettes
+Come Together
+70
+The Village Soul Choir
+The Cat Walk
+71
+Charley Pride
+Is Anybody Goin' To San Antone
+72
+Bobbie Gentry
+He Made A Woman Out Of Me
+73
+Syndicate Of Sound
+Brown Paper Bag
+74
+Lulu with The Dixie Flyers
+Hum A Song (From Your Heart)
+75
+Dennis Yost And The Classics IV
+The Funniest Thing
+76
+Carpenters
+Ticket To Ride
+77
+The Gentrys
+Cinnamon Girl
+78
+The Who
+The Seeker
+79
+The Brotherhood Of Man
+United We Stand
+80
+Guy Drake
+Welfare Cadilac
+81
+Bobby Goldsboro
+Can You Feel It
+82
+Liquid Smoke
+I Who Have Nothing
+83
+The Dells
+Open Up My Heart/Nadine
+84
+Brook Benton
+My Way
+85
+Joe Simon
+Farther On Down The Road
+86
+Funkadelic
+I Got A Thing, You Got A Thing, Everybody's Got A Thing
+87
+White Plains
+My Baby Loves Lovin'
+88
+Clarence Carter
+I Can't Leave Your Love Alone
+89
+Melanie with The Edwin Hawkins Singers
+Lay Down (Candles In The Rain)
+90
+R.B. Greaves
+Fire & Rain
+91
+Wilson Pickett
+Cole, Cooke & Redding
+92
+Paul Davis
+A Little Bit Of Soap
+93
+Freda Payne
+Band Of Gold
+94
+Marvin Gaye & Tammi Terrell
+The Onion Song/California Soul
+95
+Jesse Anderson
+I Got A Problem
+96
+Street People
+Thank You Girl
+97
+Oliver
+Angelica
+98
+Bobby Womack
+More Than I Can Stand
+99
+Four Tops
+It's All In The Game
+100
+Fabulous Counts
+Get Down People

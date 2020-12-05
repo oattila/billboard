@@ -1,0 +1,300 @@
+1
+The Monkees
+I'm A Believer
+2
+The Seekers
+Georgy Girl
+3
+The Buckinghams
+Kind Of A Drag
+4
+The Rolling Stones
+Ruby Tuesday
+5
+Blues Magoos
+(We Ain't Got) Nothin' Yet
+6
+Aaron Neville
+Tell It Like It Is
+7
+Keith
+98.6
+8
+The Royal Guardsmen
+Snoopy Vs. The Red Baron
+9
+The Supremes
+Love Is Here And Now You're Gone
+10
+Sonny & Cher
+The Beat Goes On
+11
+The Electric Prunes
+I Had Too Much To Dream (Last Night)
+12
+Spyder Turner
+Stand By Me
+13
+Tom Jones
+Green, Green Grass Of Home
+14
+The Mamas & The Papas
+Words Of Love
+15
+Bob Crewe Generation
+Music To Watch Girls By
+16
+The Casinos
+Then You Can Tell Me Goodbye
+17
+The Spencer Davis Group
+Gimme Some Lovin'
+18
+Four Tops
+Standing In The Shadows Of Love
+19
+Paul Revere & The Raiders Featuring Mark Lindsay
+Good Thing
+20
+Senator Bobby Featuring Bill Minkin
+Wild Thing
+21
+Cannonball Adderley
+Mercy, Mercy, Mercy
+22
+The Lovin' Spoonful
+Nashville Cats
+23
+Peter And Gordon
+Knight In Rusty Armour
+24
+Tommy Roe
+It's Now Winters Day
+25
+The Left Banke
+Pretty Ballerina
+26
+The Sopwith "Camel"
+Hello Hello
+27
+The 5th Dimension
+Go Where You Wanna Go
+28
+Petula Clark
+Color My World
+29
+Marvin Gaye & Kim Weston
+It Takes Two
+30
+James Brown And The Famous Flames
+Bring It Up
+31
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Tell It To The Rain
+32
+Neil Diamond
+You Got To Me
+33
+Jimmy Ruffin
+I've Passed This Way Before
+34
+Gary Lewis And The Playboys
+Where Will The Words Come From
+35
+Bobby Darin
+Lovin' You
+36
+Ed Ames
+My Cup Runneth Over
+37
+Brenda Lee
+Ride, Ride, Ride
+38
+Jimmy Castor
+Hey, Leroy, Your Mama's Callin' You
+39
+Sam The Sham and the Pharaohs
+How Do You Catch A Girl
+40
+The Seeds
+Pushin' Too Hard
+41
+Nancy Sinatra
+Sugar Town
+42
+Felice Taylor
+It May Be Winter Outside (But In My Heart It's Spring)
+43
+James Darren
+All
+44
+The Dave Clark Five
+I've Got To Have A Reason
+45
+Freddy Scott
+Are You Lonely For Me
+46
+The Marvelettes
+The Hunter Gets Captured By The Game
+47
+Elvis Presley With The Jordanaires and The Imperials Quartet
+Indescribably Blue
+48
+James & Bobby Purify
+Wish You Didn't Have To Go
+49
+Johnny Rivers
+Baby I Need Your Lovin'
+50
+Pozo Seco Singers
+Look What You've Done
+51
+The Byrds
+So You Want To Be A Rock 'N' Roll Star
+52
+The Youngbloods
+Grizzly Bear
+53
+The Young Rascals
+I've Been Lonely Too Long
+54
+Lowell Fulsom
+Tramp
+55
+P.J. Proby
+Niki Hoeky
+56
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+57
+The Rolling Stones
+Let's Spend The Night Together
+58
+Mitch Ryder And The Detroit Wheels
+Sock It To Me-Baby!
+59
+Wilson Pickett
+Everybody Needs Somebody To Love
+60
+Peaches & Herb
+Let's Fall In Love
+61
+Frankie Laine
+I'll Take Care Of Your Cares
+62
+The Artistics
+I'm Gonna Miss You
+63
+The Gunter Kallmann Chorus
+Wish Me A Rainbow
+64
+The Brass Ring featuring Phil Bodner
+The Dis-Advantages Of You
+65
+The Association
+No Fair At All
+66
+Al Martino
+Daddy's Little Girl
+67
+Jack Jones
+Lady
+68
+Damita Jo
+If You Go Away
+69
+Donovan
+Epistle To Dippy
+70
+Don Ho and the Aliis
+Tiny Bubbles
+71
+Lesley Gore
+California Nights
+72
+Jack Greene
+There Goes My Everything
+73
+Mike Sharpe
+Spooky
+74
+The Lettermen
+Our Winter Love
+75
+Jr. Walker & The All Stars
+Pucker Up Buttercup
+76
+Jerry Butler
+I Dig You Baby
+77
+The Cyrkle
+I Wish You Could Be Here
+78
+Carla Thomas
+Something Good (Is Going To Happen To You)
+79
+The Turtles
+Happy Together
+80
+The Mojo Men
+Sit Down, I Think I Love You
+81
+Solomon Burke
+Keep A Light In The Window Till I Come Home
+82
+Tommy James And The Shondells
+I Think We're Alone Now
+83
+The Music Machine
+The People In Me
+84
+The Lovin' Spoonful
+Darling Be Home Soon
+85
+The Nightcrawlers
+The Little Black Egg
+86
+Lou Courtney
+Skate Now
+87
+Roger Williams
+Sunrise, Sunset
+88
+Bo Diddley
+Ooh Baby
+89
+The Five Stairsteps
+Danger! She's A Stranger
+90
+Herman's Hermits
+There's A Kind Of Hush
+91
+Little Milton
+Feel So Bad
+92
+Lou Rawls
+Trouble Down Here Below
+93
+Jackie Wilson
+Just Be Sincere
+94
+Joe Simon
+My Special Prayer
+95
+Ramsey Lewis
+One, Two, Three
+96
+Billy Stewart
+Every Day I Have The Blues
+97
+Prince Buster
+Ten Commandments
+98
+Eddie Floyd
+Raise Your Hand
+99
+Eddie Fisher
+People Like You
+100
+The Fascinations
+Girls Are Out To Get You

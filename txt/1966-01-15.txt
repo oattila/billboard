@@ -1,0 +1,300 @@
+1
+The Beatles
+We Can Work It Out
+2
+Simon & Garfunkel
+The Sound Of Silence
+3
+Gary Lewis And The Playboys
+She's Just My Style
+4
+The Vogues
+Five O'Clock World
+5
+The Righteous Brothers
+Ebb Tide
+6
+The Beatles
+Day Tripper
+7
+The Statler Brothers
+Flowers On The Wall
+8
+Mike Douglas
+The Men In My Little Girl's Life
+9
+The Rolling Stones
+As Tears Go By
+10
+The T-Bones
+No Matter What Shape (Your Stomach's In)
+11
+Herman's Hermits
+A Must To Avoid
+12
+The Lovin' Spoonful
+You Didn't Have To Be So Nice
+13
+The Dave Clark Five
+Over And Over
+14
+The McCoys
+Fever
+15
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Let's Hang On!
+16
+Paul Revere & The Raiders Featuring Mark Lindsay
+Just Like Me
+17
+Jackie Lee
+The Duck
+18
+Al Martino
+Spanish Eyes
+19
+The Byrds
+Turn! Turn! Turn! (To Everything There Is A Season)
+20
+James Brown And The Famous Flames
+I Got You (I Feel Good)
+21
+Mitch Ryder And The Detroit Wheels
+Jenny Take A Ride!
+22
+The Toys
+Attack
+23
+Bobby Vinton
+Satin Pillows
+24
+Petula Clark
+My Love
+25
+The Animals
+It's My Life
+26
+The Knickerbockers
+Lies
+27
+Tom Jones
+Thunderball
+28
+The Kinks
+A Well Respected Man
+29
+Joe Tex
+A Sweet Woman Like You
+30
+Ronny And The Daytonas
+Sandy
+31
+The Beach Boys
+Barbara Ann
+32
+Eddy Arnold
+Make The World Go Away
+33
+Ray Charles
+Crying Time
+34
+The Hollies
+Look Through Any Window
+35
+Johnny Rivers
+Under Your Spell Again
+36
+The Wonder Who?
+Don't Think Twice
+37
+Frank Sinatra
+It Was A Very Good Year
+38
+Billy Joe Royal
+I've Got To Be Somebody
+39
+Roger Miller
+England Swings
+40
+Barry Young
+One Has My Name (The Other Has My Heart)
+41
+Barbra Streisand
+Second Hand Rose
+42
+The Viscounts
+Harlem Nocturne
+43
+Herb Alpert & The Tijuana Brass
+Zorba The Greek
+44
+Elvis Presley With The Jordanaires
+Puppet On A String
+45
+Dionne Warwick
+Are You There (With Another Girl)
+46
+Stevie Wonder
+Uptight (Everything's Alright)
+47
+Elvis Presley With The Jordanaires
+Tell Me Why
+48
+The Miracles
+Going To A Go-Go
+49
+The Shangri-Las
+I Can Never Go Home Anymore
+50
+The Impressions
+You've Been Cheatin'
+51
+Noel Harrison
+A Young Girl
+52
+Lou Christie
+Lightnin' Strikes
+53
+Bobby Goldsboro
+Broomstick Cowboy
+54
+Len Barry
+Like A Baby
+55
+The Marvelettes
+Don't Mess With Bill
+56
+Fontella Bass
+Recovery
+57
+Hedgehoppers Anonymous
+It's Good News Week
+58
+The Beach Boys
+The Little Girl I Once Knew
+59
+Connie Francis
+Jealous Heart
+60
+The 4 Seasons
+Little Boy (In Grown Up Clothes)
+61
+The C.O.D.'s
+Michael
+62
+Vic Dana
+Crystal Chandelier
+63
+Dino, Desi & Billy
+Please Don't Fight It
+64
+Herb Alpert & The Tijuana Brass
+Tijuana Taxi
+65
+The Gentrys
+Spread It On Thick
+66
+Little Anthony And The Imperials
+Hurt
+67
+The Young Rascals
+I Ain't Gonna Eat Out My Heart Anymore
+68
+Chris Montez
+Call Me
+69
+David & Jonathan
+Michelle
+70
+The Packers
+Hole In The Wall
+71
+The Five Americans
+I See The Light
+72
+Bob Dylan
+Can You Please Crawl Out Your Window?
+73
+Maxine Brown
+If You Gotta Make A Fool Of Somebody
+74
+The Mamas & The Papas
+California Dreamin'
+75
+Jr. Walker & The All Stars
+Cleo's Mood
+76
+Bobby Powell
+C.C. Rider
+77
+Jack Jones
+Love Bug
+78
+The Supremes
+My World Is Empty Without You
+79
+Gene Chandler
+Rainbow '65 (Part I)
+80
+Martha & The Vandellas
+Love (Makes Me Do Foolish Things)
+81
+Lee Dorsey
+Get Out Of My Life, Woman
+82
+Red Sovine
+Giddyup Go
+83
+The Temptations
+Don't Look Back
+84
+Bobby Bland
+I'm Too Far Gone (To Turn Around)
+85
+The Strangeloves
+Night Time
+86
+Frankie Valli
+(You're Gonna) Hurt Yourself
+87
+Tammi Terrell
+I Can't Believe You Love Me
+88
+Jim Reeves
+Snow Flake
+89
+King Curtis
+Spanish Harlem
+90
+Billy Vaughn And His Orchestra
+Michelle
+91
+Sam & Dave
+You Don't Know Like I Know
+92
+Sharpees
+Tired Of Being Lonely
+93
+Jackie Wilson And LaVern Baker
+Think Twice
+94
+Darrow Fletcher
+The Pain Gets A Little Deeper
+95
+Ben E. King
+Goodnight My Love
+96
+Solomon Burke
+Baby Come On Home
+97
+Eddie Holman
+This Can't Be True
+98
+The Who
+My Generation
+99
+Roy Head
+Get Back
+100
+Jonathan King
+Where The Sun Has Never Shone

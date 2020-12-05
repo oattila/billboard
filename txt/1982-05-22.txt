@@ -1,0 +1,300 @@
+1
+Paul McCartney And Stevie Wonder
+Ebony And Ivory
+2
+Rick Springfield
+Don't Talk To Strangers
+3
+Charlene
+I've Never Been To Me
+4
+Tommy Tutone
+867-5309/jenny
+5
+Ray Parker Jr.
+The Other Woman
+6
+Paul Davis
+'65 Love Affair
+7
+Vangelis
+Chariots Of Fire - Titles
+8
+The Human League
+Don't You Want Me
+9
+Daryl Hall John Oates
+Did It In A Minute
+10
+Kool & The Gang
+Get Down On It
+11
+Willie Nelson
+Always On My Mind
+12
+The Beatles
+The Beatles' Movie Medley
+13
+Asia
+Heat Of The Moment
+14
+Joan Jett & the Blackhearts
+I Love Rock 'N Roll
+15
+Elton John
+Empty Garden (Hey Hey Johnny)
+16
+Little River Band
+Man On Your Mind
+17
+The J. Geils Band
+Freeze-frame
+18
+Deniece Williams
+It's Gonna Take A Miracle
+19
+Dan Fogelberg
+Run For The Roses
+20
+Toto
+Rosanna
+21
+Joan Jett & the Blackhearts
+Crimson And Clover
+22
+Roberta Flack
+Making Love
+23
+The Charlie Daniels Band
+Still In Saigon
+24
+Aldo Nova
+Fantasy
+25
+Queen
+Body Language
+26
+Go-Go's
+We Got The Beat
+27
+Donnie Iris
+My Girl
+28
+Dazz Band
+Let It Whip
+29
+Simon & Garfunkel
+Wake Up Little Susie
+30
+Franke & The Knockouts
+Without You (Not Another Lonely Night)
+31
+John Denver
+Shanghai Breezes
+32
+Juice Newton
+Love's Been A Little Bit Hard On Me
+33
+Sheena Easton
+When He Shines
+34
+Loverboy
+When It's Over
+35
+38 Special
+Caught Up In You
+36
+Greg Guidry
+Goin' Down
+37
+John Cougar
+Hurts So Good
+38
+Atlantic Starr
+Circles
+39
+Soft Cell
+Tainted Love
+40
+Eddie Rabbitt
+I Don't Know Where To Start
+41
+Kansas
+Play The Game Tonight
+42
+Ronnie Milsap
+Any Day Now
+43
+Dionne Warwick & Johnny Mathis
+Friends In Love
+44
+Cheri
+Murphy's Law
+45
+Carole King
+One To One
+46
+The Police
+Secret Journey
+47
+Richard "Dimples" Fields
+If It Ain't One Thing...It's Another
+48
+Shalamar
+A Night To Remember
+49
+Rod Stewart
+How Long
+50
+Rainbow
+Stone Cold
+51
+Patrice Rushen
+Forget Me Nots
+52
+The Motels
+Only The Lonely
+53
+Karla Bonoff
+Personally
+54
+Foreigner
+Break It Up
+55
+The Rolling Stones
+Hang Fire
+56
+Bertie Higgins
+Just Another Day In Paradise
+57
+Stevie Nicks
+After The Glitter Fades
+58
+Heart
+This Man Is Mine
+59
+Huey Lewis & The News
+Hope You Love Me Like You Say You Do
+60
+Mike Post
+Theme From Magnum P.i.
+61
+Smokey Robinson
+Old Fashioned Love
+62
+Stars On
+Stars on 45 III
+63
+ABBA
+The Visitors
+64
+Prism
+Turn On Your Radar
+65
+Huey Lewis & The News
+Do You Believe In Love
+66
+Bertie Higgins
+Key Largo
+67
+Genesis
+Man On The Corner
+68
+The Temptations Featuring Rick James
+Standing On The Top-Part 1
+69
+Alabama
+Take Me Down
+70
+The Waitresses
+I Know What Boys Like
+71
+Alessi
+Put Away Your Love
+72
+Journey
+Still They Ride
+73
+Neil Diamond
+Be Mine Tonight
+74
+Van Halen
+Dancing In The Street
+75
+John Schneider
+Dreamin'
+76
+Melissa Manchester
+You Should Hear How She Talks About You
+77
+Sammy Hagar
+Piece Of My Heart
+78
+Haircut One Hundred
+Love Plus One
+79
+Sparks
+I Predict
+80
+Four Tops
+Back To School Again
+81
+Jon & Vangelis
+I'll Find My Way Home
+82
+The Frank Barber Orch.
+Hooked On Big Bands
+83
+The Gap Band
+Early In The Morning
+84
+Stevie Woods
+Fly Away
+85
+Pia Zadora
+I'm In Love Again
+86
+Greg Kihn Band
+Happy Man
+87
+The J. Geils Band
+Angel In Blue
+88
+Kim Wilde
+Kids In America
+89
+Eye To Eye
+Nice Girls
+90
+Leslie Pearl
+If The Love Fits Wear It
+91
+David Bowie
+Cat People (Putting Out Fire)
+92
+Diana Ross
+Work That Body
+93
+Gordon Lightfoot
+Baby Step Back
+94
+Waylon & Willie
+Just To Satisfy You
+95
+T.G. Sheppard
+Finally
+96
+Stevie Nicks
+Edge Of Seventeen (Just Like The White Winged Dove)
+97
+Van Halen
+(oh) Pretty Woman
+98
+Barry Manilow
+Let's Hang On
+99
+The Cars
+Since You're Gone
+100
+O'Bryan
+The Gigolo

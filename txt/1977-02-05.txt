@@ -1,0 +1,300 @@
+1
+Mary Macgregor
+Torn Between Two Lovers
+2
+Rose Royce
+Car Wash
+3
+Brick
+Dazz
+4
+Eagles
+New Kid In Town
+5
+The Sylvers
+Hot Line
+6
+Manfred Mann's Earth Band
+Blinded By The Light
+7
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+8
+Stevie Wonder
+I Wish
+9
+The Jacksons
+Enjoy Yourself
+10
+Aerosmith
+Walk This Way
+11
+Bread
+Lost Without Your Love
+12
+Kenny Nolan
+I Like Dreamin'
+13
+Steve Miller
+Fly Like An Eagle
+14
+Barry Manilow
+Weekend In New England
+15
+Leo Sayer
+You Make Me Feel Like Dancing
+16
+Queen
+Somebody To Love
+17
+David Dundas
+Jeans On
+18
+KISS
+Hard Luck Woman
+19
+ABBA
+Dancing Queen
+20
+Al Stewart
+Year Of The Cat
+21
+Donny & Marie Osmond
+Ain't Nothing Like The Real Thing
+22
+Bob Seger & The Silver Bullet Band
+Night Moves
+23
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+24
+Engelbert Humperdinck
+After The Lovin'
+25
+Bee Gees
+Boogie Child
+26
+Thelma Houston
+Don't Leave Me This Way
+27
+Stephen Bishop
+Save It For A Rainy Day
+28
+Fleetwood Mac
+Go Your Own Way
+29
+Earth, Wind & Fire
+Saturday Nite
+30
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+31
+Burton Cummings
+Stand Tall
+32
+Smokie
+Living Next Door To Alice
+33
+Gene Cotton
+You've Got Me Runnin'
+34
+Electric Light Orchestra
+Livin' Thing
+35
+10cc
+The Things We Do For Love
+36
+Kansas
+Carry On Wayward Son
+37
+KC And The Sunshine Band
+I Like To Do It
+38
+Daryl Hall John Oates
+Rich Girl
+39
+Elvis Presley
+Moody Blue/she Thinks I Still Care
+40
+Henhouse Five Plus Too
+In The Mood
+41
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+42
+Heart
+Dreamboat Annie
+43
+Johnny Bristol
+Do It To My Mind
+44
+Boston
+Long Time
+45
+Wild Cherry
+Baby Don't You Know
+46
+Commodores
+Fancy Dancer
+47
+Donna Summer
+Spring Affair/Winter Melody
+48
+Tom Jones
+Say You'll Stay Until Tomorrow
+49
+George Harrison
+Crackerbox Palace
+50
+Elton John
+Sorry Seems To Be The Hardest Word
+51
+Alice Cooper
+I Never Cry
+52
+Linda Ronstadt
+Someone To Lay Down Beside Me
+53
+Boz Scaggs
+What Can I Say
+54
+Bee Gees
+Love So Right
+55
+The Doobie Brothers
+It Keeps You Runnin'
+56
+Rick Dees & His Cast Of Idiots
+Dis-Gorilla (Part 1)
+57
+Brass Construction
+Ha Cha Cha (funktion)
+58
+Deniece Williams
+Free
+59
+Daryl Hall John Oates
+Do What You Want, Be What You Are
+60
+David Soul
+Don't Give Up On Us
+61
+Olivia Newton-John
+Sam
+62
+Parker McGee
+I Just Can't Say No To You
+63
+The Dramatics
+Be My Girl
+64
+Jackson Browne
+Here Come Those Tears Again
+65
+Boney M
+Daddy Cool
+66
+John Denver
+Baby, You Look Good To Me Tonight
+67
+Rod Hart
+C.b. Savage
+68
+Arthur Prysock
+When Love Is New
+69
+Ohio Players
+Feel The Beat (Everybody Disco)
+70
+Phoebe Snow
+Shakey Ground
+71
+Starland Vocal Band
+Hail! Hail! Rock And Roll!
+72
+The O'Jays
+Darlin' Darlin' Baby (Sweet, Tender, Love)
+73
+Orleans
+Reach
+74
+Natalie Cole
+I've Got Love On My Mind
+75
+Jennifer Warnes
+Right Time Of The Night
+76
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+77
+Atlanta Rhythm Section
+So In To You
+78
+The Emotions
+I Don't Wanna Lose Your Love/Flowers
+79
+Ozark Mountain Daredevils
+You Know Like I Know
+80
+Ringo Starr
+Hey Baby
+81
+Enchantment
+Gloria
+82
+Barry DeVorzon And Perry Botikin Jr.
+Bless The Beasts And Children
+83
+Dickie Goodman
+Kong
+84
+Electric Light Orchestra
+Do Ya
+85
+Silvetti
+Spring Rain
+86
+The Sons Of Champlin
+Here Is Where Your Love Belongs
+87
+Dr. Hook
+If Not You
+88
+Aretha Franklin
+Look Into Your Heart
+89
+Latimore
+Somethin' 'bout 'cha
+90
+Little River Band
+I'll Always Call Your Name
+91
+Gabriel Kaplan
+Up Your Nose
+92
+Love Unlimited Orchestra
+Theme From King Kong (Pt. I)
+93
+Elvin Bishop Featuring Mickey Thomas
+Spend Some Time
+94
+Grace Jones
+Sorry/That's The Trouble
+95
+Loleatta Holloway
+Dreamin
+96
+L.T.D.
+Love To The World
+97
+Captain & Tennille
+Muskrat Love
+98
+Jim Stafford
+Turn Loose Of My Leg
+99
+Johnny Rivers
+Ashes And Sand
+100
+Yvonne Elliman
+Love Me

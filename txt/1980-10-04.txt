@@ -1,0 +1,300 @@
+1
+Queen
+Another One Bites The Dust
+2
+Air Supply
+All Out Of Love
+3
+Diana Ross
+Upside Down
+4
+George Benson
+Give Me The Night
+5
+Eddie Rabbitt
+Drivin' My Life Away
+6
+Paul Simon
+Late In The Evening
+7
+Barbra Streisand
+Woman In Love
+8
+Kenny Loggins
+I'm Alright
+9
+Johnny Lee
+Lookin' For Love
+10
+Olivia Newton-John And The Electric Light Orchestra
+Xanadu
+11
+The Doobie Brothers
+Real Love
+12
+Irene Cara
+Fame
+13
+Electric Light Orchestra
+All Over The World
+14
+Bob Seger
+You'll Accomp'ny Me
+15
+The Pointer Sisters
+He's So Shy
+16
+Robbie Dupree
+Hot Rod Hearts
+17
+Stephanie Mills
+Never Knew Love Like This Before
+18
+Carly Simon
+Jesse
+19
+Billy Joel
+Don't Ask Me Why
+20
+Boz Scaggs
+Look What You've Done To Me
+21
+Donna Summer
+The Wanderer
+22
+Larry Graham
+One In A Million You
+23
+Dionne Warwick
+No Night So Long
+24
+Amy Holland
+How Do I Survive
+25
+Ambrosia
+You're The Only Woman (You & I)
+26
+Cliff Richard
+Dreaming
+27
+Al Stewart
+Midnight Rocks
+28
+Natalie Cole
+Someone That I Used To Love
+29
+The Rolling Stones
+Emotional Rescue
+30
+Willie Nelson
+On The Road Again
+31
+Larsen-Feiten Band
+Who'll Be The Fool Tonight
+32
+Stevie Wonder
+Master Blaster (Jammin')
+33
+Supertramp
+Dreamer
+34
+Diana Ross
+I'm Coming Out
+35
+The Charlie Daniels Band
+The Legend Of Wooley Swamp
+36
+Irene Cara
+Out Here On My Own
+37
+Devo
+Whip It
+38
+Pure Prairie League
+I'm Almost Ready
+39
+Kenny Rogers
+Lady
+40
+Stacy Lattisaw
+Let Me Be Your Angel
+41
+Daryl Hall John Oates
+You've Lost That Lovin' Feeling
+42
+Donna Summer
+Walk Away
+43
+The Cars
+Touch And Go
+44
+Anne Murray
+Could I Have This Dance
+45
+The Jacksons
+Lovely One
+46
+Elton John
+(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?
+47
+Ray, Goodman & Brown
+My Prayer
+48
+The Rolling Stones
+She's So Cold
+49
+Jackson Browne
+That Girl Could Sing
+50
+Earth, Wind & Fire
+Let Me Talk
+51
+AC/DC
+You Shook Me All Night Long
+52
+Teddy Pendergrass
+Can't We Try
+53
+Split Enz
+I Got You
+54
+Roger Daltrey
+Without Your Love
+55
+The O'Jays
+Girl, Don't Let It Get You Down
+56
+The Kings
+Switchin' To Glide/This Beat Goes On
+57
+Ali Thomson
+Live Every Minute
+58
+Genesis
+Turn It On Again
+59
+The Allman Brothers Band
+Angeline
+60
+Leo Sayer
+More Than I Can Say
+61
+Peter Gabriel
+Games Without Frontiers
+62
+Christopher Cross
+Sailing
+63
+Amii Stewart & Johnny Bristol
+My Guy/My Girl
+64
+Commodores
+Heroes
+65
+Olivia Newton-John
+Magic
+66
+Benny Mardones
+Into The Night
+67
+Waylon
+Theme From The Dukes Of Hazzard (Good Ol' Boys)
+68
+Kansas
+Hold On
+69
+Nielsen/Pearson
+If You Should Sail
+70
+Pete Townshend
+Let My Love Open The Door
+71
+The S.O.S. Band
+Take Your Time (Do It Right) Part 1
+72
+Kim Carnes
+Cry Like A Baby
+73
+Pat Benatar
+Hit Me With Your Best Shot
+74
+John Cougar
+This Time
+75
+Jackson Browne
+Boulevard
+76
+The Vapors
+Turning Japanese
+77
+Billy Joel
+It's Still Rock And Roll To Me
+78
+Linda Clifford
+Red Light
+79
+Jimmy Hall
+I'm Happy That Love Has Found You
+80
+Frank Stallone
+Case Of You
+81
+Journey
+Good Morning Girl/stay Awhile
+82
+Chicago
+Thunder And Lightning
+83
+Jermaine Jackson
+You're Supposed To Keep Your Love For Me
+84
+Daryl Hall John Oates
+How Does It Feel To Be Back
+85
+Kim Carnes
+More Love
+86
+Commodores
+Old-Fashion Love
+87
+The Kinks
+Lola
+88
+Dynasty
+I've Just Begun To Love You
+89
+Don Williams
+I Believe In You
+90
+Eddie Money
+Running Back
+91
+Robert John
+Hey There Lonely Girl
+92
+Kurtis Blow
+The Breaks (Part 1)
+93
+Chic
+Rebels Are We
+94
+The Manhattans
+Shining Star
+95
+Pat Benatar
+You Better Run
+96
+Boz Scaggs
+JoJo
+97
+Zapp
+More Bounce To The Ounce Part I
+98
+Jay Black
+The Part Of Me That Needs You Most
+99
+Ali Thomson
+Take A Little Rhythm
+100
+The Dirt Band
+Make A Little Magic

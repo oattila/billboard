@@ -1,0 +1,300 @@
+1
+Bobby Lewis
+Tossin' And Turnin'
+2
+Brook Benton
+The Boll Weevil Song
+3
+U.S. Bonds
+Quarter To Three
+4
+Dee Clark
+Raindrops
+5
+Arthur Lyman Group
+Yellow Bird
+6
+Del Shannon
+Hats Off To Larry
+7
+Pips
+Every Beat Of My Heart
+8
+Floyd Cramer
+San Antonio Rose
+9
+Chris Kenner
+I Like It Like That, Part 1
+10
+Brenda Lee
+Dum Dum
+11
+Paul Anka
+Dance On Little Girl
+12
+Pat Boone
+Moody River
+13
+Adam Wade
+The Writing On The Wall
+14
+Connie Francis
+Together
+15
+Chubby Checker
+Let's Twist Again
+16
+The Drifters
+Please Stay
+17
+Ricky Nelson
+Travelin' Man
+18
+The Belmonts
+Tell Me Why
+19
+The Chordettes
+Never On Sunday
+20
+Little Caesar and The Romans
+Those Oldies But Goodies (Remind Me Of You)
+21
+Jackie Wilson
+I'm Comin' On On Back To You
+22
+Matt Monro
+My Kind Of Girl
+23
+Ben E. King
+Stand By Me
+24
+Roy Orbison
+Running Scared
+25
+Ricky Nelson
+Hello Mary Lou
+26
+The Velvets featuring Virgil Johnson
+Tonight (Could Be The Night)
+27
+Sam Cooke
+Cupid
+28
+Fats Domino
+It Keeps Rainin'
+29
+The Castells
+Sacred
+30
+Mar-Keys
+Last Night
+31
+Jan & Dean
+Heart And Soul
+32
+Bobby Rydell
+The Fish
+33
+Hank Ballard And The Midnighters
+The Switch-A-Roo
+34
+Slim Harpo
+Rainin' In My Heart
+35
+Joe Dowell
+Wooden Heart
+36
+Curtis Lee
+Pretty Little Angel Eyes
+37
+The Spinners
+That's What Girls Are Made For
+38
+Don Gibson
+Sea Of Heartbreak
+39
+Damita Jo
+I'll Be There
+40
+Bill Black's Combo
+Ole Buttermilk Sky
+41
+The Cleftones
+Heart And Soul
+42
+The String-A-Longs
+Should I
+43
+Philip Upchurch Combo
+You Can't Sit Down Part 2
+44
+Adrian Kimberly
+The Graduation Song... Pomp And Circumstance
+45
+Roy Drusky
+Three Hearts In A Tangle
+46
+Patti Page
+You'll Answer To Me
+47
+Clarence Henry
+You Always Hurt The One You Love
+48
+Bobby Darin
+Nature Boy
+49
+Linda Scott
+Don't Bet Money Honey
+50
+The Chanters
+No, No, No
+51
+Patsy Cline
+I Fall To Pieces
+52
+The Fireballs
+Quite A Party
+53
+Ernie K-Doe
+Te-Ta-Te-Ta-Ta
+54
+Eddie Hodges
+I'm Gonna Knock On Your Door
+55
+Faron Young
+Hello Walls
+56
+Gene McDaniels
+A Tear
+57
+Ral Donner
+You Don't Know What You've Got (Until You Lose It)
+58
+The Jive Five With Joe Rene And Orchestra
+My True Story
+59
+Patti Page
+Mom And Dad's Waltz
+60
+Neil Scott
+Bobby
+61
+The Flamingos
+Time Was
+62
+The Starlets
+Better Tell Him No
+63
+Tex Ritter
+I Dreamed Of A Hill-Billy Heaven
+64
+Frank Sinatra
+Granada
+65
+The Diamonds
+One Summer Night
+66
+Frank Gari
+Princess
+67
+Ernie Fields
+The Charleston
+68
+The Dukays
+The Girl's A Devil
+69
+The Highwaymen
+Michael
+70
+Bobby Parker
+Watch Your Step
+71
+Rick And The Keens
+Peanuts
+72
+The Miracles
+Mighty Good Lovin'
+73
+Shep And The Limelites
+Ready For Your Love
+74
+Don Costa And His Orchestra And Chorus
+Never On Sunday
+75
+The Regents
+Barbara-Ann
+76
+Brenda Lee
+Eventually
+77
+George Jones
+Tender Years
+78
+Frankie Calen
+Joanie
+79
+The Regents
+Runaround
+80
+Ray Charles
+I've Got News For You
+81
+Nat King Cole
+Take A Fool's Advice
+82
+Donnie and The Dreamers
+My Memories Of You
+83
+The Halos
+Nag
+84
+Connie Francis
+Too Many Rules
+85
+Ray Ellis And His Orchestra
+La Dolce Vita (The Sweet Life)
+86
+Frankie Miller
+Black Land Farmer
+87
+The Shirelles
+What A Sweet Thing That Was
+88
+Etta James
+Fool That I Am
+89
+Jim Reeves
+What Would You Do?
+90
+Jose Jimenez
+The Astronaut (Parts 1 & 2)
+91
+Phill Wilson
+Wishin' On A Rainbow
+92
+The Shirelles
+A Thing Of The Past
+93
+Don Shirley Trio
+Water Boy
+94
+Claude King
+Big River, Big Man
+95
+The Paragons
+If
+96
+Linda Scott
+Starlight, Starbright
+97
+Steve Lawrence
+My Claire De Lune
+98
+Mary Wells
+I Don't Want To Take A Chance
+99
+Duane Eddy And The Rebels
+Drivin' Home
+100
+Little Willie John
+Now You Know

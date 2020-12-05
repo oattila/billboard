@@ -1,0 +1,300 @@
+1
+Survivor
+Eye Of The Tiger
+2
+John Cougar
+Hurts So Good
+3
+The Steve Miller Band
+Abracadabra
+4
+Fleetwood Mac
+Hold Me
+5
+Chicago
+Hard To Say I'm Sorry
+6
+Toto
+Rosanna
+7
+Air Supply
+Even The Nights Are Better
+8
+REO Speedwagon
+Keep The Fire Burnin'
+9
+The Motels
+Only The Lonely
+10
+The Human League
+Don't You Want Me
+11
+Crosby, Stills & Nash
+Wasted On The Way
+12
+Go-Go's
+Vacation
+13
+Dazz Band
+Let It Whip
+14
+Paul McCartney
+Take It Away
+15
+Melissa Manchester
+You Should Hear How She Talks About You
+16
+Donna Summer
+Love Is In Control (Finger On The Trigger)
+17
+Soft Cell
+Tainted Love
+18
+Juice Newton
+Love's Been A Little Bit Hard On Me
+19
+Karla Bonoff
+Personally
+20
+Stevie Wonder
+Do I Do
+21
+Rick Springfield
+What Kind Of Fool Am I
+22
+Kenny Rogers
+Love Will Turn You Around
+23
+Gary U.S. Bonds
+Out Of Work
+24
+Eddie Money
+Think I'm In Love
+25
+The Pointer Sisters
+American Music
+26
+Kim Wilde
+Kids In America
+27
+Men At Work
+Who Can It Be Now?
+28
+The Alan Parsons Project
+Eye In The Sky
+29
+Jennifer Holliday
+And I Am Telling You I'm Not Going
+30
+Leslie Pearl
+If The Love Fits Wear It
+31
+Glenn Frey
+I Found Somebody
+32
+Genesis
+Paperlate
+33
+John Cougar
+Jack & Diane
+34
+Daryl Hall John Oates
+Your Imagination
+35
+38 Special
+Caught Up In You
+36
+Billy Idol
+Hot In The City
+37
+Haircut One Hundred
+Love Plus One
+38
+Herb Alpert
+Route 101
+39
+Journey
+Still They Ride
+40
+The Gap Band
+Early In The Morning
+41
+The Rolling Stones
+Going To A Go-Go
+42
+Jeffrey Osborne
+I Really Don't Need No Light
+43
+Elton John
+Blue Eyes
+44
+Marshall Crenshaw
+Someday, Someway
+45
+Asia
+Only Time Will Tell
+46
+Ray Parker Jr.
+Let Me Go
+47
+Missing Persons
+Words
+48
+Frank Zappa
+Valley Girl
+49
+Paul Davis
+Love Or Let Me Be Lonely
+50
+April Wine
+Enough Is Enough
+51
+Jermaine Jackson
+Let Me Tickle Your Fancy
+52
+A Flock Of Seagulls
+I Ran (So Far Away)
+53
+Larry Elgart And His Manhattan Swing Orchestra
+Hooked On Swing
+54
+Laura Branigan
+Gloria
+55
+Eye To Eye
+Nice Girls
+56
+Joan Jett & the Blackhearts
+Do You Wanna Touch Me (Oh Yeah)
+57
+Ronnie Milsap
+Any Day Now
+58
+Roberta Flack
+I'm The One
+59
+Alabama
+Take Me Down
+60
+America
+You Can Do Magic
+61
+Jackson Browne
+Somebody's Baby
+62
+707
+Mega Force
+63
+Michael Murphey
+What's Forever For
+64
+Afrika Bambaataa & The Soul Sonic Force
+Planet Rock
+65
+Aldo Nova
+Foolin' Yourself
+66
+Jerry Reed
+She Got The Goldmine (i Got The Shaft)
+67
+Dayton
+Hot Fun In The Summertime
+68
+The Clash
+Should I Stay Or Should I Go
+69
+Michael McDonald
+I Keep Forgettin' (Every Time You're Near)
+70
+Axe
+Now Or Never
+71
+Barry Manilow
+Oh Julie
+72
+Randy Meisner
+Never Been In Love
+73
+Queen
+Calling All Girls
+74
+Carly Simon
+Why
+75
+Bill Champlin
+Sara
+76
+Walter Murphy
+Themes From E.T. (The Extra-Terrestrial)
+77
+Dolly Parton
+I Will Always Love You
+78
+Toto
+Make Believe
+79
+Foreigner
+Luanne
+80
+Joe Fagin
+Younger Days
+81
+Steve Winwood
+Still In The Game
+82
+Nicolette Larson
+I Only Want To Be With You
+83
+Billy Squier
+Emotions In Motion
+84
+John Denver
+Seasons Of The Heart
+85
+Cheap Trick
+If You Want My Love
+86
+Kansas
+Play The Game Tonight
+87
+Willie Nelson
+Let It Be Me
+88
+Patrice Rushen
+Forget Me Nots
+89
+Christopher Atkins
+How Can I Live Without Her
+90
+Toronto
+Your Daddy Don't Know
+91
+Asia
+Heat Of The Moment
+92
+Paul McCartney And Stevie Wonder
+Ebony And Ivory
+93
+Dr. Hook
+Loveline
+94
+Willie Nelson
+Always On My Mind
+95
+Joan Jett & the Blackhearts
+Crimson And Clover
+96
+Ray Parker Jr.
+The Other Woman
+97
+Foreigner
+Break It Up
+98
+Heart
+This Man Is Mine
+99
+The Reddings
+(Sittin' On) The Dock Of The Bay
+100
+Ashford & Simpson
+Street Corner

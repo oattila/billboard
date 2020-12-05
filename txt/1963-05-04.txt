@@ -1,0 +1,300 @@
+1
+Little Peggy March
+I Will Follow Him
+2
+Andy Williams
+Can't Get Used To Losing You
+3
+Peter, Paul & Mary
+Puff (The Magic Dragon)
+4
+Chantay's
+Pipeline
+5
+The Chiffons
+He's So Fine
+6
+Jimmy Soul
+If You Wanna Be Happy
+7
+The Cookies
+Don't Say Nothin' Bad (About My Baby)
+8
+The Beach Boys
+Surfin' U.S.A.
+9
+The Drifters
+On Broadway
+10
+Mongo Santamaria Band
+Watermelon Man
+11
+Jackie Wilson
+Baby Workout
+12
+Gene Pitney
+Mecca
+13
+The Shirelles
+Foolish Little Girl
+14
+The Kingston Trio
+Reverend Mr. Black
+15
+Bobby Vee
+Charms
+16
+Paul and Paula
+Young Lovers
+17
+Dick and DeeDee
+Young And In Love
+18
+Brenda Lee
+Losing You
+19
+Ray Charles
+Take These Chains From My Heart
+20
+The Rooftop Singers
+Tom Cat
+21
+The Dartells
+Hot Pastrami
+22
+The Orlons
+South Street
+23
+Lou Christie
+Two Faces Have I
+24
+Skeeter Davis
+The End Of The World
+25
+James Gilreath
+Little Band Of Gold
+26
+Andy Williams
+Days Of Wine And Roses
+27
+Bobby Vinton
+Over The Mountain (Across The Sea)
+28
+Jan & Dean
+Linda
+29
+Al Martino
+I Love You Because
+30
+Sam Cooke
+Another Saturday Night
+31
+Dion
+This Little Girl
+32
+Dee Dee Sharp
+Do The Bird
+33
+Henry Mancini And His Orchestra
+Days Of Wine And Roses
+34
+The Rocky Fellers
+Killer Joe
+35
+Dion
+Sandy
+36
+The 4 Seasons
+Ain't That A Shame!
+37
+The Miracles
+A Love She Can Count On
+38
+Johnny Cymbal
+Mr. Bass Man
+39
+Chubby Checker
+Twenty Miles
+40
+Steve Lawrence
+Don't Be Afraid, Little Darlin'
+41
+Darlene Love
+(Today I Met) The Boy I'm Gonna Marry
+42
+Ruby And The Romantics
+Our Day Will Come
+43
+Brook Benton
+I Got What I Wanted
+44
+The Marvelettes
+Locking Up My Heart
+45
+Johnny Tillotson
+Out Of My Mind
+46
+Etta James
+Pushover
+47
+Gene Chandler
+Rainbow
+48
+Connie Francis
+Follow The Boys
+49
+Bill Anderson
+Still
+50
+The Dovells
+You Can't Sit Down
+51
+Theola Kilgore
+The Love Of My Man
+52
+The Rip Chords
+Here I Stand
+53
+Baby Washington
+That's How Heartaches Are Made
+54
+The Crystals
+Da Doo Ron Ron (When He Walked Me Home)
+55
+Roy Orbison
+In Dreams
+56
+Paul Anka
+Remember Diana
+57
+Jimmy Holiday
+How Can I Forget
+58
+Martha & The Vandellas
+Come And Get These Memories
+59
+Del Shannon
+Two Kind Of Teardrops
+60
+The Rivingtons
+The Bird's The Word
+61
+The Percells
+What Are Boys Made Of
+62
+The Appalachians
+Bony Moronie
+63
+The Beach Boys
+Shut Down
+64
+James Brown And The Famous Flames
+Prisoner Of Love
+65
+Bill Pursell
+Our Winter Love
+66
+Kenny Chandler
+Heart
+67
+The Hippies (Formerly The Tams)
+Memory Lane
+68
+Jerry Butler
+Whatever You Want
+69
+The Contours
+Don't Let Her Be Your Baby
+70
+Neil Sedaka
+Let's Go Steady Again
+71
+Ray Barretto
+El Watusi
+72
+The Routers
+Sting Ray
+73
+Little Esther Phillips & Big Al Downing
+You Never Miss Your Water (Till The Well Runs Dry)
+74
+Solomon Burke
+If You Need Me
+75
+Maxine Brown
+Ask Me
+76
+Jimmy Reed
+Shame, Shame, Shame
+77
+Joey Dee & the Starliters
+Hot Pastrami With Mashed Potatoes - Part I
+78
+The Raindrops
+What A Guy
+79
+The Olympics
+The Bounce
+80
+Barbara Lewis
+Hello Stranger
+81
+Frank Sinatra
+Call Me Irresponsible
+82
+Bill Black's Combo
+Do It - Rat Now
+83
+Shelley Fabares
+Ronnie, Call Me When You Get A Chance
+84
+Wayne Newton And The Newton Brothers
+Heart! (I Hear You Beating)
+85
+Freddy Cannon
+Patty Baby
+86
+The Belmonts
+Ann-Marie
+87
+Tommy Roe
+The Folk Singer
+88
+Matt Lucas
+I'm Movin' On
+89
+Ferrante & Teicher
+Theme From Lawrence Of Arabia
+90
+Wilson Pickett
+If You Need Me
+91
+Jo Ann Campbell
+Mother, Please!
+92
+Jack Jones
+Call Me Irresponsible
+93
+Steve Allen
+Gravy Waltz
+94
+Carole King
+He's A Bad Boy
+95
+Cookie And His Cupcakes
+Got You On My Mind
+96
+Ricky Nelson
+Old Enough To Love
+97
+Rockin' Rebels
+Rockin' Crickets
+98
+Patsy Cline
+Sweet Dreams (Of You)
+99
+The Cascades
+Shy Girl
+100
+The Marvelettes
+Forever

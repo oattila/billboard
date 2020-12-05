@@ -1,0 +1,300 @@
+1
+Sonny & Cher
+I Got You Babe
+2
+Gary Lewis And The Playboys
+Save Your Heart For Me
+3
+The Beatles
+Help!
+4
+The Beach Boys
+California Girls
+5
+The Righteous Brothers
+Unchained Melody
+6
+The Rolling Stones
+(I Can't Get No) Satisfaction
+7
+Four Tops
+It's The Same Old Song
+8
+Patty Duke
+Don't Just Stand There
+9
+Herman's Hermits
+I'm Henry VIII, I Am
+10
+Billy Joe Royal
+Down In The Boondocks
+11
+Barbara Lewis
+Baby, I'm Yours
+12
+Tom Jones
+What's New Pussycat?
+13
+Mel Carter
+Hold Me, Thrill Me, Kiss Me
+14
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+15
+Cher
+All I Really Want To Do
+16
+Bob Dylan
+Like A Rolling Stone
+17
+We Five
+You Were On My Mind
+18
+The Supremes
+Nothing But Heartaches
+19
+Little Anthony And The Imperials
+Take Me Back
+20
+Dino, Desi & Billy
+I'm A Fool
+21
+The Strangeloves
+I Want Candy
+22
+Petula Clark
+You'd Better Come Home
+23
+The Miracles
+The Tracks Of My Tears
+24
+The Temptations
+Since I Lost My Baby
+25
+The Dave Clark Five
+I Like It Like That
+26
+Jay & The Americans
+Cara, Mia
+27
+Wilson Pickett
+In The Midnight Hour
+28
+Lesley Gore
+Sunshine, Lollipops And Rainbows
+29
+Sam The Sham and the Pharaohs
+Ju Ju Hand
+30
+The Yardbirds
+Heart Full Of Soul
+31
+Gene Pitney
+Looking Through The Eyes Of Love
+32
+The Turtles
+It Ain't Me Babe
+33
+Marvin Gaye
+Pretty Little Baby
+34
+Ramsey Lewis Trio
+The "In" Crowd
+35
+The Spinners
+I'll Always Love You
+36
+Peter And Gordon
+To Know You Is To Love You
+37
+Jr. Walker & The All Stars
+Shake And Fingerpop
+38
+Dean Martin
+Houston
+39
+Lee Dorsey
+Ride Your Pony
+40
+The Byrds
+All I Really Want To Do
+41
+The Beau Brummels
+You Tell Me Why
+42
+Roger Miller
+One Dyin' And A Buryin'
+43
+The Lettermen
+Theme From "A Summer Place"
+44
+Eddie Hodges
+New Orleans
+45
+Sam Cooke
+Sugar Dumpling
+46
+Chad & Jeremy
+I Don't Wanna Lose You Baby
+47
+The Righteous Brothers
+Hung On You
+48
+Brenda Lee
+Too Many Rivers
+49
+The Royalettes
+It's Gonna Take A Miracle
+50
+Freddie And The Dreamers
+A Little You
+51
+Edwin Starr
+Agent Double-O-Soul
+52
+Freddy Cannon
+Action
+53
+The Kinks
+Who'll Be The Next In Line
+54
+Roy Orbison
+(Say) You're My Girl
+55
+Barbara Mason
+Sad, Sad Girl
+56
+Arthur Prysock
+It's Too Late, Baby Too Late
+57
+Martha & The Vandellas
+You've Been In Love Too Long
+58
+Barry McGuire
+Eve Of Destruction
+59
+Marianne Faithfull
+Summer Nights
+60
+Chuck Jackson
+If I Didn't Love You
+61
+Bert Kaempfert And His Orchestra
+Moon Over Naples
+62
+The Dave Clark Five
+Catch Us If You Can
+63
+The Vacels
+You're My Baby (And Don't You Forget It)
+64
+The Astors
+Candy
+65
+Dionne Warwick
+Here I Am
+66
+The Jive Five
+I'm A Happy Man
+67
+The McCoys
+Hang On Sloopy
+68
+The Animals
+We Gotta Get Out Of This Place
+69
+The Drifters
+I'll Take You Where The Music's Playing
+70
+Sonny & Cher
+Baby Don't Go
+71
+Little Caesar And The Consuls
+(My Girl) Sloopy
+72
+Vic Dana
+Moonlight And Roses (Bring Mem'ries Of You)
+73
+The Kingsmen
+Annie Fanny
+74
+Jackie Wilson
+No Pity (In The Naked City)
+75
+The Contours
+First I Look At The Purse
+76
+Glenn Yarbrough
+It's Gonna Be Fine
+77
+Maxine Brown
+One Step At A Time
+78
+G.L. Crockett
+It's A Man Down There
+79
+The Marvelettes
+Danger Heartbreak Dead Ahead
+80
+Wayne Newton
+Summer Wind
+81
+Derek Martin
+You Better Go
+82
+Elvis Presley With The Jordanaires
+Tickle Me
+83
+Sonny
+Laugh At Me
+84
+Donovan
+Colours
+85
+Jim Reeves
+Is It Really Over?
+86
+Gerry And The Pacemakers
+Give All Your Love To Me
+87
+Lenny Welch
+Two Different Worlds
+88
+Perry Como
+Oowee, Oowee
+89
+Baby Washington
+Only Those In Love
+90
+The Impressions
+I Need You
+91
+The Castaways
+Liar, Liar
+92
+Sounds Orchestral
+Canadian Sunset
+93
+David Jones
+What Are We Going To Do?
+94
+Bobby Goldsboro
+If You Wait For Love
+95
+The Fortunes
+You've Got Your Troubles
+96
+The Lovin' Spoonful
+Do You Believe In Magic
+97
+Gene Chandler
+Good Times
+98
+Roy Orbison
+Ride Away
+99
+Chuck Jackson & Maxine Brown
+Can't Let You Out Of My Sight
+100
+Solomon Burke
+Someone Is Watching

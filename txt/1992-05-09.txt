@@ -1,0 +1,300 @@
+1
+Kris Kross
+Jump
+2
+Queen
+Bohemian Rhapsody
+3
+Vanessa Williams
+Save The Best For Last
+4
+Eric Clapton
+Tears In Heaven
+5
+En Vogue
+My Lovin' (You're Never Gonna Get It)
+6
+Joe Public
+Live And Learn
+7
+TLC
+Ain't 2 Proud 2 Beg
+8
+Red Hot Chili Peppers
+Under The Bridge
+9
+Ugly Kid Joe
+Everything About You
+10
+Mariah Carey
+Make It Happen
+11
+Richard Marx
+Hazard
+12
+U2
+One
+13
+Bryan Adams
+Thought I'd Died And Gone To Heaven
+14
+Michael Jackson
+In The Closet
+15
+Def Leppard
+Let's Get Rocked
+16
+Atlantic Starr
+Masterpiece
+17
+Kathy Troccoli
+Everything Changes
+18
+Celine Dion And Peabo Bryson
+Beauty And The Beast
+19
+Paula Abdul
+Will You Marry Me?
+20
+Bruce Springsteen
+Human Touch/Better Days
+21
+Jody Watley
+I'm The One You Need
+22
+Mint Condition
+Breakin' My Heart (Pretty Brown Eyes)
+23
+Genesis
+I Can't Dance
+24
+Sir Mix-A-Lot
+Baby Got Back
+25
+Sophie B. Hawkins
+Damn I Wish I Was Your Lover
+26
+Prince And The N.P.G.
+Money Don't Matter 2 Night
+27
+Michael Jackson
+Remember The Time
+28
+Lidell Townsell
+Nu Nu
+29
+Chris Walker
+Take Time
+30
+Mr. Big
+To Be With You
+31
+CeCe Peniston
+We Got A Love Thang
+32
+Nirvana
+Come As You Are
+33
+Mr. Big
+Just Take My Heart
+34
+Amy Grant
+Good For Me
+35
+Right Said Fred
+I'm Too Sexy
+36
+Arrested Development
+Tennessee
+37
+"Weird Al" Yankovic
+Smells Like Nirvana
+38
+Celine Dion
+If You Asked Me To
+39
+Metallica
+Nothing Else Matters
+40
+Cause And Effect
+You Think You Know Her
+41
+Shanice
+I Love Your Smile
+42
+Color Me Badd
+Thinkin' Back
+43
+Color Me Badd
+All 4 Love
+44
+Genesis
+Hold On My Heart
+45
+Jodeci
+Come & Talk To Me
+46
+The Cure
+High
+47
+Howard Jones
+Lift Me Up
+48
+Keith Sweat
+Why Me Baby?
+49
+Bonnie Raitt
+Not The Only One
+50
+CeCe Peniston
+Finally
+51
+Tracie Spencer
+Love Me
+52
+Boyz II Men
+Please Don't Go
+53
+Amy Grant
+I Will Remember You
+54
+Redhead Kingpin & The F.B.I.
+3-2-1 Pump
+55
+Ozzy Osbourne
+Mama, I'm Coming Home
+56
+Aaron Hall
+Don't Be Afraid
+57
+Black Sheep
+The Choice Is Yours
+58
+The KLF Featuring Tammy Wynette
+Justified And Ancient
+59
+Giggles
+What Goes Around Comes Around
+60
+Naughty By Nature
+Everything's Gonna Be Alright
+61
+Lionel Richie
+Do It To Me
+62
+Shanice
+Silent Prayer
+63
+Jon Secada
+Just Another Day
+64
+2nd II None
+If You Want It
+65
+Lisa Stansfield
+All Woman
+66
+Michael Bolton
+Missing You Now
+67
+Salt-N-Pepa
+You Showed Me
+68
+R. Kelly & Public Announcement
+She's Got That Vibe
+69
+L.A. Guns
+It's Over Now
+70
+Geoffrey Williams
+It's Not A Love Thing
+71
+M.C. Brains
+Oochie Coochie
+72
+Gerald Levert (Duet With Eddie Levert)
+Baby Hold On To Me
+73
+Laura Enea
+This Is The Last Time
+74
+Chaka Khan
+Love You All My Lifetime
+75
+The Williams Brothers
+Can't Cry Hard Enough
+76
+Right Said Fred
+Don't Talk Just Kiss
+77
+Rod Stewart
+Your Song
+78
+NKOTB
+If You Go Away
+79
+Brotherhood Creed
+Helluva
+80
+Luke
+I Wanna Rock
+81
+Stacy Earl (Featuring The Wild Pair)
+Romeo & Juliet
+82
+MC Luscious
+Boom! I Got Your Boyfriend
+83
+Billy Ray Cyrus
+Achy Breaky Heart
+84
+The Smithereens
+Too Much Passion
+85
+Linear
+T.L.C.
+86
+RTZ
+Until Your Love Comes Back Around
+87
+Tevin Campbell
+Goodbye
+88
+Das EFX
+They Want EFX
+89
+Mitch Malloy
+Anything At All
+90
+TKA
+Maria
+91
+Tesla
+What You Give
+92
+Kym Sims
+Take My Advice
+93
+L.A. Style
+James Brown Is Dead
+94
+Colourhaus
+Innocent Child
+95
+Roxette
+Church Of Your Heart
+96
+Wilson Phillips
+You Won't See Me Cry
+97
+Nice & Smooth
+Sometimes I Rhyme Slow
+98
+Riff
+White Men Can't Jump
+99
+Good 2 Go
+Never Satisfied
+100
+Color Me Badd
+Slow Motion

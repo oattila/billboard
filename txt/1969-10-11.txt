@@ -1,0 +1,300 @@
+1
+The Archies
+Sugar, Sugar
+2
+Oliver
+Jean
+3
+Bobby Sherman
+Little Woman
+4
+The Temptations
+I Can't Get Next To You
+5
+Sly & The Family Stone
+Hot Fun In The Summertime
+6
+Nilsson
+Everybody's Talkin'
+7
+Three Dog Night
+Easy To Be Hard
+8
+The Rolling Stones
+Honky Tonk Women
+9
+Gary Puckett And The Union Gap
+This Girl Is A Woman Now
+10
+Creedence Clearwater Revival
+Green River
+11
+Elvis Presley
+Suspicious Minds
+12
+Marvin Gaye
+That's The Way Love Is
+13
+Lou Christie
+I'm Gonna Make You Mine
+14
+The Dells
+Oh, What A Night
+15
+Smith
+Baby It's You
+16
+The Youngbloods
+Get Together
+17
+Tom Jones
+I'll Never Fall In Love Again
+18
+Motherlode
+When I Die
+19
+The Cuff Links
+Tracy
+20
+Jerry Butler
+What's The Use Of Breaking Up
+21
+The Lettermen
+Hurt So Bad
+22
+Johnny Cash
+A Boy Named Sue
+23
+The Electric Indian
+Keem-O-Sabe
+24
+The Clique
+Sugar On Sunday
+25
+The 5th Dimension
+Wedding Bell Blues
+26
+The Rascals
+Carry Me Back
+27
+The Rugbys
+You, I
+28
+Bob Dylan
+Lay Lady Lay
+29
+The Grass Roots
+I'd Wait A Million Years
+30
+Lou Rawls
+Your Good Thing (Is About To End)
+31
+The Intrigues
+In A Moment
+32
+The Friends Of Distinction
+Going In Circles
+33
+Peggy Lee
+Is That All There Is
+34
+Bill Deal & The Rhondels
+What Kind Of Fool Do You Think I Am
+35
+Wind
+Make Believe
+36
+Dionne Warwick
+You've Lost That Lovin' Feeling
+37
+Smokey Robinson & The Miracles
+Here I Go Again
+38
+Isaac Hayes
+By The Time I Get To Phoenix
+39
+Lawrence Reynolds
+Jesus Is A Soul Man
+40
+The Delfonics
+You Got Yours And I'll Get Mine
+41
+Joe South and The Believers
+Don't It Make You Want To Go Home
+42
+O.C. Smith
+Daddy's Little Man
+43
+Steppenwolf
+Move Over
+44
+James Brown
+World (Part 1)
+45
+Mama Cass
+It's Getting Better
+46
+Garland Green
+Jealous Kind Of Fella
+47
+The Intruders
+Sad Girl
+48
+Isaac Hayes
+Walk On By
+49
+The 4 Seasons
+And That Reminds Me (My Heart Reminds Me)
+50
+Paul Revere & The Raiders Featuring Mark Lindsay
+We Gotta All Get Together
+51
+Thunderclap Newman
+Something In The Air
+52
+Tommy James And The Shondells
+Ball Of Fire
+53
+The Flying Machine
+Smile A Little Smile For Me
+54
+Tommy Roe
+Jack And Jill
+55
+The Winstons
+Love Of The Common People
+56
+Andy Kim
+So Good Together
+57
+1910 Fruitgum Co.
+The Train
+58
+Keith Barbour
+Echo Park
+59
+The Brooklyn Bridge
+You'll Never Walk Alone
+60
+Piero Umiliani
+Máh-Ná-Mah-Ná
+61
+Buchanan Brothers
+Son Of A Lovin' Man
+62
+Evie Sands
+Any Way That You Want Me
+63
+Bobby Goldsboro
+Muddy Mississippi Line
+64
+Dyke And The Blazers
+Let A Woman Be A Woman - Let A Man Be A Man
+65
+Spiral Starecase
+No One For Me To Turn To
+66
+Kenny Rogers & The First Edition
+Reuben James
+67
+The Originals
+Baby, I'm For Real
+68
+Clarence Carter
+Doin' Our Thing
+69
+Bobby Bland
+Chains Of Love
+70
+Supremes & Temptations
+The Weight
+71
+Sonny James
+Since I Met You, Baby
+72
+Crosby, Stills & Nash
+Suite: Judy Blue Eyes
+73
+Grand Funk Railroad
+Time Machine
+74
+B.B. King
+Get Off My Back Woman
+75
+The Doors
+Runnin' Blue
+76
+Abaco Dream
+Life And Death In G & A
+77
+Harlow Wilcox and the Oakies
+Groovy Grubworm
+78
+James Brown
+Let A Man Come In And Do The Popcorn (Part One)
+79
+Joe Simon
+San Francisco Is A Lonely Town
+80
+The Flaming Ember
+Mind, Body and Soul
+81
+Tammy Wynette
+The Ways To Love A Man
+82
+The Soul Children
+The Sweeter He Is - Part I
+83
+Billy Joe Royal
+Cherry Hill Park
+84
+Kool & The Gang
+Kool And The Gang
+85
+Funkadelic
+I'll Bet You
+86
+The Cowsills
+Silver Threads And Golden Needles
+87
+Jefferson
+The Colour Of My Love
+88
+The Baskerville Hounds
+Hold Me
+89
+Glen Campbell
+Try A Little Kindness
+90
+John Mayall
+Don't Waste My Time
+91
+The Monkees
+Good Clean Fun
+92
+The Isley Brothers
+Was It Good To You
+93
+Maxine Brown
+We'll Cry Together
+94
+Ramsey Lewis
+Julia
+95
+Dorothy Morrison
+All God's Children Got Soul
+96
+Johnny Adams
+I Can't Be All Bad
+97
+Vikki Carr
+Eternity
+98
+Joe Cocker
+Delta Lady
+99
+The Turtles
+Love In The City
+100
+Rick Nelson
+She Belongs To Me

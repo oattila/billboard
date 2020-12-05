@@ -1,0 +1,300 @@
+1
+Wings
+Silly Love Songs
+2
+Diana Ross
+Love Hangover
+3
+Elvin Bishop
+Fooled Around And Fell In Love
+4
+The Sylvers
+Boogie Fever
+5
+Silver Convention
+Get Up And Boogie (That's Right)
+6
+John Sebastian
+Welcome Back
+7
+Pratt & McClain with Brother Love
+Happy Days
+8
+Dorothy Moore
+Misty Blue
+9
+Henry Gross
+Shannon
+10
+Barry Manilow
+Tryin' To Get The Feeling Again
+11
+Daryl Hall John Oates
+Sara Smile
+12
+The Rolling Stones
+Fool To Cry
+13
+Fleetwood Mac
+Rhiannon (will You Ever Win)
+14
+Electric Light Orchestra
+Strange Magic
+15
+Maxine Nightingale
+Right Back Where We Started From
+16
+Peter Frampton
+Show Me The Way
+17
+Captain & Tennille
+Shop Around
+18
+Neil Sedaka
+Love In The Shadows
+19
+The Blackbyrds
+Happy Music
+20
+Bad Company
+Young Blood
+21
+Andrea True Connection
+More, More, More Pt. 1
+22
+Billy Ocean
+Love Really Hurts Without You
+23
+Bellamy Brothers
+Let Your Love Flow
+24
+Cate Bros.
+Union Man
+25
+Brass Construction
+Movin'
+26
+Johnnie Taylor
+Disco Lady
+27
+Queen
+Bohemian Rhapsody
+28
+Marvin Gaye
+I Want You
+29
+Al Wilson
+I've Got A Feeling (We'll Be Seeing Each Other Again)
+30
+Elvis Presley
+Hurt/for The Heart
+31
+Rhythm Heritage
+Baretta's Theme ("Keep Your Eye On The Sparrow")
+32
+The Doobie Brothers
+Takin' It To The Streets
+33
+Johnny Cash And The Tennessee Three
+One Piece At A Time
+34
+Gary Wright
+Love Is Alive
+35
+Jimmy Dean
+I.O.U.
+36
+Olivia Newton-John
+Come On Over
+37
+Bay City Rollers
+Rock And Roll Love Letter
+38
+The Brothers Johnson
+I'll Be Good To You
+39
+Boz Scaggs
+It's Over
+40
+Eric Carmen
+Never Gonna Fall In Love Again
+41
+The Manhattans
+Kiss And Say Goodbye
+42
+Hot Chocolate
+Don't Stop It Now
+43
+Heart
+Crazy On You
+44
+Starbuck
+Moonlight Feels Right
+45
+Paul Simon
+Still Crazy After All These Years
+46
+Commodores
+Sweet Love
+47
+Glen Campbell
+Don't Pull Your Love/then You Can Tell Me Goodbye
+48
+Seals & Crofts (Featuring Carolyn Willis)
+Get Closer
+49
+Marmalade
+Falling Apart At The Seams
+50
+Paul Anka
+Anytime (i'll Be There)
+51
+The 4 Seasons
+December, 1963 (Oh, What a Night)
+52
+Donna Summer
+Could It Be Magic
+53
+Rufus Featuring Chaka Khan
+Dance Wit Me
+54
+ABBA
+I Do, I Do, I Do, I Do, I Do
+55
+Dr. Hook
+Only Sixteen
+56
+Steve Miller
+Take The Money And Run
+57
+The Trammps
+That's Where The Happy People Go
+58
+Paul Davis
+Thinking Of You
+59
+Vicki Sue Robinson
+Turn The Beat Around
+60
+John Denver
+It Makes Me Giggle
+61
+Bro Smith
+Bigfoot
+62
+The Don Harrison Band
+Sixteen Tons
+63
+Bill Cosby
+Yes, Yes, Yes
+64
+Thin Lizzy
+The Boys Are Back In Town
+65
+Bachman-Turner Overdrive
+Lookin' Out For #1
+66
+Starland Vocal Band
+Afternoon Delight
+67
+Parliament
+Tear The Roof Off The Sucker (Give Up The Funk)
+68
+Cyndi Grecco
+Making Our Dreams Come True
+69
+America
+Today's The Day
+70
+Frankie Valli
+Fallen Angel
+71
+Melissa Manchester
+Better Days
+72
+The Tymes
+It's Cool
+73
+John Travolta
+Let Her In
+74
+Keith Carradine
+I'm Easy
+75
+Brotherhood Of Man
+Save Your Kisses For Me
+76
+Captain & Tennille
+Lonely Night (angel Face)
+77
+Santana
+Let It Shine
+78
+Queen
+You're My Best Friend
+79
+David Bowie
+TVC15
+80
+Lee Garrett
+You're My Everything
+81
+Wet Willie
+Everything That 'Cha Do (Will Come Back To You)
+82
+Narvel Felts
+Lonely Teardrops
+83
+ABBA
+Mamma Mia
+84
+Tammy Wynette
+'til I Can Make It On My Own
+85
+Yvonne Fair
+It Should Have Been Me
+86
+Carole King
+High Out Of Time
+87
+John Fogerty
+You Got The Magic
+88
+Gallagher And Lyle
+I Wanna Stay With You
+89
+Crown Heights Affair
+Foxy Lady
+90
+John Miles
+Music
+91
+Melba Moore
+This Is It
+92
+Smokey Robinson
+Open
+93
+Carpenters
+There's A Kind Of Hush (All Over The World)
+94
+The O'Jays
+Livin' For The Weekend
+95
+Rufus Featuring Chaka Khan
+Sweet Thing
+96
+KISS
+Shout It Out Loud
+97
+Aerosmith
+Dream On
+98
+Earth, Wind & Fire
+Can't Hide Love
+99
+The J. Geils Band
+Where Did Our Love Go
+100
+Eagles
+Take It To The Limit

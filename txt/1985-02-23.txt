@@ -1,0 +1,300 @@
+1
+Wham! Featuring George Michael
+Careless Whisper
+2
+Billy Ocean
+Lover Boy
+3
+Philip Bailey With Phil Collins
+Easy Lover
+4
+REO Speedwagon
+Can't Fight This Feeling
+5
+Foreigner
+I Want To Know What Love Is
+6
+The Pointer Sisters
+Neutron Dance
+7
+Glenn Frey
+The Heat Is On
+8
+David Lee Roth
+California Girls
+9
+Daryl Hall John Oates
+Method Of Modern Love
+10
+Sheena Easton
+Sugar Walls
+11
+John Fogerty
+The Old Man Down The Road
+12
+New Edition
+Mr. Telephone Man
+13
+Kool & The Gang
+Misled
+14
+Ashford & Simpson
+Solid
+15
+Don Henley
+The Boys Of Summer
+16
+Teena Marie
+Lover Girl
+17
+Julian Lennon
+Too Late For Goodbyes
+18
+Tina Turner
+Private Dancer
+19
+Chicago
+You're The Inspiration
+20
+The Time
+Jungle Love
+21
+Frankie Goes To Hollywood
+Relax
+22
+Steve Perry
+Foolish Heart
+23
+Journey
+Only The Young
+24
+Madonna
+Material Girl
+25
+The Honeydrippers
+Rockin' At Midnight
+26
+Midnight Star
+Operator
+27
+John Parr
+Naughty Naughty
+28
+Madonna
+Like A Virgin
+29
+Duran Duran
+Save A Prayer
+30
+Survivor
+High On You
+31
+Billy Joel
+Keeping The Faith
+32
+Prince And The Revolution
+I Would Die 4 U
+33
+Mick Jagger
+Just Another Night
+34
+Phil Collins
+One More Night
+35
+Bryan Adams
+Somebody
+36
+Pat Benatar
+Ooh Ooh Song
+37
+Eric Carmen
+I Wanna Hear It From Your Lips
+38
+General Public
+Tenderness
+39
+John Hunter
+Tragedy
+40
+Autograph
+Turn Up The Radio
+41
+Giuffria
+Call To The Heart
+42
+Prince And The Revolution Duet With Apollonia
+Take Me With U
+43
+Jeffrey Osborne
+The Borderlines
+44
+Commodores
+Nightshift
+45
+The Cars
+Why Can't I Have You
+46
+David Bowie/Pat Metheny Group
+This Is Not America
+47
+Animotion
+Obsession
+48
+Bruce Springsteen
+I'm On Fire
+49
+Scandal Featuring Patty Smyth
+Beat Of A Heart
+50
+Debarge
+Rhythm Of The Night
+51
+Bronski Beat
+Small Town Boy
+52
+Stevie Wonder
+Love Light In Flight
+53
+Cyndi Lauper
+Money Changes Everything
+54
+Diana Ross
+Missing You
+55
+Jack Wagner
+All I Need
+56
+Jermaine Stewart
+The Word Is Out
+57
+Nolan Thomas
+Yo Little Brother
+58
+Dan Hartman
+Second Nature
+59
+John Waite
+Restless Heart
+60
+Chicago
+Along Comes A Woman
+61
+Greg Kihn
+Lucky
+62
+Little River Band
+Playing To Win
+63
+The Temptations
+Treat Her Like A Lady
+64
+Jermaine Jackson & Pia Zadora
+When The Rain Begins To Fall
+65
+Don Henley
+All She Wants to Do Is Dance
+66
+Bryan Adams
+Run To You
+67
+The Firm
+Radioactive
+68
+Paul Hardcastle
+Rain Forest
+69
+Culture Club
+Mistake No. 3
+70
+Santana
+Say It Again
+71
+Isley, Jasper, Isley
+Kiss and Tell
+72
+Ray Parker Jr.
+Jamie
+73
+Bruce Springsteen
+Born In The USA
+74
+The Alan Parsons Project
+Let's Talk About Me
+75
+Toto
+Holyanna
+76
+New Edition
+Cool It Now
+77
+Jermaine Jackson
+Do What You Do
+78
+Pat Benatar
+We Belong
+79
+Chaka Khan
+This Is My Night
+80
+Kim Wilde
+Go For It
+81
+Murray Head
+One Night In Bangkok
+82
+Patti LaBelle
+New Attitude
+83
+Roman Holliday
+One Foot Back In Your Door
+84
+Steve Miller
+Bongo Bongo
+85
+The Time
+The Bird
+86
+Duran Duran
+The Wild Boys
+87
+George Benson
+20/20
+88
+The Kinks
+Do It Again
+89
+The Honeydrippers
+Sea Of Love
+90
+Simple Minds
+Don't You (Forget About Me)
+91
+Kenny Rogers
+Crazy
+92
+The Vels
+Look My Way
+93
+Elton John
+In Neon
+94
+Eugene Wilde
+Gotta Get You Home Tonight
+95
+Go West
+We Close Our Eyes
+96
+Chaka Khan
+I Feel For You
+97
+Daryl Hall John Oates
+Out Of Touch
+98
+Bruce Cockburn
+If I Had A Rocket Launcher
+99
+Kim Carnes
+Invitation To Dance
+100
+Julian Lennon
+Valotte

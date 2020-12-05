@@ -1,0 +1,300 @@
+1
+The Beatles
+Eight Days A Week
+2
+The Supremes
+Stop! In The Name Of Love
+3
+Jewel Akens
+The Birds And The Bees
+4
+Roger Miller
+King Of The Road
+5
+Herman's Hermits
+Can't You Hear My Heartbeat
+6
+Gerry And The Pacemakers
+Ferry Cross The Mersey
+7
+The Temptations
+My Girl
+8
+Gary Lewis And The Playboys
+This Diamond Ring
+9
+Shirley Bassey
+Goldfinger
+10
+Jr. Walker & The All Stars
+Shotgun
+11
+Bert Kaempfert And His Orchestra
+Red Roses For A Blue Lady
+12
+Little Anthony And The Imperials
+Hurt So Bad
+13
+The Kingsmen
+The Jolly Green Giant
+14
+The Dave Clark Five
+Come Home
+15
+The Righteous Brothers
+You've Lost That Lovin' Feelin'
+16
+The Impressions
+People Get Ready
+17
+Vic Dana
+Red Roses For A Blue Lady
+18
+Bobby Goldsboro
+Little Things
+19
+The Beach Boys
+Do You Wanna Dance?
+20
+Johnny Rivers
+Midnight Special
+21
+Roy Orbison
+Goodnight
+22
+The Animals
+Don't Let Me Be Misunderstood
+23
+Georgie Fame And The Blue Flames
+Yeh, Yeh
+24
+Martha & The Vandellas
+Nowhere To Run
+25
+Dean Martin
+Send Me The Pillow You Dream On
+26
+Chad & Jeremy
+If I Loved You
+27
+Petula Clark
+Downtown
+28
+Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio
+Do The Clam
+29
+The Ad Libs
+The Boy From New York City
+30
+Del Shannon
+Stranger In Town
+31
+The Zombies
+Tell Her No
+32
+Four Tops
+Ask The Lonely
+33
+Gene Pitney
+I Must Be Seeing Things
+34
+Bobby Vinton
+Long Lonely Nights
+35
+The Beau Brummels
+Laugh, Laugh
+36
+Peter And Gordon
+I Go To Pieces
+37
+The Trade Winds
+New York's A Lonely Town
+38
+Tony Bennett
+If I Ruled The World
+39
+The Beatles
+I Don't Want To Spoil The Party
+40
+Jack Jones
+The Race Is On
+41
+Fontella Bass & Bobby McClure
+Don't Mess Up A Good Thing
+42
+Freddie And The Dreamers
+I'm Telling You Now
+43
+The Kinks
+Tired Of Waiting For You
+44
+Brenda Holloway
+When I'm Gone
+45
+Wayne Newton
+Red Roses For A Blue Lady
+46
+The Moody Blues
+Go Now!
+47
+Sam Cooke
+Shake
+48
+Joe Tex
+You Better Get It
+49
+Marianne Faithfull
+Come And Stay With Me
+50
+Manfred Mann
+Come Tomorrow
+51
+Johnny Tillotson
+Angel
+52
+Buck Owens
+I've Got A Tiger By The Tail
+53
+Major Lance
+Come See
+54
+Otis Redding
+Mr. Pitiful
+55
+Solomon Burke
+Got To Get You Off My Mind
+56
+Maxine Brown
+It's Gonna Be Alright
+57
+Connie Francis
+For Mama (La Mamma)
+58
+Billy Strange
+Goldfinger
+59
+Joe Tex
+You Got What It Takes
+60
+Jerry Vale
+For Mama
+61
+The Beach Boys
+Please Let Me Wonder
+62
+The Ikettes
+Peaches "N" Cream
+63
+Wayne Fontana & The Mindbenders
+Game Of Love
+64
+The Arrows Featuring Davie Allan
+Apache '65
+65
+Dionne Warwick
+Who Can I Turn To
+66
+Frank Sinatra
+Anytime At All
+67
+The Reflections
+Poor Man's Son
+68
+Ray Charles
+Cry
+69
+Jerry Butler
+Good Times
+70
+The Beatles
+4 - By The Beatles
+71
+Cannibal And The Headhunters
+Land Of 1000 Dances
+72
+The Ray Charles Singers
+This Is My Prayer
+73
+Jan & Dean
+(Here They Come) From All Over The World
+74
+The Hullaballoos
+Did You Ever
+75
+Shirley Ellis
+The Clapping Song (Clap Pat Clap Slap)
+76
+John Barry and His Orchestra
+Goldfinger
+77
+Sandie Shaw
+Girl Don't Come
+78
+Freddie And The Dreamers
+I Understand (Just How You Feel)
+79
+Sounds Orchestral
+Cast Your Fate To The Wind
+80
+Marvin Gaye
+I'll Be Doggone
+81
+Thee Midniters
+Land Of A Thousand Dances (Part I)
+82
+Ronnie Dove
+One Kiss For Old Times' Sake
+83
+The Searchers
+Bumble Bee
+84
+Mary Wells
+Never, Never Leave Me
+85
+Johnny Bond
+10 Little Bottles
+86
+Johnny Cash
+Orange Blossom Special
+87
+Dick and DeeDee
+Be My Baby
+88
+Bobbi Martin
+I Can't Stop Thinking Of You
+89
+Glenn Yarbrough
+Baby The Rain Must Fall
+90
+Roddie Joy
+Come Back Baby
+91
+The Uniques Featuring Joe Stampley
+Not Too Long Ago
+92
+Dionne Warwick
+You Can Have Him
+93
+The Detergents
+Double-O-Seven
+94
+Petula Clark
+I Know A Place
+95
+Dusty Springfield
+Losing You
+96
+Rick Nelson
+Mean Old World
+97
+Herb Alpert's Tijuana Brass
+Whipped Cream
+98
+The Nashville Teens
+Find My Way Back Home
+99
+The Three Degrees
+Gee Baby (I'm Sorry)
+100
+Willie Tee
+Teasin' You

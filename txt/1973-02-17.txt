@@ -1,0 +1,300 @@
+1
+Elton John
+Crocodile Rock
+2
+Carly Simon
+You're So Vain
+3
+Hurricane Smith
+Oh, Babe, What Would You Say?
+4
+Deliverance/Eric Weissberg & Steve Mandell
+Dueling Banjos
+5
+Roberta Flack
+Killing Me Softly With His Song
+6
+Steely Dan
+Do It Again
+7
+The Spinners
+Could It Be I'm Falling In Love
+8
+Lobo
+Don't Expect Me To Be Your Friend
+9
+Timmy Thomas
+Why Can't We Live Together
+10
+John Denver
+Rocky Mountain High
+11
+War
+The World Is A Ghetto
+12
+Stevie Wonder
+Superstition
+13
+Edward Bear
+Last Song
+14
+King Harvest
+Dancing In The Moonlight
+15
+The O'Jays
+Love Train
+16
+Jermaine Jackson
+Daddy's Home
+17
+Marvin Gaye
+Trouble Man
+18
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+19
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+20
+Brighter Side Of Darkness
+Love Jones
+21
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+22
+Bette Midler
+Do You Want To Dance?
+23
+Don McLean
+Dreidel
+24
+Wings
+Hi, Hi, Hi
+25
+Deodato
+Also Sprach Zarathustra (2001)
+26
+Joni Mitchell
+You Turn Me On, I'm A Radio
+27
+Chuck Berry
+Reelin' & Rockin'
+28
+The Moody Blues
+I'm Just A Singer (In A Rock And Roll Band)
+29
+Eagles
+Peaceful Easy Feeling
+30
+James Brown
+I Got Ants In My Pants (and i want to dance) (Part 1)
+31
+Billy Paul
+Me And Mrs. Jones
+32
+The 5th Dimension
+Living Together, Growing Together
+33
+Bobby Womack & Peace
+Harry Hippie
+34
+Gallery
+Big City Miss Ruth Ann
+35
+Anne Murray
+Danny's Song
+36
+Bread
+Aubrey
+37
+The Doobie Brothers
+Jesus Is Just Alright
+38
+Seals & Crofts
+Hummingbird
+39
+Curtis Mayfield
+Superfly
+40
+Gladys Knight And The Pips
+Neither One Of Us (Wants To Be The First To Say Goodbye)
+41
+Barbara Mason
+Give Me Your Love
+42
+David Bowie
+Space Oddity
+43
+America
+Don't Cross The River
+44
+Elvis Presley
+Separate Ways
+45
+Diana Ross
+Good Morning Heartache
+46
+Four Tops
+Ain't No Woman (Like The One I've Got)
+47
+Loudon Wainwright III
+Dead Skunk
+48
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+49
+Joe Stampley
+Soul Song
+50
+Johnny Nash
+Stir It Up
+51
+The Main Ingredient
+You've Got To Take It (If You Want It)
+52
+Sam Neely
+Rosalie
+53
+The Stylistics
+Break Up To Make Up
+54
+Bettye Swann
+Today I Started Loving You Again
+55
+Bill Withers
+Kissing My Love
+56
+Three Dog Night
+Pieces Of April
+57
+Alice Cooper
+Hello Hurray
+58
+Les Emmerson
+Control Of Me
+59
+Little Jimmy Osmond
+Tweedlee Dee
+60
+Cymande
+The Message
+61
+Helen Reddy
+Peaceful
+62
+Jim Croce
+One Less Set Of Footsteps
+63
+Aretha Franklin
+Master Of Eyes (The Deepness Of Your Eyes)
+64
+Keith Hampshire
+Daytime Night-Time
+65
+Austin Roberts
+Keep On Singing
+66
+The Grass Roots
+Love Is What You Make It
+67
+Rick Nelson And The Stone Canyon Band
+Palace Guard
+68
+Paul Davis
+Boogie Woogie Man
+69
+The Chi-lites
+A Letter To Myself
+70
+Bobby Darin
+Happy
+71
+Al Green
+Hot Wire
+72
+The Guess Who
+Follow Your Daughter Home
+73
+Al Green
+Call Me (Come Back Home)
+74
+Travis Wammack
+How Can I Tell You
+75
+Shawn Phillips
+Lost Horizon
+76
+Judy Collins
+Cook With Honey
+77
+The Sweet
+Little Willy
+78
+Johnny Williams
+Slow Motion (Part 1)
+79
+Melanie
+Bitter Bad
+80
+Dawn Featuring Tony Orlando
+Tie A Yellow Ribbon Round The Ole Oak Tree
+81
+Candi Staton
+Do It In The Name Of Love
+82
+The Hollies
+Magic Woman Touch
+83
+Paul Kelly
+Don't Burn Me
+84
+Tommy James
+Boo, Boo, Don't 'Cha Be Blue
+85
+Joe Cocker
+Pardon Me Sir
+86
+Joe Simon
+Step By Step
+87
+Mac Davis
+Dream Me Home
+88
+Jud Strunk
+Daisy A Day
+89
+Ronnie Dyson
+One Man Band (Plays All Alone)
+90
+Vicki Lawrence
+The Night The Lights Went Out In Georgia
+91
+Albert King
+Breaking Up Somebody's Home
+92
+Lou Reed
+Walk On The Wild Side
+93
+The Sylvers
+Wish That I Could Talk To You
+94
+The Whispers
+Somebody Loves You
+95
+Michael Redway
+Good Morning
+96
+Eric Clapton
+Bell Bottom Blues
+97
+Bunny Sigler
+Tossin' And Turnin'
+98
+The Raiders
+Love Music
+99
+Skylark
+Wildflower
+100
+Ray Price
+She's Got To Be A Saint

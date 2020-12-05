@@ -1,0 +1,300 @@
+1
+John Fred And The Playboys
+Judy In Disguise (With Glasses)
+2
+Aretha Franklin
+Chain Of Fools
+3
+The Beatles
+Hello Goodbye
+4
+The Union Gap Featuring Gary Puckett
+Woman, Woman
+5
+The Lemon Pipers
+Green Tambourine
+6
+The Monkees
+Daydream Believer
+7
+The American Breed
+Bend Me, Shape Me
+8
+Smokey Robinson & The Miracles
+I Second That Emotion
+9
+Gladys Knight And The Pips
+I Heard It Through The Grapevine
+10
+Marvin Gaye & Tammi Terrell
+If I Could Build My Whole World Around You
+11
+Martha Reeves & The Vandellas
+Honey Chile
+12
+Joe Tex
+Skinny Legs And All
+13
+The Buckinghams
+Susan
+14
+Stone Poneys Featuring Linda Ronstadt
+Different Drum
+15
+Eric Burdon & The Animals
+Monterey
+16
+Classics IV
+Spooky
+17
+The Human Beinz
+Nobody But Me
+18
+The Fantastic Johnny C
+Boogaloo Down Broadway
+19
+Ed Ames
+Who Will Answer?
+20
+The Foundations
+Baby, Now That I've Found You
+21
+Small Faces
+Itchycoo Park
+22
+The Lettermen
+Goin' Out Of My Head/Can't Take My Eyes Off You
+23
+Etta James
+Tell Mama
+24
+Jr. Walker & The All Stars
+Come See About Me
+25
+Engelbert Humperdinck
+Am I That Easy To Forget
+26
+The Marvelettes
+My Baby Must Be A Magician
+27
+The Sandpebbles
+Love Power
+28
+James Brown And The Famous Flames
+I Can't Stand Myself (When You Touch Me)
+29
+The Beach Boys
+Darlin'
+30
+The Rolling Stones
+She's A Rainbow
+31
+Peaches & Herb
+Two Little Kids
+32
+Lulu
+Best Of Both Worlds
+33
+Soul Survivors
+Explosion (In Your Soul)
+34
+The Young Rascals
+It's Wonderful
+35
+The Rose Garden
+Next Plane To London
+36
+Johnny Rivers
+Summer Rain
+37
+Henson Cargill
+Skip A Rope
+38
+Tommy Boyce & Bobby Hart
+I Wonder What She's Doing Tonite
+39
+Frankie Valli
+To Give (The Reason I Live)
+40
+The Doors
+Love Me Two Times
+41
+Strawberry Alarm Clock
+Tomorrow
+42
+Bobby Vinton
+Just As Much As Ever
+43
+The Dave Clark Five
+Everybody Knows
+44
+Vikki Carr
+The Lesson
+45
+The Temptations
+I Wish It Would Rain
+46
+Cher
+You Better Sit Down Kids
+47
+Paul Mauriat And His Orchestra
+Love Is Blue (L'amour Est Bleu)
+48
+The Fireballs
+Bottle Of Wine
+49
+Nancy Sinatra & Lee Hazlewood
+Some Velvet Morning
+50
+Wilson Pickett
+I'm In Love
+51
+Spanky And Our Gang
+Sunday Mornin'
+52
+The Hollies
+Dear Eloise
+53
+Wes Montgomery
+Windy
+54
+The Cowsills
+We Can Fly
+55
+Marvin Gaye
+You
+56
+Sonny & Cher
+Good Combination
+57
+Tom Jones
+I'm Coming Home
+58
+Al Greene & The Soul Mate's
+Back Up Train
+59
+The Lovin' Spoonful
+Money
+60
+Joe Simon
+No Sad Songs
+61
+Billy Vera & Judy Clay
+Storybook Children
+62
+The Impressions
+We're A Winner
+63
+Jerry Butler
+Lost
+64
+Neil Diamond
+New Orleans
+65
+Dave Dee, Dozy, Beaky, Mick And Tich
+Zabadak
+66
+Herman's Hermits
+I Can Take Or Leave Your Loving
+67
+The Hesitations
+Born Free
+68
+Carla Thomas
+Pick Up The Pieces
+69
+Herb Alpert & The Tijuana Brass
+Carmen
+70
+Barbara Mason
+Oh, How It Hurts
+71
+Hugh Masekela
+Up-Up And Away
+72
+The Mamas & The Papas
+Dancing Bear
+73
+Cream
+Sunshine Of Your Love
+74
+Arthur Prysock
+A Working Man's Prayer
+75
+James & Bobby Purify
+Do Unto Me
+76
+King Curtis & The Kingpins
+I Was Made To Love Her
+77
+Dionne Warwick
+(Theme From) Valley Of The Dolls
+78
+Lalo Schifrin
+Mission-Impossible
+79
+Bee Gees
+Words
+80
+Jay And The Techniques
+Strawberry Shortcake
+81
+James Brown And The Famous Flames
+There Was A Time
+82
+The Dells
+There Is
+83
+James Carr
+A Man Needs A Woman
+84
+Inez & Charlie Foxx
+(1-2-3-4-5-6-7) Count The Days
+85
+Glen Campbell
+Hey Little One
+86
+The O'Jays
+I'll Be Sweeter Tomorrow (Than I Was Today)
+87
+The Epic Splendor
+A Little Rain Must Fall
+88
+Long John Baldry
+Let The Heartaches Begin
+89
+Billy Stewart
+Cross My Heart
+90
+The Music Makers
+United (Part 1)
+91
+Clarence Carter
+Looking For A Fox
+92
+Ruby Andrews
+Hey Boy Take A Chance On Love
+93
+Oscar Toney, Jr.
+Without Love (There Is Nothing)
+94
+Linda Jones
+Give My Love A Try
+95
+Laura Lee
+Up Tight, Good Man
+96
+Frankie Laine
+To Each His Own
+97
+Robert Knight
+Blessed Are The Lonely
+98
+Buffalo Springfield
+Expecting To Fly
+99
+Calvin Arnold
+Funky Way
+100
+Ray Charles
+Come Rain Or Come Shine

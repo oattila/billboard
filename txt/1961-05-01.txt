@@ -1,0 +1,300 @@
+1
+Del Shannon
+Runaway
+2
+Ernie K-Doe
+Mother-In-Law
+3
+Linda Scott
+I've Told Every Little Star
+4
+Gene McDaniels
+A Hundred Pounds Of Clay
+5
+The Marcels
+Blue Moon
+6
+Clarence Henry
+But I Do
+7
+Adam Wade
+Take Good Care Of Her
+8
+Ray Charles
+One Mint Julep
+9
+Brenda Lee
+You Can Depend On Me
+10
+Floyd Cramer
+On The Rebound
+11
+Steve Lawrence
+Portrait Of My Love
+12
+The Echoes
+Baby Blue
+13
+Paul Anka
+Tonight My Love, Tonight
+14
+Jorgen Ingmann & His Guitar
+Apache
+15
+Shep And The Limelites
+Daddy's Home
+16
+Connie Francis
+Breakin' In A Brand New Broken Heart
+17
+The Tokens
+Tonight I Fell In Love
+18
+The Shirelles
+Mama Said
+19
+Elvis Presley With The Jordanaires
+Flaming Star
+20
+Cathy Jean and The Roommates
+Please Love Me Forever
+21
+Kokomo
+Asia Minor
+22
+Marty Robbins
+Don't Worry
+23
+The McGuire Sisters
+Just For Old Time's Sake
+24
+Roy Orbison
+Running Scared
+25
+Elvis Presley With The Jordanaires
+Surrender
+26
+B. Bumble & The Stingers
+Bumble Boogie
+27
+The Shirelles
+Dedicated To The One I Love
+28
+Chubby Checker
+(Dance The) Mess Around
+29
+Maxine Brown
+Funny
+30
+Chubby Checker
+Pony Time
+31
+Jerry Lee Lewis And His Pumping Piano
+What'd I Say
+32
+The Brothers Four
+Frogg
+33
+Al Caiola And His Orchestra
+Bonanza
+34
+Ricky Nelson
+Travelin' Man
+35
+Bert Kaempfert And His Orchestra
+Tenderly
+36
+Ral Donner
+Girl Of My Best Friend
+37
+Hank Ballard And The Midnighters
+The Continental Walk
+38
+LaVern Baker
+Saved
+39
+Faron Young
+Hello Walls
+40
+The Drifters
+Some Kind Of Wonderful
+41
+The Chimes
+I'm In The Mood For Love
+42
+Etta James
+Trust In Me
+43
+Chubby Checker
+Good, Good Lovin'
+44
+Jerry Butler
+Find Another Girl
+45
+Cannonball Adderley Orchestra
+African Waltz
+46
+The Fleetwoods
+Tragedy
+47
+Freddy King
+Hide Away
+48
+Janie Grant
+Triangle
+49
+Kay Starr
+Foolin' Around
+50
+The Everly Brothers
+Walk Right Back
+51
+The String-A-Longs
+Brass Buttons
+52
+Jackie Wilson
+Please Tell Me Why
+53
+Bobby Rydell
+That Old Black Magic
+54
+Johnny Horton
+Sleepy-Eyed John
+55
+Frank Gari
+Lullaby Of Love
+56
+Neil Sedaka
+Little Devil
+57
+Eddie Harris
+Exodus
+58
+Chuck Jackson
+(It Never Happens) In Real Life
+59
+Brook Benton
+Think Twice
+60
+The Limeliters
+A Dollar Down
+61
+Ferrante & Teicher
+(Love Theme From) One Eyed Jacks
+62
+Paul Revere & The Raiders
+Like, Long Hair
+63
+The Marathons
+Peanut Butter
+64
+The Frogmen
+Underwater
+65
+Fats Domino
+Shu Rah
+66
+The Roommates
+Glory Of Love
+67
+Lawrence Welk And His Orchestra
+(Theme from) My Three Sons
+68
+Carla Thomas
+Gee Whiz (Look At His Eyes)
+69
+Johnny Maestro The Voice Of The Crests
+What A Surprise
+70
+Paris Sisters
+Be My Boy
+71
+Andy Williams
+The Bilbao Song
+72
+Dickie Goodman
+The Touchables In Brooklyn
+73
+Ricky Nelson
+Hello Mary Lou
+74
+Duane Eddy
+Theme From Dixie
+75
+Rochell And The Candles With Johnny Wyatt
+Once Upon A Time
+76
+The Ventures
+Lullaby Of The Leaves
+77
+The Miracles
+Ain't It, Baby
+78
+Gogi Grant
+The Wayward Wind
+79
+Piero Soffici
+That's The Way With Love
+80
+Little Caesar and The Romans
+Those Oldies But Goodies (Remind Me Of You)
+81
+Bobby Lewis
+Tossin' And Turnin'
+82
+Jerry Fuller
+Shy Away
+83
+Merv Griffin
+The Charanga
+84
+Roy Drusky
+Three Hearts In A Tangle
+85
+Les Paul And Mary Ford
+Jura (I Swear I Love You)
+86
+The Starlets
+Better Tell Him No
+87
+Joe Barry
+I'm A Fool To Care
+88
+Freddy Cannon
+Buzz Buzz A-Diddle-It
+89
+The Coasters
+Little Egypt (Ying-Yang)
+90
+Dee Clark
+Raindrops
+91
+Lale Anderson
+(A Ship Will Come) Ein Schiff Wird Kommen
+92
+Johnny Burnette
+Big Big World
+93
+Roy Hamilton
+You're Gonna Need Magic
+94
+Donnie and The Dreamers
+Count Every Star
+95
+Pat Boone
+Moody River
+96
+Tony Orlando
+Halfway To Paradise
+97
+Jimmy Witter
+A Cross Stands Alone
+98
+Jeanette (Baby) Washington
+Nobody Cares (about me)
+99
+Dion
+Kissin Game
+100
+The Edsels
+Rama Lama Ding Dong

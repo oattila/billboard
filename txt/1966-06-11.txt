@@ -1,0 +1,300 @@
+1
+The Rolling Stones
+Paint It, Black
+2
+The Lovin' Spoonful
+Did You Ever Have To Make Up Your Mind?
+3
+Simon & Garfunkel
+I Am A Rock
+4
+Percy Sledge
+When A Man Loves A Woman
+5
+The Mindbenders
+A Groovy Kind Of Love
+6
+Frank Sinatra
+Strangers In The Night
+7
+The Mamas & The Papas
+Monday, Monday
+8
+James Brown And The Famous Flames
+It's A Man's Man's Man's World
+9
+Gary Lewis And The Playboys
+Green Grass
+10
+Robert Parker
+Barefootin'
+11
+The Chiffons
+Sweet Talkin' Guy
+12
+The Capitols
+Cool Jerk
+13
+Shades Of Blue
+Oh How Happy
+14
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Opus 17 (Don't You Worry 'Bout Me)
+15
+Bob Dylan
+Rainy Day Women #12 & 35
+16
+Chris Montez
+The More I See You
+17
+Dusty Springfield
+You Don't Have To Say You Love Me
+18
+The Supremes
+Love Is Like An Itching In My Heart
+19
+The Cyrkle
+Red Rubber Ball
+20
+Jr. Walker & The All Stars
+(I'm A) Road Runner
+21
+Swingin' Medallions
+Double Shot (Of My Baby's Love)
+22
+The Animals
+Don't Bring Me Down
+23
+The Outsiders
+Girl In Love
+24
+B.J. Thomas
+Mama
+25
+The McCoys
+Come On Let's Go
+26
+Sam & Dave
+Hold On! I'm A Comin'
+27
+Paul Revere & The Raiders Featuring Mark Lindsay
+Kicks
+28
+The Beatles
+Paperback Writer
+29
+The Young Rascals
+Good Lovin'
+30
+Dionne Warwick
+Message To Michael
+31
+The Standells
+Dirty Water
+32
+The Walker Bros.
+The Sun Ain't Gonna Shine (Anymore)
+33
+The Beach Boys
+Sloop John B
+34
+Vic Dana
+I Love You Drops
+35
+Dean Martin
+Come Running Back
+36
+The Temptations
+Ain't Too Proud To Beg
+37
+Nancy Sinatra
+How Does That Grab You, Darlin'?
+38
+Jay & The Americans
+Crying
+39
+The Platters
+I Love You 1000 Times
+40
+Gene Pitney
+Backstage
+41
+The Kinks
+Dedicated Follower Of Fashion
+42
+Jimmie Rodgers
+It's Over
+43
+The Leaves
+Hey Joe
+44
+Joe Tex
+S.Y.S.L.J.F.M. (The Letter Song)
+45
+Frank Gallop
+The Ballad Of Irving
+46
+Jan & Dean
+Popsicle
+47
+Eddy Arnold
+The Last Word In Lonesome Is Me
+48
+Tommy James And The Shondells
+Hanky Panky
+49
+Dee Jay And The Runaways
+Peter Rabbit
+50
+Peter And Gordon
+There's No Living Without Your Loving
+51
+Syndicate Of Sound
+Little Girl
+52
+The Righteous Brothers
+He
+53
+The Vogues
+The Land Of Milk And Honey
+54
+Love
+My Little Red Book
+55
+Marvin Gaye
+Take This Heart Of Mine
+56
+The Shadows Of Knight
+Oh Yeah
+57
+Al Martino
+Wiederseh'n
+58
+Little Anthony And The Imperials
+Better Use Your Head
+59
+Ray Charles
+Let's Go Get Stoned
+60
+Bobby Goldsboro
+I Know You Better Than That
+61
+Ko Ko Taylor
+Wang Dang Doodle
+62
+Sonny & Cher
+Have I Stayed Too Long
+63
+Mitch Ryder And The Detroit Wheels
+Break Out
+64
+The Association
+Along Comes Mary
+65
+Barry McGuire
+Cloudy Summer Afternoon (Raindrops)
+66
+The Isley Brothers
+Take Some Time Out For Love
+67
+The Critters
+Younger Girl
+68
+Wilson Pickett
+Ninety-Nine And A Half (Won't Do)
+69
+The Hondells
+Younger Girl
+70
+Neil Diamond
+Solitary Man
+71
+Four Tops
+Loving You Is Sweeter Than Ever
+72
+The Beatles
+Rain
+73
+Dickie Goodman
+Batman & His Grandmother
+74
+Bobby Darin
+Mame
+75
+The Five Americans
+Evol-Not Love
+76
+Esther Phillips
+When A Woman Loves A Man
+77
+The Gentrys
+Everyday I Have To Cry
+78
+Johnny Sea
+Day For Decision
+79
+The Dave Clark Five
+Please Tell Me Why
+80
+The Holidays
+I'll Love You Forever
+81
+Johnny Rivers
+(I Washed My Hands In) Muddy Water
+82
+Bobby Bland
+Good Time Charlie
+83
+Jackie DeShannon
+Come And Get Me
+84
+Martha & The Vandellas
+What Am I Going To Do Without Your Love
+85
+Tammi Terrell
+Come On And See Me
+86
+Otis Redding
+My Lover's Prayer
+87
+Jack Jones
+The Impossible Dream (The Quest)
+88
+Buck Owens and The Buckaroos
+Think Of Me
+89
+Louis Armstrong
+Mame
+90
+Tommy Roe
+Sweet Pea
+91
+Dave "Baby" Cortez
+Count Down
+92
+Jeannie Seely
+Don't Touch Me
+93
+Ike & Tina Turner Featuring Tina
+River Deep-Mountain High
+94
+Susan Christie
+I Love Onions
+95
+Beau Brummels
+One Too Many Mornings
+96
+Walter Jackson
+It's An Uphill Climb To The Bottom
+97
+Jimmy Hughes
+Neighbor, Neighbor
+98
+Crispian St. Peters
+The Pied Piper
+99
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+100
+Barbara Mason
+I Need Love

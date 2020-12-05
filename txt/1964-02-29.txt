@@ -1,0 +1,300 @@
+1
+The Beatles
+I Want To Hold Your Hand
+2
+The Beatles
+She Loves You
+3
+The 4 Seasons
+Dawn (Go Away)
+4
+Al (He's the King) Hirt
+Java
+5
+The Rivieras
+California Sun
+6
+The Beatles
+Please Please Me
+7
+Lesley Gore
+You Don't Own Me
+8
+Diane Renay
+Navy Blue
+9
+Dale & Grace
+Stop And Think It Over
+10
+Major Lance
+Um, Um, Um, Um, Um, Um
+11
+The Rip Chords
+Hey Little Cobra
+12
+Bobby Goldsboro
+See The Funny Little Clown
+13
+Sam Cooke
+Good News
+14
+Dusty Springfield
+I Only Want To Be With You
+15
+Al Martino
+I Love You More And More Every Day
+16
+Andy Williams
+A Fool Never Learns
+17
+The Beach Boys
+Fun, Fun, Fun
+18
+Freddy Cannon
+Abigail Beecher
+19
+The Impressions
+Talking About My Baby
+20
+The Tams
+What Kind Of Fool (Do You Think I Am)
+21
+Rick Nelson
+For You
+22
+The Dixiebelles
+Southtown, U.S.A.
+23
+Sammy Davis Jr.
+The Shelter Of Your Arms
+24
+The Marketts
+Out Of Limits
+25
+The Pyramids
+Penetration
+26
+James Brown And The Famous Flames
+Oh Baby Don't You Weep (Part 1)
+27
+Chubby Checker
+Hooka Tooka
+28
+The Beatles
+I Saw Her Standing There
+29
+Mary Wells
+What's Easy For Two Is So Hard For One
+30
+The Sapphires
+Who Do You Love
+31
+Dionne Warwick
+Anyone Who Had A Heart
+32
+Dale Ward
+Letter From Sherry
+33
+Tommy Tucker
+Hi-Heel Sneakers
+34
+Gloria Lynne
+I Wish You Love
+35
+Brook Benton
+Going Going Gone
+36
+Tommy Roe
+Come On
+37
+The Trashmen
+Bird Dance Beat
+38
+Louis Armstrong And The All Stars
+Hello, Dolly!
+39
+Cliff Richard
+It's All In The Game
+40
+The Trashmen
+Surfin' Bird
+41
+Timmy Shaw
+Gonna Send You Back To Georgia (A City Slick)
+42
+The Beatles With Tony Sheridan
+My Bonnie (My Bonnie Lies Over The Ocean)
+43
+The Drifters
+Vaya Con Dios
+44
+Martha & The Vandellas
+Live Wire
+45
+Elvis Presley With The Jordanaires
+Kissin' Cousins
+46
+Bobby Bare
+Miller's Cave
+47
+Skeeter Davis
+He Says The Same Things To Me
+48
+The Angels
+Wow Wow Wee (He's The Boy For Me)
+49
+Rufus Thomas
+Can Your Monkey Do The Dog
+50
+Connie Francis
+Blue Winter
+51
+Solomon Burke
+He'll Have To Go
+52
+The 4 Seasons
+Stay
+53
+The Dave Clark Five
+Glad All Over
+54
+Gene Pitney
+That Girl Belongs To Yesterday
+55
+Johnny Mathis
+Bye Bye Barbara
+56
+Johnny Cash
+Understand Your Man
+57
+Johnny Tillotson
+Worried Guy
+58
+Barbara Lewis
+Puppy Love
+59
+Nino Tempo & April Stevens
+Stardust
+60
+Santo & Johnny
+I'll Remember (In The Still Of The Night)
+61
+Nat King Cole
+My True Carrie, Love
+62
+The Pixies Three
+442 Glenwood Avenue
+63
+Chris Crosby
+Young And In Love
+64
+Bob And Earl
+Harlem Shuffle
+65
+Bobby Vinton
+My Heart Belongs To Only You
+66
+The Orlons
+Shimmy Shimmy
+67
+Bill Black's Combo
+Comin' On
+68
+Jack Jones
+Love With The Proper Stranger
+69
+The Monarchs
+Look Homeward Angel
+70
+Jody Miller
+He Walks Like A Man
+71
+Garnet Mimms
+Tell Me Baby
+72
+Dean And Jean
+Hey Jean, Hey Dean
+73
+The Devotions
+Rip Van Winkle
+74
+Hank Williams Jr.
+Long Gone Lonesome Blues
+75
+Pete Seeger
+Little Boxes
+76
+The Temptations
+The Way You Do The Things You Do
+77
+Ray Charles and his Orchestra
+Baby, Don't You Cry (The New Swingova Rhythm)
+78
+Elvis Presley With The Jordanaires
+It Hurts Me
+79
+Sunny & The Sunliners
+Out Of Sight - Out Of Mind
+80
+The Crescents Featuring Chiyo
+Pink Dominos
+81
+Eddie Holland
+Leaving Here
+82
+Terry Stafford
+Suspicion
+83
+The Marvelettes
+He's A Good Guy (Yes He Is)
+84
+Ray Charles
+My Heart Cries For You
+85
+Shirley Ellis
+(That's) What The Nitty Gritty Is
+86
+Lefty Frizzell
+Saginaw, Michigan
+87
+Bobby Vee With The Eligibles
+I'll Make You Mine
+88
+Scott English
+High On A Hill
+89
+Bruce Channel
+Going Back To Louisiana
+90
+The Serendipity Singers
+Don't Let The Rain Come Down (Crooked Little Man)
+91
+Dick and DeeDee
+All My Trials
+92
+Soul Sisters
+I Can't Stand It
+93
+Little Stevie Wonder
+Castles In The Sand
+94
+The Caravelles
+Have You Ever Been Lonely (Have You Ever Been Blue)
+95
+Donna Lynn
+My Boyfriend Got A Beatle Haircut
+96
+Betty Everett
+The Shoop Shoop Song (It's In His Kiss)
+97
+Dee Dee Sharp
+Willyam, Willyam
+98
+Booker T. & The MG's
+Mo-Onions
+99
+The Swans
+The Boy With The Beatle Hair
+100
+Fats Domino
+Lazy Lady

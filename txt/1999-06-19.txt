@@ -1,0 +1,300 @@
+1
+Jennifer Lopez
+If You Had My Love
+2
+Ricky Martin
+Livin' La Vida Loca
+3
+TLC
+No Scrubs
+4
+702
+Where My Girls At?
+5
+Maxwell
+Fortunate
+6
+Sixpence None The Richer
+Kiss Me
+7
+Shania Twain
+That Don't Impress Me Much
+8
+Blaque
+808
+9
+Backstreet Boys
+I Want It That Way
+10
+Chante Moore
+Chante's Got A Man
+11
+JT Money Featuring Sole
+Who Dat
+12
+Sugar Ray
+Every Morning
+13
+Will Smith Featuring Dru Hill & Kool Mo Dee
+Wild Wild West
+14
+Jordan Knight
+Give It To You
+15
+Case
+Happily Ever After
+16
+Brandy
+Almost Doesn't Count
+17
+Whitney Houston
+It's Not Right But It's Okay
+18
+112 Featuring Lil'z
+Anywhere
+19
+Goo Goo Dolls
+Slide
+20
+Tim McGraw
+Please Remember Me
+21
+Smash Mouth
+All Star
+22
+98 Degrees
+The Hardest Thing
+23
+Cher
+Believe
+24
+Everlast
+What It's Like
+25
+Tyrese
+Sweet Lady
+26
+Whitney Houston Feat. Faith Evans & Kelly Price
+Heartbreak Hotel
+27
+George Strait
+Write This Down
+28
+Britney Spears
+Sometimes
+29
+Lenny Kravitz
+Fly Away
+30
+R. Kelly
+Did You Ever Think
+31
+Silk
+If You (Lovin' Me)
+32
+Sarah McLachlan
+I Will Remember You (Live)
+33
+Alabama Featuring 'N Sync
+God Must Have Spent A Little More Time On You
+34
+Steve Wariner
+Two Teardrops
+35
+Ja Rule
+Holla Holla
+36
+K-Ci & JoJo
+Tell Me It's Real
+37
+Monica
+Angel Of Mine
+38
+matchbox 20
+Back 2 Good
+39
+Martina McBride
+Whatever You Say
+40
+Busta Rhymes Featuring Janet
+What's It Gonna Be?!
+41
+Lila McCann
+With You
+42
+Fatboy Slim
+Praise You
+43
+Shania Twain
+Man! I Feel Like A Woman!
+44
+Lonestar
+Amazed
+45
+Citizen King
+Better Days (And The Bottom Drops Out)
+46
+Britney Spears
+...Baby One More Time
+47
+Dixie Chicks
+Tonight The Heartache's On Me
+48
+Andy Griggs
+You Won't Ever Be Lonely
+49
+Pearl Jam
+Last Kiss
+50
+Backstreet Boys
+All I Have To Give
+51
+Jo Dee Messina
+Lesson In Leavin'
+52
+Joe Diffie
+A Night To Remember
+53
+Lit
+My Own Worst Enemy
+54
+Reba
+One Honest Heart
+55
+Madonna
+Beautiful Stranger
+56
+Dave Hollister
+My Favorite Girl
+57
+Cher
+Strong Enough
+58
+Red Hot Chili Peppers
+Scar Tissue
+59
+Chely Wright
+Single White Female
+60
+Collin Raye
+Anyone Else
+61
+Orgy
+Blue Monday
+62
+SHeDAISY
+Little Good-Byes
+63
+Vengaboys
+We Like To Party!
+64
+Jesse Powell
+You
+65
+Blessid Union Of Souls
+Hey Leonardo (She Likes Me For Me)
+66
+Kenny Chesney
+How Forever Feels
+67
+B*Witched
+Rollercoaster
+68
+Mark Wills
+Wish You Were Here
+69
+Total
+Sitting Home
+70
+Lauryn Hill
+Everything Is Everything
+71
+John Michael Montgomery
+Hello L.O.V.E.
+72
+Robbie Williams
+Millennium
+73
+Sporty Thievz Featuring Mr. Woods
+No Pigeons
+74
+Trick Daddy Featuring Trina
+Nann
+75
+Ricky Martin
+The Cup Of Life (The Official Song Of The World Cup, France '98)
+76
+Clay Walker
+She's Always Right
+77
+Ginuwine
+What's So Different
+78
+Tal Bachman
+She's So High
+79
+Mariah Carey
+I Still Believe
+80
+Tyrese
+Lately
+81
+Dwight Yoakam
+Crazy Little Thing Called Love
+82
+Silkk The Shocker Featuring Mystikal
+It Ain't My Fault 1 & 2
+83
+Sheryl Crow
+Anything But Down
+84
+Destiny's Child
+Bills, Bills, Bills
+85
+Brad Paisley
+Who Needs Pictures
+86
+Lee Ann Womack
+I'll Think Of A Reason Later
+87
+Creed
+One
+88
+Deborah Cox
+It's Over Now
+89
+Garbage
+Special
+90
+'N Sync
+I Drive Myself Crazy
+91
+Mya
+My First Night With You
+92
+Trina & Tamara
+What'd You Come Here For?
+93
+The Offspring
+Why Don't You Get A Job?
+94
+K-Ci & JoJo
+Life
+95
+Shane Minor
+Slave To The Habit
+96
+T.W.D.Y. Featuring Too Short & Mac Mall
+Players Holiday
+97
+Dru Hill
+You Are Everything
+98
+Ty Herndon
+Hands Of A Working Man
+99
+Eric Benet Featuring Faith Evans
+Georgy Porgy
+100
+Collective Soul
+Heavy

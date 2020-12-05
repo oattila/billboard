@@ -1,0 +1,300 @@
+1
+The Beach Boys
+Help Me, Rhonda
+2
+The Beatles
+Ticket To Ride
+3
+The Supremes
+Back In My Arms Again
+4
+Herman's Hermits
+Mrs. Brown You've Got A Lovely Daughter
+5
+Sam The Sham and the Pharaohs
+Wooly Bully
+6
+Elvis Presley With The Jordanaires
+Crying In The Chapel
+7
+Gary Lewis And The Playboys
+Count Me In
+8
+The Seekers
+I'll Never Find Another You
+9
+The Beau Brummels
+Just A Little
+10
+Tom Jones
+It's Not Unusual
+11
+The Righteous Brothers
+Just Once In My Life
+12
+Glenn Yarbrough
+Baby The Rain Must Fall
+13
+Sir Douglas Quintet
+She's About A Mover
+14
+Herman's Hermits
+Silhouettes
+15
+Sounds Orchestral
+Cast Your Fate To The Wind
+16
+Peter And Gordon
+True Love Ways
+17
+Four Tops
+I Can't Help Myself (Sugar Pie Honey Bunch)
+18
+Jody Miller
+Queen Of The House
+19
+Roger Miller
+Engine Engine #9
+20
+The Dixie Cups
+Iko Iko
+21
+Freddie And The Dreamers
+Do The Freddie
+22
+Freddie And The Dreamers
+You Were Made For Me
+23
+The Dave Clark Five
+Reelin' And Rockin'
+24
+The Miracles
+Ooo Baby Baby
+25
+Perry Como
+Dream On Little Dreamer
+26
+Little Milton
+We're Gonna Make It
+27
+Marvin Gaye
+I'll Be Doggone
+28
+Bobby Vinton
+L-O-N-E-L-Y
+29
+Gene Pitney
+Last Chance To Turn Around
+30
+Gene Chandler
+Nothing Can Stop Me
+31
+Vic Damone
+You Were Only Fooling (While I Was Falling In Love)
+32
+Petula Clark
+I Know A Place
+33
+Wayne Fontana & The Mindbenders
+Game Of Love
+34
+Patti Page
+Hush, Hush, Sweet Charlotte
+35
+Bert Kaempfert And His Orchestra
+Three O'Clock In The Morning
+36
+The Rolling Stones
+The Last Time
+37
+The Temptations
+It's Growing
+38
+Unit Four plus Two
+Concrete And Clay
+39
+Chad & Jeremy
+Before And After
+40
+The Animals
+Bring It On Home To Me
+41
+Cannibal And The Headhunters
+Land Of 1000 Dances
+42
+Billy Stewart
+I Do Love You
+43
+Gerry And The Pacemakers
+It's Gonna Be Alright
+44
+Horst Jankowski
+A Walk In The Black Forest
+45
+Eddie Rambeau
+Concrete And Clay
+46
+Bobby Goldsboro
+Voodoo Woman
+47
+The Guess Who
+Shakin' All Over
+48
+The Yardbirds
+For Your Love
+49
+Chubby Checker
+Let's Do The Freddie
+50
+Herman's Hermits
+Wonderful World
+51
+Otis Redding
+I've Been Loving You Too Long (To Stop Now)
+52
+The O'Jays
+Lipstick Traces (On A Cigarette)
+53
+Tom and Jerrio
+Boo-Ga-Loo
+54
+Dean Martin
+(Remember Me) I'm The One Who Loves You
+55
+The Byrds
+Mr. Tambourine Man
+56
+Connie Stevens
+Now That You've Gone
+57
+Connie Francis
+Wishing It Was You
+58
+Donovan
+Catch The Wind
+59
+Chuck Jackson & Maxine Brown
+Something You Got
+60
+Dickey Lee
+Laurie (Strange Things Happen)
+61
+Al (He's the King) Hirt
+Al's Place
+62
+Chad & Jeremy
+What Do You Want With Me
+63
+Esther Phillips
+And I Love Him
+64
+The Sunglows
+Peanuts (La Cacahuata)
+65
+The Kingsmen
+The Climb
+66
+The Marvelows
+I Do
+67
+The Righteous Brothers
+You Can Have Her
+68
+Jewel Akens
+Georgie Porgie
+69
+Barbara Mason
+Yes, I'm Ready
+70
+Jackie DeShannon
+What The World Needs Now Is Love
+71
+Frank Sinatra
+Tell Her (You Love Her Every Day)
+72
+The Ovations (Featuring Louis Williams)
+It's Wonderful To Be In Love
+73
+The Shangri-Las
+Give Us Your Blessings
+74
+Them
+Here Comes The Night
+75
+Wayne Newton
+I'll Be With You In Apple Blossom Time
+76
+Jan & Dean
+You Really Know How To Hurt A Guy
+77
+The Sapphires
+Gotta Have Your Love
+78
+Eddy Arnold
+What's He Doing In My World
+79
+James Phelps
+Love Is A 5-Letter Word
+80
+Solomon Burke
+Tonight's The Night
+81
+The Olympics
+Good Lovin'
+82
+Ian Whitcomb And Bluesville
+You Turn Me On (Turn On Song)
+83
+Vic Dana
+Bring A Little Sunshine (To My Heart)
+84
+Soupy Sales
+The Mouse
+85
+The Marvelettes
+I'll Keep Holding On
+86
+Bobby Vee
+Keep On Trying
+87
+The Seekers
+A World Of Our Own
+88
+The Ronettes Featuring Veronica
+Is This What I Get For Loving You?
+89
+Tom Jones
+Little Lonely One
+90
+Len Barry
+Lip Sync (To The Tongue Twisters)
+91
+Peter, Paul & Mary
+When The Ship Comes In
+92
+Fred Hughes
+Oo Wee Baby, I Love You
+93
+Fontella Bass & Bobby McClure
+You'll Miss Me (When I'm Gone)
+94
+Jimmy Velvet
+It's Almost Tomorrow
+95
+Del Shannon
+Break Up
+96
+Brenda Lee
+Too Many Rivers
+97
+Bobbi Martin
+I Love You So
+98
+Brenda Lee
+No One
+99
+Radiants
+It Ain't No Big Thing
+100
+Shirley Ellis
+The Puzzle Song (A Puzzle In Song)

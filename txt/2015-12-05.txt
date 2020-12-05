@@ -1,0 +1,300 @@
+1
+Adele
+Hello
+2
+Justin Bieber
+Sorry
+3
+Drake
+Hotline Bling
+4
+Justin Bieber
+Love Yourself
+5
+Justin Bieber
+What Do You Mean?
+6
+The Weeknd
+The Hills
+7
+Shawn Mendes
+Stitches
+8
+Fetty Wap Featuring Remy Boyz
+679
+9
+Taylor Swift
+Wildest Dreams
+10
+Alessia Cara
+Here
+11
+Meghan Trainor Featuring John Legend
+Like I'm Gonna Lose You
+12
+Elle King
+Ex's & Oh's
+13
+Selena Gomez
+Same Old Love
+14
+Ariana Grande
+Focus
+15
+Ellie Goulding
+On My Mind
+16
+Drake & Future
+Jumpman
+17
+The Weeknd
+Can't Feel My Face
+18
+Silento
+Watch Me
+19
+Justin Bieber
+I'll Show You
+20
+R. City Featuring Adam Levine
+Locked Away
+21
+Major Lazer & DJ Snake Featuring MO
+Lean On
+22
+Missy Elliott Featuring Pharrell Williams
+WTF (Where They From)
+23
+Travis Scott
+Antidote
+24
+Mark Ronson Featuring Bruno Mars
+Uptown Funk!
+25
+Thomas Rhett
+Die A Happy Man
+26
+X Ambassadors
+Renegades
+27
+iLoveMemphis
+Hit The Quan
+28
+Post Malone
+White Iverson
+29
+Fetty Wap
+Trap Queen
+30
+Jordan Smith
+Great Is Thy Faithfulness
+31
+Justin Bieber Featuring Halsey
+The Feeling
+32
+Selena Gomez Featuring A$AP Rocky
+Good For You
+33
+Chris Young
+I'm Comin' Over
+34
+Skrillex & Diplo With Justin Bieber
+Where Are U Now
+35
+Future Featuring Drake
+Where Ya At
+36
+Demi Lovato
+Confident
+37
+One Direction
+Perfect
+38
+Bryson Tiller
+Don't
+39
+Fetty Wap Featuring Monty
+My Way
+40
+One Direction
+Drag Me Down
+41
+Wiz Khalifa Featuring Charlie Puth
+See You Again
+42
+Justin Bieber
+Mark My Words
+43
+Justin Bieber
+Purpose
+44
+Sam Hunt
+Break Up In A Small Town
+45
+Fetty Wap
+Again
+46
+Ed Sheeran
+Photograph
+47
+OMI
+Cheerleader
+48
+Calvin Harris & Disciples
+How Deep Is Your Love
+49
+Justin Bieber Featuring Big Sean
+No Pressure
+50
+Rudimental Featuring Ed Sheeran
+Lay It All On Me
+51
+Tory Lanez
+Say It
+52
+J. Cole
+No Role Modelz
+53
+Justin Bieber
+Company
+54
+Justin Bieber Featuring Travi$ Scott
+No Sense
+55
+DeJ Loaf Featuring Big Sean
+Back Up
+56
+Carrie Underwood
+Smoke Break
+57
+Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz
+Downtown
+58
+Cam
+Burning House
+59
+DLOW
+Do It Like Me
+60
+Dan + Shay
+Nothin' Like You
+61
+Blake Shelton
+Gonna
+62
+The Chainsmokers Featuring Rozes
+Roses
+63
+Ty Dolla $ign Featuring Future & Rae Sremmurd
+Blase
+64
+Old Dominion
+Break Up With Him
+65
+Rae Sremmurd
+Come Get Her
+66
+Chris Stapleton
+Tennessee Whiskey
+67
+Justin Bieber
+Life Is Worth Living
+68
+Drake
+Back To Back
+69
+twenty one pilots
+Stressed Out
+70
+Luke Bryan
+Strip It Down
+71
+Nelly Featuring Jeremih
+The Fix
+72
+Coldplay
+Adventure Of A Lifetime
+73
+Jason Aldean
+Gonna Know We Were Here
+74
+Justin Bieber
+Children
+75
+Daya
+Hide Away
+76
+Drake & Future
+Big Rings
+77
+Brothers Osborne
+Stay A Little Longer
+78
+Bryson Tiller
+Exchange
+79
+Chris Brown
+Liquor
+80
+Cole Swindell
+Let Me See Ya Girl
+81
+Justin Bieber
+Been You
+82
+Jana Kramer
+I Got The Boy
+83
+One Direction
+If I Could Fly
+84
+Hailee Steinfeld
+Love Myself
+85
+Tim McGraw
+Top Of The World
+86
+The Weeknd
+In The Night
+87
+One Direction
+Olivia
+88
+Justin Bieber Featuring Nas
+We Are
+89
+G-Eazy x Bebe Rexha
+Me, Myself & I
+90
+Justin Bieber
+Get Used To It
+91
+Drake
+Right Hand
+92
+LOCASH
+I Love This Life
+93
+DNCE
+Cake By The Ocean
+94
+One Direction
+A.M.
+95
+Fetty Wap
+RGF Island
+96
+One Direction
+Temporary Fix
+97
+Shawn Mendes & Camila Cabello
+I Know What You Did Last Summer
+98
+Justin Bieber
+Trust
+99
+Flo Rida
+My House
+100
+One Direction
+Never Enough

@@ -1,0 +1,300 @@
+1
+REO Speedwagon
+Can't Fight This Feeling
+2
+Madonna
+Material Girl
+3
+Phil Collins
+One More Night
+4
+Glenn Frey
+The Heat Is On
+5
+Julian Lennon
+Too Late For Goodbyes
+6
+Teena Marie
+Lover Girl
+7
+Tina Turner
+Private Dancer
+8
+Survivor
+High On You
+9
+Journey
+Only The Young
+10
+Frankie Goes To Hollywood
+Relax
+11
+David Lee Roth
+California Girls
+12
+Wham! Featuring George Michael
+Careless Whisper
+13
+Mick Jagger
+Just Another Night
+14
+Bryan Adams
+Somebody
+15
+Commodores
+Nightshift
+16
+Duran Duran
+Save A Prayer
+17
+Bruce Springsteen
+I'm On Fire
+18
+Billy Joel
+Keeping The Faith
+19
+Diana Ross
+Missing You
+20
+Madonna
+Crazy For You
+21
+USA For Africa
+We Are The World
+22
+Animotion
+Obsession
+23
+Kool & The Gang
+Misled
+24
+Debarge
+Rhythm Of The Night
+25
+Prince And The Revolution Duet With Apollonia
+Take Me With U
+26
+Foreigner
+I Want To Know What Love Is
+27
+The Pointer Sisters
+Neutron Dance
+28
+John Parr
+Naughty Naughty
+29
+Don Henley
+All She Wants to Do Is Dance
+30
+Chicago
+Along Comes A Woman
+31
+Autograph
+Turn Up The Radio
+32
+David Bowie/Pat Metheny Group
+This Is Not America
+33
+Philip Bailey With Phil Collins
+Easy Lover
+34
+The Cars
+Why Can't I Have You
+35
+Murray Head
+One Night In Bangkok
+36
+Simple Minds
+Don't You (Forget About Me)
+37
+Foreigner
+That Was Yesterday
+38
+Greg Kihn
+Lucky
+39
+The Firm
+Radioactive
+40
+Dan Hartman
+Second Nature
+41
+Billy Ocean
+Lover Boy
+42
+Jermaine Stewart
+The Word Is Out
+43
+The Power Station
+Some Like It Hot
+44
+Daryl Hall John Oates
+Some Things Are Better Left Unsaid
+45
+Eric Clapton
+Forever Man
+46
+John Fogerty
+The Old Man Down The Road
+47
+Sheena Easton
+Sugar Walls
+48
+The Time
+The Bird
+49
+Santana
+Say It Again
+50
+Patti LaBelle
+New Attitude
+51
+Ashford & Simpson
+Solid
+52
+Sade
+Smooth Operator
+53
+John Fogerty
+Rock And Roll Girls
+54
+Go West
+We Close Our Eyes
+55
+Tom Petty And The Heartbreakers
+Don't Come Around Here No More
+56
+The Alan Parsons Project
+Let's Talk About Me
+57
+Paul Hardcastle
+Rain Forest
+58
+John Waite
+Change
+59
+The Time
+Jungle Love
+60
+Wham!
+Everything She Wants
+61
+New Edition
+Mr. Telephone Man
+62
+Daryl Hall John Oates
+Method Of Modern Love
+63
+Scandal Featuring Patty Smyth
+Beat Of A Heart
+64
+Kenny Loggins
+Vox Humana
+65
+Tears For Fears
+Everybody Wants To Rule The World
+66
+Billy Ocean
+Suddenly
+67
+Alison Moyet
+Invisible
+68
+Jermaine Jackson & Pia Zadora
+When The Rain Begins To Fall
+69
+Jeffrey Osborne
+The Borderlines
+70
+David Lee Roth
+Just A Gigolo/I Ain't Got Nobody
+71
+Don Henley
+The Boys Of Summer
+72
+Isley, Jasper, Isley
+Kiss and Tell
+73
+Kool & The Gang
+Fresh
+74
+Bronski Beat
+Small Town Boy
+75
+Howard Jones
+Things Can Only Get Better
+76
+Mary Jane Girls
+In My House
+77
+The Pointer Sisters
+Baby Come And Get It
+78
+The Vels
+Look My Way
+79
+Luther Vandross
+'Til My Baby Comes Home
+80
+Midnight Star
+Scientific Love
+81
+Chicago
+You're The Inspiration
+82
+Eric Carmen
+I Wanna Hear It From Your Lips
+83
+Steve Perry
+Foolish Heart
+84
+Los Lobos
+Will The Wolf Survive
+85
+Jesse Johnson's Revue
+Be Your Man
+86
+Katrina And The Waves
+Walking On Sunshine
+87
+Limahl
+The NeverEnding Story
+88
+Giuffria
+Lonely In Love
+89
+Dan Fogelberg
+Go Down Easy
+90
+Sheena Easton
+Swear
+91
+Maze Featuring Frankie Beverly
+Back In Stride
+92
+UTFO
+Roxanne, Roxanne
+93
+Donnie Iris
+Injured In The Game of Love
+94
+Nolan Thomas
+Yo Little Brother
+95
+Alphaville
+Forever Young
+96
+John Hunter
+Tragedy
+97
+Prince And The Revolution
+I Would Die 4 U
+98
+The Manhattans
+You Send Me
+99
+Midnight Star
+Operator
+100
+Madonna
+Like A Virgin

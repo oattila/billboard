@@ -1,0 +1,300 @@
+1
+The Beatles
+I Feel Fine
+2
+The Supremes
+Come See About Me
+3
+Bobby Vinton
+Mr. Lonely
+4
+The Beatles
+She's A Woman
+5
+The Searchers
+Love Potion Number Nine
+6
+Little Anthony And The Imperials
+Goin' Out Of My Head
+7
+The Zombies
+She's Not There
+8
+The Impressions
+Amen
+9
+The Larks
+The Jerk
+10
+Julie Rogers
+The Wedding
+11
+Lorne Greene
+Ringo
+12
+Petula Clark
+Downtown
+13
+Manfred Mann
+Sha La La
+14
+The Righteous Brothers
+You've Lost That Lovin' Feelin'
+15
+Del Shannon
+Keep Searchin' (We'll Follow The Sun)
+16
+Robert Goulet
+My Love, Forgive Me (Amore, Scusami)
+17
+The Dave Clark Five
+Any Way You Want It
+18
+Chad & Jeremy
+Willow Weep For Me
+19
+Marvin Gaye
+How Sweet It Is To Be Loved By You
+20
+The Rolling Stones
+Time Is On My Side
+21
+Herman's Hermits
+I'm Into Something Good
+22
+The Beach Boys
+Dance, Dance, Dance
+23
+The Detergents
+Leader Of The Laundromat
+24
+Maxine Brown
+Oh No Not My Baby
+25
+Dick and DeeDee
+Thou Shalt Not Steal
+26
+Marianne Faithfull
+As Tears Go By
+27
+Andy Williams
+Dear Heart
+28
+The Marvelettes
+Too Many Fish In The Sea
+29
+Johnny Rivers
+Mountain Of Love
+30
+The Drifters
+Saturday Night At The Movies
+31
+Bobbi Martin
+Don't Forget I Still Love You
+32
+Gene Pitney
+I'm Gonna Be Strong
+33
+Jack Jones
+Dear Heart
+34
+The Ray Charles Singers
+One More Time
+35
+Johnny Tillotson
+She Understands Me
+36
+The Ronettes
+Walking In The Rain
+37
+Matt Monro
+Walk Away
+38
+Martha & The Vandellas
+Wild One
+39
+Roger Miller
+Do-Wacka-Do
+40
+Joe Tex
+Hold What You've Got
+41
+Gerry And The Pacemakers
+I'll Be There
+42
+Betty Everett & Jerry Butler
+Smile
+43
+The "You Know Who" Group!
+Roses Are Red My Love
+44
+The Kinks
+You Really Got Me
+45
+Chuck Berry
+Promised Land
+46
+Gene Chandler
+What Now
+47
+Dean Martin
+You're Nobody Till Somebody Loves You
+48
+The Animals
+Boom Boom
+49
+The Waikikis
+Hawaii Tattoo
+50
+Shirley Ellis
+The Name Game
+51
+Candy & The Kisses
+The 81
+52
+Sandie Shaw
+(There's) Always Something There To Remind Me
+53
+Chuck Jackson
+Since I Don't Have You
+54
+The Kinks
+All Day And All Of The Night
+55
+Ben E. King
+Seven Letters
+56
+The Hullaballoos
+I'm Gonna Love You Too
+57
+The Shangri-Las
+Give Him A Great Big Kiss
+58
+Ray Charles
+Makin' Whoopee
+59
+Gale Garnett
+Lovin' Place
+60
+The Gestures
+Run, Run, Run
+61
+The Honeycombs
+I Can't Stop
+62
+Jay & The Americans
+Let's Lock The Door (And Throw Away The Key)
+63
+The Miracles
+Come On Do The Jerk
+64
+Major Lance
+Sometimes I Wonder
+65
+Betty Everett
+Getting Mighty Crowded
+66
+Jerry Vale
+Have You Looked Into Your Heart
+67
+Brook Benton
+Do It Right
+68
+Frank Sinatra
+Somewhere In Your Heart
+69
+Irma Thomas
+He's My Guy
+70
+Jo Ann & Troy
+I Found A Love Oh What A Love
+71
+Lesley Gore
+Look Of Love
+72
+Dean Martin
+You'll Always Be The One I Love
+73
+The Dixie Cups
+Little Bell
+74
+The Contours
+Can You Jerk Like Me
+75
+Ronny And The Daytonas
+Bucket "T"
+76
+Patti LaBelle And The Blue Belles
+Danny Boy
+77
+Henry Mancini And His Orchestra
+Dear Heart
+78
+Sue Thompson
+Paper Tiger
+79
+Harold Betters
+Do Anything You Wanna (Part I)
+80
+The Bachelors
+No Arms Can Ever Hold You
+81
+Lee Morgan
+The Sidewinder, Part 1
+82
+Chubby Checker
+Lovely, Lovely (Loverly, Loverly)
+83
+Ned Miller
+Do What You Do Do Well
+84
+The Dolphins
+Hey-Da-Da-Dow
+85
+Willie Mitchell
+Percolatin'
+86
+Bobby Vee
+(There'll Come A Day When) Ev'ry Little Bit Hurts
+87
+The Hondells
+My Buddy Seat
+88
+Little Milton
+Blind Man
+89
+Bill Black's Combo
+So What
+90
+Mary Wells
+Use Your Head
+91
+The Shangri-Las
+Maybe
+92
+James Brown And The Famous Flames
+Have Mercy Baby
+93
+The Shirelles
+Are You Still My Baby
+94
+The Radiants
+Voice Your Choice
+95
+Garnet Mimms
+A Little Bit Of Soap
+96
+The Beau Brummels
+Laugh, Laugh
+97
+Don Covay
+Take This Hurt Off Me
+98
+Billy Edd Wheeler
+Ode To The Little Brown Shack Out Back
+99
+Bobby Bland
+Black Night
+100
+Alvin Cash & The Crawlers
+Twine Time

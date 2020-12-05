@@ -1,0 +1,300 @@
+1
+Jackson 5
+I'll Be There
+2
+Carpenters
+We've Only Just Begun
+3
+James Taylor
+Fire And Rain
+4
+Neil Diamond
+Cracklin' Rosie
+5
+Sugarloaf
+Green-Eyed Lady
+6
+Free
+All Right Now
+7
+R. Dean Taylor
+Indiana Wants Me
+8
+Dawn
+Candida
+9
+The Kinks
+Lola
+10
+Glen Campbell
+It's Only Make Believe
+11
+Four Tops
+Still Water (Love)
+12
+Charles Wright And The Watts 103rd Street Rhythm Band
+Express Yourself
+13
+100 Proof Aged in Soul
+Somebody's Been Sleeping
+14
+The New Seekers featuring Eve Graham
+Look What They've Done To My Song Ma
+15
+Bread
+It Don't Matter To Me
+16
+Diana Ross
+Ain't No Mountain High Enough
+17
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Think I Love You
+18
+Simon & Garfunkel
+El Condor Pasa (If I Could)
+19
+Joe Cocker
+Cry Me A River
+20
+James Brown
+Super Bad (Part 1 & Part 2)
+21
+Three Dog Night
+Out In The Country
+22
+Teegarden & Van Winkle
+God, Love And Rock & Roll
+23
+Bobby Sherman
+Julie, Do Ya Love Me
+24
+Freda Payne
+Deeper & Deeper
+25
+Wilson Pickett
+Engine Number 9
+26
+Candi Staton
+Stand By Your Man
+27
+Smokey Robinson & The Miracles
+The Tears Of A Clown
+28
+The Who
+See Me, Feel Me
+29
+Bobby Bloom
+Montego Bay
+30
+Crosby, Stills, Nash & Young
+Our House
+31
+Blood, Sweat & Tears
+Lucretia Mac Evil
+32
+Rare Earth
+(I Know) I'm Losing You
+33
+The Temptations
+Ungena Za Ulimwengu (Unite The World)
+34
+Anne Murray
+Snowbird
+35
+Brian Hyland
+Gypsy Woman
+36
+Creedence Clearwater Revival
+Lookin' Out My Back Door/Long As I Can See The Light
+37
+Christie
+Yellow River
+38
+Five Flights Up
+Do What You Wanna Do
+39
+Dionne Warwick
+Make It Easy On Yourself
+40
+Stevie Wonder
+Heaven Help Us All
+41
+Ray Price
+For The Good Times
+42
+Mashmakhan
+As The Years Go By
+43
+The Poppy Family (Featuring Susan Jacks)
+That's Where I Went Wrong
+44
+The Spinners
+It's A Shame
+45
+Grand Funk Railroad
+Closer To Home (I'm Your Captain)
+46
+Johnnie Taylor
+I Am Somebody Part II
+47
+Linda Ronstadt
+Long Long Time
+48
+The Three Degrees
+I Do Take You
+49
+Elvis Presley
+You Don't Have To Say You Love Me/Patch It Up
+50
+Kenny Rogers & The First Edition
+Heed The Call
+51
+Paul Davis
+I Just Wanna Keep It Together
+52
+Mark Lindsay
+And The Grass Won't Pay No Mind
+53
+The Delfonics
+When You Get Right Down To It
+54
+The Whispers
+Seems Like I Gotta Do Wrong
+55
+Quicksilver Messenger Service
+Fresh Air
+56
+Canned Heat
+Let's Work Together
+57
+The Presidents
+5-10-15-20 (25-30 Years Of Love)
+58
+The Guess Who
+Share The Land
+59
+Engelbert Humperdinck
+Sweetheart
+60
+Eric Clapton
+After Midnight
+61
+Shirley Bassey
+Something
+62
+Elephant's Memory
+Mongoose
+63
+Ann Peebles
+Part Time Love
+64
+Blue Mink
+Our World
+65
+Jake Holmes
+So Close
+66
+The 5th Dimension
+One Less Bell To Answer
+67
+The Friends Of Distinction
+Time Waits For No One
+68
+Tyrone Davis
+Let Me Back In
+69
+Ronnie Dyson
+I Don't Wanna Cry
+70
+James Gang
+Funk # 49
+71
+The Flaming Ember
+I'm Not My Brothers Keeper
+72
+Otis Leaville
+Love Uprising
+73
+Ray Charles
+If You Were Mine
+74
+CROW
+Don't Try To Lay No Boogie Woogie On The "King Of Rock & Roll"
+75
+Iron Butterfly
+Easy Rider (Let The Wind Pay The Way)
+76
+Neil Young
+Only Love Can Break Your Heart
+77
+The Band
+Time To Kill
+78
+Bobby Byrd
+I Need Help (I Can't Do It Alone) Pt. 1
+79
+Badfinger
+No Matter What
+80
+Robin McNamara
+Got To Believe In Love
+81
+Charley Pride
+I Can't Believe That You've Stopped Loving Me
+82
+Traffic
+Empty Pages
+83
+Poco
+You Better Think Twice
+84
+Herb Alpert & The Tijuana Brass
+Jerusalem
+85
+Gary Puckett
+I Just Don't Know What To Do With Myself
+86
+King Floyd
+Groove Me
+87
+Conway Twitty
+Fifteen Years Ago
+88
+Israel "Popper Stopper" Tolbert
+Big Leg Woman (With A Short Short Mini Skirt)
+89
+The Isley Brothers
+Get Into Something
+90
+David & Jimmy Ruffin
+Stand By Me
+91
+Dennis Yost And The Classics IV
+Where Did All The Good Times Go
+92
+Tammy Wynette
+Run, Woman, Run
+93
+Roy Clark
+Thank God And Greyhound
+94
+Etta James
+Losers Weepers - Part I
+95
+Barbra Streisand
+Stoney End
+96
+Joe Simon
+That's The Way I Want Our Love
+97
+Jerry Reed
+Amos Moses
+98
+B.B. King
+Chains And Things
+99
+Dorothy Morrison
+Spirit In The Sky
+100
+The Satisfactions
+One Light Two Lights

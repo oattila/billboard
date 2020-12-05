@@ -1,0 +1,300 @@
+1
+The Beatles
+We Can Work It Out
+2
+Simon & Garfunkel
+The Sound Of Silence
+3
+Gary Lewis And The Playboys
+She's Just My Style
+4
+The Statler Brothers
+Flowers On The Wall
+5
+The Righteous Brothers
+Ebb Tide
+6
+The Dave Clark Five
+Over And Over
+7
+James Brown And The Famous Flames
+I Got You (I Feel Good)
+8
+The Vogues
+Five O'Clock World
+9
+The Byrds
+Turn! Turn! Turn! (To Everything There Is A Season)
+10
+The Beatles
+Day Tripper
+11
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Let's Hang On!
+12
+The McCoys
+Fever
+13
+The T-Bones
+No Matter What Shape (Your Stomach's In)
+14
+The Rolling Stones
+As Tears Go By
+15
+Herman's Hermits
+A Must To Avoid
+16
+The Lovin' Spoonful
+You Didn't Have To Be So Nice
+17
+Eddy Arnold
+Make The World Go Away
+18
+Jackie Lee
+The Duck
+19
+Al Martino
+Spanish Eyes
+20
+Roger Miller
+England Swings
+21
+Elvis Presley With The Jordanaires
+Puppet On A String
+22
+Barry Young
+One Has My Name (The Other Has My Heart)
+23
+Paul Revere & The Raiders Featuring Mark Lindsay
+Just Like Me
+24
+Mike Douglas
+The Men In My Little Girl's Life
+25
+The Animals
+It's My Life
+26
+Bobby Vinton
+Satin Pillows
+27
+The Wonder Who?
+Don't Think Twice
+28
+The Toys
+Attack
+29
+Joe Tex
+A Sweet Woman Like You
+30
+Tom Jones
+Thunderball
+31
+Jay & The Americans
+Sunday And Me
+32
+Mitch Ryder And The Detroit Wheels
+Jenny Take A Ride!
+33
+The Impressions
+You've Been Cheatin'
+34
+The Beach Boys
+The Little Girl I Once Knew
+35
+The Knickerbockers
+Lies
+36
+The Shangri-Las
+I Can Never Go Home Anymore
+37
+Ronny And The Daytonas
+Sandy
+38
+The Kinks
+A Well Respected Man
+39
+The Hollies
+Look Through Any Window
+40
+Herb Alpert & The Tijuana Brass
+Taste Of Honey
+41
+Billy Joe Royal
+I've Got To Be Somebody
+42
+The Viscounts
+Harlem Nocturne
+43
+Ramsey Lewis Trio
+Hang On Sloopy
+44
+Roy Head And The Traits
+Apple Of My Eye
+45
+Ray Charles
+Crying Time
+46
+Johnny Rivers
+Under Your Spell Again
+47
+Frank Sinatra
+It Was A Very Good Year
+48
+Dionne Warwick
+Are You There (With Another Girl)
+49
+Barbra Streisand
+Second Hand Rose
+50
+Hedgehoppers Anonymous
+It's Good News Week
+51
+Noel Harrison
+A Young Girl
+52
+Petula Clark
+My Love
+53
+Bobby Goldsboro
+Broomstick Cowboy
+54
+Connie Francis
+Jealous Heart
+55
+Vic Dana
+Crystal Chandelier
+56
+Herb Alpert & The Tijuana Brass
+Zorba The Greek
+57
+Stevie Wonder
+Uptight (Everything's Alright)
+58
+The Beach Boys
+Barbara Ann
+59
+The Miracles
+Going To A Go-Go
+60
+Dino, Desi & Billy
+Please Don't Fight It
+61
+The C.O.D.'s
+Michael
+62
+Fontella Bass
+Recovery
+63
+Gene Pitney
+Princess In Rags
+64
+Elvis Presley With The Jordanaires
+Tell Me Why
+65
+The Marvelettes
+Don't Mess With Bill
+66
+Lou Christie
+Lightnin' Strikes
+67
+Len Barry
+Like A Baby
+68
+The 4 Seasons
+Little Boy (In Grown Up Clothes)
+69
+Herb Alpert & The Tijuana Brass
+Tijuana Taxi
+70
+The Packers
+Hole In The Wall
+71
+Jack Jones
+Love Bug
+72
+James Brown At The Organ
+Try Me
+73
+Wilson Pickett
+Don't Fight It
+74
+Buck Owens and The Buckaroos
+Buckaroo
+75
+Patti LaBelle And The Blue Belles
+All Or Nothing
+76
+Bobby Powell
+C.C. Rider
+77
+The Gentrys
+Spread It On Thick
+78
+Don Covay & The Goodtimers
+Seesaw
+79
+Little Anthony And The Imperials
+Hurt
+80
+The Five Americans
+I See The Light
+81
+Chris Montez
+Call Me
+82
+The Young Rascals
+I Ain't Gonna Eat Out My Heart Anymore
+83
+Lou Johnson
+A Time To Love-A Time To Cry (Petite Fleur)
+84
+Maxine Brown
+If You Gotta Make A Fool Of Somebody
+85
+The Temptations
+Don't Look Back
+86
+Martha & The Vandellas
+Love (Makes Me Do Foolish Things)
+87
+Bob Dylan
+Can You Please Crawl Out Your Window?
+88
+Gene Chandler
+Rainbow '65 (Part I)
+89
+King Curtis
+Spanish Harlem
+90
+Lee Dorsey
+Get Out Of My Life, Woman
+91
+Bobby Bland
+I'm Too Far Gone (To Turn Around)
+92
+The Manhattans
+Follow Your Heart
+93
+Lowell Fulsom
+Black Nights
+94
+Red Sovine
+Giddyup Go
+95
+Ben E. King
+Goodnight My Love
+96
+Billy Vaughn And His Orchestra
+Michelle
+97
+Tammi Terrell
+I Can't Believe You Love Me
+98
+David & Jonathan
+Michelle
+99
+The Mamas & The Papas
+California Dreamin'
+100
+Solomon Burke
+Baby Come On Home

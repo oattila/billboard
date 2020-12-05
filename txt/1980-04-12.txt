@@ -1,0 +1,300 @@
+1
+Pink Floyd
+Another Brick In The Wall (Part II)
+2
+Blondie
+Call Me
+3
+The Spinners
+Working My Way Back To You/Forgive Me, Girl
+4
+Christopher Cross
+Ride Like The Wind
+5
+Kool & The Gang
+Too Hot
+6
+Ray, Goodman & Brown
+Special Lady
+7
+Billy Preston & Syreeta
+With You I'm Born Again
+8
+Queen
+Crazy Little Thing Called Love
+9
+Eagles
+I Can't Tell You Why
+10
+Michael Jackson
+Off The Wall
+11
+Bob Seger
+Fire Lake
+12
+Air Supply
+Lost In Love
+13
+Rupert Holmes
+Him
+14
+Billy Joel
+You May Be Right
+15
+Dr. Hook
+Sexy Eyes
+16
+Shalamar
+The Second Time Around
+17
+Linda Ronstadt
+How Do I Make You
+18
+Jimmy Ruffin
+Hold On To My Love
+19
+The Whispers
+And The Beat Goes On
+20
+Andy Gibb
+Desire
+21
+Tommy James
+Three Times In Love
+22
+Peaches & Herb
+I Pledge My Love
+23
+Charlie Dore
+Pilot Of The Airwaves
+24
+Fleetwood Mac
+Think About Me
+25
+Dan Fogelberg
+Longer
+26
+Kenny Rogers With Kim Carnes
+Don't Fall In Love With A Dreamer
+27
+Chuck Mangione
+Give It All You Got
+28
+Utopia
+Set Me Free
+29
+Journey
+Any Way You Want It
+30
+The Brothers Johnson
+Stomp!
+31
+Donna Summer
+On The Radio
+32
+Gary Numan
+Cars
+33
+Pretenders
+Brass In Pocket (I'm Special)
+34
+Melissa Manchester
+Fire In The Morning
+35
+Cliff Richard
+Carrie
+36
+Kenny Loggins
+Keep The Fire
+37
+Felix Cavaliere
+Only A Lonely Heart Sees
+38
+Paul Davis
+Do Right
+39
+Tom Petty And The Heartbreakers
+Refugee
+40
+Pat Benatar
+Heartbreaker
+41
+Boz Scaggs
+Breakdown Dead Ahead
+42
+Heart
+Even It Up
+43
+Andy Gibb & Olivia Newton-John
+I Can't Help It
+44
+Ambrosia
+Biggest Part Of Me
+45
+Teri DeSario With K.C.
+Yes, I'm Ready
+46
+Linda Ronstadt
+Hurt So Bad
+47
+Roberta Flack With Donny Hathaway
+You Are My Heaven
+48
+Korona
+Let Me Be
+49
+Dan Fogelberg
+Heart Hotels
+50
+Wayne Newton
+Years
+51
+Smokey Robinson
+Let Me Be The Clock
+52
+John Denver
+Autograph
+53
+Captain & Tennille
+Do That To Me One More Time
+54
+The J. Geils Band
+Come Back
+55
+James Last Band
+The Seduction (Love Theme)
+56
+The Clash
+Train In Vain (Stand By Me)
+57
+Warren Zevon
+A Certain Girl
+58
+Bette Midler
+The Rose
+59
+Mac Davis
+It's Hard To Be Humble
+60
+Bar-Kays
+Today Is The Day
+61
+Lipps, Inc.
+Funkytown
+62
+Bruce Cockburn
+Wondering Where The Lions Are
+63
+Off Broadway USA
+Stay In Time
+64
+Jermaine Jackson
+Let's Get Serious
+65
+Styx
+Borrowed Time
+66
+Dolly Parton
+Starting Over Again
+67
+Dionne Warwick
+After You
+68
+Bernadette Peters
+Gee Whiz
+69
+Anne Murray
+Daydream Believer
+70
+Neil Sedaka & Dara Sedaka
+Should've Never Let You Go
+71
+Captain & Tennille
+Love On A Shoestring
+72
+Anne Murray
+Lucky Me
+73
+Jennifer Warnes
+When The Feeling Comes Around
+74
+Red Rider
+White Hot
+75
+Survivor
+Somewhere In America
+76
+Neil Diamond
+The Good Lord Loves You
+77
+Photoglo
+We Were Meant To Be Lovers
+78
+Pat Benatar
+We Live For Love
+79
+The Knack
+Can't Put A Price On Love
+80
+Peter McIan
+Solitaire
+81
+Barry Manilow
+I Don't Want To Walk Without You
+82
+Firefall
+Headed For A Fall
+83
+The J. Geils Band
+Love Stinks
+84
+The Beach Boys
+Goin' On
+85
+Robbie Dupree
+Steal Away
+86
+Karla Bonoff
+Baby Don't Go
+87
+Nazareth
+Holiday
+88
+Shooting Star
+You've Got What I Need
+89
+Steve Forbert
+Say Goodbye To Little Jo
+90
+Leon Haywood
+Don't Push It Don't Force It
+91
+Toto
+99
+92
+Festival
+Don't Cry For Me Argentina
+93
+The Dirt Band
+An American Dream
+94
+RCR
+Scandal
+95
+Willie Nelson
+My Heroes Have Always Been Cowboys
+96
+Michael Jackson
+Rock With You
+97
+Rush
+The Spirit Of Radio
+98
+Leif Garrett
+I Was Looking For Someone To Love
+99
+Stevie Wonder
+Outside My Window
+100
+Foreigner
+Women

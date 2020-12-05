@@ -1,0 +1,300 @@
+1
+Thelma Houston
+Don't Leave Me This Way
+2
+Glen Campbell
+Southern Nights
+3
+Eagles
+Hotel California
+4
+David Soul
+Don't Give Up On Us
+5
+10cc
+The Things We Do For Love
+6
+Natalie Cole
+I've Got Love On My Mind
+7
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+8
+Atlanta Rhythm Section
+So In To You
+9
+Leo Sayer
+When I Need You
+10
+Jennifer Warnes
+Right Time Of The Night
+11
+William Bell
+Tryin' To Love Two
+12
+Daryl Hall John Oates
+Rich Girl
+13
+Rose Royce
+I Wanna Get Next To You
+14
+Climax Blues Band
+Couldn't Get It Right
+15
+Boz Scaggs
+Lido Shuffle
+16
+Captain & Tennille
+Can't Stop Dancin'
+17
+KC And The Sunshine Band
+I'm Your Boogie Man
+18
+ABBA
+Dancing Queen
+19
+Stevie Wonder
+Sir Duke
+20
+Marilyn McCoo & Billy Davis, Jr.
+Your Love
+21
+Kansas
+Carry On Wayward Son
+22
+Rod Stewart
+The First Cut Is The Deepest
+23
+KISS
+Calling Dr. Love
+24
+Wings
+Maybe I'm Amazed
+25
+Hot
+Angel In Your Arms
+26
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+27
+Andrea True Connection
+N.y., You Got Me Dancing
+28
+Kenny Rogers
+Lucille
+29
+Foreigner
+Feels Like The First Time
+30
+Andrew Gold
+Lonely Boy
+31
+Q
+Dancin' Man
+32
+Facts Of Life
+Sometimes
+33
+Yvonne Elliman
+Hello Stranger
+34
+The Marshall Tucker Band
+Heard It In A Love Song
+35
+Shalamar
+Uptown Festival (Part 1)
+36
+Marvin Gaye
+Got To Give It Up (Pt. I)
+37
+Tavares
+Whodunit
+38
+Kenny Nolan
+I Like Dreamin'
+39
+Stallion
+Old Fashioned Boy (You're The One)
+40
+Joe Tex
+Ain't Gonna Bump No More (with No Big Fat Woman)
+41
+Starz
+Cherry Baby
+42
+Smokey Robinson
+There Will Come A Day (I'm Gonna Happen To You)
+43
+The Spinners
+You're Throwing A Good Love Away
+44
+Firefall
+Cinderella
+45
+John Denver
+My Sweet Lady
+46
+Silvetti
+Spring Rain
+47
+Rufus Featuring Chaka Khan
+At Midnight (My Love Will Lift You Up)
+48
+Steve Miller
+Fly Like An Eagle
+49
+Jimmy Buffett
+Margaritaville
+50
+The Rubinoos
+I Think We're Alone Now
+51
+Henry Mancini And His Orchestra
+(Theme from) Charlie's Angels
+52
+The Jacksons
+Show You The Way To Go
+53
+Crown Heights Affair
+Dancin'
+54
+The Kinks
+Sleepwalker
+55
+Kenny Nolan
+Love's Grown Deep
+56
+Fleetwood Mac
+Dreams
+57
+James Darren
+You Take My Heart Away
+58
+Tony Orlando & Dawn
+Sing
+59
+Addrisi Brothers
+Slow Dancin' Don't Turn Me On
+60
+Aerosmith
+Back In The Saddle
+61
+John Miles
+Slowdown
+62
+Chicago
+You Are On My Mind
+63
+Jethro Tull
+The Whistler
+64
+Jerry Butler
+I Wanna Do It To You
+65
+Klaatu
+Sub-rosa Subway/calling Occupants
+66
+Queen
+Tie Your Mother Down
+67
+Alan O'Day
+Undercover Angel
+68
+Deniece Williams
+Free
+69
+Graham Parker And The Rumour
+Hold Back The Night
+70
+The Trammps
+Disco Inferno
+71
+Bread
+Hooked On You
+72
+Dean Friedman
+Ariel
+73
+The Sylvers
+High School Dance
+74
+Starbuck
+Everybody Be Dancin'
+75
+Al Stewart
+On The Border
+76
+David Bowie
+Sound And Vision
+77
+Cody Jameson
+Brooklyn
+78
+Mary Macgregor
+This Girl (Has Turned Into A Woman)
+79
+Bob Seger
+Mainstreet
+80
+Maynard Ferguson
+Gonna Fly Now (Theme From "Rocky")
+81
+Bob Seger & The Silver Bullet Band
+Night Moves
+82
+B.W. Stevenson
+Down To The Station
+83
+Angel
+That Magic Touch
+84
+Bill Conti
+Gonna Fly Now
+85
+Peter Mccann
+Do You Wanna Make Love
+86
+Marie Osmond
+This Is The Way That I Feel
+87
+The Manhattans
+It Feels So Good To Be Loved So Bad
+88
+Andy Gibb
+I Just Want To Be Your Everything
+89
+Pablo Cruise
+Whatcha Gonna Do?
+90
+Carl Graves
+Sad Girl
+91
+ZZ Top
+Arrested For Driving While Blind
+92
+Bette Midler
+You're Movin' Out Today
+93
+Anson Williams
+Deeply
+94
+Tom Jones
+Say You'll Stay Until Tomorrow
+95
+Olivia Newton-John
+Sam
+96
+T-Connection
+Do What You Wanna Do
+97
+Mesa
+Sailing Ships
+98
+Bee Gees
+Boogie Child
+99
+Enchantment
+Gloria
+100
+Electric Light Orchestra
+Do Ya

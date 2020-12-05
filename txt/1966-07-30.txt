@@ -1,0 +1,300 @@
+1
+The Troggs
+Wild Thing
+2
+Tommy James And The Shondells
+Hanky Panky
+3
+Sam The Sham and the Pharaohs
+Lil' Red Riding Hood
+4
+Crispian St. Peters
+The Pied Piper
+5
+The Mamas & The Papas
+I Saw Her Again
+6
+Paul Revere & The Raiders Featuring Mark Lindsay
+Hungry
+7
+The Lovin' Spoonful
+Summer In The City
+8
+Tommy Roe
+Sweet Pea
+9
+The Rolling Stones
+Mothers Little Helper
+10
+Ray Conniff And The Singers
+Somewhere, My Love
+11
+Napoleon XIV
+They're Coming To Take Me Away, Ha-Haaa!
+12
+The Beatles
+Paperback Writer
+13
+The Cyrkle
+Red Rubber Ball
+14
+Bobby Hebb
+Sunny
+15
+Dusty Springfield
+You Don't Have To Say You Love Me
+16
+Herman's Hermits
+This Door Swings Both Ways
+17
+The Yardbirds
+Over Under Sideways Down
+18
+Herb Alpert & The Tijuana Brass
+The Work Song
+19
+Elvis Presley
+Love Letters
+20
+Bob Dylan
+I Want You
+21
+Syndicate Of Sound
+Little Girl
+22
+Frank Sinatra
+Strangers In The Night
+23
+Tommy McLain
+Sweet Dreams
+24
+The Temptations
+Ain't Too Proud To Beg
+25
+Dionne Warwick
+Trains And Boats And Planes
+26
+Petula Clark
+I Couldn't Live Without Your Love
+27
+Ronnie Dove
+Happy Summer Days
+28
+The Grass Roots
+Where Were You When I Needed You
+29
+The Association
+Along Comes Mary
+30
+The Happenings
+See You In September
+31
+The Standells
+Dirty Water
+32
+Manfred Mann
+Pretty Flamingo
+33
+Bobby Moore & The Rhythm Aces
+Searching For My Love
+34
+B.J. Thomas And The Triumphs
+Billy And Sue
+35
+Jack Jones
+The Impossible Dream (The Quest)
+36
+Nancy Sinatra
+Friday's Child
+37
+The Young Rascals
+You Better Run
+38
+The Capitols
+Cool Jerk
+39
+Johnny Rivers
+(I Washed My Hands In) Muddy Water
+40
+Stevie Wonder
+Blowin In The Wind
+41
+Jan & Dean
+Popsicle
+42
+The Ides Of March
+You Wouldn't Listen
+43
+Roger Miller
+You Can't Roller Skate In A Buffalo Herd
+44
+The Byrds
+5 D (Fifth Dimension)
+45
+Chad & Jeremy
+Distant Shores
+46
+The Miracles
+Whole Lot Of Shakin' In My Heart (Since I Met You)
+47
+Brian Hyland
+The Joker Went Wild
+48
+Percy Sledge
+Warm And Tender Love
+49
+The Bachelors
+Can I Trust You?
+50
+"Groove" Holmes
+Misty
+51
+The Rolling Stones
+Lady Jane
+52
+Bobby Vee And The Strangers
+Look At Me Girl
+53
+Verdelle Smith
+Tar And Cement
+54
+David Houston
+Almost Persuaded
+55
+Mel Carter
+You You You
+56
+Barbara Lewis
+Make Me Belong To You
+57
+Billy Stewart
+Summertime
+58
+Leroy Pullins
+I'm A Nut
+59
+Eddy Arnold
+The Tip Of My Fingers
+60
+The Shangri-Las
+Past, Present And Future
+61
+The Sandpipers
+Guantanamera
+62
+Cher
+Alfie
+63
+Sandy Posey
+Born A Woman
+64
+Lee Dorsey
+Working In The Coal Mine
+65
+Ramsey Lewis
+Wade In The Water
+66
+Dean Martin
+A Million And One
+67
+Susan Christie
+I Love Onions
+68
+Roger Williams
+Lara's Theme from "Dr. Zhivago"
+69
+Mike Williams
+Lonely Soldier
+70
+The Isley Brothers
+I Guess I'll Always Love You
+71
+Joe Simon
+Teenager's Prayer
+72
+The Platters
+I Love You 1000 Times
+73
+The Hollies
+Bus Stop
+74
+The McCoys
+(You Make Me Feel) So Good
+75
+Gary Lewis And The Playboys
+My Heart's Symphony
+76
+Wilson Pickett
+Land Of 1000 Dances
+77
+Joe Tex
+I Believe I'm Gonna Make It
+78
+Chubby Checker
+Hey You! Little Boo-Ga-Loo
+79
+James Brown And The Famous Flames
+Money Won't Change You (Part 1)
+80
+The Cryan' Shames
+Sugar And Spice
+81
+Darrell Banks
+Open The Door To Your Heart
+82
+B.J. Thomas
+Bring Back The Time
+83
+Jay & The Americans
+Livin' Above Your Head
+84
+The Beach Boys
+Wouldn't It Be Nice
+85
+Nancy Wilson
+Uptight (Everything's Alright)
+86
+The Shades Of Blue
+Lonely Summer
+87
+Clefs Of Lavender Hill
+Stop! - Get A Ticket
+88
+The Surfaris
+Wipe Out
+89
+Love
+7 And 7 Is
+90
+Donovan
+Sunshine Superman
+91
+The Razor's Edge
+Let's Call It A Day Girl
+92
+Alan Price Set
+I Put A Spell On You
+93
+Bob Kuban And The In-Men
+Drive My Car
+94
+Tony Bennett
+Georgia Rose
+95
+The Intruders
+(We'll Be) United
+96
+Alvin Cash & The Registers
+The Philly Freeze
+97
+Jr. Walker & The All Stars
+How Sweet It Is (To Be Loved By You)
+98
+Peter And Gordon
+To Show I Love You
+99
+James Carr
+Love Attack
+100
+Mitch Ryder And The Detroit Wheels
+Takin' All I Can Get

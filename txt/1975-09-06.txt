@@ -1,0 +1,300 @@
+1
+Glen Campbell
+Rhinestone Cowboy
+2
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+3
+KC And The Sunshine Band
+Get Down Tonight
+4
+Janis Ian
+At Seventeen
+5
+James Taylor
+How Sweet It Is (To Be Loved By You)
+6
+Bee Gees
+Jive Talkin'
+7
+David Bowie
+Fame
+8
+The Isley Brothers
+Fight The Power Part 1
+9
+Barry Manilow
+Could It Be Magic
+10
+Eagles
+One Of These Nights
+11
+Freddy Fender
+Wasted Days And Wasted Nights
+12
+Bad Company
+Feel Like Makin' Love
+13
+Earth, Wind & Fire
+That's The Way Of The World
+14
+Sweet
+Ballroom Blitz
+15
+John Denver
+I'm Sorry
+16
+Amazing Rhythm Aces
+Third Rate Romance
+17
+Ambrosia
+Holdin' On To Yesterday
+18
+Elton John
+Someone Saved My Life Tonight
+19
+David Geddes
+Run Joey Run
+20
+ZZ Top
+Tush
+21
+Carpenters
+Solitaire
+22
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+23
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+24
+America
+Daisy Jane
+25
+Orleans
+Dance With Me
+26
+Morris Albert
+Feelings
+27
+The Osmonds
+The Proud One
+28
+Helen Reddy
+Ain't No Way To Treat A Lady
+29
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+30
+War
+Why Can't We Be Friends?
+31
+Tavares
+It Only Takes A Minute
+32
+Captain & Tennille
+Love Will Keep Us Together
+33
+Austin Roberts
+Rocky
+34
+The Spinners
+They Just Can't Stop It the (Games People Play)
+35
+Paul Simon/Phoebe Snow
+Gone At Last
+36
+Johnny Rivers
+Help Me Rhonda
+37
+Olivia Newton-John
+Please Mr. Please
+38
+The Ritchie Family
+Brazil
+39
+Cat Stevens
+Two Fine People
+40
+B.T. Express
+Give It What You Got/Peace Pipe
+41
+Leon Russell
+Lady Blue
+42
+The Temptations
+Glasshouse
+43
+People's Choice
+Do It Any Way You Wanna
+44
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+45
+Michael Murphey
+Carolina In The Pines
+46
+Graham Central Station
+Your Love
+47
+Frank Sinatra
+I Believe I'm Gonna Love You
+48
+Merry Clayton
+Keep Your Eye On The Sparrow
+49
+Dickie Goodman
+Mr. Jaws
+50
+Jefferson Starship
+Miracles
+51
+10cc
+I'm Not In Love
+52
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+53
+Esther Phillips
+What A Diff'rence A Day Makes
+54
+Captain & Tennille
+Por Amor Viviremos
+55
+Art Garfunkel
+I Only Have Eyes For You
+56
+Evie Sands
+I Love Makin' Love To You
+57
+The Doobie Brothers
+Sweet Maxine
+58
+Jim Stafford
+I Got Stoned And I Missed It
+59
+New Birth
+Dream Merchant
+60
+Tony Orlando & Dawn
+You're All I Need To Get By
+61
+AWB
+If I Ever Lose This Heaven
+62
+Bob Seger
+Katmandu
+63
+The Hudson Brothers
+Rendezvous
+64
+Faith, Hope And Charity
+To Each His Own
+65
+Sharon Paige and Harold Melvin And The Blue Notes
+Hope That We Can Be Together Soon
+66
+The 4 Seasons
+Who Loves You
+67
+Alice Cooper
+Department Of Youth
+68
+Fox
+Only You Can
+69
+Emmylou Harris
+If I Could Only Win Your Love
+70
+Gladys Knight And The Pips
+Money
+71
+John Fogerty
+Rockin' All Over The World
+72
+Natalie Cole
+This Will Be
+73
+Linda Ronstadt
+Love Is A Rose
+74
+Fantastic Four
+Alvin Stone (The Birth & Death Of A Gangster)
+75
+Crown Heights Affair
+Dreaming A Dream
+76
+Willie Nelson
+Blue Eyes Crying In The Rain
+77
+Jigsaw
+Sky High
+78
+The Grass Roots
+Mamacita
+79
+The Outlaws
+There Goes Another Love Song
+80
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Jam Band
+81
+The Rolling Stones
+Out Of Time
+82
+Chicago
+Brand New Love Affair (Part I & II)
+83
+Sly Stone
+I Get High On You
+84
+Loggins & Messina
+I Like It Like That
+85
+Jessi Colter
+You Ain't Never Been Loved (Like I'm Gonna Love You)
+86
+Smokey Robinson
+The Agony And The Ecstasy
+87
+The Eleventh Hour
+Hollywood Hot
+88
+The Sunshine Band
+Shotgun Shuffle
+89
+The Nitty Gritty Dirt Band
+(All I Have To Do Is) Dream
+90
+Leon Haywood
+I Want'a Do Something Freaky To You
+91
+Pete Wingfield
+Eighteen With A Bullet
+92
+Joe Simon
+Music In My Bones
+93
+Batdorf & Rodney
+You Are A Song
+94
+The Choice Four
+When You're Young And In Love
+95
+Dr. Hook
+The Millionaire
+96
+East L.A. Car Pool
+Like They Say In L.A.
+97
+Ralph Carter
+When You're Young And In Love
+98
+Rusty Wier
+Don't It Make You Wanna Dance?
+99
+ABBA
+S.O.S.
+100
+Pat Lundi
+Party Music

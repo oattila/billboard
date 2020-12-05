@@ -1,0 +1,300 @@
+1
+The Tokens
+The Lion Sleeps Tonight
+2
+The Marvelettes
+Please Mr. Postman
+3
+Bobby Vee
+Run To Him
+4
+Chubby Checker
+The Twist
+5
+Leroy Van Dyke
+Walk On By
+6
+James Darren
+Goodbye Cruel World
+7
+Sandy Nelson
+Let There Be Drums
+8
+Neil Sedaka
+Happy Birthday, Sweet Sixteen
+9
+Jimmy Dean
+Big Bad John
+10
+Joey Dee & the Starliters
+Peppermint Twist - Part I
+11
+Ferrante & Teicher
+Tonight
+12
+Henry Mancini And His Orchestra
+Moon River
+13
+Linda Scott
+I Don't Know Why
+14
+The Lettermen
+When I Fall In Love
+15
+Jerry Butler
+Moon River
+16
+Connie Francis
+When The Boy In Your Arms (Is The Boy In Your Heart)
+17
+Ray Charles and his Orchestra
+Unchain My Heart
+18
+Elvis Presley With The Jordanaires
+Can't Help Falling In Love
+19
+Brenda Lee
+Fool #1
+20
+Dion
+Runaround Sue
+21
+The Impressions
+Gypsy Woman
+22
+Chubby Checker
+Let's Twist Again
+23
+The Angels
+'Til
+24
+The G-Clefs
+I Understand (Just How You Feel)
+25
+Patsy Cline
+Crazy
+26
+The Crystals
+There's No Other (Like My Baby)
+27
+Kenny Dino
+Your Ma Said You Cried In Your Sleep Last Night
+28
+Brook Benton
+Revenge
+29
+The Chantels
+Well, I Told You
+30
+The Dovells
+Bristol Stomp
+31
+Solomon Burke
+Just Out Of Reach (Of My Two Open Arms)
+32
+Elvis Presley With The Jordanaires
+Rock-A-Hula Baby
+33
+Bing Crosby
+White Christmas
+34
+Gene McDaniels
+Tower Of Strength
+35
+The Marcels
+Heartaches
+36
+Dion
+The Majestic
+37
+Gene Pitney
+Town Without Pity
+38
+Barbara George
+I Know (You Don't Love Me No More)
+39
+Phil McLean
+Small Sad Sam
+40
+John D. Loudermilk
+Language Of Love
+41
+Fats Domino
+Jambalaya (On The Bayou)
+42
+Sims Twins
+Soothe Me
+43
+The Highwaymen
+The Gypsy Rover
+44
+Jimmy Elledge
+Funny How Time Slips Away
+45
+Bobby Rydell/Chubby Checker
+Jingle Bell Rock
+46
+Pat Boone
+Johnny Will
+47
+Ike & Tina Turner
+Poor Fool
+48
+The Highwaymen
+Cotton Fields
+49
+James Ray
+If You Gotta Make A Fool Of Somebody
+50
+Linda Scott
+It's All Because
+51
+Vic Dana
+Little Altar Boy
+52
+David Seville And The Chipmunks
+Rudolph The Red Nosed Reindeer
+53
+Gary U.S. Bonds
+Dear Lady Twist
+54
+Connie Francis
+Baby's First Christmas
+55
+Del Shannon
+Hey! Little Girl
+56
+Dion
+The Wanderer
+57
+Chubby Checker
+The Fly
+58
+Bobby Helms
+Jingle Bell Rock
+59
+Bobby Edwards
+You're The Reason
+60
+Wanda Jackson
+In The Middle Of A Heartache
+61
+Dinah Washington
+September In The Rain
+62
+Danny Peppermint and the Jumping Jacks
+The Peppermint Twist
+63
+David Seville And The Chipmunks
+The Chipmunk Song (Christmas Don't Be Late)
+64
+Etta James
+It's Too Soon To Know
+65
+The Shirelles
+Baby It's You
+66
+Sue Thompson
+Norman
+67
+The Showmen
+It Will Stand
+68
+Chubby Checker
+Twistin' U.S.A.
+69
+The Harry Simeone Chorale
+The Little Drummer Boy
+70
+Glen Campbell
+Turn Around, Look At Me
+71
+Claude King
+The Comancheros
+72
+Shep And The Limelites
+Three Steps From The Altar
+73
+Burl Ives
+A Little Bitty Tear
+74
+Bobby Bland
+Turn On Your Love Light
+75
+Don Gibson
+Lonesome Number One
+76
+Bill Black's Combo
+Twist-Her
+77
+Roger Williams
+Maria
+78
+Frank Slay And His Orchestra
+Flying Circle
+79
+Bobby Vee
+Walkin' With My Angel
+80
+Gladys Knight And The Pips
+Letter Full Of Tears
+81
+Jimmy McCracklin
+Just Got To Know
+82
+Lee Dorsey
+Do-Re-Mi
+83
+The Drifters
+Room Full Of Tears
+84
+Brenda Lee
+Rockin' Around The Christmas Tree
+85
+Johnny Tillotson
+Dreamy Eyes
+86
+Bobby Darin
+Multiplication
+87
+Frank Sinatra
+Pocketful Of Miracles
+88
+The Dave Brubeck Quartet
+Unsquare Dance
+89
+Bobby Darin
+Irresistible You
+90
+Ray Charles and his Orchestra
+But On The Other Hand Baby
+91
+Dick Dale and The Del-Tones
+Let's Go Trippin'
+92
+The Jive Five With Joe Rene And Orchestra
+Never, Never
+93
+Johnny Cash
+Tennessee Flat-Top Box
+94
+Johnny Mathis
+Maria
+95
+Etta James
+Seven Day Fool
+96
+James Brown And The Famous Flames
+Lost Someone
+97
+The Miracles
+Everybody's Gotta Pay Some Dues
+98
+Sleepy King
+Pushin' Your Luck
+99
+Ray Peterson
+I Could Have Loved You So Well
+100
+Gloria Lynne
+You Don't Have To Be A Tower Of Strength

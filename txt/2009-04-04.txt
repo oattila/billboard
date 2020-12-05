@@ -1,0 +1,300 @@
+1
+Flo Rida
+Right Round
+2
+Lady Gaga
+Poker Face
+3
+Soulja Boy Tell 'em Featuring Sammie
+Kiss Me Thru The Phone
+4
+T.I. Featuring Justin Timberlake
+Dead And Gone
+5
+The All-American Rejects
+Gives You Hell
+6
+Kelly Clarkson
+My Life Would Suck Without You
+7
+Jamie Foxx Featuring T-Pain
+Blame It
+8
+Kanye West
+Heartless
+9
+Carrie Underwood Featuring Randy Travis
+I Told You So
+10
+Lady Gaga Featuring Colby O'Donis
+Just Dance
+11
+Miley Cyrus
+The Climb
+12
+Ne-Yo
+Mad
+13
+Taylor Swift
+Love Story
+14
+Asher Roth
+I Love College
+15
+Keri Hilson Featuring Lil Wayne
+Turnin Me On
+16
+The Fray
+You Found Me
+17
+Britney Spears
+Circus
+18
+Kid Cudi
+Day 'N' Nite
+19
+P!nk
+Sober
+20
+Akon Featuring Colby O'Donis & Kardinal Offishall
+Beautiful
+21
+Rascal Flatts
+Here Comes Goodbye
+22
+Eminem, Dr. Dre & 50 Cent
+Crack A Bottle
+23
+The-Dream
+Rockin' That Thang
+24
+Jason Mraz
+I'm Yours
+25
+Flo Rida Featuring Wynter
+Sugar
+26
+Britney Spears
+If U Seek Amy
+27
+Ciara Featuring Justin Timberlake
+Love Sex Magic
+28
+Beyonce
+Halo
+29
+Kevin Rudolf Featuring Lil Wayne
+Let It Rock
+30
+Beyonce
+Single Ladies (Put A Ring On It)
+31
+The Pussycat Dolls
+I Hate This Part
+32
+Taylor Swift
+White Horse
+33
+Lil Wayne
+Hot Revolver
+34
+Katy Perry
+Hot N Cold
+35
+Brad Paisley
+Then
+36
+Jesse McCartney Featuring Ludacris
+How Do You Sleep?
+37
+Coldplay
+Viva La Vida
+38
+Beyonce
+Diva
+39
+T.I. Featuring Rihanna
+Live Your Life
+40
+Shinedown
+Second Chance
+41
+Darius Rucker
+It Won't Be Like This For Long
+42
+3OH!3
+Don't Trust Me
+43
+Jason Aldean
+She's Country
+44
+Pitbull
+I Know You Want Me (Calle Ocho)
+45
+Nickelback
+Gotta Be Somebody
+46
+Plain White T's
+1, 2, 3, 4
+47
+Yung L.A. Featuring Young Dro & T.I.
+Ain't I
+48
+A R Rahman & The Pussycat Dolls Featuring Nicole Scherzinger
+Jai Ho! (You Are My Destiny)
+49
+P!nk
+So What
+50
+Keith Urban
+Sweet Thing
+51
+Katy Perry
+Thinking Of You
+52
+The Veronicas
+Untouched
+53
+Rascal Flatts
+Forever
+54
+The Black Eyed Peas
+Boom Boom Pow
+55
+GS Boyz
+Stanky Legg
+56
+Rodney Atkins
+It's America
+57
+Maino Featuring T-Pain
+All The Above
+58
+Jake Owen
+Don't Think I Can't Love You
+59
+George Strait
+River Of Love
+60
+Jason Mraz & Colbie Caillat
+Lucky
+61
+Soulja Boy Tell'em
+Turn My Swag On
+62
+Carrie Underwood
+Home Sweet Home
+63
+The White Tie Affair
+Candle (Sick And Tired)
+64
+Brooks & Dunn Featuring Reba McEntire
+Cowgirls Don't Cry
+65
+Birdman Featuring Lil Wayne
+Always Strapped
+66
+Toby Keith
+God Love Her
+67
+The Ting Tings
+That's Not My Name
+68
+Miley Cyrus
+Hoedown Throwdown
+69
+Bow Wow Featuring Johnta Austin
+You Can Get It All
+70
+Kings Of Leon
+Use Somebody
+71
+Keyshia Cole
+You Complete Me
+72
+Mims
+Move (If You 'W'anna)
+73
+Sugarland
+It Happens
+74
+Tim McGraw
+Nothin' To Die For
+75
+Mike Jones
+Next To You
+76
+Seether
+Careless Whisper
+77
+Rick Ross Featuring John Legend
+Magnificent
+78
+Lil Wayne Featuring Shanell AKA SNL
+Prom Queen
+79
+Kenny Chesney With Mac McAnally
+Down The Road
+80
+Bobby V Featuring Yung Joc
+Beep
+81
+The Lonely Island Featuring T-Pain
+I'm On A Boat
+82
+Jazmine Sullivan
+Lions, Tigers & Bears
+83
+Zac Brown Band
+Whatever It Is
+84
+Demi Lovato
+Don't Forget
+85
+Ciara Featuring Young Jeezy
+Never Ever
+86
+Keith Urban
+Kiss A Girl
+87
+John Rich
+Shuttin' Detroit Down
+88
+Jennifer Hudson
+If This Isn't Love
+89
+Ne-Yo Featuring Jamie Foxx & Fabolous
+She Got Her Own
+90
+Jamie Foxx Featuring T.I.
+Just Like Me
+91
+Pleasure P
+Boyfriend #2
+92
+Musiq Soulchild
+sobeautiful
+93
+Martina McBride
+Ride
+94
+Keith Urban
+I'm In
+95
+Taylor Swift
+You're Not Sorry
+96
+Gorilla Zoe
+Lost
+97
+Eli Young Band
+Always The Love Songs
+98
+Montgomery Gentry
+One In Every Crowd
+99
+MGMT
+Kids
+100
+Lady Antebellum
+I Run To You

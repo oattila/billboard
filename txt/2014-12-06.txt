@@ -1,0 +1,300 @@
+1
+Taylor Swift
+Blank Space
+2
+Meghan Trainor
+All About That Bass
+3
+Hozier
+Take Me To Church
+4
+Maroon 5
+Animals
+5
+Taylor Swift
+Shake It Off
+6
+Tove Lo
+Habits (Stay High)
+7
+Sam Smith
+I'm Not The Only One
+8
+Nick Jonas
+Jealous
+9
+Ariana Grande & The Weeknd
+Love Me Harder
+10
+Ed Sheeran
+Don't
+11
+Big Sean Featuring E-40
+I Don't F**k With You
+12
+Jessie J, Ariana Grande & Nicki Minaj
+Bang Bang
+13
+I LOVE MAKONNEN Featuring Drake
+Tuesday
+14
+Mr. Probz
+Waves
+15
+Bobby Shmurda
+Hot Boy
+16
+Rae Sremmurd
+No Type
+17
+Jason Derulo
+Trumpets
+18
+Mark Ronson Featuring Bruno Mars
+Uptown Funk!
+19
+Meghan Trainor
+Lips Are Movin
+20
+Selena Gomez
+The Heart Wants What It Wants
+21
+Calvin Harris Featuring John Newman
+Blame
+22
+Jeremih Featuring YG
+Don't Tell 'Em
+23
+Iggy Azalea Featuring Rita Ora
+Black Widow
+24
+Sam Smith
+Stay With Me
+25
+Fall Out Boy
+Centuries
+26
+Pentatonix
+Mary, Did You Know?
+27
+Rich Gang Featuring Young Thug & Rich Homie Quan
+Lifestyle
+28
+Clean Bandit Featuring Jess Glynne
+Rather Be
+29
+One Direction
+Steal My Girl
+30
+Echosmith
+Cool Kids
+31
+Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown
+Only
+32
+Sia
+Chandelier
+33
+MAGIC!
+Rude
+34
+Vance Joy
+Riptide
+35
+Iggy Azalea Featuring M0
+Beg For It
+36
+Fergie
+L.A.LOVE (la la)
+37
+Chris Brown Featuring Usher & Rick Ross
+New Flame
+38
+Carrie Underwood
+Something In The Water
+39
+DJ Khaled Featuring Chris Brown, August Alsina, Future & Jeremih
+Hold You Down
+40
+Ed Sheeran
+Thinking Out Loud
+41
+Milky Chance
+Stolen Dance
+42
+Ariana Grande Featuring Zedd
+Break Free
+43
+John Legend
+All Of Me
+44
+Trey Songz Featuring Nicki Minaj
+Touchin, Lovin
+45
+Tim McGraw
+Shotgun Rider
+46
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona
+Bailando
+47
+DeJ Loaf
+Try Me
+48
+Iggy Azalea Featuring Charli XCX
+Fancy
+49
+Charli XCX
+Boom Clap
+50
+Pharrell Williams
+Happy
+51
+Keith Urban
+Somewhere In My Car
+52
+Ella Henderson
+Ghost
+53
+Alesso Featuring Tove Lo
+Heroes (We Could Be)
+54
+Nicki Minaj
+Anaconda
+55
+One Direction
+Night Changes
+56
+Maddie & Tae
+Girl In A Country Song
+57
+T.I. Featuring Young Thug
+About The Money
+58
+Little Big Town
+Day Drinking
+59
+Drake
+0 To 100 / The Catch Up
+60
+Rae Sremmurd
+No Flex Zone
+61
+Brad Paisley
+Perfect Storm
+62
+Kendrick Lamar
+i
+63
+Band Aid 30
+Do They Know It's Christmas? (2014)
+64
+Blake Shelton
+Neon Light
+65
+Lorde
+Yellow Flicker Beat
+66
+David Guetta Featuring Sam Martin
+Dangerous
+67
+Frankie Ballard
+Sunshine & Whiskey
+68
+Pitbull Featuring John Ryan
+Fireball
+69
+Jason Aldean
+Burnin' It Down
+70
+Nicki Minaj Featuring Skylar Grey
+Bed Of Lies
+71
+Eric Church
+Talladega
+72
+Imagine Dragons
+I Bet My Life
+73
+Florida Georgia Line
+Sun Daze
+74
+Colbie Caillat
+Try
+75
+August Alsina
+No Love
+76
+Big & Rich
+Look At You
+77
+O.T. Genasis
+CoCo
+78
+Idina Menzel Duet With Michael Buble
+Baby It's Cold Outside
+79
+Florida Georgia Line
+Dirt
+80
+Parmalee
+Close Your Eyes
+81
+Nico & Vinz
+In Your Arms
+82
+Lee Brice
+Drinking Class
+83
+Gwen Stefani
+Baby Don't Lie
+84
+The Weeknd
+Often
+85
+5 Seconds Of Summer
+Good Girls
+86
+Kenny Chesney
+Til It's Gone
+87
+Scotty McCreery
+Feelin' It
+88
+RaeLynn
+God Made Girls
+89
+Kid Ink Featuring Usher & Tinashe
+Body Language
+90
+Jessie J Featuring 2 Chainz
+Burnin' Up
+91
+Katy Perry
+This Is How We Do
+92
+Matt McAndrew
+Take Me To Church
+93
+Luke Bryan
+Roller Coaster
+94
+Jennifer Lopez Featuring Iggy Azalea Or Pitbull
+Booty
+95
+Usher Featuring Juicy J
+I Don't Mind
+96
+Thomas Rhett
+Make Me Wanna
+97
+Brett Eldredge
+Mean To Me
+98
+Flo Rida Featuring Sage The Gemini & Lookas
+G.D.F.R.
+99
+One Direction
+Stockholm Syndrome
+100
+Wiz Khalifa Featuring Snoop Dogg & Ty Dolla $ign
+You And Your Friends

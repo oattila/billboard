@@ -1,0 +1,300 @@
+1
+The Rolling Stones
+Honky Tonk Women
+2
+The Archies
+Sugar, Sugar
+3
+Johnny Cash
+A Boy Named Sue
+4
+Creedence Clearwater Revival
+Green River
+5
+The Youngbloods
+Get Together
+6
+Tom Jones
+I'll Never Fall In Love Again
+7
+Bob Dylan
+Lay Lady Lay
+8
+Three Dog Night
+Easy To Be Hard
+9
+Jackie DeShannon
+Put A Little Love In Your Heart
+10
+The Temptations
+I Can't Get Next To You
+11
+The Dells
+Oh, What A Night
+12
+Neil Diamond
+Sweet Caroline (Good Times Never Seemed So Good)
+13
+Aretha Franklin
+Share Your Love With Me
+14
+The Lettermen
+Hurt So Bad
+15
+The Grass Roots
+I'd Wait A Million Years
+16
+Bobby Sherman
+Little Woman
+17
+Gary Puckett And The Union Gap
+This Girl Is A Woman Now
+18
+Oliver
+Jean
+19
+Gladys Knight And The Pips
+The Nitty Gritty
+20
+Lou Rawls
+Your Good Thing (Is About To End)
+21
+Tommy James And The Shondells
+Crystal Blue Persuasion
+22
+The Electric Indian
+Keem-O-Sabe
+23
+Nilsson
+Everybody's Talkin'
+24
+The Guess Who
+Laughing
+25
+The Box Tops
+Soul Deep
+26
+Sly & The Family Stone
+Hot Fun In The Summertime
+27
+The 5th Dimension
+Workin' On A Groovy Thing
+28
+Tony Joe White
+Polk Salad Annie
+29
+Plastic Ono Band
+Give Peace A Chance
+30
+Creedence Clearwater Revival
+Commotion
+31
+Marvin Gaye
+That's The Way Love Is
+32
+Motherlode
+When I Die
+33
+The Illusion
+Did You See Her Eyes
+34
+Underground Sunshine
+Birthday
+35
+Lou Christie
+I'm Gonna Make You Mine
+36
+Bill Deal & The Rhondels
+What Kind Of Fool Do You Think I Am
+37
+Steppenwolf
+Move Over
+38
+Jerry Butler
+What's The Use Of Breaking Up
+39
+Zager & Evans
+In The Year 2525
+40
+Clarence Reid
+Nobody But You Babe
+41
+O.C. Smith
+Daddy's Little Man
+42
+Mama Cass
+It's Getting Better
+43
+Isaac Hayes
+By The Time I Get To Phoenix
+44
+The Clique
+Sugar On Sunday
+45
+James Brown
+Lowdown Popcorn
+46
+The Rugbys
+You, I
+47
+The Rascals
+Carry Me Back
+48
+Johnnie Taylor
+I Could Never Be President
+49
+Engelbert Humperdinck
+I'm A Better Man
+50
+The Intrigues
+In A Moment
+51
+The Delfonics
+You Got Yours And I'll Get Mine
+52
+Little Anthony And The Imperials
+Out Of Sight, Out Of Mind
+53
+Smokey Robinson & The Miracles
+Here I Go Again
+54
+Donovan/Jeff Beck Group
+Goo Goo Barabajagal (Love Is Hot)
+55
+The Friends Of Distinction
+Going In Circles
+56
+Dionne Warwick
+Odds And Ends
+57
+Dennis Yost And The Classics IV
+Change Of Heart
+58
+Bobby Goldsboro
+Muddy Mississippi Line
+59
+The Intruders
+Sad Girl
+60
+Paul Revere & The Raiders Featuring Mark Lindsay
+We Gotta All Get Together
+61
+The Cascades
+Maybe The Rain Will Fall
+62
+The Moments
+I Do
+63
+Tim Hardin
+Simple Song Of Freedom
+64
+1910 Fruitgum Co.
+The Train
+65
+Joe South and The Believers
+Don't It Make You Want To Go Home
+66
+Piero Umiliani
+Máh-Ná-Mah-Ná
+67
+Al Wilson
+Lodi
+68
+Spiral Starecase
+No One For Me To Turn To
+69
+Supremes & Temptations
+The Weight
+70
+James Brown
+World (Part 1)
+71
+The O'Jays
+One Night Affair
+72
+The 4 Seasons
+And That Reminds Me (My Heart Reminds Me)
+73
+Eddie Bo
+Hook And Sling-Part I
+74
+The New Colony Six
+I Want You To Know
+75
+John Stewart
+Armstrong
+76
+Jose Feliciano
+Rain
+77
+Elvis Presley
+Suspicious Minds
+78
+Garland Green
+Jealous Kind Of Fella
+79
+The Isley Brothers
+Black Berries - Pt 1
+80
+Thunderclap Newman
+Something In The Air
+81
+Wind
+Make Believe
+82
+B.B. King
+Get Off My Back Woman
+83
+Evie Sands
+Any Way That You Want Me
+84
+Orpheus
+Can't Find The Time
+85
+The Doors
+Runnin' Blue
+86
+Ohio Express
+Sausalito (Is The Place To Go)
+87
+Abaco Dream
+Life And Death In G & A
+88
+Bobby Bland
+Chains Of Love
+89
+The Cuff Links
+Tracy
+90
+Smith
+Baby It's You
+91
+Henry Mancini And His Orchestra
+Moonlight Sonata
+92
+Isaac Hayes
+Walk On By
+93
+Waylon Jennings & The Kimberlys
+MacArthur Park
+94
+Charley Pride
+All I Have To Offer You (Is Me)
+95
+Dickie Goodman
+Luna Trip
+96
+Archie Bell & The Drells
+My Balloon's Going Up
+97
+Booker T. & The MG's
+Slum Baby
+98
+Frank Sinatra
+Love's Been Good To Me
+99
+Johnny Mathis
+Love Theme From "Romeo And Juliet" (A Time For Us)
+100
+Kool & The Gang
+Kool And The Gang

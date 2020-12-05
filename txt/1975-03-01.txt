@@ -1,0 +1,300 @@
+1
+Eagles
+Best Of My Love
+2
+Olivia Newton-John
+Have You Never Been Mellow
+3
+The Doobie Brothers
+Black Water
+4
+Frankie Valli
+My Eyes Adored You
+5
+Grand Funk
+Some Kind Of Wonderful
+6
+America
+Lonely People
+7
+AWB
+Pick Up The Pieces
+8
+Labelle
+Lady Marmalade
+9
+Carole King
+Nightingale
+10
+Styx
+Lady
+11
+Electric Light Orchestra
+Can't Get It Out Of My Head
+12
+Maria Muldaur
+I'm A Woman
+13
+John Lennon
+#9 Dream
+14
+Bachman-Turner Overdrive
+Roll On Down The Highway
+15
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+16
+B.T. Express
+Express
+17
+Phoebe Snow
+Poetry Man
+18
+Linda Ronstadt
+You're No Good
+19
+Bad Company
+Movin' On
+20
+Polly Brown
+Up In A Puff Of Smoke
+21
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+22
+Minnie Riperton
+Lovin' You
+23
+Elvis Presley
+My Boy
+24
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+25
+Sweet Sensation
+Sad Sweet Dreamer
+26
+Jackson 5
+I Am Love (Parts I & II)
+27
+Shirley And Company
+Shame, Shame, Shame
+28
+Ohio Players
+Fire
+29
+John Denver
+Sweet Surrender
+30
+David Gates
+Never Let Her Go
+31
+Ringo Starr
+No No Song/snookeroo
+32
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+33
+Carol Douglas
+Doctor's Orders
+34
+Neil Diamond
+I've Been This Way Before
+35
+Stevie Wonder
+Boogie On Reggae Woman
+36
+B.J. Thomas
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+37
+George McCrae
+I Get Lifted
+38
+Sammy Johns
+Chevy Van
+39
+Helen Reddy
+Emotion
+40
+Dan Fogelberg
+Part Of The Plan
+41
+Chicago
+Harry Truman
+42
+Millie Jackson
+If Loving You Is Wrong I Don't Want To Be Right
+43
+The Manhattans
+Don't Take Your Love
+44
+Carpenters
+Please Mr. Postman
+45
+Rufus Featuring Chaka Khan
+Once You Get Started
+46
+Ben E. King
+Supernatural Thing - Part I
+47
+Hot Chocolate
+Emma
+48
+Freddy Fender
+Before The Next Teardrop Falls
+49
+C.W. McCall
+Wolf Creek Pass
+50
+Flash Cadillac And The Continental Kids
+Good Times, Rock & Roll
+51
+Charlie Rich
+My Elusive Dreams
+52
+Fanny
+Butter Boy
+53
+The Charlie Daniels Band
+The South's Gonna Do It
+54
+Sam Neely
+I Fought The Law
+55
+Jim Capaldi
+It's All Right
+56
+The Blackbyrds
+Walking In Rhythm
+57
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+58
+Love Unlimited Orchestra
+Satin Soul
+59
+T.G. Sheppard
+Devil In The Bottle
+60
+Love Unlimited
+I Belong To You
+61
+Neil Sedaka
+Laughter In The Rain
+62
+Carl Douglas
+Dance The Kung Fu
+63
+Earth, Wind & Fire
+Shining Star
+64
+Paul McCartney And Wings
+Junior's Farm/Sally G
+65
+The Jimmy Castor Bunch
+The Bertha Butt Boogie-Part 1
+66
+Barry Manilow
+Mandy
+67
+Ozark Mountain Daredevils
+Jackie Blue
+68
+The Stylistics
+Star On A TV Show
+69
+Al Green
+L-O-V-E (Love)
+70
+Leo Sayer
+Long Tall Glasses (I Can Dance)
+71
+Elton John
+Lucy In The Sky With Diamonds
+72
+Joni Mitchell
+Big Yellow Taxi
+73
+Blue Swede
+Hush/I'm Alive
+74
+The Hues Corporation
+Love Corporation
+75
+Donny Osmond
+I Have A Dream
+76
+Eddie Kendricks
+Shoeshine Boy
+77
+Harry Chapin
+I Wanna Learn A Love Song
+78
+Gladys Knight And The Pips
+Love Finds It's Own Way
+79
+Queen
+Killer Queen
+80
+Hello People
+Future Shock
+81
+Donny & Marie Osmond
+Morning Side Of The Mountain
+82
+Barry Manilow
+It's A Miracle
+83
+Conway Twitty
+Linda On My Mind
+84
+Lana Cantrell
+Like A Sunday Morning
+85
+James Brown
+Reality
+86
+Wet Willie
+Leona
+87
+Al Downing
+I'll Be Holding On
+88
+Dooley Silverspoon
+Bump Me Baby Part 1
+89
+Michael Jackson
+We're Almost There
+90
+Commander Cody
+Don't Let Go
+91
+Carl Carlton
+Smokin' Room
+92
+Atlanta Rhythm Section
+Angel (What In The World's Come Over Us)
+93
+Herbie Mann
+Hijack
+94
+Odia Coates
+Showdown
+95
+Loretta Lynn
+The Pill
+96
+Pure Prairie League
+Amie
+97
+Stark & McBrien
+Isn't It Lonely Together
+98
+The Chi-lites
+Toby/that's How Long
+99
+Joe Walsh
+Turn To Stone
+100
+Nigel Olsson
+Only One Woman

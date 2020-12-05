@@ -1,0 +1,300 @@
+1
+Gloria Gaynor
+I Will Survive
+2
+The Doobie Brothers
+What A Fool Believes
+3
+Bee Gees
+Tragedy
+4
+Dire Straits
+Sultans Of Swing
+5
+Peaches & Herb
+Shake Your Groove Thing
+6
+Frank Mills
+Music Box Dancer
+7
+Amii Stewart
+Knock On Wood
+8
+Rod Stewart
+Da Ya Think I'm Sexy?
+9
+Blondie
+Heart Of Glass
+10
+Little River Band
+Lady
+11
+Suzi Quatro & Chris Norman
+Stumblin' In
+12
+Anne Murray
+I Just Fall In Love Again
+13
+Chic
+I Want Your Love
+14
+Donna Summer With Brooklyn Dreams
+Heaven Knows
+15
+Peaches & Herb
+Reunited
+16
+Wings
+Goodnight Tonight
+17
+Bell & James
+Livin' It Up (Friday Night)
+18
+Bobby Caldwell
+What You Won't Do For Love
+19
+Sister Sledge
+He's The Greatest Dancer
+20
+Cher
+Take Me Home
+21
+Village People
+In The Navy
+22
+Eddie Money
+Maybe I'm A Fool
+23
+Evelyn "Champagne" King
+I Don't Know If It's Right
+24
+George Benson
+Love Ballad
+25
+Bob Welch
+Precious Love
+26
+George Harrison
+Blow Away
+27
+Instant Funk
+I Got My Mind Made Up (You Can Get It Girl)
+28
+Herbie Mann
+Superman
+29
+Melissa Manchester
+Don't Cry Out Loud
+30
+The Jacksons
+Shake Your Body (Down To The Ground)
+31
+Billy Joel
+Big Shot
+32
+England Dan & John Ford Coley
+Love Is The Answer
+33
+Poco
+Crazy Love
+34
+Chuck Brown & The Soul Searchers
+Bustin' Loose
+35
+Orleans
+Love Takes Time
+36
+The Babys
+Every Time I Think Of You
+37
+Blues Brothers
+Rubber Biscuit
+38
+Styx
+Renegade
+39
+The Allman Brothers Band
+Crazy Love
+40
+The Police
+Roxanne
+41
+Voyage
+Souvenirs
+42
+Gary's Gang
+Keep On Dancin'
+43
+April Wine
+Roller
+44
+The Beach Boys
+Here Comes The Night
+45
+The Marc Tanner Band
+Elena
+46
+Delegation
+Oh Honey
+47
+Bad Company
+Rock 'n' Roll Fantasy
+48
+Linda Clifford
+Bridge Over Troubled Water
+49
+The Pointer Sisters
+Happiness
+50
+Ironhorse
+Sweet Lui-Louise
+51
+The Pointer Sisters
+Fire
+52
+Tycoon
+Such A Woman
+53
+G.Q.
+Disco Nights (Rock-Freak)
+54
+McGuinn, Clark & Hillman
+Don't You Write Her Off
+55
+Olivia Newton-John
+A Little More Love
+56
+T-Connection
+At Midnight
+57
+The Cars
+Good Times Roll
+58
+Boston
+Feelin' Satisfied
+59
+Randy VanWarmer
+Just When I Needed You Most
+60
+Maureen McGovern
+Can You Read My Mind
+61
+Roger Voudouris
+Get Used To It
+62
+Ray Stevens
+I Need Your Help Barry Manilow
+63
+Barbara Mandrell
+(If Loving You Is Wrong) I Don't Want To Be Right
+64
+Heart
+Dog + Butterfly
+65
+Giorgio Moroder
+Chase
+66
+Supertramp
+The Logical Song
+67
+The J. Geils Band
+Take It Back
+68
+America
+California Dreamin'
+69
+Chic
+Le Freak
+70
+Thelma Houston
+Saturday Night, Sunday Morning
+71
+Village People
+Y.M.C.A.
+72
+Bob Seger & The Silver Bullet Band
+Old Time Rock & Roll
+73
+Nicolette Larson
+Rhumba Girl
+74
+Errol Sober
+Heart To Heart
+75
+Chris Rea
+Diamonds
+76
+Narada Michael Walden
+I Don't Want Nobody Else (To Dance With You)
+77
+Alton McClain & Destiny
+It Must Be Love
+78
+Randy Brown
+You Says It All
+79
+Machine
+There But For The Grace Of God Go I
+80
+David Naughton
+Makin' It
+81
+Journey
+Just The Same Way
+82
+Foxy
+Hot Number
+83
+Livingston Taylor
+I'll Come Running
+84
+Euclid Beach Band
+I Need You
+85
+Ian Matthews
+Give Me An Inch
+86
+Alicia Bridges
+Body Heat
+87
+Sylvester
+I (Who Have Nothing)
+88
+Gino Soccio
+Dancer
+89
+Badfinger
+Love Is Gonna Come At Last
+90
+Sammy Hagar
+(Sittin' On) The Dock Of The Bay
+91
+Rick James
+High On Your Love Suite
+92
+Orsa Lia
+I Never Said I Love You
+93
+Toto
+I'll Supply The Love
+94
+Neil Diamond
+Forever In Blue Jeans
+95
+The Faragher Bros.
+Stay The Night
+96
+BTO
+Heartaches
+97
+Judy Collins
+Hard Times For Lovers
+98
+Eric Clapton And His Band
+Watch Out For Lucy
+99
+Arpeggio
+Love And Desire (Part I)
+100
+Bee Gees
+Too Much Heaven

@@ -1,0 +1,300 @@
+1
+Player
+Baby Come Back
+2
+Bee Gees
+How Deep Is Your Love
+3
+Dolly Parton
+Here You Come Again
+4
+Rod Stewart
+You're In My Heart (The Final Acclaim)
+5
+Randy Newman
+Short People
+6
+Paul Simon
+Slip Slidin' Away
+7
+Shaun Cassidy
+Hey Deanie
+8
+Queen
+We Are The Champions
+9
+Styx
+Come Sail Away
+10
+Bee Gees
+Stayin' Alive
+11
+Billy Joel
+Just The Way You Are
+12
+LTD
+(Every Time I Turn Around) Back In Love Again
+13
+Leif Garrett
+Runaround Sue
+14
+Andy Gibb
+(Love Is) Thicker Than Water
+15
+Dan Hill
+Sometimes When We Touch
+16
+Electric Light Orchestra
+Turn To Stone
+17
+Earth, Wind & Fire
+Serpentine Fire
+18
+Chic
+Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+19
+Paul Davis
+I Go Crazy
+20
+Bob Welch
+Sentimental Lady
+21
+Neil Diamond
+Desiree
+22
+Debby Boone
+You Light Up My Life
+23
+Samantha Sang
+Emotion
+24
+Santa Esmeralda Starring Leroy Gomez
+Don't Let Me Be Misunderstood
+25
+High Inergy
+You Can't Turn Me Off (In The Middle Of Turning Me On)
+26
+Linda Ronstadt
+Blue Bayou
+27
+Lynyrd Skynyrd
+What's Your Name
+28
+Kansas
+Point Of Know Return
+29
+Odyssey
+Native New Yorker
+30
+Foreigner
+Long, Long Way From Home
+31
+Crystal Gayle
+Don't It Make My Brown Eyes Blue
+32
+Steely Dan
+Peg
+33
+Commodores
+Too Hot Ta Trot
+34
+ConFunkShun
+Ffun
+35
+Bill Withers
+Lovely Day
+36
+Stevie Wonder
+As
+37
+Little River Band
+Happy Anniversary
+38
+Donny & Marie Osmond
+(You're My) Soul And Inspiration
+39
+John Williams
+Theme From "Close Encounters Of The Third Kind"
+40
+Meco
+Theme From Close Encounters
+41
+Leo Sayer
+Easy To Love
+42
+Wet Willie
+Street Corner Serenade
+43
+Millie Jackson
+If You're Not Back In Love By Monday
+44
+ABBA
+The Name Of The Game
+45
+Jay Ferguson
+Thunder Island
+46
+Kenny Rogers
+Sweet Music Man
+47
+Donna Summer
+I Love You
+48
+LeBlanc & Carr
+Falling
+49
+Bay City Rollers
+The Way I Feel Tonight
+50
+Heatwave
+Always And Forever
+51
+Eric Clapton
+Lay Down Sally
+52
+Johnny Rivers
+Curious Mind (Um, Um, Um, Um, Um, Um)
+53
+Tom Petty And The Heartbreakers
+Breakdown
+54
+War
+Galaxy
+55
+Diana Ross
+Gettin' Ready For Love
+56
+George Duke
+Reach For It
+57
+Linda Ronstadt
+It's So Easy
+58
+Stillwater
+Mind Bender
+59
+Wings
+Girls' School
+60
+El Coco
+Cocomotion
+61
+Marilyn Scott
+God Only Knows
+62
+Sammy Hagar
+You Make Me Crazy
+63
+Raydio
+Jack And Jill
+64
+David Gates
+Goodbye Girl
+65
+Elvis Presley
+My Way
+66
+Ramones
+Rockaway Beach
+67
+John Denver
+How Can I Leave You Again
+68
+Heart
+Crazy On You
+69
+Peter Frampton
+Tried To Love
+70
+The Babys
+Isn't It Time
+71
+Firefall
+So Long
+72
+Al Martino
+The Next Hundred Years
+73
+Rita Coolidge
+The Way You Do The Things You Do
+74
+Rose Royce
+Ooh Boy
+75
+Prism
+Take Me To The Kaptin
+76
+Natalie Cole
+Our Love
+77
+Rita Coolidge
+We're All Alone
+78
+Le Pamplemousse
+Le Spank
+79
+Kellee Patterson
+If It Don't Fit, Don't Force It
+80
+Andrea True Connection
+What's Your Name, What's Your Number
+81
+Art Garfunkel With James Taylor & Paul Simon
+(What A)  Wonderful World
+82
+Lou Rawls
+Lady Love
+83
+Al Green
+Belle
+84
+Dave Mason
+Let It Go, Let It Flow
+85
+KISS
+Shout It Out Loud
+86
+Gary Wright
+Touch And Gone
+87
+B.J. Thomas
+Everybody Loves A Rain Song
+88
+Bobby Arvon
+Until Now
+89
+Bette Midler
+Storybook Children (Daybreak)
+90
+Cerrone
+Supernature
+91
+Pockets
+Come Go With Me
+92
+The Steve Miller Band
+Swingtown
+93
+Denise LaSalle
+Love Me Right
+94
+Ronnie Milsap
+What A Difference You've Made In My Life
+95
+Eloise Laws
+1,000 Laughs
+96
+James Taylor
+Your Smiling Face
+97
+The Sylvers
+Any Way You Want Me
+98
+Paul Nicholas
+Heaven On The 7th Floor
+99
+The Emotions
+Don't Ask My Neighbors
+100
+Heatwave
+Boogie Nights

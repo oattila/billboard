@@ -1,0 +1,300 @@
+1
+Rod Stewart
+Maggie May/Reason To Believe
+2
+Carpenters
+Superstar/Bless The Beasts And Children
+3
+The Osmonds
+Yo-Yo
+4
+Joan Baez
+The Night They Drove Old Dixie Down
+5
+Donny Osmond
+Go Away Little Girl
+6
+Lee Michaels
+Do You Know What I Mean
+7
+Paul & Linda McCartney
+Uncle Albert/Admiral Halsey
+8
+Stevie Wonder
+If You Really Love Me
+9
+Stampeders
+Sweet City Woman
+10
+Cher
+Gypsys, Tramps & Thieves
+11
+Bill Withers
+Ain't No Sunshine
+12
+The Undisputed Truth
+Smiling Faces Sometimes
+13
+Al Green
+Tired Of Being Alone
+14
+Carole King
+So Far Away/Smackwater Jack
+15
+The Free Movement
+I've Found Someone Of My Own
+16
+Denise LaSalle
+Trapped By A Thing Called Love
+17
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+I Woke Up In Love This Morning
+18
+The Persuaders
+Thin Line Between Love & Hate
+19
+The Honey Cone
+Stick-Up
+20
+Cat Stevens
+Peace Train
+21
+Aretha Franklin
+Spanish Harlem
+22
+Mac And Katie Kissoon
+Chirpy Chirpy Cheep Cheep
+23
+The Guess Who
+Rain Dance
+24
+Paul Stookey
+Wedding Song (There Is Love)
+25
+Tommy Roe
+Stagger Lee
+26
+The 5th Dimension
+Never My Love
+27
+Kris Kristofferson
+Loving Her Was Easier (Than Anything I'll Ever Do Again)
+28
+The Raiders
+Birds Of A Feather
+29
+James Brown
+Make It Funky (Part 1)
+30
+The Dells
+The Love We Had (Stays On My Mind)
+31
+Freddie Hart
+Easy Loving
+32
+Lighthouse
+One Fine Morning
+33
+The Moody Blues
+The Story In Your Eyes
+34
+Delaney & Bonnie
+Only You Know And I Know
+35
+Marvin Gaye
+Inner City Blues (Make Me Wanna Holler)
+36
+The 8th Day
+You've Got To Crawl (Before You Walk)
+37
+Laura Lee
+Women's Love Rights
+38
+Four Tops
+MacArthur Park (Part II)
+39
+Lou Rawls
+A Natural Man
+40
+James Taylor
+Long Ago And Far Away
+41
+Tommy James
+I'm Comin' Home
+42
+Tom T. Hall
+The Year That Clayton Delaney Died
+43
+Coven
+One Tin Soldier, The Legend of Billy Jack
+44
+The Nite-Liters
+K-Jee
+45
+Dawn Featuring Tony Orlando
+What Are You Doing Sunday
+46
+Fanny
+Charity Ball
+47
+War
+All Day Music
+48
+Rufus Thomas
+The Breakdown (Part I)
+49
+Chicago
+Questions 67 And 68/I'm A Man
+50
+Isaac Hayes
+Theme From Shaft
+51
+Freddie North
+She's All I Got
+52
+Ten Years After
+I'd Love To Change The World
+53
+Santana
+Everybody's Everything
+54
+Les Crane
+Desiderata
+55
+The Grass Roots
+Two Divided By Love
+56
+The Poppy Family
+Where Evil Grows
+57
+Anne Murray
+Talk It Over In The Morning
+58
+Elvis Presley
+It's Only Love
+59
+The Isley Brothers
+Spill The Wine
+60
+Gayle McCormick
+It's A Cryin' Shame
+61
+Springwell
+It's For You
+62
+Freda Payne
+You Brought The Joy
+63
+The Lettermen
+Love
+64
+Messengers
+That's The Way A Woman Is
+65
+Nitty Gritty Dirt Band
+Some Of Shelly's Blues
+66
+The New Colony Six
+Roll On
+67
+The New Birth
+It's Impossible
+68
+Ray Charles
+Feel So Bad
+69
+Jean Knight
+You Think You're Hot Stuff
+70
+Five Man Electrical Band
+Absolutely Right
+71
+The Supremes
+Touch
+72
+Bobby Sherman
+Jennifer
+73
+Humble Pie
+I Don't Need No Doctor
+74
+Martha Reeves & The Vandellas
+Bless You
+75
+The Fortunes
+Freedom Comes, Freedom Goes
+76
+Layng Martine
+Rub It In
+77
+Van Morrison
+Wild Night
+78
+Paul Anka
+Do I Love You
+79
+Yes
+Your Move (I've Seen All Good People)
+80
+The Band
+Life Is A Carnival
+81
+James Gang
+Midnight Man
+82
+The Staple Singers
+Respect Yourself
+83
+Nolan
+I Like What You Give
+84
+Ponderosa Twins + One
+You Send Me
+85
+Bobby Byrd
+Hot Pants - I'm Coming, Coming, I'm Coming
+86
+Chee-Chee & Peppy
+I Know I'm In Love
+87
+Pop-Tops
+Mammy Blue
+88
+Mark Lindsay
+Are You Old Enough
+89
+Sonny & Cher
+All I Ever Need Is You
+90
+Barbra Streisand
+Mother
+91
+Peter Nero
+Theme From "Summer Of '42"
+92
+Yvonne Elliman
+Everything's Alright
+93
+Jerry Butler
+Walk Easy My Son
+94
+Jody Miller
+Baby, I'm Yours
+95
+The Fuzz
+I'm So Glad
+96
+Cymarron
+Valerie
+97
+Don Nix
+Olena
+98
+Olivia Newton-John
+Banks Of The Ohio
+99
+Matthews' Southern Comfort
+Tell Me Why
+100
+Donnie Elbert
+Where Did Our Love Go

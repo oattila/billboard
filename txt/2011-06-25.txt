@@ -1,0 +1,300 @@
+1
+Adele
+Rolling In The Deep
+2
+Pitbull Featuring Ne-Yo, Afrojack & Nayer
+Give Me Everything
+3
+LMFAO Featuring Lauren Bennett & GoonRock
+Party Rock Anthem
+4
+Katy Perry Featuring Kanye West
+E.T.
+5
+Bruno Mars
+The Lazy Song
+6
+Lady Gaga
+The Edge Of Glory
+7
+Jennifer Lopez Featuring Pitbull
+On The Floor
+8
+The Black Eyed Peas
+Just Can't Get Enough
+9
+Jason Aldean
+Dirt Road Anthem
+10
+Nicki Minaj
+Super Bass
+11
+Lupe Fiasco
+The Show Goes On
+12
+Britney Spears Featuring Nicki Minaj & Ke$ha
+Till The World Ends
+13
+Lil Wayne
+How To Love
+14
+Coldplay
+Every Teardrop Is A Waterfall
+15
+Chris Brown Featuring Lil Wayne & Busta Rhymes
+Look At Me Now
+16
+Wiz Khalifa
+Roll Up
+17
+DJ Khaled Featuring Drake, Rick Ross & Lil Wayne
+I'm On One
+18
+Jason Derulo
+Don't Wanna Go Home
+19
+Ke$ha
+Blow
+20
+OneRepublic
+Good Life
+21
+Blake Shelton
+Honey Bee
+22
+Hot Chelle Rae
+Tonight Tonight
+23
+Kelly Rowland Featuring Lil Wayne
+Motivation
+24
+Lady Antebellum
+Just A Kiss
+25
+Jeremih Featuring 50 Cent
+Down On Me
+26
+CeeLo Green
+F**k You! (Forget You)
+27
+Selena Gomez & The Scene
+Who Says
+28
+Luke Bryan
+Country Girl (Shake It For Me)
+29
+Zac Brown Band Featuring Jimmy Buffett
+Knee Deep
+30
+Rihanna Featuring Britney Spears
+S&M
+31
+Katy Perry
+Last Friday Night (T.G.I.F.)
+32
+Tinie Tempah Featuring Eric Turner
+Written In The Stars
+33
+P!nk
+F**kin' Perfect
+34
+Jessie J Featuring B.o.B
+Price Tag
+35
+The Script
+For The First Time
+36
+Paramore
+Monster
+37
+Taylor Swift
+Mean
+38
+Kanye West
+All Of The Lights
+39
+Chris Brown
+She Ain't You
+40
+Katy Perry
+Firework
+41
+Miguel
+Sure Thing
+42
+The Band Perry
+You Lie
+43
+Big Sean Featuring Chris Brown
+My Last
+44
+Bruno Mars
+Just The Way You Are
+45
+Chris Young
+Tomorrow
+46
+The Band Perry
+If I Die Young
+47
+Enrique Iglesias With Usher Featuring Lil Wayne
+Dirty Dancer
+48
+Martin Solveig & Dragonette
+Hello
+49
+Lady Gaga
+Born This Way
+50
+New Boyz Featuring The Cataracs & Dev
+Backseat
+51
+Jake Owen
+Barefoot Blue Jean Night
+52
+T-Pain Featuring Chris Brown
+Best Love Song
+53
+Brad Paisley Featuring Alabama
+Old Alabama
+54
+Keith Urban
+Without You
+55
+Justin Moore
+If Heaven Wasn't So Far Away
+56
+Rascal Flatts
+I Won't Let Go
+57
+Kenny Chesney Featuring Grace Potter
+You And Tequila
+58
+David Guetta Featuring Flo Rida & Nicki Minaj
+Where Them Girls At
+59
+Brad Paisley Duet With Carrie Underwood
+Remind Me
+60
+Rihanna
+California King Bed
+61
+YC Featuring Future
+Racks
+62
+Eric Church
+Homeboy
+63
+Rihanna
+Man Down
+64
+Beyonce
+Run The World (Girls)
+65
+Maroon 5
+Never Gonna Leave This Bed
+66
+Taylor Swift
+The Story Of Us
+67
+Dierks Bentley
+Am I The Only One
+68
+Scotty McCreery
+I Love You This Big
+69
+Eli Young Band
+Crazy Girl
+70
+Lupe Fiasco Featuring Trey Songz
+Out Of My Head
+71
+Dr. Dre Featuring Eminem & Skylar Grey
+I Need A Doctor
+72
+Foster The People
+Pumped Up Kicks
+73
+Pitbull
+Pause
+74
+Ronnie Dunn
+Bleed Red
+75
+Beyonce
+Best Thing I Never Had
+76
+Lil Wayne Featuring Rick Ross
+John
+77
+Miranda Lambert
+Heart Like Mine
+78
+Dia Frampton
+Heartless
+79
+Ace Hood
+Hustle Hard
+80
+Nicole Scherzinger Featuring 50 Cent
+Right There
+81
+Seether
+Country Song
+82
+Marsha Ambrosius
+Far Away
+83
+Rodney Atkins
+Take A Back Road
+84
+Mumford & Sons
+The Cave
+85
+Andy Grammer
+Keep Your Head Up
+86
+Victorious Cast Featuring Victoria Justice
+Best Friend's Brother
+87
+Trey Songz Featuring Drake
+Unusual
+88
+Jennifer Lopez Featuring Lil Wayne
+I'm Into You
+89
+Trace Adkins
+Just Fishin'
+90
+Kirk Franklin
+I Smile
+91
+Toby Keith
+Somewhere Else
+92
+Lady Gaga
+Judas
+93
+Mike Posner Featuring Lil Wayne
+Bow Chicka Wow Wow
+94
+Selena Gomez & The Scene
+Bang Bang Bang
+95
+Toby Keith
+Made In America
+96
+Gavin DeGraw
+Not Over You
+97
+Romeo Santos
+You
+98
+Nicki Minaj
+Did It On'em
+99
+Mac Miller
+Donald Trump
+100
+Martina McBride
+Teenage Daughters

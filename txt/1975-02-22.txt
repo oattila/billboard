@@ -1,0 +1,300 @@
+1
+AWB
+Pick Up The Pieces
+2
+Eagles
+Best Of My Love
+3
+Grand Funk
+Some Kind Of Wonderful
+4
+The Doobie Brothers
+Black Water
+5
+Olivia Newton-John
+Have You Never Been Mellow
+6
+America
+Lonely People
+7
+Frankie Valli
+My Eyes Adored You
+8
+Linda Ronstadt
+You're No Good
+9
+John Lennon
+#9 Dream
+10
+Carole King
+Nightingale
+11
+Tony Orlando & Dawn
+Look In My Eyes Pretty Woman
+12
+Ohio Players
+Fire
+13
+John Denver
+Sweet Surrender
+14
+Styx
+Lady
+15
+Electric Light Orchestra
+Can't Get It Out Of My Head
+16
+Maria Muldaur
+I'm A Woman
+17
+Labelle
+Lady Marmalade
+18
+Bachman-Turner Overdrive
+Roll On Down The Highway
+19
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+20
+B.T. Express
+Express
+21
+Carol Douglas
+Doctor's Orders
+22
+Stevie Wonder
+Boogie On Reggae Woman
+23
+Phoebe Snow
+Poetry Man
+24
+Polly Brown
+Up In A Puff Of Smoke
+25
+Bad Company
+Movin' On
+26
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+27
+Elvis Presley
+My Boy
+28
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+29
+Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III
+Get Dancin'
+30
+Minnie Riperton
+Lovin' You
+31
+Sweet Sensation
+Sad Sweet Dreamer
+32
+David Gates
+Never Let Her Go
+33
+Neil Sedaka
+Laughter In The Rain
+34
+Jackson 5
+I Am Love (Parts I & II)
+35
+Shirley And Company
+Shame, Shame, Shame
+36
+Barry Manilow
+Mandy
+37
+The Manhattans
+Don't Take Your Love
+38
+Carpenters
+Please Mr. Postman
+39
+Paul McCartney And Wings
+Junior's Farm/Sally G
+40
+Ringo Starr
+No No Song/snookeroo
+41
+Joni Mitchell
+Big Yellow Taxi
+42
+Neil Diamond
+I've Been This Way Before
+43
+Millie Jackson
+If Loving You Is Wrong I Don't Want To Be Right
+44
+B.J. Thomas
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+45
+George McCrae
+I Get Lifted
+46
+Sammy Johns
+Chevy Van
+47
+The Stylistics
+Star On A TV Show
+48
+Dan Fogelberg
+Part Of The Plan
+49
+Helen Reddy
+Emotion
+50
+Ramsey Lewis And Earth, Wind & Fire
+Hot Dawgit
+51
+Charlie Rich
+My Elusive Dreams
+52
+Elton John
+Lucy In The Sky With Diamonds
+53
+Love Unlimited
+I Belong To You
+54
+Sam Neely
+I Fought The Law
+55
+Chicago
+Harry Truman
+56
+Flash Cadillac And The Continental Kids
+Good Times, Rock & Roll
+57
+Ben E. King
+Supernatural Thing - Part I
+58
+C.W. McCall
+Wolf Creek Pass
+59
+Jim Capaldi
+It's All Right
+60
+Paula Webb
+Please, Mr. President
+61
+Freddy Fender
+Before The Next Teardrop Falls
+62
+Fanny
+Butter Boy
+63
+T.G. Sheppard
+Devil In The Bottle
+64
+Hot Chocolate
+Emma
+65
+The Charlie Daniels Band
+The South's Gonna Do It
+66
+The Blackbyrds
+Walking In Rhythm
+67
+Donny & Marie Osmond
+Morning Side Of The Mountain
+68
+Rufus Featuring Chaka Khan
+Once You Get Started
+69
+Love Unlimited Orchestra
+Satin Soul
+70
+Al Wilson
+I Won't Last A Day Without You/Let Me Be The One
+71
+The Temptations
+Happy People
+72
+Kool & The Gang
+Rhyme Tyme People
+73
+Jim Stafford
+Your Bulldog Drinks Champagne
+74
+Carl Douglas
+Dance The Kung Fu
+75
+Earth, Wind & Fire
+Shining Star
+76
+Gloria Gaynor
+Never Can Say Goodbye
+77
+Ozark Mountain Daredevils
+Jackie Blue
+78
+Hello People
+Future Shock
+79
+Donny Osmond
+I Have A Dream
+80
+Harry Chapin
+I Wanna Learn A Love Song
+81
+Paul Anka with Odia Coates
+One Man Woman/One Woman Man
+82
+Leo Sayer
+Long Tall Glasses (I Can Dance)
+83
+Blue Swede
+Hush/I'm Alive
+84
+The Hues Corporation
+Love Corporation
+85
+Stark & McBrien
+Isn't It Lonely Together
+86
+Eddie Kendricks
+Shoeshine Boy
+87
+Jim Weatherly
+I'll Still Love You
+88
+Gladys Knight And The Pips
+Love Finds It's Own Way
+89
+Queen
+Killer Queen
+90
+James Brown
+Reality
+91
+Tim Moore
+Charmer
+92
+The Jimmy Castor Bunch
+The Bertha Butt Boogie-Part 1
+93
+Carl Carlton
+Smokin' Room
+94
+Herbie Mann
+Hijack
+95
+Lana Cantrell
+Like A Sunday Morning
+96
+Conway Twitty
+Linda On My Mind
+97
+Al Downing
+I'll Be Holding On
+98
+Dooley Silverspoon
+Bump Me Baby Part 1
+99
+Atlanta Rhythm Section
+Angel (What In The World's Come Over Us)
+100
+Commander Cody
+Don't Let Go

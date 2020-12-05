@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Billie Jean
+2
+Dexys Midnight Runners
+Come On Eileen
+3
+Styx
+Mr. Roboto
+4
+Greg Kihn Band
+Jeopardy
+5
+Michael Jackson
+Beat It
+6
+Duran Duran
+Hungry Like The Wolf
+7
+Daryl Hall John Oates
+One On One
+8
+Journey
+Separate Ways (Worlds Apart)
+9
+After The Fire
+Der Kommissar
+10
+Culture Club
+Do You Really Want To Hurt Me
+11
+Kenny Rogers And Sheena Easton
+We've Got Tonight
+12
+Lionel Richie
+You Are
+13
+Thomas Dolby
+She Blinded Me With Science
+14
+Frida
+I Know There's Something Going On
+15
+David Bowie
+Let's Dance
+16
+Bob Seger & The Silver Bullet Band
+Even Now
+17
+Prince
+Little Red Corvette
+18
+Pretenders
+Back On The Chain Gang
+19
+Men At Work
+Overkill
+20
+Toto
+I Won't Hold You Back
+21
+Tom Petty And The Heartbreakers
+Change Of Heart
+22
+Laura Branigan
+Solitaire
+23
+Golden Earring
+Twilight Zone
+24
+Eric Clapton
+I've Got A Rock N' Roll Heart
+25
+Bob Seger & The Silver Bullet Band
+Shame On The Moon
+26
+ABC
+Poison Arrow
+27
+Pat Benatar
+Little Too Late
+28
+Earth, Wind & Fire
+Fall In Love With Me
+29
+Stephen Bishop
+It Might Be You
+30
+Oxo
+Whirly Girl
+31
+Debarge
+I Like It
+32
+Def Leppard
+Photograph
+33
+Kenny Loggins
+Welcome To Heartlight
+34
+Barry Manilow
+Some Kind Of Friend
+35
+Duran Duran
+Rio
+36
+Christopher Cross
+All Right
+37
+Lionel Richie
+My Love
+38
+Irene Cara
+Flashdance...What A Feeling
+39
+Bryan Adams
+Straight From The Heart
+40
+Patrick Simmons
+So Wrong
+41
+Jarreau
+Mornin'
+42
+Mac McAnally
+Minimum Love
+43
+John Anderson
+Swingin'
+44
+Psychedelic Furs
+Love My Way
+45
+Ronnie Milsap
+Stranger In My House
+46
+Dionne Warwick
+Take The Short Way Home
+47
+Thompson Twins
+Lies
+48
+Dan Fogelberg
+Make Love Stay
+49
+Joe Jackson
+Breaking Us In Two
+50
+Naked Eyes
+Always Something There To Remind Me
+51
+The Gap Band
+Outstanding
+52
+Robert Ellis Orral With Carlene Carter
+I Couldn't Say No
+53
+Rick Springfield
+Affair Of The Heart
+54
+Sammy Hagar
+Never Give Up
+55
+Journey
+Faithfully
+56
+Billy Joel
+Goodnight Saigon
+57
+ZZ Top
+Gimme All Your Lovin
+58
+Robert Hazard
+Escalator Of Life
+59
+Culture Club
+Time (Clock Of The Heart)
+60
+Wall Of Voodoo
+Mexican Radio
+61
+INXS
+The One Thing
+62
+Robbie Patton
+Smiling Islands
+63
+Champaign
+Try Again
+64
+Stray Cats
+Stray Cat Strut
+65
+Lou Rawls
+Wind Beneath My Wings
+66
+Walter Egan
+Fool Moon Fire
+67
+The Pointer Sisters
+If You Wanna Get Back Your Lady
+68
+Night Ranger
+Sing Me Away
+69
+Patti Austin
+Every Home Should Have One
+70
+Saga
+Wind Him Up
+71
+The Tubes
+She's A Beauty
+72
+Phil Collins
+I Don't Care Anymore
+73
+Felony
+The Fanatic
+74
+Men At Work
+Down Under
+75
+Scandal Featuring Patty Smyth
+Love's Got A Line On You
+76
+Patti Austin A Duet With James Ingram
+Baby, Come To Me
+77
+U2
+New Year's Day
+78
+Modern English
+I Melt With You
+79
+Ultravox
+Reap The Wild Wind
+80
+Total Coelo
+I Eat Cannibals
+81
+Eddie Rabbitt With Crystal Gayle
+You And I
+82
+The System
+You Are In My System
+83
+Planet P
+Why Me?
+84
+Adam Ant
+Desperate But Not Serious
+85
+Gerard McMahon
+Count On Me
+86
+Sparks & Jane Wiedlin
+Cool Places
+87
+Billy Joel
+Allentown
+88
+The Temptations
+Love On My Mind Tonight
+89
+Eddy Grant
+Electric Avenue
+90
+Sergio Mendes
+Never Gonna Let You Go
+91
+The Clash
+Should I Stay Or Should I Go
+92
+Melissa Manchester
+Nice Girls
+93
+Berlin
+Sex (I'm A...)
+94
+Yaz
+Only You
+95
+Missing Persons
+Walking In L.a.
+96
+The Oak Ridge Boys
+American Made
+97
+Jeffrey Osborne
+Eenie Meenie
+98
+Sammy Hagar
+Your Love Is Driving Me Crazy
+99
+Supertramp Featuring Rick Davies
+My Kind Of Lady
+100
+Tony Carey
+I Won't Be Home Tonight

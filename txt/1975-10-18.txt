@@ -1,0 +1,300 @@
+1
+Neil Sedaka
+Bad Blood
+2
+John Denver
+I'm Sorry
+3
+Jefferson Starship
+Miracles
+4
+Eagles
+Lyin' Eyes
+5
+Sweet
+Ballroom Blitz
+6
+Orleans
+Dance With Me
+7
+Morris Albert
+Feelings
+8
+Helen Reddy
+Ain't No Way To Treat A Lady
+9
+The Spinners
+They Just Can't Stop It the (Games People Play)
+10
+The 4 Seasons
+Who Loves You
+11
+Tavares
+It Only Takes A Minute
+12
+David Bowie
+Fame
+13
+The Ritchie Family
+Brazil
+14
+Linda Ronstadt
+Heat Wave/love Is A Rose
+15
+Austin Roberts
+Rocky
+16
+Dickie Goodman
+Mr. Jaws
+17
+Olivia Newton-John
+Something Better To Do
+18
+People's Choice
+Do It Any Way You Wanna
+19
+Leon Russell
+Lady Blue
+20
+Natalie Cole
+This Will Be
+21
+Captain & Tennille
+The Way I Want To Touch You
+22
+Michael Murphey
+Carolina In The Pines
+23
+War
+Low Rider
+24
+ABBA
+S.O.S.
+25
+George Harrison
+You
+26
+Esther Phillips
+What A Diff'rence A Day Makes
+27
+Glen Campbell
+Rhinestone Cowboy
+28
+Bruce Springsteen
+Born To Run
+29
+Art Garfunkel
+I Only Have Eyes For You
+30
+John Fogerty
+Rockin' All Over The World
+31
+Jigsaw
+Sky High
+32
+David Geddes
+Run Joey Run
+33
+Willie Nelson
+Blue Eyes Crying In The Rain
+34
+Ohio Players
+Sweet Sticky Thing
+35
+The Outlaws
+There Goes Another Love Song
+36
+Elton John
+Island Girl
+37
+Freddy Fender
+Wasted Days And Wasted Nights
+38
+Bee Gees
+Nights On Broadway
+39
+Melissa Manchester
+Just Too Many People
+40
+Smokey Robinson
+The Agony And The Ecstasy
+41
+Pete Wingfield
+Eighteen With A Bullet
+42
+Wings
+Letting Go
+43
+Janis Ian
+At Seventeen
+44
+B.T. Express
+Give It What You Got/Peace Pipe
+45
+Crown Heights Affair
+Dreaming A Dream
+46
+The Manhattan Transfer
+Operator
+47
+Barry Manilow
+Could It Be Magic
+48
+Silver Convention
+Fly, Robin, Fly
+49
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+50
+Earth, Wind & Fire
+That's The Way Of The World
+51
+Joan Baez
+Diamonds And Rust
+52
+Arthur Alexander
+Every Day I Have To Cry Some
+53
+Aretha Franklin
+Mr. D.J. (5 For The D.J.)
+54
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+55
+Leon Haywood
+I Want'a Do Something Freaky To You
+56
+Sly Stone
+I Get High On You
+57
+Jessi Colter
+What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov
+58
+The Isley Brothers
+Fight The Power Part 1
+59
+Bob Seger
+Katmandu
+60
+Paul Simon/Phoebe Snow
+Gone At Last
+61
+The Eleventh Hour
+Hollywood Hot
+62
+Faith, Hope And Charity
+To Each His Own
+63
+Poco
+Keep On Tryin'
+64
+Mike Post
+Manhattan Spiritual
+65
+KC And The Sunshine Band
+Get Down Tonight
+66
+Waylon Jennings
+Are You Sure Hank Done It This Way
+67
+Biddu Orchestra
+Summer Of '42
+68
+Cotton, Lloyd & Christian
+I Go To Pieces
+69
+B.J. Thomas
+Help Me Make It (To My Rockin' Chair)
+70
+James Taylor
+Mexico
+71
+Billy Preston
+Fancy Lady
+72
+Katfish
+Dear Prudence
+73
+Van Mccoy
+Change With The Times
+74
+Travis Wammack
+Easy Evil
+75
+Bay City Rollers
+Saturday Night
+76
+The Salsoul Orchestra
+Salsoul Hustle
+77
+Curtis Mayfield
+So In Love
+78
+Quincy Jones (feat. The Brothers Johnson)
+Is It Love That We're Missin'
+79
+David Bellamy
+Nothin' Heavy
+80
+Jethro Tull
+Minstrel In The Gallery
+81
+Simon & Garfunkel
+My Little Town
+82
+Freddy Fender
+Secret Love
+83
+Rod Stewart
+Sailing
+84
+Vicki Lawrence
+The Other Woman
+85
+Frankie Valli
+Our Day Will Come
+86
+5000 Volts
+I'm On Fire
+87
+Freddy Fender
+Since I Met You Baby
+88
+Roger Daltrey
+Come And Get Your Love
+89
+Ray Stevens
+Indian Love Call
+90
+Cheech & Chong
+(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P
+91
+Loggins & Messina
+A Lover's Question
+92
+Pilot
+Just A Smile
+93
+Eddie Kendricks
+Happy
+94
+The Jimmy Castor Bunch
+King Kong - Pt. I
+95
+The Marshall Tucker Band
+Fire On The Mountain
+96
+Head East
+Never Been Any Reason
+97
+Carly Simon
+More And More
+98
+Firefly
+Hey There Little Firefly Part I
+99
+Johnny Guitar Watson
+I Don't Want To Be A Lone Ranger
+100
+John Livigni
+Machines

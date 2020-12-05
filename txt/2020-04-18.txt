@@ -1,0 +1,300 @@
+1
+Drake
+Toosie Slide
+2
+The Weeknd
+Blinding Lights
+3
+Roddy Ricch
+The Box
+4
+Dua Lipa
+Don't Start Now
+5
+Future Featuring Drake
+Life Is Good
+6
+Post Malone
+Circles
+7
+Harry Styles
+Adore You
+8
+Doja Cat Featuring Nicki Minaj
+Say So
+9
+Justin Bieber Featuring Quavo
+Intentions
+10
+Billie Eilish
+Everything I Wanted
+11
+Lewis Capaldi
+Someone You Loved
+12
+Maren Morris
+The Bones
+13
+Camila Cabello Featuring DaBaby
+My Oh My
+14
+Megan Thee Stallion
+Savage
+15
+Maroon 5
+Memories
+16
+Arizona Zervas
+Roxanne
+17
+blackbear
+Hot Girl Bummer
+18
+Lil Mosey
+Blueberry Faygo
+19
+The Weeknd
+Heartless
+20
+Gabby Barrett Featuring Charlie Puth
+I Hope
+21
+Tones And I
+Dance Monkey
+22
+DaBaby
+Find My Way
+23
+Trevor Daniel
+Falling
+24
+Blake Shelton Duet With Gwen Stefani
+Nobody But You
+25
+Rod Wave
+Heart On Ice
+26
+Mustard & Roddy Ricch
+Ballin'
+27
+Morgan Wallen
+Chasin' You
+28
+Black Eyed Peas X J Balvin
+RITMO (Bad Boys For Life)
+29
+Brett Young
+Catch
+30
+SAINt JHN
+Roses
+31
+Roddy Ricch Featuring Mustard
+High Fashion
+32
+Lady Gaga
+Stupid Love
+33
+Powfu Featuring beabadoobee
+Death Bed
+34
+Dan + Shay & Justin Bieber
+10,000 Hours
+35
+DaBaby
+BOP
+36
+Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne
+Whats Poppin
+37
+Ingrid Andress
+More Hearts Than Mine
+38
+Chris Brown Featuring Drake
+No Guidance
+39
+Dua Lipa
+Break My Heart
+40
+Sam Hunt
+Hard To Forget
+41
+Demi Lovato
+I Love Me
+42
+Jordan Davis
+Slow Dance In A Parking Lot
+43
+YNW Melly & Juice WRLD
+Suicidal
+44
+Surfaces
+Sunday Best
+45
+H.E.R. Featuring YG
+Slide
+46
+NAV, Gunna & Travis Scott
+Turks
+47
+The Weeknd
+In Your Eyes
+48
+Kane Brown
+Homesick
+49
+Russ & BIA
+BEST ON EARTH
+50
+Luke Combs Featuring Eric Church
+Does To Me
+51
+Carly Pearce & Lee Brice
+I Hope You're Happy Now
+52
+Halsey
+You Should Be Sad
+53
+Eminem Featuring Juice WRLD
+Godzilla
+54
+Thomas Rhett Featuring Jon Pardi
+Beer Can't Fix
+55
+Pop Smoke
+Dior
+56
+Lil Baby
+Sum 2 Prove
+57
+Jake Owen
+Homemade
+58
+PARTYNEXTDOOR & Rihanna
+Believe It
+59
+Bad Bunny
+Yo Perreo Sola
+60
+NLE Choppa Featuring Roddy Ricch
+Walk Em Down
+61
+BENEE Featuring Gus Dapperton
+Supalonely
+62
+Luke Bryan
+What She Wants Tonight
+63
+Lewis Capaldi
+Before You Go
+64
+Rod Wave
+Fuck The World
+65
+Diplo Presents Thomas Wesley Featuring Morgan Wallen
+Heartless
+66
+Karol G & Nicki Minaj
+Tusa
+67
+Rod Wave
+Pray 4 Love
+68
+Summer Walker & Usher
+Come Thru
+69
+Travis Denning
+After A Few
+70
+Jhene Aiko
+P*$$y Fairy (OTW)
+71
+Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban
+Be A Light
+72
+Lil Uzi Vert
+Myron
+73
+JACKBOYS Featuring Young Thug
+Out West
+74
+Rod Wave
+Thief In The Night
+75
+SZA X Justin Timberlake
+The Other Side
+76
+Future
+Tycoon
+77
+Rod Wave
+I Remember
+78
+Rod Wave
+The Greatest
+79
+Alicia Keys
+Underdog
+80
+Lil Yachty, Drake & DaBaby
+Oprah's Bank Account
+81
+Miranda Lambert
+Bluebird
+82
+Megan Thee Stallion
+B.I.T.C.H.
+83
+JP Saxe Featuring Julia Michaels
+If The World Was Ending
+84
+Rod Wave
+Ribbon In The Sky
+85
+Lil Baby
+Emotionally Scarred
+86
+Bad Bunny, Jowell & Randy & Nengo Flow
+Safaera
+87
+Lil Uzi Vert
+That Way
+88
+Taylor Swift
+The Man
+89
+Kane Brown & John Legend
+Last Time I Say Sorry
+90
+The Weeknd
+After Hours
+91
+Dustin Lynch
+Ridin' Roads
+92
+Lil Uzi Vert
+P2
+93
+Kenny Chesney
+Here And Now
+94
+Justin Bieber
+Yummy
+95
+Rod Wave
+Thug Life
+96
+Lil Baby & Gunna
+Heatin Up
+97
+Noah Cyrus & Leon Bridges
+July
+98
+Jonas Brothers
+What A Man Gotta Do
+99
+Rod Wave
+No Weakness
+100
+Lil Baby & 42 Dugg
+Grace

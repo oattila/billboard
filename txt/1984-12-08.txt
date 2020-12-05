@@ -1,0 +1,300 @@
+1
+Daryl Hall John Oates
+Out Of Touch
+2
+Wham!
+Wake Me Up Before You Go-Go
+3
+Chaka Khan
+I Feel For You
+4
+Duran Duran
+The Wild Boys
+5
+Cyndi Lauper
+All Through The Night
+6
+Paul McCartney
+No More Lonely Nights
+7
+The Honeydrippers
+Sea Of Love
+8
+Lionel Richie
+Penny Lover
+9
+New Edition
+Cool It Now
+10
+Pat Benatar
+We Belong
+11
+Madonna
+Like A Virgin
+12
+Tina Turner
+Better Be Good To Me
+13
+Survivor
+I Can't Hold Back
+14
+Sheena Easton
+Strut
+15
+Prince And The Revolution
+Purple Rain
+16
+Julian Lennon
+Valotte
+17
+Corey Hart
+It Ain't Enough
+18
+Huey Lewis & The News
+Walking On A Thin Line
+19
+Billy Ocean
+Caribbean Queen (No More Love On The Run)
+20
+Jack Wagner
+All I Need
+21
+Bruce Springsteen
+Born In The USA
+22
+Jermaine Jackson
+Do What You Do
+23
+Bryan Adams
+Run To You
+24
+The Cars
+Hello Again
+25
+Stevie Wonder
+I Just Called To Say I Love You
+26
+Dan Hartman
+We Are The Young
+27
+Bob Seger
+Understanding
+28
+Chicago
+You're The Inspiration
+29
+REO Speedwagon
+I Do'wanna Know
+30
+Rebbie Jackson
+Centipede
+31
+Dennis DeYoung
+Desert Moon
+32
+Toto
+Stranger In Town
+33
+Ray Parker Jr.
+Jamie
+34
+Don Henley
+The Boys Of Summer
+35
+U2
+(Pride) In The Name Of Love
+36
+Kenny Rogers With Kim Carnes & James Ingram
+What About Me?
+37
+Philip Bailey With Phil Collins
+Easy Lover
+38
+Sheila E.
+The Belle Of St. Mark
+39
+John Cafferty & The Beaver Brown Band
+Tender Years
+40
+Billy Ocean
+Lover Boy
+41
+John Waite
+Tears
+42
+Rick Springfield
+Bruce
+43
+Chicago
+Hard Habit To Break
+44
+Jeffrey Osborne
+Don't Stop
+45
+Foreigner
+I Want To Know What Love Is
+46
+Frankie Goes To Hollywood
+Two Tribes
+47
+Giuffria
+Call To The Heart
+48
+Roger Hodgson
+Had A Dream (Sleeping With The Enemy)
+49
+Steve Perry
+Foolish Heart
+50
+Billy Idol
+Catch My Fall
+51
+Scandal Featuring Patty Smyth
+Hands Tied
+52
+Stevie Wonder
+Love Light In Flight
+53
+David Bowie
+Blue Jean
+54
+The Pointer Sisters
+Neutron Dance
+55
+Elton John
+In Neon
+56
+Laura Branigan
+Ti Amo
+57
+The Time
+Jungle Love
+58
+Ashford & Simpson
+Solid
+59
+Rick Springfield With Randy Crawford
+Taxi Dancing
+60
+Sammy Hagar
+I Can't Drive 55
+61
+Kool & The Gang
+Misled
+62
+David Bowie
+Tonight
+63
+General Public
+Tenderness
+64
+Culture Club
+The War Song
+65
+Eurogliders
+Heaven (Must Be There)
+66
+38 Special
+Teacher Teacher
+67
+Peter Wolf
+I Need You Tonight
+68
+The Pointer Sisters
+I'm So Excited
+69
+The Fixx
+Sunshine In The Shade
+70
+Bananarama
+The Wild Life
+71
+Midnight Star
+Operator
+72
+Diana Ross
+Missing You
+73
+John Cafferty & The Beaver Brown Band
+On The Dark Side
+74
+Tommy Shaw
+Girls With Guns
+75
+The J. Geils Band
+Concealed Weapons
+76
+Shalamar
+Amnesia
+77
+Sam Harris
+Sugar Don't Bite
+78
+Thompson Twins
+The Gap
+79
+Rod Stewart
+Some Guys Have All The Luck
+80
+Alphaville
+Big In Japan
+81
+Glenn Frey
+The Heat Is On
+82
+Billy Satellite
+I Wanna Go Back
+83
+KISS
+Heaven's On fire
+84
+Eurythmics
+Sex Crime (Nineteen Eighty-Four)
+85
+Dazz Band
+Let It All Blow
+86
+Dennis DeYoung
+Don't Wait For Heroes
+87
+Melissa Manchester
+Thief Of Hearts
+88
+The Jacksons
+Body
+89
+Billy Squier
+Eye On You
+90
+John Hunter
+Tragedy
+91
+Elton John
+Who Wears These Shoes?
+92
+Donna Summer
+Supernatural Love
+93
+Prince And The Revolution
+Let's Go Crazy
+94
+Van Halen
+Hot For Teacher
+95
+The Cars
+Drive
+96
+Al Jarreau
+After All
+97
+Madonna
+Lucky Star
+98
+Bruce Springsteen
+Cover Me
+99
+Barbra Streisand
+Left In The Dark
+100
+Sheila E.
+The Glamorous Life

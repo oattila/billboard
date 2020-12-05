@@ -1,0 +1,300 @@
+1
+Nancy Sinatra & Frank Sinatra
+Somethin' Stupid
+2
+The Monkees
+A Little Bit Me, A Little Bit You
+3
+The Turtles
+Happy Together
+4
+Arthur Conley
+Sweet Soul Music
+5
+Tommy James And The Shondells
+I Think We're Alone Now
+6
+The Five Americans
+Western Union
+7
+Petula Clark
+This Is My Song
+8
+The Supremes
+The Happening
+9
+Four Tops
+Bernadette
+10
+Martha & The Vandellas
+Jimmy Mack
+11
+The Buckinghams
+Don't You Care
+12
+The Dave Clark Five
+You Got What It Takes
+13
+The Spencer Davis Group
+I'm A Man
+14
+Aretha Franklin
+I Never Loved A Man (The Way I Love You)
+15
+Nancy Sinatra
+Love Eyes
+16
+Simon & Garfunkel
+At The Zoo
+17
+The Hollies
+On A Carousel
+18
+Peaches & Herb
+Close Your Eyes
+19
+The Platters
+With This Ring
+20
+The Mamas & The Papas
+Dedicated To The One I Love
+21
+Eric Burdon & The Animals
+When I Was Young
+22
+Brenda & The Tabulations
+Dry Your Eyes
+23
+The Easybeats
+Friday On My Mind
+24
+Harpers Bizarre
+The 59th Street Bridge Song (Feelin' Groovy)
+25
+The Beatles
+Penny Lane
+26
+Herman's Hermits
+There's A Kind Of Hush
+27
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+28
+The Electric Prunes
+Get Me To The World On Time
+29
+The Happenings
+I Got Rhythm
+30
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Beggin'
+31
+The Byrds
+My Back Pages
+32
+Wilson Pickett
+I Found A Love - Part 1
+33
+Neil Diamond
+Girl, You'll Be A Woman Soon
+34
+Andy Williams
+Music To Watch Girls By
+35
+Lesley Gore
+California Nights
+36
+Engelbert Humperdinck
+Release Me (And Let Me Love Again)
+37
+The Yellow Balloon
+Yellow Balloon
+38
+Peter And Gordon
+Sunday For Tea
+39
+Herb Alpert & The Tijuana Brass
+Casino Royale
+40
+Dusty Springfield
+I'll Try Anything
+41
+Roger Miller
+Walkin' In The Sunshine
+42
+Lou Rawls
+Dead End Street Monologue/Dead End Street
+43
+The Tremeloes
+Here Comes My Baby
+44
+Jefferson Airplane
+Somebody To Love
+45
+The Young Rascals
+I've Been Lonely Too Long
+46
+Jimmy Ruffin
+Gonna Give Her All The Love I've Got
+47
+Tom Jones
+Detroit City
+48
+Frankie Laine
+Making Memories
+49
+The Young Rascals
+Groovin'
+50
+Aretha Franklin
+Respect
+51
+James & Bobby Purify
+Shake A Tail Feather
+52
+Booker T. & The MG's
+Hip Hug-Her
+53
+The Tokens
+Portrait Of My Love
+54
+Nancy Sinatra with Lee Hazlewood
+Summer Wine
+55
+The Nitty Gritty Dirt Band
+Buy For Me The Rain
+56
+The Parade
+Sunshine Girl
+57
+The Righteous Brothers
+Melancholy Music Man
+58
+? (Question Mark) & The Mysterians
+Can't Get Enough Of You, Baby
+59
+Toussaint McCall
+Nothing Takes The Place Of You
+60
+Jerry Jaye
+My Girl Josephine
+61
+Ray Price
+Danny Boy
+62
+Bobby Darin
+The Lady Came From Baltimore
+63
+Percy Sledge
+Out Of Left Field
+64
+Whistling Jack Smith
+I Was Kaiser Bill's Batman
+65
+Paul Revere & The Raiders
+Him Or Me - What's It Gonna Be?
+66
+The Yardbirds
+Little Games
+67
+The Romeos
+Precious Memories
+68
+The Who
+Happy Jack
+69
+Tommy James And The Shondells
+Mirage
+70
+Dionne Warwick
+Alfie
+71
+The Marvelettes
+When You're Young And In Love
+72
+The Fantastic Four
+The Whole World Is A Stage
+73
+Cannonball Adderley
+Why? (Am I Treated So Bad)
+74
+Ronnie Dove
+My Babe
+75
+Brenda Holloway
+Just Look What You've Done
+76
+Mitch Ryder And The Detroit Wheels
+Too Many Fish In The Sea & Three Little Fishes
+77
+Brenton Wood
+The Oogum Boogum Song
+78
+The Raelets/Ray Charles Orchestra
+One Hurt Deserves Another
+79
+The Contours
+It's So Hard Being A Loser
+80
+Dean Martin
+Lay Some Happiness On Me
+81
+The Temptations
+All I Need
+82
+Barbara Lewis
+I'll Make Him Love Me
+83
+The Mamas & The Papas
+Creeque Alley
+84
+Casinos
+It's All Over Now
+85
+The Seeds
+Can't Seem To Make You Mine
+86
+Sonny & Cher
+A Beautiful Story
+87
+The 5th Dimension
+Another Day, Another Heartache
+88
+Bobby Bland
+You're All I Need
+89
+Dyke And The Blazers
+Funky Broadway Part I
+90
+The Lovin' Spoonful
+Six O'Clock
+91
+Don And The Goodtimes
+I Could Be So Good To You
+92
+Jack Jones
+I'm Indestructible
+93
+Ben E. King
+Tears, Tears, Tears
+94
+The Merry-Go-Round
+Live
+95
+Davie Allan And The Arrows
+Blue's Theme
+96
+Lou Christie
+Shake Hands And Walk Away Cryin'
+97
+Stevie Wonder
+Hey Love
+98
+Baja Marimba Band
+Georgy Girl
+99
+Kim Weston
+I Got What You Need
+100
+The Intruders
+Together

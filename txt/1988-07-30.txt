@@ -1,0 +1,300 @@
+1
+Steve Winwood
+Roll With It
+2
+Richard Marx
+Hold On To The Nights
+3
+Breathe
+Hands To Heaven
+4
+Def Leppard
+Pour Some Sugar On Me
+5
+Eric Carmen
+Make Me Lose Control
+6
+Terence Trent D'Arby
+Sign Your Name
+7
+INXS
+New Sensation
+8
+Gloria Estefan & Miami Sound Machine
+1-2-3
+9
+Jane Wiedlin
+Rush Hour
+10
+Elton John
+I Don't Wanna Go On With You Like That
+11
+Cheap Trick
+The Flame
+12
+D.J. Jazzy Jeff & The Fresh Prince
+Parents Just Don't Understand
+13
+Chicago
+I Don't Wanna Live Without Your Love
+14
+The Contours
+Do You Love Me
+15
+Johnny Kemp
+Just Got Paid
+16
+George Michael
+Monkey
+17
+Billy Ocean
+The Colour Of Love
+18
+Fat Boys
+The Twist
+19
+Pebbles
+Mercedes Boy
+20
+Tracy Chapman
+Fast Car
+21
+Whitney Houston
+Love Will Save The Day
+22
+Aerosmith
+Rag Doll
+23
+Climie Fisher
+Love Changes (Everything)
+24
+Sade
+Paradise
+25
+Guns N' Roses
+Sweet Child O' Mine
+26
+Robert Palmer
+Simply Irresistible
+27
+Al B. Sure!
+Nite And Day
+28
+Huey Lewis & The News
+Perfect World
+29
+Van Halen
+When It's Love
+30
+Rod Stewart
+Lost In You
+31
+Debbie Gibson
+Foolish Beat
+32
+Taylor Dayne
+I'll Always Love You
+33
+The Moody Blues
+I Know You're Out There Somewhere
+34
+New Edition
+If It Isn't Love
+35
+Pat Benatar
+All Fired Up
+36
+Poison
+Nothin' But A Good Time
+37
+Kenny Loggins
+Nobody's Fool (Theme From "Caddyshack II")
+38
+Corey Hart
+In Your Soul
+39
+REO Speedwagon
+Here With Me
+40
+The Jets
+Make It Real
+41
+Brenda K. Starr
+I Still Believe
+42
+Denise Lopez
+Sayin' Sorry (Don't Make It Right)
+43
+Michael Jackson
+Another Part Of Me
+44
+Rick Astley
+It Would Take A Strong Strong Man
+45
+Daryl Hall John Oates
+Missed Opportunity
+46
+New Kids On The Block
+Please Don't Go Girl
+47
+Peter Cetera
+One Good Woman
+48
+Bruce Hornsby & The Range
+The Valley Road
+49
+Will To Power
+Say It's Gonna Rain
+50
+Johnny Hates Jazz
+I Don't Want To Be A Hero
+51
+Michael Jackson
+Dirty Diana
+52
+Paula Abdul
+Knocked Out
+53
+Joan Jett & the Blackhearts
+I Hate Myself For Loving You
+54
+Cyndi Lauper
+Hole In My Heart (All The Way To China)
+55
+Kylie Minogue
+I Should Be So Lucky
+56
+Stevie B
+Spring Love (Come Back To Me)
+57
+Scritti Politti Featuring Roger
+Boom! There She Was
+58
+Lita Ford
+Kiss Me Deadly
+59
+J.J. Fad
+Supersonic
+60
+Crowded House
+Better Be Home Soon
+61
+George Michael
+One More Try
+62
+White Lion
+Tell Me
+63
+Nia Peeples
+Trouble
+64
+Foreigner
+Heart Turns To Stone
+65
+Bruce Hornsby & The Range
+Look Out Any Window
+66
+Rick Astley
+Together Forever
+67
+Samantha Fox
+Naughty Girls (Need Love Too)
+68
+Midnight Oil
+Beds Are Burning
+69
+Information Society
+What's On Your Mind (Pure Energy)
+70
+Robert Plant
+Tall Cool One
+71
+Gloria Estefan & Miami Sound Machine
+Anything For You
+72
+Dino
+Summergirls
+73
+Poison
+Fallen Angel
+74
+D.J. Jazzy Jeff & The Fresh Prince
+A Nightmare On My Street
+75
+Vanessa Williams
+The Right Stuff
+76
+Belinda Carlisle
+Circle In The Sand
+77
+Keith Sweat (Duet With Jacci McGhee)
+Make It Last Forever
+78
+Stryper
+Always There For You
+79
+Times Two
+Cecilia
+80
+The Cover Girls
+Inside Outside
+81
+Bobby Brown
+Don't Be Cruel
+82
+Ziggy Marley And The Melody Makers
+Tomorrow People
+83
+Bobby McFerrin
+Don't Worry, Be Happy (From "Cocktail")
+84
+Brenda Russell Featuring Joe Esposito
+Piano In The Dark
+85
+Basia
+Time And Tide
+86
+Run-D.M.C.
+Mary, Mary
+87
+Freddie Jackson
+Nice 'N' Slow
+88
+Tiffany
+Feelings Of Forever
+89
+Tony Toni Tone
+Little Walter
+90
+Cher
+Skin Deep
+91
+Erasure
+Chains Of Love
+92
+Cheap Trick
+Don't Be Cruel
+93
+The System
+Coming To America
+94
+Belinda Carlisle
+I Feel Free
+95
+The Cover Girls
+Promise Me
+96
+Boz Scaggs
+Heart Of Mine
+97
+Icehouse
+My Obsession
+98
+Kings Of The Sun
+Black Leather
+99
+Nu Shooz
+Should I Say Yes?
+100
+Daryl Hall John Oates
+Everything Your Heart Desires

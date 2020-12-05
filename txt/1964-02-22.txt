@@ -1,0 +1,300 @@
+1
+The Beatles
+I Want To Hold Your Hand
+2
+The Beatles
+She Loves You
+3
+The 4 Seasons
+Dawn (Go Away)
+4
+Lesley Gore
+You Don't Own Me
+5
+Al (He's the King) Hirt
+Java
+6
+Major Lance
+Um, Um, Um, Um, Um, Um
+7
+The Rip Chords
+Hey Little Cobra
+8
+The Rivieras
+California Sun
+9
+The Tams
+What Kind Of Fool (Do You Think I Am)
+10
+Diane Renay
+Navy Blue
+11
+Rick Nelson
+For You
+12
+Dale & Grace
+Stop And Think It Over
+13
+The Marketts
+Out Of Limits
+14
+The Impressions
+Talking About My Baby
+15
+The Dixiebelles
+Southtown, U.S.A.
+16
+Dionne Warwick
+Anyone Who Had A Heart
+17
+Bobby Goldsboro
+See The Funny Little Clown
+18
+Andy Williams
+A Fool Never Learns
+19
+Chubby Checker
+Hooka Tooka
+20
+Dusty Springfield
+I Only Want To Be With You
+21
+Sam Cooke
+Good News
+22
+The Trashmen
+Surfin' Bird
+23
+Freddy Cannon
+Abigail Beecher
+24
+Al Martino
+I Love You More And More Every Day
+25
+Dale Ward
+Letter From Sherry
+26
+Sammy Davis Jr.
+The Shelter Of Your Arms
+27
+The Beach Boys
+Fun, Fun, Fun
+28
+The Kingsmen
+Louie Louie
+29
+The Beatles
+Please Please Me
+30
+The Pyramids
+Penetration
+31
+Mary Wells
+What's Easy For Two Is So Hard For One
+32
+James Brown And The Famous Flames
+Oh Baby Don't You Weep (Part 1)
+33
+Cliff Richard
+It's All In The Game
+34
+Bobby Rydell
+Forget Him
+35
+The Beatles
+I Saw Her Standing There
+36
+Brook Benton
+Going Going Gone
+37
+The Sapphires
+Who Do You Love
+38
+Tommy Roe
+Come On
+39
+Jimmy Gilmer And The Fireballs
+Daisy Petal Pickin'
+40
+Bobby Vinton
+There! I've Said It Again
+41
+The Angels
+Wow Wow Wee (He's The Boy For Me)
+42
+Tommy Tucker
+Hi-Heel Sneakers
+43
+The Trashmen
+Bird Dance Beat
+44
+Gloria Lynne
+I Wish You Love
+45
+Timmy Shaw
+Gonna Send You Back To Georgia (A City Slick)
+46
+The Drifters
+Vaya Con Dios
+47
+Martha & The Vandellas
+Live Wire
+48
+Brenda Lee
+As Usual
+49
+Gene Pitney
+That Girl Belongs To Yesterday
+50
+The Murmaids
+Popsicles And Icicles
+51
+Bobby Bare
+Miller's Cave
+52
+Skeeter Davis
+He Says The Same Things To Me
+53
+Louis Armstrong And The All Stars
+Hello, Dolly!
+54
+The Beatles With Tony Sheridan
+My Bonnie (My Bonnie Lies Over The Ocean)
+55
+Barbara Lewis
+Puppy Love
+56
+The Pixies Three
+442 Glenwood Avenue
+57
+Rufus Thomas
+Can Your Monkey Do The Dog
+58
+Santo & Johnny
+I'll Remember (In The Still Of The Night)
+59
+Connie Francis
+Blue Winter
+60
+Johnny Mathis
+Bye Bye Barbara
+61
+Bob And Earl
+Harlem Shuffle
+62
+Patti LaBelle And The Blue Belles
+You'll Never Walk Alone
+63
+Elvis Presley With The Jordanaires
+Kissin' Cousins
+64
+Solomon Burke
+He'll Have To Go
+65
+The Dave Clark Five
+Glad All Over
+66
+The Orlons
+Shimmy Shimmy
+67
+Chris Crosby
+Young And In Love
+68
+Bill Black's Combo
+Comin' On
+69
+Johnny Tillotson
+Worried Guy
+70
+Pete Seeger
+Little Boxes
+71
+Johnny Cash
+Understand Your Man
+72
+The 4 Seasons
+Stay
+73
+Jody Miller
+He Walks Like A Man
+74
+Jack Jones
+Love With The Proper Stranger
+75
+Hank Williams Jr.
+Long Gone Lonesome Blues
+76
+Eddie Holland
+Leaving Here
+77
+The Devotions
+Rip Van Winkle
+78
+The Crescents Featuring Chiyo
+Pink Dominos
+79
+Nino Tempo & April Stevens
+Stardust
+80
+Garnet Mimms
+Tell Me Baby
+81
+The Monarchs
+Look Homeward Angel
+82
+Nat King Cole
+My True Carrie, Love
+83
+Ray Charles and his Orchestra
+Baby, Don't You Cry (The New Swingova Rhythm)
+84
+The Duprees featuring Joey Vann
+(It's No) Sin
+85
+Dee Dee Sharp
+Where Did I Go Wrong
+86
+Shirley Ellis
+(That's) What The Nitty Gritty Is
+87
+Lefty Frizzell
+Saginaw, Michigan
+88
+Dean And Jean
+Hey Jean, Hey Dean
+89
+Dick and DeeDee
+All My Trials
+90
+Sunny & The Sunliners
+Out Of Sight - Out Of Mind
+91
+Scott English
+High On A Hill
+92
+Skeeter Davis
+How Much Can A Lonely Heart Stand
+93
+Bobby Vee With The Eligibles
+I'll Make You Mine
+94
+The Caravelles
+Have You Ever Been Lonely (Have You Ever Been Blue)
+95
+James Brown And The Famous Flames
+Please, Please, Please
+96
+Bruce & Terry
+Custom Machine
+97
+Donna Lynn
+My Boyfriend Got A Beatle Haircut
+98
+The Marvelettes
+He's A Good Guy (Yes He Is)
+99
+Terry Stafford
+Suspicion
+100
+Booker T. & The MG's
+Mo-Onions

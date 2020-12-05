@@ -1,0 +1,300 @@
+1
+Bonnie Tyler
+Total Eclipse Of The Heart
+2
+Air Supply
+Making Love Out Of Nothing At All
+3
+Kenny Rogers Duet With Dolly Parton
+Islands In The Stream
+4
+Spandau Ballet
+True
+5
+Lionel Richie
+All Night Long (All Night)
+6
+The Fixx
+One Thing Leads To Another
+7
+The Police
+King Of Pain
+8
+Prince
+Delirious
+9
+Talking Heads
+Burning Down The House
+10
+Sheena Easton
+Telefone (long Distance Love Affair)
+11
+Men Without Hats
+The Safety Dance
+12
+The Motels
+Suddenly Last Summer
+13
+Billy Joel
+Tell Her About It
+14
+Stray Cats
+(she's) Sexy + 17
+15
+Billy Joel
+Uptown Girl
+16
+Stevie Nicks
+If Anyone Falls
+17
+Peabo Bryson/Roberta Flack
+Tonight, I Celebrate My Love
+18
+David Bowie
+Modern Love
+19
+Paul McCartney And Michael Jackson
+Say Say Say
+20
+Robert Plant
+Big Log
+21
+Quiet Riot
+Cum On Feel The Noize
+22
+Naked Eyes
+Promises, Promises
+23
+Huey Lewis & The News
+Heart And Soul
+24
+Frank Stallone
+Far From Over
+25
+Bryan Adams
+This Time
+26
+Pat Benatar
+Love Is A Battlefield
+27
+Laura Branigan
+How Am I Supposed To Live Without You
+28
+Men At Work
+Dr. Heckyll & Mr. Jive
+29
+Eurythmics
+Love Is A Stranger
+30
+The Moody Blues
+Sitting At The Wheel
+31
+Def Leppard
+Foolin'
+32
+Michael Jackson
+P.Y.T. (Pretty Young Thing)
+33
+Agnetha Faltskog
+Can't Shake Loose
+34
+John Cougar Mellencamp
+Crumblin' Down
+35
+Taco
+Puttin' On The Ritz
+36
+Elvis Costello And The Attractions
+Everyday I Write The Book
+37
+Joan Jett & the Blackhearts
+Everyday People
+38
+Journey
+Send Her My Love
+39
+Jackson Browne
+Tender Is The Night
+40
+Stacy Lattisaw
+Miracles
+41
+Loverboy
+Queen Of The Broken Hearts
+42
+Michael Sembello
+Automatic Man
+43
+Madness
+It Must Be Love
+44
+The Manhattan Transfer
+Spice Of Life
+45
+Dionne Warwick & Luther Vandross
+How Many Times Can We Say Goodbye
+46
+Michael Stanley Band
+My Town
+47
+The Human League
+Mirror Man
+48
+Bob Seger & The Silver Bullet Band
+Old Time Rock & Roll
+49
+Joboxers
+Just Got Lucky
+50
+Asia
+The Smile Has Left Your Eyes
+51
+Matthew Wilder
+Break My Stride
+52
+Peter Schilling
+Major Tom (Coming Home)
+53
+Rod Stewart
+What Am I Gonna Do (I'm So In Love With You)
+54
+Culture Club
+Church Of The Poison Mind
+55
+The Police
+Every Breath You Take
+56
+Irene Cara
+Why Me?
+57
+Chaka Khan
+Ain't Nobody
+58
+Quarterflash
+Take Another Picture
+59
+Rick Springfield
+Souls
+60
+Kim Carnes
+Invisible Hands
+61
+Commodores
+Only You
+62
+Klique
+Stop Doggin' Me Around
+63
+Michael Sembello
+Maniac
+64
+Asia
+Don't Cry
+65
+Shalamar
+Dead Giveaway
+66
+Eurythmics
+Sweet Dreams (Are Made Of This)
+67
+The Pointer Sisters
+I Need You
+68
+Roman Holliday
+Don't Try To Stop It
+69
+Glenn Shorrock
+Don't Girls Get Lonely
+70
+Debarge
+Time Will Reveal
+71
+Paul Young
+Wherever I Lay My Hat (That's My Home)
+72
+The S.O.S. Band
+Just Be Good To Me
+73
+Big Country
+In A Big Country
+74
+John Cafferty & The Beaver Brown Band
+On The Dark Side
+75
+Genesis
+Mama
+76
+Deborah Allen
+Baby I Lied
+77
+The Romantics
+Talking In Your Sleep
+78
+Jeffrey Osborne
+Stay With Me Tonight
+79
+Anne Murray
+A Little Good News
+80
+Barbra Streisand
+The Way He Makes Me Feel
+81
+Cliff Richard
+Never Say Die (Give A Little Bit More)
+82
+Cee Farrow
+Should I Love You
+83
+Herbie Hancock
+Rockit
+84
+AC/DC
+Guns For Hire
+85
+Naked Eyes
+When The Lights Go Out
+86
+The Tubes
+The Monkey Time
+87
+Michael Jackson
+Human Nature
+88
+New Edition
+Is This The End
+89
+Jennifer Holliday
+I Am Love
+90
+Bette Midler
+Favorite Waste Of Time
+91
+Joe "Bean" Esposito
+Lady, Lady, Lady
+92
+Donna Summer
+Unconditional Love
+93
+Four Tops
+I Just Can't Walk Away
+94
+The Kinks
+Don't Forget To Dance
+95
+Survivor
+Caught In The Game
+96
+Elton John
+Kiss The Bride
+97
+Juice Newton
+Tell Her No
+98
+Axe
+I Think You'll Remember Tonight
+99
+Heart
+How Can I Refuse
+100
+Jarreau
+Trouble In Paradise

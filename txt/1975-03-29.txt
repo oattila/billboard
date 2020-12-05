@@ -1,0 +1,300 @@
+1
+Labelle
+Lady Marmalade
+2
+Minnie Riperton
+Lovin' You
+3
+The Elton John Band
+Philadelphia Freedom
+4
+B.T. Express
+Express
+5
+Joe Cocker
+You Are So Beautiful/It's A Sin When You Love Somebody
+6
+Ringo Starr
+No No Song/snookeroo
+7
+Phoebe Snow
+Poetry Man
+8
+Frankie Valli
+My Eyes Adored You
+9
+Sugarloaf/Jerry Corbetta
+Don't Call Us, We'll Call You
+10
+Olivia Newton-John
+Have You Never Been Mellow
+11
+B.J. Thomas
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+12
+Shirley And Company
+Shame, Shame, Shame
+13
+Rufus Featuring Chaka Khan
+Once You Get Started
+14
+Sweet Sensation
+Sad Sweet Dreamer
+15
+Jackson 5
+I Am Love (Parts I & II)
+16
+Sammy Johns
+Chevy Van
+17
+Chicago
+Harry Truman
+18
+The Doobie Brothers
+Black Water
+19
+Hot Chocolate
+Emma
+20
+Ben E. King
+Supernatural Thing - Part I
+21
+Freddy Fender
+Before The Next Teardrop Falls
+22
+The Blackbyrds
+Walking In Rhythm
+23
+Styx
+Lady
+24
+Al Green
+L-O-V-E (Love)
+25
+Earth, Wind & Fire
+Shining Star
+26
+Love Unlimited Orchestra
+Satin Soul
+27
+Barry White
+What Am I Gonna Do With You
+28
+Leo Sayer
+Long Tall Glasses (I Can Dance)
+29
+The Charlie Daniels Band
+The South's Gonna Do It
+30
+Fanny
+Butter Boy
+31
+The Jimmy Castor Bunch
+The Bertha Butt Boogie-Part 1
+32
+Ozark Mountain Daredevils
+Jackie Blue
+33
+Tony Orlando & Dawn
+He Don't Love You (Like I Love You)
+34
+Barry Manilow
+It's A Miracle
+35
+Helen Reddy
+Emotion
+36
+Electric Light Orchestra
+Can't Get It Out Of My Head
+37
+Al Martino
+To The Door Of The Sun (Alle Porte Del Sole)
+38
+Eagles
+Best Of My Love
+39
+Bob Dylan
+Tangled Up In Blue
+40
+Queen
+Killer Queen
+41
+C.W. McCall
+Wolf Creek Pass
+42
+Eddie Kendricks
+Shoeshine Boy
+43
+America
+Lonely People
+44
+Harry Chapin
+I Wanna Learn A Love Song
+45
+The Spinners
+Living A Little, Laughing A Little
+46
+Paul Anka with Odia Coates
+I Don't Like To Sleep Alone
+47
+Polly Brown
+Up In A Puff Of Smoke
+48
+Ace
+How Long
+49
+Marie Osmond
+Who's Sorry Now
+50
+Donny Osmond
+I Have A Dream
+51
+Gladys Knight And The Pips
+Love Finds It's Own Way
+52
+John Lennon
+Stand By Me
+53
+Billy Swan
+I'm Her Fool
+54
+Pure Prairie League
+Amie
+55
+Benny Bell
+Shaving Cream
+56
+Commander Cody
+Don't Let Go
+57
+Elvis Presley
+My Boy
+58
+Michael Jackson
+We're Almost There
+59
+Ohio Players
+Fire
+60
+John Denver
+Thank God I'm A Country Boy
+61
+David Bowie
+Young Americans
+62
+Conway Twitty
+Linda On My Mind
+63
+Bobby Vinton
+Beer Barrel Polka/Dick And Jane
+64
+Kraftwerk
+Autobahn
+65
+Tom T. Hall
+Sneaky Snake
+66
+AWB
+Pick Up The Pieces
+67
+Bachman-Turner Overdrive
+Roll On Down The Highway
+68
+Dan Fogelberg
+Part Of The Plan
+69
+The Temptations
+Shakey Ground
+70
+Loretta Lynn
+The Pill
+71
+Odia Coates
+Showdown
+72
+Carl Douglas
+Dance The Kung Fu
+73
+Charlie Kulis
+Runaway
+74
+Carpenters
+Only Yesterday
+75
+Gloria Gaynor
+Reach Out, I'll Be There
+76
+Maria Muldaur
+I'm A Woman
+77
+Ramsey Lewis And Earth, Wind & Fire
+Sun Goddess
+78
+Wet Willie
+Leona
+79
+Jim Gilstrap
+Swing Your Daddy
+80
+Bloodstone
+My Little Lady
+81
+Major Harris
+Love Won't Let Me Wait
+82
+The Chi-lites
+Toby/that's How Long
+83
+Neil Sedaka
+The Immigrant
+84
+Gordon Lightfoot
+Rainy Day People
+85
+Loleatta Holloway
+Cry To Me
+86
+Lobo
+Don't Tell Me Goodnight
+87
+Herbie Mann
+Hijack
+88
+Harold Melvin And The Blue Notes
+Bad Luck (Part 1)
+89
+Evie Sands
+You Brought The Woman Out Of Me
+90
+Ecstasy, Passion & Pain
+One Beautiful Day
+91
+Nigel Olsson
+Only One Woman
+92
+Randy Edelman
+Everybody Wants To Find A Bluebird
+93
+Susan Jacks
+You're A Part Of Me
+94
+The Hues Corporation
+Love Corporation
+95
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+96
+Solomon Burke
+You And Your Baby Blues
+97
+The Pointer Sisters
+Live Your Life Before You Die
+98
+Donna Fargo
+It Do Feel Good
+99
+Michael Murphey
+Wildfire
+100
+Brian Protheroe
+Pinball

@@ -1,0 +1,300 @@
+1
+KC And The Sunshine Band
+I'm Your Boogie Man
+2
+Fleetwood Mac
+Dreams
+3
+Marvin Gaye
+Got To Give It Up (Pt. I)
+4
+Bill Conti
+Gonna Fly Now
+5
+Foreigner
+Feels Like The First Time
+6
+Kenny Rogers
+Lucille
+7
+Andrew Gold
+Lonely Boy
+8
+Alan O'Day
+Undercover Angel
+9
+Stevie Wonder
+Sir Duke
+10
+Climax Blues Band
+Couldn't Get It Right
+11
+Hot
+Angel In Your Arms
+12
+Joe Tex
+Ain't Gonna Bump No More (with No Big Fat Woman)
+13
+The Steve Miller Band
+Jet Airliner
+14
+The Marshall Tucker Band
+Heard It In A Love Song
+15
+Eagles
+Life In The Fast Lane
+16
+Leo Sayer
+When I Need You
+17
+Eagles
+Hotel California
+18
+Barry Manilow
+Looks Like We Made It
+19
+Jimmy Buffett
+Margaritaville
+20
+Shaun Cassidy
+Da Doo Ron Ron
+21
+Addrisi Brothers
+Slow Dancin' Don't Turn Me On
+22
+Barbra Streisand
+My Heart Belongs To Me
+23
+Peter Mccann
+Do You Wanna Make Love
+24
+Kenny Nolan
+Love's Grown Deep
+25
+The Sylvers
+High School Dance
+26
+Andy Gibb
+I Just Want To Be Your Everything
+27
+Dean Friedman
+Ariel
+28
+Daryl Hall John Oates
+Back Together Again
+29
+Yvonne Elliman
+Hello Stranger
+30
+Maynard Ferguson
+Gonna Fly Now (Theme From "Rocky")
+31
+Peter Frampton
+I'm In You
+32
+Glen Campbell
+Southern Nights
+33
+Rufus Featuring Chaka Khan
+Hollywood
+34
+John Miles
+Slowdown
+35
+ABBA
+Knowing Me, Knowing You
+36
+Helen Reddy
+You're My World
+37
+Rita Coolidge
+(your Love Has Lifted Me) Higher And Higher
+38
+Waylon Jennings
+Luckenbach, Texas (Back To The Basics Of Love)
+39
+Pablo Cruise
+Whatcha Gonna Do?
+40
+Alice Cooper
+You And Me
+41
+England Dan & John Ford Coley
+It's Sad To Belong
+42
+Boston
+Peace Of Mind
+43
+Tavares
+Whodunit
+44
+Carpenters
+All You Get From Love Is A Love Song
+45
+Shalamar
+Uptown Festival (Part 1)
+46
+T-Connection
+Do What You Wanna Do
+47
+Bette Midler
+You're Movin' Out Today
+48
+Bob Seger
+Mainstreet
+49
+Boz Scaggs
+Lido Shuffle
+50
+Marie Osmond
+This Is The Way That I Feel
+51
+Manfred Mann's Earth Band
+Spirit In The Night
+52
+Kris Kristofferson
+Watch Closely Now
+53
+10cc
+People In Love
+54
+David Soul
+Going In With My Eyes Open
+55
+Jennifer Warnes
+Right Time Of The Night
+56
+Natalie Cole
+I've Got Love On My Mind
+57
+Bay City Rollers
+You Made Me Believe In Magic
+58
+Jackson Browne
+The Pretender
+59
+Al Stewart
+On The Border
+60
+Heart
+Barracuda
+61
+Crosby, Stills & Nash
+Just A Song Before I Go
+62
+Neil Sedaka
+Amarillo
+63
+KISS
+Calling Dr. Love
+64
+Commodores
+Easy
+65
+Rose Royce
+I Wanna Get Next To You
+66
+Supertramp
+Give A Little Bit
+67
+Atlanta Rhythm Section
+Neon Nites
+68
+Bonnie Raitt
+Runaway
+69
+The Jacksons
+Show You The Way To Go
+70
+Thelma Houston
+If It's The Last Thing I Do
+71
+Rod Stewart
+The Killing Of Georgie (Part I And II)
+72
+Teddy Pendergrass
+I Don't Love You Anymore
+73
+C.J. & Company
+Devil's Gun
+74
+Meri Wilson
+Telephone Man
+75
+Cliff Richard
+Don't Turn The Light Out
+76
+Mary Macgregor
+This Girl (Has Turned Into A Woman)
+77
+The Isley Brothers
+The Pride (Part I)
+78
+Bad Company
+Burnin' Sky
+79
+Linda Ronstadt
+Lose Again
+80
+Captain & Tennille
+Come In From The Rain
+81
+Electric Light Orchestra
+Telephone Line
+82
+The Emotions
+Best Of My Love
+83
+Grace Jones
+I Need A Man
+84
+Celi Bee & The Buzzy Bunch
+Superman
+85
+Stephen Bishop
+On And On
+86
+Chuck Mangione With The Hamilton Philharmonic Orchestra
+Land Of Make Believe
+87
+Gladys Knight And The Pips
+Baby Don't Change Your Mind
+88
+Rose Royce
+I'm Going Down
+89
+Dave Mason
+So High (rock Me Baby And Roll Me Away)
+90
+Merrilee Rush
+Save Me
+91
+Detroit Emeralds
+Feel The Need
+92
+Ram Jam
+Black Betty
+93
+Universal Robot Band
+Dance And Shake Your Tambourine
+94
+REO Speedwagon
+Ridin' The Storm Out
+95
+Maze Featuring Frankie Beverly
+While I'm Alone
+96
+Carrie
+I Gotta Keep Dancin'
+97
+The Manhattans
+It Feels So Good To Be Loved So Bad
+98
+Brownsville Station
+Lady (put The Light On Me)
+99
+Walter Egan
+Only The Lucky
+100
+Bobby Vinton
+Only Love Can Break A Heart

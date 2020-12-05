@@ -1,0 +1,300 @@
+1
+Cyndi Lauper
+Time After Time
+2
+Deniece Williams
+Let's Hear It For The Boy
+3
+Steve Perry
+Oh, Sherrie
+4
+Duran Duran
+The Reflex
+5
+Night Ranger
+Sister Christian
+6
+Huey Lewis & The News
+The Heart Of Rock & Roll
+7
+Lionel Richie
+Hello
+8
+Irene Cara
+Breakdance
+9
+Laura Branigan
+Self Control
+10
+The Pointer Sisters
+Jump (for My Love)
+11
+Madonna
+Borderline
+12
+Phil Collins
+Against All Odds (Take A Look At Me Now)
+13
+Van Halen
+I'll Wait
+14
+Bruce Springsteen
+Dancing In The Dark
+15
+Culture Club
+It's A Miracle
+16
+Julio Iglesias And Willie Nelson
+To All The Girls I've Loved Before
+17
+Joe Jackson
+You Can't Get What You Want
+18
+Billy Idol
+Eyes Without A Face
+19
+Mike Reno And Ann Wilson
+Almost Paradise...Love Theme From Footloose
+20
+Shalamar
+Dancing In The Sheets
+21
+Billy Joel
+The Longest Time
+22
+Chicago
+Stay The Night
+23
+Slade
+Run, Runaway
+24
+Eurythmics
+Who's That Girl
+25
+ZZ Top
+Legs
+26
+The Cars
+Magic
+27
+Van Stephenson
+Modern Day Delilah
+28
+Rod Stewart
+Infatuation
+29
+The Style Council
+My Ever Changing Moods
+30
+Christine McVie
+Love Will Show Us How
+31
+Wang Chung
+Dance Hall Days
+32
+Thompson Twins
+Doctor! Doctor!
+33
+Howard Jones
+What Is Love
+34
+Scorpions
+Rock You Like A Hurricane
+35
+Jefferson Starship
+No Way Out
+36
+Prince
+When Doves Cry
+37
+Icicle Works
+Whisper To A Scream (Birds Fly)
+38
+Dan Hartman
+I Can Dream About You
+39
+Rick Springfield
+Don't Walk Away
+40
+Styx
+Music Time
+41
+The Cars
+You Might Think
+42
+Thompson Twins
+Hold Me Now
+43
+Rockwell
+Obscene Phone Caller
+44
+Go-Go's
+Head Over Heels
+45
+The Alan Parsons Project
+Prime Time
+46
+Rick Springfield
+Love Somebody
+47
+Ollie And Jerry
+Breakin'...there's No Stopping Us
+48
+Yarbrough & Peoples
+Don't Waste Your Time
+49
+Elton John
+Sad Songs (say So Much)
+50
+Corey Hart
+Sunglasses At Night
+51
+Michael Jackson
+Farewell My Summer Love
+52
+Kenny Loggins
+Footloose
+53
+Peabo Bryson
+If Ever You're In My Arms Again
+54
+John Cougar Mellencamp
+The Authority Song
+55
+Eddy Grant
+Romancing The Stone
+56
+LaToya Jackson
+Heart Don't Lie
+57
+Tina Turner
+What's Love Got To Do With It
+58
+Sergio Mendes
+Alibis
+59
+Paul Young
+Love Of The Common People
+60
+Robin Gibb
+Boys Do Fall In Love
+61
+Berlin
+No More Words
+62
+Psychedelic Furs
+The Ghost In You
+63
+Laid Back
+White Horse
+64
+Talk Talk
+It's My Life
+65
+Nik Kershaw
+Wouldn't It Be Good
+66
+Queen
+I Want To Break Free
+67
+Kool & The Gang
+Tonight
+68
+Duke Jupiter
+Little Lady
+69
+Bon Jovi
+She Don't Know Me
+70
+Juice Newton
+A Little Love
+71
+Shannon
+Give Me Tonight
+72
+Face To Face
+10-9-8
+73
+Alabama
+When We Make Love
+74
+Kim Carnes
+I Pretend
+75
+Bar-Kays
+Freakshow On The Dance Floor
+76
+Orion The Hunter
+So You Ran
+77
+Tracey Ullman
+They Don't Know
+78
+Jenny Burton & Patrick Jude
+Strangers In A Strange World
+79
+Tony Carey
+The First Day Of Summer
+80
+Timmy Thomas
+Gotta Give A Little Love (Ten Years Later)
+81
+Dan Fogelberg
+Believe In Me
+82
+Def Leppard
+Bringin' On The Heartbreak
+83
+Culture Club
+Miss Me Blind
+84
+Cameo
+She's Strange
+85
+Fire Inc.
+Tonight Is What It Means To Be Young
+86
+Big Country
+Wonderland
+87
+The Human League
+The Lebanon
+88
+Newcleus
+Jam On It
+89
+Teddy Pendergrass And Whitney Houston
+Hold Me
+90
+The Alan Parsons Project
+Don't Answer Me
+91
+James Ingram
+There's No Easy Way
+92
+INXS
+Original Sin
+93
+Tony Carey
+A Fine Fine Day
+94
+Dwight Twilley
+Little Bit Of Love
+95
+The Pointer Sisters
+Automatic
+96
+Pretenders
+Show Me
+97
+Eurythmics
+Here Comes The Rain Again
+98
+Daryl Hall John Oates
+Adult Education
+99
+"Weird Al" Yankovic
+King Of Suede
+100
+Yes
+Leave It

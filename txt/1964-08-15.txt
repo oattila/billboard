@@ -1,0 +1,300 @@
+1
+Dean Martin
+Everybody Loves Somebody
+2
+The Supremes
+Where Did Our Love Go
+3
+The Beatles
+A Hard Day's Night
+4
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Rag Doll
+5
+The Drifters
+Under The Boardwalk
+6
+Dusty Springfield
+Wishin' And Hopin'
+7
+Jan & Dean
+The Little Old Lady (From Pasadena)
+8
+Bobby Freeman
+C'mon And Swim
+9
+The Jelly Beans
+I Wanna Love Him So Bad
+10
+The Animals
+House Of The Rising Sun
+11
+Nancy Wilson
+(You Don't Know) How Glad I Am
+12
+The Beach Boys
+I Get Around
+13
+The Ventures
+Walk-Don't Run '64
+14
+The Dave Clark Five
+Because
+15
+The Dixie Cups
+People Say
+16
+Gerry And The Pacemakers
+How Do You Do It?
+17
+Jimmy Hughes
+Steal Away
+18
+Roger Miller
+Dang Me
+19
+Stan Getz/Astrud Gilberto
+The Girl From Ipanema
+20
+Gene Chandler
+Just Be True
+21
+The Impressions
+Keep On Pushing
+22
+The Beatles
+Ain't She Sweet
+23
+Del Shannon
+Handy Man
+24
+The Rolling Stones
+Tell Me (You're Coming Back)
+25
+Peter And Gordon
+Nobody I Know
+26
+Johnny Rivers
+Memphis
+27
+The Beatles
+And I Love Her
+28
+Elvis Presley With The Jordanaires
+Such A Night
+29
+The Ray Charles Singers
+Al-Di-La
+30
+Al (He's the King) Hirt
+Sugar Lips
+31
+The Dave Clark Five
+Can't You See That She's Mine
+32
+The Miracles
+I Like It Like That
+33
+The Chartbusters
+She's The One
+34
+The Beatles
+I'll Cry Instead
+35
+Billy J. Kramer With The Dakotas
+I'll Keep You Satisfied
+36
+Cilla Black
+You're My World
+37
+Patty & The Emblems
+Mixed-Up, Shook-Up, Girl
+38
+Jackie Ross
+Selfish One
+39
+Marvin Gaye
+Try It Baby
+40
+Lesley Gore
+Maybe I Know
+41
+The Bachelors
+I Believe
+42
+The Premiers
+Farmer John
+43
+Rene & Rene
+Angelito
+44
+The Ronettes
+Do I Love You?
+45
+Jerry Wallace
+In The Misty Moonlight
+46
+Earl-Jean
+I'm Into Somethin' Good
+47
+Chuck Berry
+You Never Can Tell
+48
+Connie Francis
+Looking For Love
+49
+The Tams
+Hey Girl Don't Bother Me
+50
+Ronny And The Daytonas
+G.T.O.
+51
+The Kingsmen
+Little Latin Lupe Lu
+52
+Gene Pitney
+It Hurts To Be In Love
+53
+The Beatles
+I Should Have Known Better
+54
+The Rolling Stones
+It's All Over Now
+55
+Ray Charles
+A Tear Fell
+56
+The Newbeats
+Bread And Butter
+57
+Johnny Tillotson
+Worry
+58
+Siw Malmkvist-Umberto Marcato
+Sole Sole Sole
+59
+Vic Dana
+Love Is All We Need
+60
+Millie Small
+Sweet William
+61
+Ray Charles
+No One To Cry To
+62
+Eydie Gorme
+I Want You To Meet My Baby
+63
+Bobby Vinton
+Clinging Vine
+64
+Solomon Burke
+Everybody Needs Somebody To Love
+65
+George Martin And His Orch.
+Ringo's Theme (This Boy)
+66
+The Marvelettes
+You're My Remedy
+67
+Allan Sherman
+Hello Mudduh, Hello Fadduh! (A Letter From Camp) (New 1964 Version)
+68
+Jumpin' Gene Simmons
+Haunted House
+69
+Brenda Holloway
+I'll Always Love You
+70
+Johnny Rivers
+Maybelline
+71
+The Ray Conniff Singers
+Invisible Tears
+72
+The Beatles
+If I Fell
+73
+James Brown And His Orchestra
+Out Of Sight
+74
+The Tokens
+He's In Town
+75
+Brenda Lee
+When You Loved Me
+76
+Carla Thomas
+I've Got No Time To Lose
+77
+The Shirelles
+Thank You Baby
+78
+The Greenwood County Singers
+Frankie And Johnny
+79
+Bruce & Terry
+Summer Means Fun
+80
+Gale Garnett
+We'll Sing In The Sunshine
+81
+The Chiffons
+Sailor Boy
+82
+Brook Benton
+A House Is Not A Home
+83
+Ronnie Dove
+Say You
+84
+Joe Hinton
+Funny (How Time Slips Away)
+85
+Dionne Warwick
+A House Is Not A Home
+86
+Jack Jones
+Where Love Has Gone
+87
+Dionne Warwick
+You'll Never Get To Heaven (If You Break My Heart)
+88
+Bobby Wood
+If I'm A Fool For Loving You
+89
+The Searchers
+Some Day We're Gonna Love Again
+90
+Four Tops
+Baby I Need Your Loving
+91
+The Ramblers
+Father Sebastian
+92
+The New Christy Minstrels
+Silly Ol' Summertime
+93
+Garnet Mimms & The Enchanters
+A Quiet Place
+94
+Lulu And The Luvers
+Shout
+95
+Bobby Goldsboro
+Me Japanese Boy I Love You
+96
+Al Martino
+Always Together
+97
+Chad & Jeremy
+A Summer Song
+98
+Booker T. & The MG's
+Soul Dressing
+99
+Jerry Wallace
+It's A Cotton Candy World
+100
+Al Martino
+I Can't Get You Out Of My Heart

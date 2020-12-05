@@ -1,0 +1,300 @@
+1
+Bruno Mars
+Grenade
+2
+Katy Perry
+Firework
+3
+Ke$ha
+We R Who We R
+4
+Rihanna Featuring Drake
+What's My Name?
+5
+P!nk
+Raise Your Glass
+6
+Wiz Khalifa
+Black And Yellow
+7
+Enrique Iglesias Featuring Ludacris & DJ Frank E
+Tonight (I'm Lovin' You)
+8
+Trey Songz Featuring Nicki Minaj
+Bottoms Up
+9
+The Black Eyed Peas
+The Time (Dirty Bit)
+10
+Bruno Mars
+Just The Way You Are
+11
+Lil Wayne Featuring Cory Gunz
+6 Foot 7 Foot
+12
+Nelly
+Just A Dream
+13
+Rihanna
+Only Girl (In The World)
+14
+Waka Flocka Flame Featuring Roscoe Dash & Wale
+No Hands
+15
+Far*East Movement Featuring Cataracs & Dev
+Like A G6
+16
+Taio Cruz
+Dynamite
+17
+Usher Featuring Pitbull
+DJ Got Us Fallin' In Love
+18
+Diddy - Dirty Money Featuring Skylar Grey
+Coming Home
+19
+Chris Brown
+Yeah 3X
+20
+Mike Posner
+Please Don't Go
+21
+Katy Perry
+Teenage Dream
+22
+Edward Maya & Vika Jigulina
+Stereo Love
+23
+WILLOW
+Whip My Hair
+24
+Neon Trees
+Animal
+25
+Lil Wayne Featuring Drake
+Right Above It
+26
+CeeLo Green
+F**k You! (Forget You)
+27
+Taylor Swift
+Back To December
+28
+OneRepublic
+Secrets
+29
+Eminem Featuring Lil Wayne
+No Love
+30
+The Lonely Island Featuring Akon
+I Just Had Sex
+31
+Keri Hilson
+Pretty Girl Rock
+32
+Pitbull Featuring T-Pain
+Hey Baby (Drop It To The Floor)
+33
+The Band Perry
+If I Die Young
+34
+The Ready Set
+Love Like Woe
+35
+Eminem Featuring Rihanna
+Love The Way You Lie
+36
+Flo Rida Featuring David Guetta
+Club Can't Handle Me
+37
+Nicki Minaj
+Right Thru Me
+38
+Enrique Iglesias Featuring Pitbull
+I Like It
+39
+Far*East Movement Featuring Ryan Tedder
+Rocketeer
+40
+Sugarland
+Stuck Like Glue
+41
+Taio Cruz Featuring Travie McCoy
+Higher
+42
+Taylor Swift
+Mine
+43
+Christina Perri
+Jar Of Hearts
+44
+Chris Brown Featuring Tyga & Kevin McCall
+Deuces
+45
+Rick Ross Featuring Drake & Chrisette Michele
+Aston Martin Music
+46
+Jason Aldean
+My Kinda Party
+47
+Tim McGraw
+Felt Good On My Lips
+48
+Kenny Chesney
+Somewhere With You
+49
+Michael Jackson Duet With Akon
+Hold My Hand
+50
+Dr. Dre Featuring Snoop Dogg & Akon
+Kush
+51
+Jeremih Featuring 50 Cent
+Down On Me
+52
+David Guetta Featuring Kid Cudi
+Memories
+53
+Plain White T's
+Rhythm of Love
+54
+Blake Shelton
+Who Are You When I'm Not Looking
+55
+Florence + The Machine
+Dog Days Are Over
+56
+Yolanda Be Cool & Dcup
+We No Speak Americano
+57
+Jason Aldean With Kelly Clarkson
+Don't You Wanna Stay
+58
+Victorious Cast Featuring Victoria Justice
+Freak The Freak Out
+59
+Flo Rida Featuring Akon
+Who Dat Girl
+60
+Trey Songz
+Can't Be Friends
+61
+Zac Brown Band Featuring Alan Jackson
+As She's Walking Away
+62
+Jamie Foxx Featuring Drake
+Fall For Your Type
+63
+Carrie Underwood
+Mama's Song
+64
+Birdman Featuring Lil Wayne
+Fire Flame
+65
+Brad Paisley
+This Is Country Music
+66
+3OH!3
+Hit It Again
+67
+Keith Urban
+Put You In A Song
+68
+T.I. Featuring Eminem
+That's All She Wrote
+69
+Nicki Minaj Featuring Drake
+Moment 4 Life
+70
+Linkin Park
+Waiting For The End
+71
+Lloyd
+Lay It Down
+72
+Billy Currington
+Let Me Down Easy
+73
+Usher
+More
+74
+Mumford & Sons
+Little Lion Man
+75
+Selena Gomez & The Scene
+A Year Without Rain
+76
+Kanye West Featuring Pusha T
+Runaway
+77
+Train
+Marry Me
+78
+Miranda Lambert
+Only Prettier
+79
+Sick Puppies
+Maybe
+80
+Chris Young
+Voices
+81
+Troop 41
+Do The John Wall
+82
+Reba
+Turn On The Radio
+83
+Twista Featuring Chris Brown
+Make A Movie
+84
+Nicki Minaj Featuring Eminem
+Roman's Revenge
+85
+B.o.B
+I Am The Champion
+86
+Bruno Mars
+Marry You
+87
+Thompson Square
+Are You Gonna Kiss Me Or Not
+88
+will.i.am & Nicki Minaj
+Check It Out
+89
+Jesse McCartney
+Shake
+90
+Chris Brown
+No BS
+91
+Brad Paisley
+Anything Like Me
+92
+George Strait
+The Breath You Take
+93
+Eric Church
+Smoke A Little Smoke
+94
+Lady Antebellum
+Hello World
+95
+Kid Cudi Featuring MGMT & Ratatat
+Pursuit Of Happiness (Nightmare)
+96
+Luke Bryan
+Someone Else Calling You Baby
+97
+Rascal Flatts
+Why Wait
+98
+Toby Keith
+Bullets In The Gun
+99
+Train
+Shake Up Christmas
+100
+Kanye West Featuring Jay-Z, Rick Ross, Bon Iver & Nicki Minaj
+Monster

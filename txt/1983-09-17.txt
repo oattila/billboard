@@ -1,0 +1,300 @@
+1
+Michael Sembello
+Maniac
+2
+Billy Joel
+Tell Her About It
+3
+Men Without Hats
+The Safety Dance
+4
+Bonnie Tyler
+Total Eclipse Of The Heart
+5
+Eurythmics
+Sweet Dreams (Are Made Of This)
+6
+The Police
+Every Breath You Take
+7
+Michael Jackson
+Human Nature
+8
+Taco
+Puttin' On The Ritz
+9
+Air Supply
+Making Love Out Of Nothing At All
+10
+Asia
+Don't Cry
+11
+Donna Summer
+She Works Hard For The Money
+12
+Stray Cats
+(she's) Sexy + 17
+13
+Jackson Browne
+Lawyers In Love
+14
+Frank Stallone
+Far From Over
+15
+Naked Eyes
+Promises, Promises
+16
+The Police
+King Of Pain
+17
+Spandau Ballet
+True
+18
+Culture Club
+I'll Tumble 4 Ya
+19
+Laura Branigan
+How Am I Supposed To Live Without You
+20
+The Human League
+(Keep Feeling) Fascination
+21
+Rick Springfield
+Human Touch
+22
+Men At Work
+It's A Mistake
+23
+Shalamar
+Dead Giveaway
+24
+David Bowie
+China Girl
+25
+Jeffrey Osborne
+Don't You Get So Mad
+26
+Kenny Rogers Duet With Dolly Parton
+Islands In The Stream
+27
+Elton John
+Kiss The Bride
+28
+Talking Heads
+Burning Down The House
+29
+The Fixx
+One Thing Leads To Another
+30
+Sheena Easton
+Telefone (long Distance Love Affair)
+31
+Juice Newton
+Tell Her No
+32
+Robert Plant
+Big Log
+33
+George Benson
+Lady Love Me (One More Time)
+34
+Peabo Bryson/Roberta Flack
+Tonight, I Celebrate My Love
+35
+Stevie Nicks
+Stand Back
+36
+The Kinks
+Don't Forget To Dance
+37
+Prince
+Delirious
+38
+Madness
+It Must Be Love
+39
+The Moody Blues
+Sitting At The Wheel
+40
+The Motels
+Suddenly Last Summer
+41
+Rick James
+Cold Blooded
+42
+Little River Band
+You're Driving Me Out Of My Mind
+43
+Rod Stewart
+What Am I Gonna Do (I'm So In Love With You)
+44
+Heart
+How Can I Refuse
+45
+Quarterflash
+Take Me To Heart
+46
+Bryan Adams
+This Time
+47
+Stevie Nicks
+If Anyone Falls
+48
+Elvis Costello And The Attractions
+Everyday I Write The Book
+49
+Bee Gees
+Someone Belonging To Someone
+50
+Agnetha Faltskog
+Can't Shake Loose
+51
+The Animals
+The Night
+52
+Sergio Mendes
+Rainbow's End
+53
+Eddy Grant
+I Don't Wanna Dance
+54
+Paul Anka
+Hold Me 'til The Mornin' Comes
+55
+Stacy Lattisaw
+Miracles
+56
+Loverboy
+Hot Girls In Love
+57
+Styx
+High Time
+58
+Journey
+After The Fall
+59
+Def Leppard
+Foolin'
+60
+Wham! U.K.
+Bad Boys
+61
+Donna Summer
+Unconditional Love
+62
+Lionel Richie
+All Night Long (All Night)
+63
+Joan Jett & the Blackhearts
+Everyday People
+64
+Ronnie Milsap
+Don't You Know How Much I Love You
+65
+The S.O.S. Band
+Just Be Good To Me
+66
+Duran Duran
+Is There Something I Should Know
+67
+Men At Work
+Dr. Heckyll & Mr. Jive
+68
+Midnight Star
+Freak-A-Zoid
+69
+Huey Lewis & The News
+Heart And Soul
+70
+Def Leppard
+Rock Of Ages
+71
+Kansas
+Fight Fire With Fire
+72
+David Bowie
+Modern Love
+73
+The Manhattan Transfer
+Spice Of Life
+74
+Irene Cara
+Flashdance...What A Feeling
+75
+Jim Capaldi
+Living On The Edge
+76
+Rita Coolidge
+All Time High
+77
+Bette Midler
+All I Need To Know
+78
+Electric Light Orchestra
+Rock 'n' Roll Is King
+79
+Sergio Mendes
+Never Gonna Let You Go
+80
+Herbie Hancock
+Rockit
+81
+Eurythmics
+Love Is A Stranger
+82
+Loverboy
+Queen Of The Broken Hearts
+83
+Jarreau
+Trouble In Paradise
+84
+F.R. David
+Words
+85
+Crystal Gayle
+Baby, What About You
+86
+Liquid Gold
+What's She Got
+87
+Eddie Rabbitt
+You Put The Beat In My Heart
+88
+Joboxers
+Just Got Lucky
+89
+Bob Seger & The Silver Bullet Band
+Old Time Rock & Roll
+90
+Commodores
+Only You
+91
+Big Ric
+Take Away
+92
+Quiet Riot
+Cum On Feel The Noize
+93
+Aretha Franklin
+Get It Right
+94
+Matthew Wilder
+Break My Stride
+95
+Anne Murray
+A Little Good News
+96
+ZZ Top
+Sharp Dressed Man
+97
+Club House
+Do It Again/Billie Jean
+98
+Chris de Burgh
+Ship To Shore
+99
+Kajagoogoo
+Hang On Now
+100
+Smokey Robinson & Barbara Mitchell
+Blame It On Love

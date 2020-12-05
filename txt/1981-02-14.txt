@@ -1,0 +1,300 @@
+1
+Kool & The Gang
+Celebration
+2
+Dolly Parton
+9 To 5
+3
+Eddie Rabbitt
+I Love A Rainy Night
+4
+Blondie
+The Tide Is High
+5
+Rod Stewart
+Passion
+6
+John Lennon
+Woman
+7
+John Lennon
+(Just Like) Starting Over
+8
+REO Speedwagon
+Keep On Loving You
+9
+Delbert McClinton
+Giving It Up For Your Love
+10
+Steely Dan
+Hey Nineteen
+11
+Dan Fogelberg
+Same Old Lang Syne
+12
+Styx
+The Best Of Times
+13
+Air Supply
+Every Woman In The World
+14
+Boz Scaggs
+Miss Sun
+15
+ABBA
+The Winner Takes It All
+16
+Stevie Wonder
+I Ain't Gonna Stand For It
+17
+Don McLean
+Crying
+18
+Diana Ross
+It's My Turn
+19
+Tierra
+Together
+20
+Neil Diamond
+Hello Again
+21
+Eagles
+Seven Bridges Road
+22
+The Jacksons
+Heartbreak Hotel
+23
+Cliff Richard
+A Little In Love
+24
+Pat Benatar
+Treat Me Right
+25
+Ronnie Milsap
+Smoky Mountain Rain
+26
+The Alan Parsons Project
+Games People Play
+27
+Neil Diamond
+Love On The Rocks
+28
+Barbra Streisand & Barry Gibb
+Guilty
+29
+Barry Manilow
+I Made It Through The Rain
+30
+Randy Meisner
+Hearts On Fire
+31
+Andy Gibb
+Time Is Time
+32
+Blondie
+Rapture
+33
+Daryl Hall John Oates
+Kiss On My List
+34
+Fred Knoblock & Susan Anton
+Killin' Time
+35
+Donnie Iris
+Ah! Leah!
+36
+Barbra Streisand & Barry Gibb
+What Kind Of Fool
+37
+The Police
+De Do Do Do, De Da Da Da
+38
+Leo Sayer
+Living In A Fantasy
+39
+AC/DC
+Back In Black
+40
+Outlaws
+(Ghost) Riders In The Sky
+41
+Bruce Springsteen
+Hungry Heart
+42
+Queen
+Flash's Theme Aka Flash
+43
+Pat Benatar
+Hit Me With Your Best Shot
+44
+Heart
+Tell It Like It Is
+45
+ConFunkShun
+Too Tight
+46
+Phil Seymour
+Precious To Me
+47
+Kenny Rogers
+Lady
+48
+Elvis Presley
+Guitar Man
+49
+Bruce Springsteen
+Fade Away
+50
+Firefall
+Staying With It
+51
+Michael Stanley Band
+He Can't Love You
+52
+Blues Brothers
+Who's Making Love
+53
+Terri Gibbs
+Somebody's Knockin'
+54
+L.T.D.
+Shine On
+55
+Peter Allen
+Fly Away
+56
+Olivia Newton-John & Cliff Richard
+Suddenly
+57
+The Police
+Don't Stand So Close To Me
+58
+Rita Coolidge
+Fool That I Am
+59
+Suzi Quatro
+Lipstick
+60
+Shalamar
+Full Of Fire
+61
+John Cougar
+Ain't Even Done With The Night
+62
+Leo Sayer
+More Than I Can Say
+63
+Steve Winwood
+While You See A Chance
+64
+Teddy Pendergrass
+Love T.K.O.
+65
+Glen Campbell
+I Don't Want To Know Your Name
+66
+The Association
+Dreamer
+67
+Lakeside
+Fantastic Voyage
+68
+Loverboy
+Turn Me Loose
+69
+Teena Marie
+I Need Your Lovin'
+70
+Queen
+Another One Bites The Dust
+71
+Stevie Wonder
+Master Blaster (Jammin')
+72
+Fleetwood Mac
+Fireflies
+73
+April Wine
+Just Between You And Me
+74
+Sheena Easton
+Morning Train (Nine To Five)
+75
+Yarbrough & Peoples
+Don't Stop The Music
+76
+Donna Summer
+Cold Love
+77
+Earth, Wind & Fire
+And Love Goes On
+78
+Slave
+Watching You
+79
+Spyro Gyra
+Cafe Amore
+80
+The Doobie Brothers
+One Step Closer
+81
+Touch
+Don't You Know What Love Is
+82
+The Doobie Brothers
+Keep This Train A-Rollin'
+83
+Grover Washington, Jr. With Bill Withers
+Just The Two Of Us
+84
+Champaign
+How 'bout Us
+85
+The Spinners
+Yesterday Once More/Nothing Remains The Same
+86
+Dire Straits
+Skateaway
+87
+The Whispers
+It's A Love Thing
+88
+McGuffey Lane
+Long Time Lovin' You
+89
+Smokey Robinson
+Being With You
+90
+The Joe Chemay Band
+Proud
+91
+Bette Midler
+My Mother's Eyes
+92
+Aretha Franklin
+United Together
+93
+Barbra Streisand
+Woman In Love
+94
+Devo
+Whip It
+95
+The Doobie Brothers
+Wynken, Blynken And Nod
+96
+Sugarhill Gang
+8th Wonder
+97
+Charles Fox
+Seasons
+98
+The Korgis
+Everybody's Got To Learn Sometime
+99
+Christopher Cross
+Never Be The Same
+100
+Waylon
+Theme From The Dukes Of Hazzard (Good Ol' Boys)

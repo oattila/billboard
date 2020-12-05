@@ -1,0 +1,300 @@
+1
+Manfred Mann
+Do Wah Diddy Diddy
+2
+Martha & The Vandellas
+Dancing In The Street
+3
+J. Frank Wilson and The Cavaliers
+Last Kiss
+4
+Gale Garnett
+We'll Sing In The Sunshine
+5
+Roy Orbison And The Candy Men
+Oh, Pretty Woman
+6
+The Supremes
+Baby Love
+7
+Chad & Jeremy
+A Summer Song
+8
+Betty Everett & Jerry Butler
+Let It Be Me
+9
+The Beach Boys
+When I Grow Up (To Be A Man)
+10
+The Honeycombs
+Have I The Right?
+11
+The Hondells
+Little Honda
+12
+Roger Miller
+Chug-A-Lug
+13
+Gene Pitney
+It Hurts To Be In Love
+14
+Dean Martin
+The Door Is Still Open To My Heart
+15
+The Nashville Teens
+Tobacco Road
+16
+Jay & The Americans
+Come A Little Bit Closer
+17
+Jan & Dean
+Ride The Wild Surf
+18
+The Shangri-Las
+Remember (Walkin' in the Sand)
+19
+The Impressions
+You Must Believe Me
+20
+The Shangri-Las
+Leader Of The Pack
+21
+Four Tops
+Baby I Need Your Loving
+22
+Joe Hinton
+Funny (How Time Slips Away)
+23
+The Newbeats
+Bread And Butter
+24
+The Animals
+I'm Crying
+25
+The Dave Clark Five
+Everybody Knows (I Still Love You)
+26
+Gerry And The Pacemakers
+I Like It
+27
+Peter And Gordon
+I Don't Want To See You Again
+28
+Andy Williams
+On The Street Where You Live
+29
+Frank Sinatra
+Softly, As I Leave You
+30
+Marvin Gaye
+Baby Don't You Do It
+31
+Willie Mitchell
+20-75
+32
+Elvis Presley
+Ain't That Loving You Baby
+33
+The Drifters
+I've Got Sand In My Shoes
+34
+The Temptations
+Girl (Why You Wanna Make Me Blue)
+35
+Don Covay & The Goodtimers
+Mercy, Mercy
+36
+Little Anthony And The Imperials
+I'm On The Outside (Looking In)
+37
+Sam Cooke
+Cousin Of Mine
+38
+Ronny And The Daytonas
+G.T.O.
+39
+Nat King Cole
+I Don't Want To See Tomorrow
+40
+The Kinks
+You Really Got Me
+41
+Tony Bennett
+Who Can I Turn To (When Nobody Needs Me)
+42
+Dusty Springfield
+All Cried Out
+43
+The Miracles
+That's What Love Is Made Of
+44
+Barbra Streisand
+Funny Girl
+45
+Brenda Lee
+Is It True
+46
+Sandy Nelson
+Teen Beat '65
+47
+The Kingsmen
+Death Of An Angel
+48
+Major Lance
+Rhythm
+49
+Del Shannon
+Do You Want To Dance
+50
+Billy J. Kramer With The Dakotas
+From A Window
+51
+The Jelly Beans
+Baby Be Mine
+52
+The Beatles
+Matchbox
+53
+Elvis Presley With The Jordanaires
+Ask Me
+54
+Ray Charles and his Orchestra
+Smack Dab In The Middle
+55
+The Butterflys
+Good Night Baby
+56
+Gene Chandler
+Bless Our Love
+57
+Brook Benton
+Lumberjack
+58
+Ruby And The Romantics
+When You're Young And In Love
+59
+Louis Armstrong
+So Long Dearie
+60
+Mitty Collier
+I Had A Talk With My Man
+61
+The Zombies
+She's Not There
+62
+The Beach Boys
+Wendy
+63
+Rufus Thomas
+Jump Back
+64
+Herman's Hermits
+I'm Into Something Good
+65
+The Rolling Stones
+Time Is On My Side
+66
+Billy Strange
+The James Bond Theme
+67
+Nancy Wilson
+I Wanna Be With You
+68
+Aretha Franklin
+Runnin' Out Of Fools
+69
+The Blendells
+La La La La La
+70
+The Velvelettes
+Needle In A Haystack
+71
+The Searchers
+When You Walk In The Room
+72
+Pat Boone
+Beach Girl
+73
+Bill Black's Combo
+Little Queenie
+74
+Gene Pitney
+I'm Gonna Be Strong
+75
+Ramsey Lewis Trio
+Something You Got
+76
+Garnet Mimms
+Look Away
+77
+Dionne Warwick
+Reach Out For Me
+78
+The Beach Boys
+Little Honda
+79
+Bobby Bland
+Ain't Doing Too Bad (Part 1)
+80
+The Ventures
+Slaughter On Tenth Avenue
+81
+Ronnie Dove
+Right Or Wrong
+82
+Connie Francis
+Don't Ever Leave Me
+83
+The Jewels
+Opportunity
+84
+Marvin Gaye & Kim Weston
+What Good Am I Without You
+85
+The Everly Brothers
+Gone, Gone, Gone
+86
+The Superbs
+Baby Baby All The Time
+87
+Al (He's the King) Hirt
+Up Above My Head (I Hear Music In The Air)
+88
+Mickey Lee Lane
+Shaggy Dog
+89
+The Dixie Cups
+You Should Have Seen The Way He Looked At Me
+90
+The Newbeats
+Everything's Alright
+91
+Sonny Knight
+If You Want This Love
+92
+Solomon Burke
+Yes I Do
+93
+Chuck Berry
+Little Marie
+94
+Lesley Gore
+Hey Now
+95
+The Ronettes
+Walking In The Rain
+96
+Maxine Brown
+Oh No Not My Baby
+97
+Otis Redding
+Chained And Bound
+98
+Vic Dana
+Garden In The Rain
+99
+Johnny Mathis
+Listen Lonely Girl
+100
+Robert Goulet
+My Love, Forgive Me (Amore, Scusami)

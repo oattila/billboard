@@ -1,0 +1,300 @@
+1
+Johnny Horton
+The Battle Of New Orleans
+2
+Paul Anka
+Lonely Boy
+3
+Lloyd Price and His Orchestra
+Personality
+4
+Bobby Darin
+Dream Lover
+5
+Connie Francis
+Lipstick On Your Collar
+6
+Stonewall Jackson
+Waterloo
+7
+Freddy Cannon
+Tallahassee Lassie
+8
+Frankie Avalon
+Bobby Sox To Stockings
+9
+Connie Francis
+Frankie
+10
+Fabian
+Tiger
+11
+The Coasters
+Along Came Jones
+12
+Frankie Avalon
+A Boy Without A Girl
+13
+Carl Dobkins, Jr.
+My Heart Is An Open Book
+14
+The Exotic Sounds of Martin Denny
+Quiet Village
+15
+Preston Epps
+Bongo Rock
+16
+The Flamingos
+I Only Have Eyes For You
+17
+Wilbert Harrison
+Kansas City
+18
+The Kingston Trio
+M.T.A.
+19
+Dion & The Belmonts
+A Teenager In Love
+20
+The Falcons
+You're So Fine
+21
+Dee Clark
+Just Keep It Up
+22
+The Mystics
+Hushabye
+23
+Duane Eddy And The Rebels
+Forty Miles Of Bad Road
+24
+Pat Boone
+Twixt Twelve And Twenty
+25
+Dinah Washington
+What A Diff'rence A Day Makes
+26
+The Skyliners
+This I Swear
+27
+Ray Peterson
+The Wonder Of You
+28
+The Drifters
+There Goes My Baby
+29
+The Fiestas
+So Fine
+30
+The Mickey Mozart Quintet
+Little Dipper
+31
+Sammy Turner
+Lavender-Blue
+32
+Sam Cooke
+Only Sixteen
+33
+Jackie Wilson
+I'll Be Satisfied
+34
+Tony Bellus
+Robbin' The Cradle
+35
+Franck Pourcel's French Fiddles
+Only You
+36
+Johnny And The Hurricanes
+Crossfire
+37
+Jimmie Rodgers
+Ring-A-Ling-A-Lario
+38
+Edward Byrnes & Connie Stevens
+Kookie, Kookie (Lend Me Your Comb)
+39
+Fats Domino
+I'm Ready
+40
+Jimmie Rodgers
+Wonderful You
+41
+Chuck Berry
+Back In The U.S.A.
+42
+Ricky Nelson
+Just A Little Too Much
+43
+Elvis Presley With The Jordanaires
+A Big Hunk O' Love
+44
+Billy Storm
+I've Come Of Age
+45
+Marty Robbins
+Cap And Gown
+46
+Al Martino
+I Can't Get You Out Of My Heart
+47
+Duane Eddy His Twangy Guitar And The Rebels
+The Quiet Three
+48
+The Wailers
+Tall Cool One
+49
+The Platters
+Remember When
+50
+Carl Mann
+Mona Lisa
+51
+Andre Previn With David Rose
+Like Young
+52
+Brook Benton
+Endlessly
+53
+Ricky Nelson
+Sweeter Than You
+54
+Gary Stites
+Lonely For You
+55
+Arthur Lyman
+Taboo
+56
+Ronnie Hawkins
+Forty Days
+57
+Perry Como
+I Know
+58
+Johnny Mathis
+Small World
+59
+Clyde McPhatter
+Since You've Been Gone
+60
+Patti Page
+With My Eyes Wide Open I'm Dreaming
+61
+Dave "Baby" Cortez
+The Whistling Organ
+62
+Addrisi Brothers
+Cherrystone
+63
+The Megatrons
+Velvet Waters
+64
+Big Jay McNeely And Band
+There Is Something On Your Mind
+65
+David Seville And The Chipmunks
+Ragtime Cowboy Joe
+66
+Little Bill and The Bluenotes
+I Love An Angel
+67
+Tommy Edwards
+My Melancholy Baby
+68
+Frank Sinatra "and a bunch of kids"
+High Hopes
+69
+Jerry Keller
+Here Comes Summer
+70
+Dave "Baby" Cortez
+The Happy Organ
+71
+The Impalas
+Sorry (I Ran All The Way Home)
+72
+Jacky Noguez And His Musette Orchestra
+Ciao, Ciao Bambina
+73
+Kathy Linden
+Goodbye Jimmy, Goodbye
+74
+Skip And Flip
+It Was I
+75
+Anita Bryant
+Till There Was You
+76
+Sheb Wooley
+Sweet Chile
+77
+Jack Scott
+The Way I Walk
+78
+Louis Prima And Keely Smith
+Bei Mir Bist Du Schön
+79
+The Crests featuring Johnny Mastro
+Flower Of Love
+80
+Sil Austin
+Danny Boy
+81
+Jimmy Darren
+Gidget
+82
+Ray Charles and his Orchestra
+What'd I Say (Part I & II)
+83
+The Four Coins
+One Love, One Heart
+84
+Carl Smith
+Ten Thousand Drums
+85
+Phil Phillips With The Twilights
+Sea Of Love
+86
+Hugo & Luigi
+La Plume De Ma Tante
+87
+Eddie and Betty
+Sweet Someone
+88
+Dodie Stevens
+Yes - Sir - ee
+89
+The Playmates
+What Is Love?
+90
+The Tempos
+See You In September
+91
+Bobby Rydell
+Kissin' Time
+92
+The Impalas
+Oh, What A Fool
+93
+Roger Smith
+Beach Time
+94
+The Fleetwoods
+Graduation's Here
+95
+Jackie Lee
+Happy Vacation
+96
+Annette
+Lonely Guitar
+97
+The Kalin Twins
+Sweet Sugar Lips
+98
+Bo Diddley
+Crackin Up
+99
+Little Anthony And The Imperials
+A Prayer And A Juke Box
+100
+Hot-Toddys featuring Bill Pennell
+Rockin' Crickets

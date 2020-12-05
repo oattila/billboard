@@ -1,0 +1,300 @@
+1
+Joan Jett & the Blackhearts
+I Love Rock 'N Roll
+2
+Journey
+Open Arms
+3
+Go-Go's
+We Got The Beat
+4
+Stevie Wonder
+That Girl
+5
+Air Supply
+Sweet Dreams
+6
+Olivia Newton-John
+Make A Move On Me
+7
+The J. Geils Band
+Centerfold
+8
+Vangelis
+Chariots Of Fire - Titles
+9
+Buckner & Garcia
+Pac-Man Fever
+10
+The J. Geils Band
+Freeze-frame
+11
+Bertie Higgins
+Key Largo
+12
+The Oak Ridge Boys
+Bobbie Sue
+13
+The Cars
+Shake It Up
+14
+Rick Springfield
+Don't Talk To Strangers
+15
+The Pointer Sisters
+Should I Do It
+16
+Bob & Doug McKenzie
+Take Off
+17
+Van Halen
+(oh) Pretty Woman
+18
+Huey Lewis & The News
+Do You Believe In Love
+19
+Stevie Nicks
+Edge Of Seventeen (Just Like The White Winged Dove)
+20
+Rod Stewart
+Tonight I'm Yours (Don't Hurt Me)
+21
+Quincy Jones Featuring James Ingram
+One Hundred Ways
+22
+Diana Ross
+Mirror, Mirror
+23
+Paul Davis
+'65 Love Affair
+24
+Quarterflash
+Find Another Fool
+25
+Sister Sledge
+My Guy
+26
+LeRoux
+Nobody Said It Was Easy (Lookin' For The Lights)
+27
+Neil Diamond
+On The Way To The Sky
+28
+Tommy Tutone
+867-5309/jenny
+29
+Greg Guidry
+Goin' Down
+30
+Foreigner
+Juke Box Hero
+31
+The Police
+Spirits In The Material World
+32
+Dan Fogelberg
+Leader Of The Band
+33
+Little River Band
+Take It Easy On Me
+34
+Cliff Richard
+Daddy's Home
+35
+Dr. Hook
+Baby Makes Her Blue Jeans Talk
+36
+ABBA
+When All Is Said And Done
+37
+Kenny Rogers
+Through The Years
+38
+Smokey Robinson
+Tell Me Tomorrow - Part I
+39
+Stevie Woods
+Just Can't Win 'em All
+40
+Charlene
+I've Never Been To Me
+41
+Mike Post
+Theme From Magnum P.i.
+42
+Irene Cara
+Anyone Can See
+43
+Meco
+Pop Goes The Movies Part I
+44
+Alabama
+Love In The First Degree
+45
+Junior
+Mama Used To Say
+46
+Daryl Hall John Oates
+Did It In A Minute
+47
+George Duke
+Shine On
+48
+Kool & The Gang
+Get Down On It
+49
+Tom Tom Club
+Genius Of Love
+50
+Prism
+Don't Let Him Know
+51
+Sammy Hagar
+I'll Fall In Love Again
+52
+Barbra Streisand
+Memory
+53
+Roberta Flack
+Making Love
+54
+George Benson
+Never Give Up On A Good Thing
+55
+Anne Murray
+Another Sleepless Night
+56
+Sugarhill Gang
+Apache
+57
+Daryl Hall John Oates
+I Can't Go For That (No Can Do)
+58
+John Denver
+Shanghai Breezes
+59
+The Human League
+Don't You Want Me
+60
+Willie Nelson
+Always On My Mind
+61
+A Taste Of Honey
+I'll Try Something New
+62
+Survivor
+Summer Nights
+63
+Sneaker
+Don't Let Me In
+64
+Soft Cell
+Tainted Love
+65
+David Lasley
+If I Had My Wish Tonight
+66
+Ray Parker Jr.
+The Other Woman
+67
+The Rolling Stones
+Hang Fire
+68
+Glass Moon
+On A Carousel
+69
+Elton John
+Empty Garden (Hey Hey Johnny)
+70
+The Beatles
+The Beatles' Movie Medley
+71
+Fred Parris & The Five Satins
+Memories Of Days Gone By
+72
+Barry Manilow
+Let's Hang On
+73
+Genesis
+Man On The Corner
+74
+The Boys Band
+Don't Stop Me Baby (I'm On Fire)
+75
+The Charlie Daniels Band
+Still In Saigon
+76
+Quarterflash
+Harden My Heart
+77
+Skyy
+Call Me
+78
+The Cars
+Since You're Gone
+79
+Sheena Easton
+You Could Have Been With Me
+80
+Aldo Nova
+Fantasy
+81
+Aurra
+Make Up Your Mind
+82
+O'Bryan
+The Gigolo
+83
+Duke Jupiter
+I'll Drink To You
+84
+Shooting Star
+Hollywood
+85
+Stars On
+Stars on 45 III
+86
+Carole King
+One To One
+87
+Pia Zadora
+I'm In Love Again
+88
+Donnie Iris
+My Girl
+89
+Larry Carlton
+Sleepwalk
+90
+Atlantic Starr
+Circles
+91
+Eddie Schwartz
+Over The Line
+92
+Laura Branigan
+All Night With Me
+93
+Gene Cotton
+If I Could Get You (into my Life)
+94
+Chilliwack
+I Believe
+95
+Olivia Newton-John
+Physical
+96
+Barry Manilow
+Somewhere Down The Road
+97
+Juice Newton
+The Sweetest Thing (I've Ever Known)
+98
+Genesis
+Abacab
+99
+Peabo Bryson
+Let The Feeling Flow
+100
+Loverboy
+Working For The Weekend

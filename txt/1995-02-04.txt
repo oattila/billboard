@@ -1,0 +1,300 @@
+1
+TLC
+Creep
+2
+Boyz II Men
+On Bended Knee
+3
+Real McCoy
+Another Night
+4
+Madonna
+Take A Bow
+5
+Bon Jovi
+Always
+6
+Des'ree
+You Gotta Be
+7
+BLACKstreet
+Before I Let You Go
+8
+4PM
+Sukiyaki
+9
+Ini Kamoze
+Here Comes The Hotstepper (From "Ready To Wear")
+10
+Melissa Etheridge
+I'm The Only One
+11
+Corona
+The Rhythm Of The Night
+12
+Hootie & The Blowfish
+Hold My Hand
+13
+Tom Petty
+You Don't Know How It Feels
+14
+Brandy
+I Wanna Be Down
+15
+Soul For Real
+Candy Rain
+16
+Immature
+Constantly
+17
+Brownstone
+If You Love Me
+18
+Vanessa Williams
+The Sweetest Days
+19
+R.E.M.
+Bang And Blame
+20
+Jade
+Every Day Of The Week
+21
+Janet Jackson
+You Want This/70's Love Groove
+22
+Boyz II Men
+I'll Make Love To You
+23
+69 Boyz
+Tootsee Roll
+24
+Sheryl Crow
+Strong Enough
+25
+20 Fingers Featuring Gillette
+Short Dick Man
+26
+The Notorious B.I.G.
+Big Poppa/Warning
+27
+Sheryl Crow
+All I Wanna Do
+28
+Pretenders
+I'll Stand By You
+29
+Crystal Waters
+100% Pure Love
+30
+Gloria Estefan
+Turn The Beat Around (From "The Specialist")
+31
+Madonna
+Secret
+32
+Jon Secada
+Mental Picture
+33
+N2U
+I Miss You
+34
+Toni Braxton
+I Belong To You/How Many Ways
+35
+Barry White
+Practice What You Preach
+36
+Martin Page
+In The House Of Stone And Light
+37
+Deadeye Dick
+New Age Girl (From "Dumb And Dumber")
+38
+Changing Faces
+Foolin' Around
+39
+Andru Donalds
+Mishale
+40
+John Mellencamp With Me'Shell Ndegeocello
+Wild Night
+41
+Babyface
+When Can I See You
+42
+Mary J. Blige
+Be Happy
+43
+Amy Grant With Vince Gill
+House Of Love
+44
+The 4 Seasons
+December 1963 (Oh, What A Night)
+45
+Dionne Farris
+I Know
+46
+Craig Mack
+Get Down
+47
+2 Unlimited
+Get Ready For This
+48
+Zhane
+Shame (From "A Low Down Dirty Shame")
+49
+R.E.M.
+What's The Frequency, Kenneth?
+50
+Sting
+When We Dance
+51
+Rappin' 4-Tay
+Playaz Club
+52
+Ace Of Base
+Living In Danger
+53
+Scarface
+I Never Seen A Man Cry (aka I Seen A Man Die)
+54
+Freedy Johnston
+Bad Reputation
+55
+Method Man
+Bring The Pain
+56
+69 Boyz
+Kitty Kitty
+57
+Gloria Estefan
+Everlasting Love
+58
+Warren G
+Do You See
+59
+Luther Vandross
+Always And Forever
+60
+Brandy
+Baby
+61
+Nine
+Whutcha Want?
+62
+Capleton
+Tour
+63
+The Flaming Lips
+She Don't Use Jelly
+64
+Subway (Featuring 702)
+This Lil' Game We Play
+65
+Willi One Blood
+Whiney, Whiney (From "Dumb And Dumber")
+66
+Dru Down
+Pimp Of The Year
+67
+Harry Connick, Jr.
+(I Could Only) Whisper Your Name
+68
+Lil Suzy
+Promise Me
+69
+Too $hort
+Cocktales
+70
+Hole
+Doll Parts
+71
+Vicious
+Nika
+72
+Jamie Walters
+Hold On
+73
+Tevin Campbell
+Don't Say Goodbye Girl
+74
+Toad The Wet Sprocket
+Something's Always Wrong
+75
+Channel Live
+Mad Izm
+76
+Aaliyah
+Age Ain't Nothing But A Number
+77
+All-4-One
+(She's Got) Skillz
+78
+Anita Baker
+I Apologize
+79
+Livin' Joy
+Dreamer
+80
+Fu-Schnickens
+Breakdown
+81
+John Mellencamp
+Dance Naked
+82
+B.M.U. (Black Men United)
+U Will Know (From "Jason's Lyric")
+83
+Jewell
+Woman To Woman
+84
+Pete Rock & C.L. Smooth
+Take You There
+85
+Guns N' Roses
+Sympathy For The Devil ("Interview With The Vampire")
+86
+Keith Murray
+The Most Beautifullest Thing In This World
+87
+Silk
+I Can Go Deep (From "A Low Down Dirty Shame")
+88
+Group Home
+Supa Star
+89
+Max-A-Million
+Fat Boy
+90
+Aerosmith
+Blind Man
+91
+Heavy D & The Boyz
+Black Coffee
+92
+Da Brat
+Fa All Y'all
+93
+Aimee Mann
+That's Just What You Are
+94
+Jeff Foxworthy
+Redneck Stomp
+95
+Lords Of The Underground
+Tic Toc
+96
+Lucas
+Lucas With The Lid Off
+97
+Celine Dion
+Only One Road
+98
+Reba McEntire
+Till You Love Me
+99
+Shaquille O'Neal
+Biological Didn't Bother
+100
+Nuttin' Nyce
+Down 4 Whateva (From "A Low Down Dirty Shame")

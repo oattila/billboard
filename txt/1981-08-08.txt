@@ -1,0 +1,300 @@
+1
+Rick Springfield
+Jessie's Girl
+2
+Diana Ross & Lionel Richie
+Endless Love
+3
+Joey Scarbury
+Theme From "Greatest American Hero" (Believe It or Not)
+4
+Kenny Rogers
+I Don't Need You
+5
+The Oak Ridge Boys
+Elvira
+6
+The Pointer Sisters
+Slow Hand
+7
+The Manhattan Transfer
+Boy From New York City
+8
+Marty Balin
+Hearts
+9
+Juice Newton
+Queen Of Hearts
+10
+Air Supply
+The One That You Love
+11
+Ronnie Milsap
+(There's) No Gettin' Over Me
+12
+Kim Carnes
+Bette Davis Eyes
+13
+Daryl Hall John Oates
+You Make My Dreams
+14
+Commodores
+Lady (You Bring Me Up)
+15
+The Alan Parsons Project
+Time
+16
+Carpenters
+Touch Me When We're Dancing
+17
+John Schneider
+It's Now Or Never
+18
+Billy Squier
+The Stroke
+19
+Stanley Clarke/George Duke
+Sweet Baby
+20
+Foreigner
+Urgent
+21
+Phil Collins
+In The Air Tonight
+22
+Journey
+Who's Crying Now
+23
+Pablo Cruise
+Cool Love
+24
+REO Speedwagon
+Don't Let Him Go
+25
+Stevie Nicks With Tom Petty And The Heartbreakers
+Stop Draggin' My Heart Around
+26
+Pat Benatar
+Fire And Ice
+27
+Greg Kihn Band
+The Breakup Song (They Don't Write 'Em)
+28
+The Moody Blues
+Gemini Dream
+29
+Gary Wright
+Really Wanna Know You
+30
+Alabama
+Feels So Right
+31
+Frankie Smith
+Double Dutch Bus
+32
+Robbie Patton
+Don't Give It Up
+33
+Jim Steinman
+Rock And Roll Dreams Come Through
+34
+Stacy Lattisaw
+Love On A Two Way Street
+35
+The Tubes
+Don't Want To Wait Anymore
+36
+Franke & The Knockouts
+You're My Girl
+37
+Rex Smith/Rachel Sweet
+Everlasting Love
+38
+Eddie Rabbitt
+Step By Step
+39
+Electric Light Orchestra
+Hold On Tight
+40
+Ray Parker Jr. & Raydio
+That Old Song
+41
+Gino Vannelli
+Nightwalker
+42
+George Harrison
+All Those Years Ago
+43
+Blackfoot
+Fly Away
+44
+Stars On 45
+Medley
+45
+The Beach Boys
+The Beach Boys Medley
+46
+Balance
+Breaking Away
+47
+Point Blank
+Nicole
+48
+Jefferson Starship
+Stranger
+49
+Sheena Easton
+Modern Girl
+50
+Ray Parker Jr. & Raydio
+A Woman Needs Love (Just Like You Do)
+51
+Rosanne Cash
+Seven Year Ache
+52
+Gary U.S. Bonds
+This Little Girl
+53
+Rush
+Tom Sawyer
+54
+Styx
+Nothing Ever Goes As Planned
+55
+Neil Diamond
+America
+56
+The Moody Blues
+The Voice
+57
+Climax Blues Band
+I Love You
+58
+Silver Condor
+You Could Take My Heart Away
+59
+Lulu
+I Could Never Miss You (More Than I Do)
+60
+Mickey Gilley
+You Don't Know Me
+61
+Sheena Easton
+For Your Eyes Only
+62
+Teena Marie
+Square Biz
+63
+The Afternoon Delights
+General Hospi-tale
+64
+Don Felder
+Heavy Metal (Takin' A Ride)
+65
+Gary U.S. Bonds
+Jolé Blon
+66
+Elton John
+Chloe
+67
+Stars On 45
+Medley II
+68
+Pure Prairie League
+You're Mine Tonight
+69
+John Denver
+Some Days Are Diamonds (Some Days Are Stone)
+70
+Gary O'
+Pay You Back With Interest
+71
+Evelyn King
+I'm In Love
+72
+Kim Carnes
+Draw Of The Cards
+73
+Squeeze
+Tempted
+74
+Rick James
+Super Freak (Part I)
+75
+Santana
+The Sensitive Kind
+76
+Mac Davis
+Secrets
+77
+Icehouse
+We Can Get Together
+78
+Al Jarreau
+We're In This Love Together
+79
+The Allman Brothers Band
+Straight From The Heart
+80
+Tom Petty And The Heartbreakers
+A Woman In Love (It's Not Me)
+81
+The Cantina Band (featuring Lou Christie)
+Summer '81 medley
+82
+REO Speedwagon
+In Your Letter
+83
+Art Garfunkel
+A Heart In New York
+84
+Michael Stanley Band
+Falling In Love Again
+85
+Don McLean
+It's Just The Sun
+86
+Larry John McNally
+Just Like Paradise
+87
+Bernadette Peters
+Dedicated To The One I Love
+88
+Cheryl Lynn
+Shake It Up Tonight
+89
+Change
+Hold Tight
+90
+Nielsen/Pearson
+The Sun Ain't Gonna Shine Anymore
+91
+A Taste Of Honey
+Sukiyaki
+92
+Carole Bayer Sager
+Stronger Than Before
+93
+Rick James
+Give It To Me Baby
+94
+Joe Walsh
+A Life Of Illusion
+95
+Santana
+Winning
+96
+Lee Ritenour
+Is It You
+97
+38 Special
+Fantasy Girl
+98
+Randy VanWarmer
+Suzi
+99
+Dottie West with Kenny Rogers
+What Are We Doin' In Love
+100
+Stephanie Mills Featuring Teddy Pendergrass
+Two Hearts

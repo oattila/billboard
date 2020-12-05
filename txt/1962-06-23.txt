@@ -1,0 +1,300 @@
+1
+Ray Charles
+I Can't Stop Loving You
+2
+David Rose and His Orchestra
+The Stripper
+3
+Freddy Cannon
+Palisades Park
+4
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+5
+Mr. Acker Bilk
+Stranger On The Shore
+6
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+7
+The Marvelettes
+Playboy
+8
+Johnny Crawford
+Cindy's Birthday
+9
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+10
+Connie Francis
+Second Hand Love
+11
+Joe Henderson
+Snap Your Fingers
+12
+Emilio Pericoli
+Al Di La'
+13
+Mary Wells
+The One Who Really Loves You
+14
+Dion
+Lovers Who Wander
+15
+Elvis Presley
+Follow That Dream
+16
+Bobby Vinton
+Roses Are Red (My Love)
+17
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+18
+Bobby Vee
+Sharing You
+19
+Ben E. King
+Don't Play That Song (You Lied)
+20
+Claude King
+Wolverton Mountain
+21
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+22
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+23
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+24
+The Volume's
+I Love You
+25
+George Maharis
+Teach Me Tonight
+26
+Joanie Sommers
+Johnny Get Angry
+27
+The Castells
+So This Is Love
+28
+Valjean on Piano
+Theme From Ben Casey
+29
+Sam Cooke
+Having A Party
+30
+The Orlons
+The Wah Watusi
+31
+Bobby Rydell
+I'll Never Dance Again
+32
+The Shirelles
+Soldier Boy
+33
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+34
+Dee Dee Sharp
+Gravy (For My Mashed Potatoes)
+35
+Jimmy Soul
+Twistin' Matilda (and the channel)
+36
+Dinah Washington
+Where Are You
+37
+Roy Orbison
+The Crowd
+38
+The Blue-Belles
+I Sold My Heart To The Junkman
+39
+The Dovells
+Bristol Twistin' Annie
+40
+Dee Dee Sharp
+Mashed Potato Time
+41
+Bobby Curtola
+Fortuneteller
+42
+Brian Hyland
+Sealed With A Kiss
+43
+The Miracles
+I'll Try Something New
+44
+Earl Grant
+Swingin' Gently
+45
+Ernie Maresca
+Shout! Shout! (Knock Yourself Out)
+46
+Ray Charles
+Born To Lose
+47
+Toni Fisher
+West Of The Wall
+48
+Shelley Fabares
+Johnny Loves Me
+49
+The Lettermen
+How Is Julie?
+50
+The Crystals
+Uptown
+51
+Clyde McPhatter
+Little Bitty Pretty One
+52
+Peter, Paul & Mary
+Lemon Tree
+53
+Brenda Lee
+Everybody Loves Me But You
+54
+James Brown And The Famous Flames
+Night Train
+55
+Connie Stevens
+Why'd You Wanna Make Me Cry
+56
+The Marketts
+Balboa Blue
+57
+Pat Boone
+Speedy Gonzales
+58
+The Champs
+Limbo Rock
+59
+The Isley Brothers
+Twist And Shout
+60
+Patsy Cline
+When I Get Thru With You (You'll Love Me Too)
+61
+Brook Benton
+Hit Record
+62
+Arthur Alexander
+Where Have You Been (All My Life)
+63
+Don Gardner And Dee Dee Ford
+I Need Your Loving
+64
+Teddy & The Twilights
+Woman Is A Man's Best Friend
+65
+Paul Petersen
+Keep Your Love Locked (Deep In Your Heart)
+66
+Andy Williams
+Stranger On The Shore
+67
+Bert Kaempfert And His Orchestra
+That Happy Feeling
+68
+Gary U.S. Bonds
+Seven Day Weekend
+69
+Eddie Hodges
+(Girls, Girls, Girls) Made To Love
+70
+Bertha Tillman
+Oh My Angel
+71
+Fats Domino
+My Real Name
+72
+Jan & Dean
+Tennessee
+73
+Jimmy Norman
+I Don't Love You No More (I Don't Care About You)
+74
+John Lee Hooker
+Boom Boom
+75
+Little Joey And The Flips
+Bongo Stomp
+76
+Barbara Lynn
+You'll Lose A Good Thing
+77
+Mickey Shorr and The Cutups
+Dr. Ben Basey
+78
+Chubby Checker
+Dancin' Party
+79
+Rene And Ray
+Queen Of My Heart
+80
+Ketty Lester
+But Not For Me
+81
+Jimmy Reed
+Good Lover
+82
+Sue Thompson
+Have A Good Time
+83
+Lawrence Welk And His Orchestra
+Baby Elephant Walk
+84
+Nelson Riddle
+Route 66 Theme
+85
+Solomon Burke
+Down In The Valley
+86
+Linda Scott
+Never In A Million Years
+87
+Dr. Feelgood And The Interns
+Doctor Feel-Good
+88
+The Shirelles
+Welcome Home Baby
+89
+Janie Grant
+That Greasy Kid Stuff
+90
+Joe Dowell
+Little Red Rented Rowboat
+91
+Kenny Ball and his Jazzmen
+The Green Leaves Of Summer
+92
+Jim Reeves
+Adios Amigo
+93
+The Miniature Men
+Baby Elephant Walk
+94
+Sam Cooke
+Bring It On Home To Me
+95
+The Jamies
+Summertime, Summertime
+96
+Jimmy Dean
+Steel Men
+97
+The Kingston Trio
+Scotch And Soda
+98
+Ferrante & Teicher
+Lisa
+99
+Ray And Bob
+Air Travel
+100
+Ruth Brown
+Shake A Hand

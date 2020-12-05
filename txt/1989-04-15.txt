@@ -1,0 +1,300 @@
+1
+Fine Young Cannibals
+She Drives Me Crazy
+2
+Roxette
+The Look
+3
+Madonna
+Like A Prayer
+4
+The Bangles
+Eternal Flame
+5
+Milli Vanilli
+Girl You Know It's True
+6
+R.E.M.
+Stand
+7
+Tone-Loc
+Funky Cold Medina
+8
+Karyn White
+Superwoman
+9
+Roy Orbison
+You Got It
+10
+Poison
+Your Mama Don't Dance
+11
+Bon Jovi
+I'll Be There For You
+12
+Deon Estus With George Michael
+Heaven Help Me
+13
+Vanessa Williams
+Dreamin'
+14
+Thirty Eight Special
+Second Chance
+15
+Def Leppard
+Rocket
+16
+Animotion
+Room To Move
+17
+Rod Stewart
+My Heart Can't Tell You No
+18
+Sweet Sensation (With Romeo J.D.)
+Sincerely Yours
+19
+SaFire
+Thinking Of You
+20
+Cher & Peter Cetera
+After All (Love Theme From "Chances Are")
+21
+Jody Watley
+Real Love
+22
+Paula Abdul
+Forever Your Girl
+23
+Was (Not Was)
+Walk The Dinosaur
+24
+Enya
+Orinoco Flow (Sail Away)
+25
+Mike + The Mechanics
+The Living Years
+26
+Living Colour
+Cult Of Personality
+27
+The Belle Stars
+Iko Iko (From "Rain Man")
+28
+Debbie Gibson
+Lost In Your Eyes
+29
+Michael Damian
+Rock On (From "Dream A Little Dream")
+30
+Donny Osmond
+Soldier Of Love
+31
+Debbie Gibson
+Electric Youth
+32
+Stevie B
+I Wanna Be The One
+33
+Winger
+Seventeen
+34
+Howard Jones
+Everlasting Love
+35
+Bette Midler
+Wind Beneath My Wings (From "Beaches")
+36
+Johnny Kemp
+Birthday Suit (From "Sing")
+37
+Metallica
+One
+38
+Bobby Brown
+Every Little Step
+39
+Anita Baker
+Just Because
+40
+Tommy Page
+A Shoulder To Cry On
+41
+New Kids On The Block
+I'll Be Loving You (Forever)
+42
+Lita Ford (Duet With Ozzy Osbourne)
+Close My Eyes Forever
+43
+Jimmy Harnen With Synch
+Where Are You Now?
+44
+Guns N' Roses
+Patience
+45
+Martika
+More Than You Know
+46
+Chicago
+You're Not Alone
+47
+New Kids On The Block
+You Got It (The Right Stuff)
+48
+Paula Abdul
+Straight Up
+49
+Carly Simon
+Let The River Run (Theme From "Working Girl")
+50
+Guns N' Roses
+Paradise City
+51
+Samantha Fox
+I Only Wanna Be With You
+52
+The Outfield
+Voices Of Babylon
+53
+The Pasadenas
+Tribute (Right On)
+54
+Steve Winwood
+Hearts On Fire
+55
+Dino
+24/7
+56
+Aretha Franklin & Elton John
+Through The Storm
+57
+Breathe
+Don't Tell Me Lies
+58
+Bobby Brown
+Roni
+59
+Tone-Loc
+Wild Thing
+60
+One 2 Many
+Downtown
+61
+Neneh Cherry
+Buffalo Stance
+62
+Waterfront
+Cry
+63
+Kon Kan
+I Beg Your Pardon
+64
+Robbie Nevil
+Somebody Like You
+65
+Tiffany
+Radio Romance
+66
+Eddie Money
+The Love In Your Eyes
+67
+Peter Schilling
+The Different Story (World Of Lust And Crime)
+68
+The Fixx
+Driven Out
+69
+Simply Red
+It's Only Love
+70
+Vixen
+Cryin'
+71
+Edie Brickell & New Bohemians
+Circle
+72
+U2 With B.B. King
+When Love Comes To Town
+73
+Chris Rea
+Working On It
+74
+Cinderella
+Coming Home
+75
+Natalie Cole
+Miss You Like Crazy
+76
+The Replacements
+I'll Be You
+77
+Ann Wilson & Robin Zander
+Surrender To Me (From "Tequila Sunrise")
+78
+Information Society
+Repetition
+79
+Sheena Easton
+The Lover In Me
+80
+Van Halen
+Feels So Good
+81
+Lisa Lisa And Cult Jam
+Little Jackie Wants To Be A Star
+82
+Easterhouse
+Come Out Fighting
+83
+Figures On A Beach
+You Ain't Seen Nothing Yet
+84
+Sheriff
+When I'm With You
+85
+Inner City
+Good Life
+86
+New Edition
+Can You Stand The Rain
+87
+Duran Duran
+Do You Believe In Shame?
+88
+The Escape Club
+Walking Through Walls
+89
+Rick Astley
+Giving Up On Love
+90
+Gina Go-Go
+I Can't Face The Fact
+91
+Eighth Wonder
+Baby Baby
+92
+Choirboys
+Run To Paradise
+93
+Sam Brown
+Stop
+94
+Melissa Etheridge
+Similar Features
+95
+Surface
+Closer Than Friends
+96
+Samantha Fox
+I Wanna Have Some Fun
+97
+Roachford
+Cuddly Toy (Feel For Me)
+98
+Luther Vandross
+She Won't Talk To Me
+99
+The Boys
+Dial My Heart
+100
+Rick Astley
+She Wants To Dance With Me

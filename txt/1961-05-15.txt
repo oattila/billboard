@@ -1,0 +1,300 @@
+1
+Del Shannon
+Runaway
+2
+Ernie K-Doe
+Mother-In-Law
+3
+Gene McDaniels
+A Hundred Pounds Of Clay
+4
+Linda Scott
+I've Told Every Little Star
+5
+Shep And The Limelites
+Daddy's Home
+6
+Brenda Lee
+You Can Depend On Me
+7
+The Marcels
+Blue Moon
+8
+Ricky Nelson
+Travelin' Man
+9
+The Shirelles
+Mama Said
+10
+Adam Wade
+Take Good Care Of Her
+11
+Connie Francis
+Breakin' In A Brand New Broken Heart
+12
+Steve Lawrence
+Portrait Of My Love
+13
+Ray Charles
+One Mint Julep
+14
+Elvis Presley With The Jordanaires
+Flaming Star
+15
+Ricky Nelson
+Hello Mary Lou
+16
+Roy Orbison
+Running Scared
+17
+Floyd Cramer
+On The Rebound
+18
+The Tokens
+Tonight I Fell In Love
+19
+Al Caiola And His Orchestra
+Bonanza
+20
+The McGuire Sisters
+Just For Old Time's Sake
+21
+Clarence Henry
+But I Do
+22
+The Fleetwoods
+Tragedy
+23
+Neil Sedaka
+Little Devil
+24
+Ral Donner
+Girl Of My Best Friend
+25
+Maxine Brown
+Funny
+26
+Faron Young
+Hello Walls
+27
+Chubby Checker
+(Dance The) Mess Around
+28
+B. Bumble & The Stingers
+Bumble Boogie
+29
+The Echoes
+Baby Blue
+30
+Paul Anka
+Tonight My Love, Tonight
+31
+Bobby Rydell
+That Old Black Magic
+32
+The Drifters
+Some Kind Of Wonderful
+33
+Hank Ballard And The Midnighters
+The Continental Walk
+34
+Jerry Lee Lewis And His Pumping Piano
+What'd I Say
+35
+Frank Gari
+Lullaby Of Love
+36
+Janie Grant
+Triangle
+37
+Kokomo
+Asia Minor
+38
+The Chimes
+I'm In The Mood For Love
+39
+Jorgen Ingmann & His Guitar
+Apache
+40
+LaVern Baker
+Saved
+41
+Ben E. King
+Stand By Me
+42
+Johnny Maestro The Voice Of The Crests
+What A Surprise
+43
+Elvis Presley
+I Feel So Bad
+44
+Eddie Harris
+Exodus
+45
+Dickie Goodman
+The Touchables In Brooklyn
+46
+Chuck Jackson
+(It Never Happens) In Real Life
+47
+Chubby Checker
+Good, Good Lovin'
+48
+The Marathons
+Peanut Butter
+49
+The Frogmen
+Underwater
+50
+Cathy Jean and The Roommates
+Please Love Me Forever
+51
+Dee Clark
+Raindrops
+52
+Joe Barry
+I'm A Fool To Care
+53
+The Roommates
+Glory Of Love
+54
+Pat Boone
+Moody River
+55
+Bobby Lewis
+Tossin' And Turnin'
+56
+Paris Sisters
+Be My Boy
+57
+Little Caesar and The Romans
+Those Oldies But Goodies (Remind Me Of You)
+58
+The Edsels
+Rama Lama Ding Dong
+59
+The Regents
+Barbara-Ann
+60
+Kay Starr
+Foolin' Around
+61
+Don Costa And His Orchestra And Chorus
+Never On Sunday
+62
+Freddy Cannon
+Buzz Buzz A-Diddle-It
+63
+Andy Williams
+The Bilbao Song
+64
+Piero Soffici
+That's The Way With Love
+65
+Russell Byrd
+You'd Better Come Home
+66
+Cannonball Adderley Orchestra
+African Waltz
+67
+Gogi Grant
+The Wayward Wind
+68
+The Coasters
+Little Egypt (Ying-Yang)
+69
+The Ventures
+Lullaby Of The Leaves
+70
+Roy Drusky
+Three Hearts In A Tangle
+71
+Carla Thomas
+A Love Of My Own
+72
+Tony Orlando
+Halfway To Paradise
+73
+Johnny Burnette
+Big Big World
+74
+The Timetones
+In My Heart
+75
+Donnie and The Dreamers
+Count Every Star
+76
+Clarence Henry
+You Always Hurt The One You Love
+77
+Adam Wade
+The Writing On The Wall
+78
+Little Willie John
+(I've Got) Spring Fever
+79
+The Starlets
+Better Tell Him No
+80
+Jerry Fuller
+Shy Away
+81
+Pips
+Every Beat Of My Heart
+82
+Dion
+Kissin Game
+83
+Gladys Knight And The Pips
+Every Beat Of My Heart
+84
+Lenny Miles
+In Between Tears
+85
+James Brown And The Famous Flames
+I Don't Mind
+86
+The Blossoms
+Son-In-Law
+87
+The New Yorkers
+Miss Fine
+88
+Louise Brown
+Son-In-Law
+89
+Jimmy Witter
+A Cross Stands Alone
+90
+Brook Benton
+The Boll Weevil Song
+91
+Anita Bryant
+I Can't Do It By Myself
+92
+Roy Hamilton
+You're Gonna Need Magic
+93
+Dinah Washington
+Our Love Is Here To Stay
+94
+Fats Domino
+It Keeps Rainin'
+95
+The Wanderers
+For Your Love
+96
+The Harptones
+What Will I Tell My Heart
+97
+Lale Anderson
+(A Ship Will Come) Ein Schiff Wird Kommen
+98
+Paul Peek
+Brother-In-Law (He's A Moocher)
+99
+The Dukays
+The Girl's A Devil
+100
+Wyatt (Earp) McPherson
+Here's My Confession

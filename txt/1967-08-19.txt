@@ -1,0 +1,300 @@
+1
+The Beatles
+All You Need Is Love
+2
+The Doors
+Light My Fire
+3
+The Monkees
+Pleasant Valley Sunday
+4
+Stevie Wonder
+I Was Made To Love Her
+5
+Aretha Franklin
+Baby I Love You
+6
+The Buckinghams
+Mercy, Mercy, Mercy
+7
+Bobbie Gentry
+Ode To Billie Joe
+8
+James Brown And The Famous Flames
+Cold Sweat - Part 1
+9
+Procol Harum
+A Whiter Shade Of Pale
+10
+The Young Rascals
+A Girl Like You
+11
+The Tremeloes
+Silence Is Golden
+12
+The Hollies
+Carrie-Anne
+13
+The Happenings
+My Mammy
+14
+Frankie Valli
+Can't Take My Eyes Off You
+15
+The Monkees
+Words
+16
+The Association
+Windy
+17
+The Beach Boys
+Heroes And Villains
+18
+Bee Gees
+To Love Somebody
+19
+Neil Diamond
+Thank The Lord For The Night Time
+20
+Diana Ross & The Supremes
+Reflections
+21
+The Temptations
+You're My Everything
+22
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+23
+Linda Jones
+Hypnotized
+24
+Jay And The Techniques
+Apples, Peaches, Pumpkin Pie
+25
+Jefferson Airplane
+White Rabbit
+26
+The Music Explosion
+Little Bit O' Soul
+27
+Bobby Vee And The Strangers
+Come Back When You Grow Up
+28
+Simon & Garfunkel
+Fakin' It
+29
+Smokey Robinson & The Miracles
+More Love
+30
+The Parliaments
+(I Wanna) Testify
+31
+Eric Burdon & The Animals
+San Franciscan Nights
+32
+Chris Bartley
+The Sweetest Thing This Side Of Heaven
+33
+Bar-Kays
+Soul Finger
+34
+Van Morrison
+Brown Eyed Girl
+35
+The 5th Dimension
+Up -- Up And Away
+36
+Nancy Sinatra & Lee Hazlewood
+Jackson
+37
+Sandy Posey
+I Take It Back
+38
+The Beatles
+Baby You're A Rich Man
+39
+The Critters
+Don't Let The Rain Fall Down On Me
+40
+Gladys Knight And The Pips
+Everybody Needs Love
+41
+James & Bobby Purify
+I Take What I Want
+42
+Frank Sinatra
+The World We Knew (Over And Over)
+43
+Dionne Warwick
+The Windows Of The World
+44
+Jr. Walker & The All Stars
+Shoot Your Shot
+45
+The Forum
+The River Is Wide
+46
+Wilson Pickett
+Funky Broadway
+47
+Bettye Swann
+Make Me Yours
+48
+The Turtles
+You Know What I Mean
+49
+Tommy Boyce & Bobby Hart
+Out & About
+50
+Dean Martin
+In The Chapel In The Moonlight
+51
+Davie Allan And The Arrows
+Blue's Theme
+52
+Roy Orbison
+Cry Softly Lonely One
+53
+Nancy Sinatra
+You Only Live Twice
+54
+Donovan
+There Is A Mountain
+55
+Jackie Wilson
+(Your Love Keeps Lifting Me) Higher And Higher
+56
+Booker T. & The MG's
+Groovin'
+57
+Ronnie Dove
+I Want To Love You For What You Are
+58
+The Box Tops
+The Letter
+59
+The Grass Roots
+Things I Should Have Said
+60
+The Yardbirds
+Ha Ha Said The Clown
+61
+The Sunshine Company
+Happy
+62
+Buffalo Springfield
+Bluebird
+63
+Joe Tex
+A Woman's Hands
+64
+Sonny & Cher
+It's The Little Things
+65
+The Five Americans
+Zip Code
+66
+Brenton Wood
+Gimme Little Sign
+67
+Gary Lewis And The Playboys
+Jill
+68
+Jimmy Ruffin
+Don't You Miss Me A Little Bit Baby
+69
+The Platters
+Washed Ashore (On A Lonely Island In The Sea)
+70
+Otis Redding
+Glory Of Love
+71
+Dyke And The Blazers
+Funky Broadway Part I
+72
+The Third Rail
+Run, Run, Run
+73
+Booker T. & The MG's
+Slim Jenkin's Place
+74
+Glen Campbell
+Gentle On My Mind
+75
+The Dave Clark Five
+A Little Bit Now
+76
+Peter, Paul & Mary
+I Dig Rock And Roll Music
+77
+Tom Jones
+Sixteen Tons
+78
+Dean Martin
+Little Ole Wine Drinker, Me
+79
+Oscar Toney, Jr.
+Turn On Your Love Light
+80
+Paul Revere & The Raiders Featuring Mark Lindsay
+I Had A Dream
+81
+Al Kent
+You've Got To Pay The Price
+82
+The Byrds
+Lady Friend
+83
+Frankie Laine
+Laura, What's He Got That I Ain't Got
+84
+Spanky And Our Gang
+Making Every Minute Count
+85
+Harpers Bizarre
+Anything Goes
+86
+Leon Haywood
+It's Got To Be Mellow
+87
+The Cryan' Shames
+It Could Be We're In Love
+88
+Otis & Carla
+Knock On Wood
+89
+The Wonder Who?
+Lonesome Road
+90
+Brook Benton
+Laura (Tell Me What He's Got That I Ain't Got)
+91
+Brian Hyland
+Get The Message
+92
+The Esquires
+Get On Up
+93
+Jimmy Roselli
+There Must Be A Way
+94
+Martha & The Vandellas
+Love Bug Leave My Heart Alone
+95
+Eddy Arnold
+Turn The World Around
+96
+Robert Mitchum
+Little Old Wine Drinker Me
+97
+Brenda & The Tabulations
+Just Once In A Lifetime
+98
+Syl Johnson
+Come On Sock It To Me
+99
+The Shirelles
+Last Minute Miracle
+100
+Jon & Robin
+Drums

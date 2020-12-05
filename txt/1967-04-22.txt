@@ -1,0 +1,300 @@
+1
+Nancy Sinatra & Frank Sinatra
+Somethin' Stupid
+2
+The Turtles
+Happy Together
+3
+The Monkees
+A Little Bit Me, A Little Bit You
+4
+Tommy James And The Shondells
+I Think We're Alone Now
+5
+The Five Americans
+Western Union
+6
+Petula Clark
+This Is My Song
+7
+Arthur Conley
+Sweet Soul Music
+8
+Four Tops
+Bernadette
+9
+Aretha Franklin
+I Never Loved A Man (The Way I Love You)
+10
+Martha & The Vandellas
+Jimmy Mack
+11
+The Supremes
+The Happening
+12
+The Mamas & The Papas
+Dedicated To The One I Love
+13
+The Spencer Davis Group
+I'm A Man
+14
+The Platters
+With This Ring
+15
+Nancy Sinatra
+Love Eyes
+16
+Simon & Garfunkel
+At The Zoo
+17
+The Buckinghams
+Don't You Care
+18
+The Dave Clark Five
+You Got What It Takes
+19
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+20
+Brenda & The Tabulations
+Dry Your Eyes
+21
+The Beatles
+Penny Lane
+22
+Herman's Hermits
+There's A Kind Of Hush
+23
+Harpers Bizarre
+The 59th Street Bridge Song (Feelin' Groovy)
+24
+The Hollies
+On A Carousel
+25
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Beggin'
+26
+Peaches & Herb
+Close Your Eyes
+27
+Tom Jones
+Detroit City
+28
+The Beatles
+Strawberry Fields Forever
+29
+Jimmy Ruffin
+Gonna Give Her All The Love I've Got
+30
+The Easybeats
+Friday On My Mind
+31
+Peter And Gordon
+Sunday For Tea
+32
+Wilson Pickett
+I Found A Love - Part 1
+33
+Lesley Gore
+California Nights
+34
+The Electric Prunes
+Get Me To The World On Time
+35
+Andy Williams
+Music To Watch Girls By
+36
+Smokey Robinson & The Miracles
+The Love I Saw In You Was Just A Mirage
+37
+Joe Tex
+Show Me
+38
+Eric Burdon & The Animals
+When I Was Young
+39
+The Young Rascals
+I've Been Lonely Too Long
+40
+Dusty Springfield
+I'll Try Anything
+41
+Roger Miller
+Walkin' In The Sunshine
+42
+The Byrds
+My Back Pages
+43
+Neil Diamond
+Girl, You'll Be A Woman Soon
+44
+Sandy Posey
+What A Woman In Love Won't Do
+45
+Herman's Hermits
+No Milk Today
+46
+The Happenings
+I Got Rhythm
+47
+The Yellow Balloon
+Yellow Balloon
+48
+The Monkees
+The Girl I Knew Somewhere
+49
+Keith
+Tell Me To My Face
+50
+Herb Alpert & The Tijuana Brass
+Casino Royale
+51
+Nancy Sinatra with Lee Hazlewood
+Summer Wine
+52
+Lou Rawls
+Dead End Street Monologue/Dead End Street
+53
+The Tremeloes
+Here Comes My Baby
+54
+Engelbert Humperdinck
+Release Me (And Let Me Love Again)
+55
+Booker T. & The MG's
+Hip Hug-Her
+56
+? (Question Mark) & The Mysterians
+Can't Get Enough Of You, Baby
+57
+The Nitty Gritty Dirt Band
+Buy For Me The Rain
+58
+Jefferson Airplane
+Somebody To Love
+59
+Frankie Laine
+Making Memories
+60
+Blues Magoos
+Pipe Dream
+61
+Ray Price
+Danny Boy
+62
+Sam The Sham and the Pharaohs
+Oh That's Good, No That's Bad
+63
+Bobby Darin
+The Lady Came From Baltimore
+64
+Toussaint McCall
+Nothing Takes The Place Of You
+65
+James & Bobby Purify
+Shake A Tail Feather
+66
+Gene Chandler
+Girl Don't Care
+67
+Percy Sledge
+Out Of Left Field
+68
+The Romeos
+Precious Memories
+69
+The Parade
+Sunshine Girl
+70
+Freddie Scott
+Cry To Me
+71
+The Tokens
+Portrait Of My Love
+72
+The Artistics
+Girl I Need You
+73
+Cannonball Adderley
+Why? (Am I Treated So Bad)
+74
+The Fantastic Four
+The Whole World Is A Stage
+75
+Jerry Jaye
+My Girl Josephine
+76
+The Righteous Brothers
+Melancholy Music Man
+77
+Dionne Warwick
+Alfie
+78
+Otis Redding
+I Love You More Than Words Can Say
+79
+The Young Rascals
+Groovin'
+80
+Lou Courtney
+Do The Thing
+81
+The Yardbirds
+Little Games
+82
+Barbara Lewis
+I'll Make Him Love Me
+83
+The Who
+Happy Jack
+84
+The Contours
+It's So Hard Being A Loser
+85
+Brenda Holloway
+Just Look What You've Done
+86
+The Marvelettes
+When You're Young And In Love
+87
+The Five Stairsteps
+Ain't Gonna Rest (Till I Get You)
+88
+Bobby Bland
+You're All I Need
+89
+Walter Jackson
+Speak Her Name
+90
+Ronnie Dove
+My Babe
+91
+Dyke And The Blazers
+Funky Broadway Part I
+92
+Buck Owens and The Buckaroos
+Sam's Place
+93
+The Raelets/Ray Charles Orchestra
+One Hurt Deserves Another
+94
+Brenton Wood
+The Oogum Boogum Song
+95
+William Bell
+Everybody Loves A Winner
+96
+Jack Jones
+I'm Indestructible
+97
+Davie Allan And The Arrows
+Blue's Theme
+98
+Don And The Goodtimes
+I Could Be So Good To You
+99
+Ben E. King
+Tears, Tears, Tears
+100
+Stevie Wonder
+Hey Love

@@ -1,0 +1,300 @@
+1
+Madonna
+Vogue
+2
+Sinead O'Connor
+Nothing Compares 2 U
+3
+Heart
+All I Wanna Do Is Make Love To You
+4
+Wilson Phillips
+Hold On
+5
+Linear
+Sending All My Love
+6
+Janet Jackson
+Alright
+7
+Calloway
+I Wanna Be Rich
+8
+Bell Biv DeVoe
+Poison
+9
+Roxette
+It Must Have Been Love (From "Pretty Woman")
+10
+Aerosmith
+What It Takes
+11
+Rod Stewart With Ronald Isley
+This Old Heart Of Mine
+12
+Michael Bolton
+How Can We Be Lovers
+13
+Sweet Sensation
+Love Child
+14
+Digital Underground
+The Humpty Dance
+15
+M.C. Hammer
+U Can't Touch This
+16
+Perfect Gentlemen
+Ooh La La (I Can't Get Over You)
+17
+Adam Ant
+Room At The Top
+18
+Expose
+Your Baby Never Looked Good In Blue
+19
+Jane Child
+Don't Wanna Fall In Love
+20
+After 7
+Ready Or Not
+21
+Babyface
+Whip Appeal
+22
+Partners In Kryme
+Turtle Power
+23
+Lisa Stansfield
+All Around The World
+24
+En Vogue
+Hold On
+25
+Phil Collins
+Do You Remember?
+26
+Salt-N-Pepa
+Expression
+27
+Jude Cole
+Baby, It's Tonight
+28
+Faster Pussycat
+House Of Pain
+29
+Richard Marx
+Children Of The Night
+30
+Giant
+I'll See You In My Dreams
+31
+Tommy Page
+I'll Be Your Everything
+32
+Motley Crue
+Without You
+33
+Fleetwood Mac
+Save Me
+34
+Taylor Dayne
+I'll Be Your Shelter
+35
+Basia
+Cruising For Bruising
+36
+Luther Vandross
+Here And Now
+37
+Seduction
+Heartbeat
+38
+Electronic
+Getting Away With It
+39
+Whistle
+Always And Forever
+40
+The B-52s
+Deadbeat Club
+41
+Alannah Myles
+Black Velvet
+42
+Depeche Mode
+Enjoy The Silence
+43
+Michel'le
+Nicety
+44
+Johnny Gill
+Rub You The Right Way
+45
+Louie Louie
+Sittin' In The Lap Of Luxury
+46
+Don Henley
+The Heart Of The Matter
+47
+Taylor Dayne
+Love Will Lead You Back
+48
+Biz Markie
+Just A Friend
+49
+Slaughter
+Up All Night
+50
+Glenn Medeiros Featuring Bobby Brown
+She Ain't Worth It
+51
+Nikki
+Notice Me
+52
+Brent Bourgeois
+Dare To Fall In Love
+53
+Timmy T.
+Time After Time
+54
+The U-Krew
+If U Were Mine
+55
+Technotronic
+Get Up! (Before The Night Is Over)
+56
+A'me Lorain
+Whole Wide World (From "True Love")
+57
+The Cover Girls
+All That Glitters Isn't Gold
+58
+Tyler Collins
+Girls Nite Out
+59
+D-Mob With Cathy Dennis
+That's The Way Of The World
+60
+Damn Yankees
+Coming Of Age
+61
+Alannah Myles
+Love Is
+62
+Billy Idol
+Cradle Of Love (From "Ford Fairlane")
+63
+Michael Penn
+This & That
+64
+Soul II Soul
+Get A Life
+65
+Elton John
+Club At The End Of The Street
+66
+Billy Joel
+The Downeaster "Alexa"
+67
+L.A. Guns
+The Ballad Of Jayne
+68
+Young And Restless
+"B" Girls
+69
+Tommy Page
+When I Dream Of You
+70
+Michel'le
+No More Lies
+71
+The Cure
+Pictures Of You
+72
+Mellow Man Ace
+Mentirosa
+73
+George LaMond
+Bad Of The Heart
+74
+KISS
+Forever
+75
+Snap!
+The Power
+76
+Phil Collins
+I Wish It Would Rain Down
+77
+Quincy Jones
+The Secret Garden
+78
+Andrew Ridgeley
+Shake
+79
+Del Amitri
+Kiss This Thing Goodbye
+80
+Bad English
+Heaven Is A 4 Letter Word
+81
+Gorky Park
+Try To Find Me
+82
+Laura Branigan
+Moonlight On Water
+83
+The Black Crowes
+Jealous Again
+84
+Gloria Estefan
+Oye Mi Canto (Hear My Voice)
+85
+Peter Murphy
+Cuts You Up
+86
+ZZ Top
+Doubleback (From "Back To The Future Part III")
+87
+Lightning Seeds
+Pure
+88
+Linda Ronstadt (Featuring Aaron Neville)
+When Something Is Wrong With My Baby
+89
+Hi Tek 3 Featuring Ya Kid K
+Spin That Wheel
+90
+Corey Hart
+A Little Love
+91
+Robert Plant
+Hurting Kind (I've Got My Eyes On You)
+92
+Joey Kid
+Counting The Days
+93
+Ana
+Got To Tell Me Something
+94
+Bonnie Raitt
+Nick Of Time
+95
+Paula Abdul (Duet With The Wild Pair)
+Opposites Attract
+96
+Go West
+King Of Wishful Thinking (From "Pretty Woman")
+97
+Tesla
+The Way It Is
+98
+Linda Ronstadt (Featuring Aaron Neville)
+All My Life
+99
+Kaoma
+Lambada
+100
+The 4 Of Us
+Drag My Bad Name Down

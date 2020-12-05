@@ -1,0 +1,300 @@
+1
+James Ingram
+I Don't Have The Heart
+2
+Janet Jackson
+Black Cat
+3
+George Michael
+Praying For Time
+4
+Vanilla Ice
+Ice Ice Baby
+5
+Maxi Priest
+Close To You
+6
+Dino
+Romeo
+7
+Pebbles
+Giving You The Benefit
+8
+Black Box
+Everybody Everybody
+9
+After 7
+Can't Stop
+10
+Nelson
+(Can't Live Without Your) Love And Affection
+11
+INXS
+Suicide Blonde
+12
+Mariah Carey
+Love Takes Time
+13
+The Righteous Brothers
+Unchained Melody
+14
+Phil Collins
+Something Happened On The Way To Heaven
+15
+Depeche Mode
+Policy Of Truth
+16
+M.C. Hammer
+Pray
+17
+Warrant
+Cherry Pie
+18
+Alias
+More Than Words Can Say
+19
+Tony Toni Tone
+Feels Good
+20
+Slaughter
+Fly To the Angels
+21
+Breathe
+Say A Prayer
+22
+Paul Young
+Oh Girl
+23
+Bell Biv DeVoe
+Do Me!
+24
+Jon Bon Jovi
+Blaze Of Glory (From "Young Guns II")
+25
+The Righteous Brothers
+Unchained Melody
+26
+Candyman
+Knockin' Boots
+27
+Johnny Gill
+My, My, My
+28
+Lisa Stansfield
+This Is The Right Time
+29
+Concrete Blonde
+Joey
+30
+The Boys
+Crazy
+31
+Wilson Phillips
+Release Me
+32
+Poison
+Something To Believe In
+33
+Deee-Lite
+Groove Is In The Heart
+34
+Daryl Hall John Oates
+So Close
+35
+Snap!
+Ooops Up
+36
+Soho
+Hippychick
+37
+Heart
+Stranded
+38
+Taylor Dayne
+Heart Of Stone
+39
+Kyper
+Tic-Tac-Toe
+40
+Bette Midler
+From A Distance
+41
+En Vogue
+Lies
+42
+Whitney Houston
+I'm Your Baby Tonight
+43
+UB40
+The Way You Do The Things You Do
+44
+David Cassidy
+Lyin' To Myself
+45
+Jude Cole
+Time For Letting Go
+46
+The Human League
+Heart Like A Wheel
+47
+Wilson Phillips
+Impulsive
+48
+LL Cool J
+The Boomin' System
+49
+Michael Bolton
+Georgia On My Mind
+50
+Stevie B
+Because I Love You (The Postman Song)
+51
+Damn Yankees
+High Enough
+52
+The Adventures Of Stevie V
+Dirty Cash (Money Talks)
+53
+Cynthia & Johnny O
+Dream Boy/Dream Girl
+54
+Poison
+Unskinny Bop
+55
+Donny Osmond
+My Love Is A Fire
+56
+Information Society
+Think
+57
+DNA Featuring Suzanne Vega
+Tom's Diner
+58
+2 In A Room
+Wiggle It
+59
+Faith No More
+Epic
+60
+M.C. Hammer
+Have You Seen Her
+61
+Glenn Medeiros Featuring Ray Parker, Jr.
+All I'm Missing Is You
+62
+Mariah Carey
+Vision Of Love
+63
+Sydney Youngblood
+I'd Rather Go Blind
+64
+Elisa Fiorillo
+On The Way Up
+65
+New Kids On The Block
+Let's Try It Again
+66
+Asia
+Days Like These
+67
+Prince
+Thieves In The Temple
+68
+Billy Idol
+L.A. Woman
+69
+Bell Biv DeVoe
+B.B.D. (I Thought It Was Me)?
+70
+Al B. Sure!
+Missunderstanding
+71
+Caron Wheeler
+Livin' In The Light
+72
+Winger
+Miles Away
+73
+Anita Baker
+Soul Inspiration
+74
+REO Speedwagon
+Love Is A Rock
+75
+Winger
+Can't Get Enuff
+76
+Tyler Collins
+Second Chance
+77
+Doc Box & B. Fresh
+Slow Love
+78
+The London Quireboys
+I Don't Love You Anymore
+79
+Sweet Sensation
+Each And Every Time
+80
+Sweet Sensation
+If Wishes Came True
+81
+George LaMond
+Look Into My Eyes
+82
+Seduction
+Breakdown
+83
+Billy Joel
+And So It Goes
+84
+Kid Frost
+La Raza
+85
+Go West
+King Of Wishful Thinking (From "Pretty Woman")
+86
+Cheap Trick
+Can't Stop Falling Into Love
+87
+Motley Crue
+Same Ol' Situation (S.O.S.)
+88
+Johnny Gill
+Fairweather Friend
+89
+Vixen
+How Much Love
+90
+Janet Jackson
+Come Back To Me
+91
+New Kids On The Block
+Tonight
+92
+Gene Loves Jezebel
+Jealous
+93
+Pet Shop Boys
+So Hard
+94
+Ms. Adventures
+Undeniable
+95
+Vaughan Brothers
+Tick Tock
+96
+Styx
+Love Is The Ritual
+97
+Luke Featuring The 2 Live Crew
+Banned In The U.S.A.
+98
+Mellow Man Ace
+Mentirosa
+99
+Keith Sweat
+Make You Sweat
+100
+En Vogue
+Hold On

@@ -1,0 +1,300 @@
+1
+Stevie Wonder
+I Wish
+2
+Rose Royce
+Car Wash
+3
+Leo Sayer
+You Make Me Feel Like Dancing
+4
+Brick
+Dazz
+5
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+6
+The Sylvers
+Hot Line
+7
+Eagles
+New Kid In Town
+8
+Engelbert Humperdinck
+After The Lovin'
+9
+Manfred Mann's Earth Band
+Blinded By The Light
+10
+Mary Macgregor
+Torn Between Two Lovers
+11
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+12
+Aerosmith
+Walk This Way
+13
+Queen
+Somebody To Love
+14
+Bread
+Lost Without Your Love
+15
+The Jacksons
+Enjoy Yourself
+16
+Kenny Nolan
+I Like Dreamin'
+17
+Electric Light Orchestra
+Livin' Thing
+18
+Steve Miller
+Fly Like An Eagle
+19
+David Dundas
+Jeans On
+20
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+21
+Barry Manilow
+Weekend In New England
+22
+Earth, Wind & Fire
+Saturday Nite
+23
+Elton John
+Sorry Seems To Be The Hardest Word
+24
+Burton Cummings
+Stand Tall
+25
+KISS
+Hard Luck Woman
+26
+Alice Cooper
+I Never Cry
+27
+Donny & Marie Osmond
+Ain't Nothing Like The Real Thing
+28
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+29
+Bob Seger & The Silver Bullet Band
+Night Moves
+30
+The Spinners
+The Rubberband Man
+31
+The Bar-Kays
+Shake Your Rump To The Funk
+32
+George Harrison
+This Song
+33
+ABBA
+Dancing Queen
+34
+Yvonne Elliman
+Love Me
+35
+Stephen Bishop
+Save It For A Rainy Day
+36
+Al Stewart
+Year Of The Cat
+37
+Gene Cotton
+You've Got Me Runnin'
+38
+Fleetwood Mac
+Go Your Own Way
+39
+The Doobie Brothers
+It Keeps You Runnin'
+40
+Smokie
+Living Next Door To Alice
+41
+KC And The Sunshine Band
+I Like To Do It
+42
+Linda Ronstadt
+Someone To Lay Down Beside Me
+43
+Thelma Houston
+Don't Leave Me This Way
+44
+Heart
+Dreamboat Annie
+45
+Captain & Tennille
+Muskrat Love
+46
+Elvis Presley
+Moody Blue/she Thinks I Still Care
+47
+Johnny Bristol
+Do It To My Mind
+48
+Boston
+More Than A Feeling
+49
+Boz Scaggs
+What Can I Say
+50
+10cc
+The Things We Do For Love
+51
+Henhouse Five Plus Too
+In The Mood
+52
+Daryl Hall John Oates
+Do What You Want, Be What You Are
+53
+Foghat
+Drivin' Wheel
+54
+Barry DeVorzon And Perry Botikin Jr.
+Nadia's Theme (The Young And The Restless)
+55
+Kansas
+Carry On Wayward Son
+56
+Bee Gees
+Love So Right
+57
+Bee Gees
+Boogie Child
+58
+Donna Summer
+Spring Affair/Winter Melody
+59
+Wild Cherry
+Baby Don't You Know
+60
+Paul Anka
+Happier
+61
+Kool & The Gang
+Open Sesame - Part 1
+62
+Deniece Williams
+Free
+63
+Lynyrd Skynyrd
+Free Bird
+64
+England Dan & John Ford Coley
+Nights Are Forever Without You
+65
+Styx
+Mademoiselle
+66
+Dickey Lee
+9,999,999 Tears
+67
+Rick Dees & His Cast Of Idiots
+Dis-Gorilla (Part 1)
+68
+Commodores
+Fancy Dancer
+69
+John Denver
+Baby, You Look Good To Me Tonight
+70
+Tom Jones
+Say You'll Stay Until Tomorrow
+71
+Arthur Prysock
+When Love Is New
+72
+Rod Hart
+C.b. Savage
+73
+Brass Construction
+Ha Cha Cha (funktion)
+74
+The Dramatics
+Be My Girl
+75
+Al Green
+Keep Me Cryin'
+76
+KISS
+Beth/Detroit Rock City
+77
+Bay City Rollers
+Yesterday's Hero
+78
+L.T.D.
+Love Ballad
+79
+Starland Vocal Band
+Hail! Hail! Rock And Roll!
+80
+The O'Jays
+Darlin' Darlin' Baby (Sweet, Tender, Love)
+81
+Daryl Hall John Oates
+Rich Girl
+82
+The Emotions
+I Don't Wanna Lose Your Love/Flowers
+83
+Barry DeVorzon And Perry Botikin Jr.
+Bless The Beasts And Children
+84
+Parker McGee
+I Just Can't Say No To You
+85
+Ozark Mountain Daredevils
+You Know Like I Know
+86
+L.A. Jets
+Prisoner (Captured By Your Eyes)
+87
+Boney M
+Daddy Cool
+88
+Phoebe Snow
+Shakey Ground
+89
+Dr. Hook
+If Not You
+90
+Mary Kay Place As Loretta Haggers
+Baby Boy
+91
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+92
+Rush
+Fly By Night/In The Mood
+93
+Cher
+Pirate
+94
+Rick Dees & His Cast Of Idiots
+Disco Duck (Part I)
+95
+David Laflamme
+White Bird
+96
+Silvetti
+Spring Rain
+97
+Elvin Bishop Featuring Mickey Thomas
+Spend Some Time
+98
+Grace Jones
+Sorry/That's The Trouble
+99
+Love Unlimited Orchestra
+Theme From King Kong (Pt. I)
+100
+Gabriel Kaplan
+Up Your Nose

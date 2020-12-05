@@ -1,0 +1,300 @@
+1
+Katy Perry Featuring Snoop Dogg
+California Gurls
+2
+Usher Featuring will.i.am
+OMG
+3
+B.o.B Featuring Hayley Williams
+Airplanes
+4
+Travie McCoy Featuring Bruno Mars
+Billionaire
+5
+Lady Gaga
+Alejandro
+6
+Ke$ha
+Your Love Is My Drug
+7
+Taio Cruz Featuring Ludacris
+Break Your Heart
+8
+Eminem
+Not Afraid
+9
+The Black Eyed Peas
+Rock That Body
+10
+Drake
+Find Your Love
+11
+B.o.B Featuring Bruno Mars
+Nothin' On You
+12
+Train
+Hey, Soul Sister
+13
+La Roux
+Bulletproof
+14
+Mike Posner
+Cooler Than Me
+15
+Lady Antebellum
+Need You Now
+16
+Jay-Z + Mr. Hudson
+Young Forever
+17
+3OH!3 Featuring Ke$ha
+My First Kiss
+18
+Rihanna
+Rude Boy
+19
+Jason Derulo
+Ridin' Solo
+20
+Jason Derulo
+In My Head
+21
+The Script
+Breakeven
+22
+Alicia Keys
+Un-Thinkable (I'm Ready)
+23
+Carrie Underwood
+Undo It
+24
+Miley Cyrus
+Can't Be Tamed
+25
+Shontelle
+Impossible
+26
+Nicki Minaj
+Your Love
+27
+DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross
+All I Do Is Win
+28
+Michael Buble
+Haven't Met You Yet
+29
+Miranda Lambert
+The House That Built Me
+30
+Lady Gaga Featuring Beyonce
+Telephone
+31
+Drake
+Over
+32
+Enrique Iglesias Featuring Pitbull
+I Like It
+33
+Justin Bieber Featuring Jaden Smith
+Never Say Never
+34
+Ludacris Featuring Nicki Minaj
+My Chick Bad
+35
+Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne
+I Made It (Cash Money Heroes)
+36
+Nickelback
+This Afternoon
+37
+Glee Cast
+Faithfully
+38
+Ke$ha
+TiK ToK
+39
+Timbaland Featuring Katy Perry
+If We Ever Meet Again
+40
+The Black Eyed Peas
+I Gotta Feeling
+41
+Jaron And The Long Road To Love
+Pray For You
+42
+Adam Lambert
+Whataya Want From Me
+43
+Shakira Featuring Freshlyground
+Waka Waka (This Time For Africa)
+44
+Glee Cast
+Over The Rainbow
+45
+Taio Cruz
+Dynamite
+46
+Lady Gaga
+Bad Romance
+47
+Sean Kingston & Justin Bieber
+Eenie Meenie
+48
+Justin Bieber Featuring Usher
+Somebody To Love
+49
+Brad Paisley
+Water
+50
+Drake Featuring Lil Wayne
+Miss Me
+51
+Luke Bryan
+Rain Is A Good Thing
+52
+Usher
+There Goes My Baby
+53
+Jerrod Niemann
+Lover, Lover
+54
+Zac Brown Band
+Free
+55
+Clay Walker
+She Won't Be Lonely Long
+56
+Young Jeezy Featuring Plies
+Lose My Mind
+57
+Jason Aldean
+Crazy Town
+58
+Glee Cast
+Any Way You Want It/Lovin' Touchin' Squeezin'
+59
+Glee Cast
+Don't Stop Believin'
+60
+Lee Brice
+Love Like Crazy
+61
+Diddy - Dirty Money Featuring T.I.
+Hello Good Morning
+62
+David Guetta & Chris Willis Featuring Fergie & LMFAO
+Gettin' Over You
+63
+T.I. Featuring Keri Hilson
+Got Your Back
+64
+Colbie Caillat
+I Never Told You
+65
+Ciara Featuring Ludacris
+Ride
+66
+Christina Aguilera
+Bionic
+67
+Ne-Yo
+Beautiful Monster
+68
+Joe Nichols
+Gimmie That Girl
+69
+Chris Young
+The Man I Want To Be
+70
+Lil Jon Featuring 3OH!3
+Hey
+71
+Jamie Foxx Featuring Justin Timberlake & T .I.
+Winner
+72
+Ludacris Featuring Trey Songz
+Sex Room
+73
+Christina Aguilera
+Not Myself Tonight
+74
+Usher Featuring Nicki Minaj
+Lil Freak
+75
+Glee Cast
+To Sir With Love
+76
+Cali Swag District
+Teach Me How To Dougie
+77
+Martina McBride
+Wrong Baby Wrong
+78
+T.I.
+I'm Back
+79
+Reba
+I Keep On Loving You
+80
+Billy Currington
+Pretty Good At Drinkin' Beer
+81
+Paramore
+The Only Exception
+82
+Keith Urban
+I'm In
+83
+V V Brown
+Shark In The Water
+84
+Glee Cast Featuring Jonathan Groff
+Bohemian Rhapsody
+85
+P!nk
+Glitter In The Air
+86
+Trey Songz
+Neighbors Know My Name
+87
+Little Big Town
+Little White Church
+88
+John Mayer
+Half Of My Heart
+89
+K'Naan
+Wavin' Flag
+90
+Train
+If It's Love
+91
+Gyptian
+Hold You (Hold Yuh)
+92
+Lloyd Banks Featuring Juelz Santana
+Beamer, Benz, Or Bentley
+93
+Neon Trees
+Animal
+94
+Glee Cast
+Poker Face
+95
+George Strait
+I Gotta Get To You
+96
+Steel Magnolia
+Keep On Lovin' You
+97
+Monica
+Everything To Me
+98
+OneRepublic
+Secrets
+99
+Christina Aguilera Featuring Nicki Minaj
+Woohoo
+100
+T.I.
+Yeah Ya Know (Takers)

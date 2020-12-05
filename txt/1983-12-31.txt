@@ -1,0 +1,300 @@
+1
+Paul McCartney And Michael Jackson
+Say Say Say
+2
+Daryl Hall John Oates
+Say It Isn't So
+3
+Duran Duran
+Union Of The Snake
+4
+Yes
+Owner Of A Lonely Heart
+5
+Lionel Richie
+All Night Long (All Night)
+6
+Billy Joel
+Uptown Girl
+7
+Pat Benatar
+Love Is A Battlefield
+8
+Olivia Newton-John
+Twist Of Fate
+9
+The Rolling Stones
+Undercover Of The Night
+10
+Matthew Wilder
+Break My Stride
+11
+Elton John
+I Guess That's Why They Call It The Blues
+12
+The Romantics
+Talking In Your Sleep
+13
+Culture Club
+Church Of The Poison Mind
+14
+Peter Schilling
+Major Tom (Coming Home)
+15
+Quiet Riot
+Cum On Feel The Noize
+16
+The Police
+Synchronicity II
+17
+Culture Club
+Karma Chameleon
+18
+Kenny Rogers Duet With Dolly Parton
+Islands In The Stream
+19
+Irene Cara
+Why Me?
+20
+Big Country
+In A Big Country
+21
+Lionel Richie
+Running With The Night
+22
+Kool & The Gang
+Joanna
+23
+Barry Manilow
+Read 'Em And Weep
+24
+John Cougar Mellencamp
+Crumblin' Down
+25
+Thirty Eight Special
+If I'd Been The One
+26
+Debarge
+Time Will Reveal
+27
+Genesis
+That's All
+28
+Ray Parker Jr.
+I Still Can't Get Over Loving You
+29
+John Mellencamp
+Pink Houses
+30
+Chaka Khan
+Ain't Nobody
+31
+Madonna
+Holiday
+32
+Jump 'n The Saddle
+The Curly Shuffle
+33
+Jeffrey Osborne
+Stay With Me Tonight
+34
+Spandau Ballet
+Gold
+35
+The Fixx
+The Sign Of Fire
+36
+Huey Lewis & The News
+Heart And Soul
+37
+Naked Eyes
+When The Lights Go Out
+38
+Christopher Cross
+Think Of Laura
+39
+Deborah Allen
+Baby I Lied
+40
+Robert Plant
+In The Mood
+41
+Rick Springfield
+Souls
+42
+Shannon
+Let The Music Play
+43
+Pretenders
+Middle Of The Road
+44
+Billy Joel
+An Innocent Man
+45
+The Motels
+Remember The Night
+46
+Real Life
+Send Me An Angel
+47
+Michael Jackson
+P.Y.T. (Pretty Young Thing)
+48
+Stevie Nicks
+Nightbird
+49
+Paul McCartney
+So Bad
+50
+James Ingram With Michael McDonald
+Yah Mo B There
+51
+Bonnie Tyler
+Take Me Back
+52
+Rick James And Smokey Robinson
+Ebony Eyes
+53
+Linda Ronstadt & The Nelson Riddle Orchestra
+What's New
+54
+The Alan Parsons Project
+You Don't Believe
+55
+Eddie Money
+Big Crash
+56
+Stray Cats
+I Won't Stand In Your Way
+57
+Barbra Streisand
+The Way He Makes Me Feel
+58
+Irene Cara
+The Dream
+59
+Re-flex
+The Politics Of Dancing
+60
+Dolly Parton
+Save The Last Dance For Me
+61
+Night Ranger
+(You Can Still) Rock In America
+62
+Nena
+99 Luftballons
+63
+Sheena Easton
+Almost Over You
+64
+Midnight Star
+Wet My Whistle
+65
+Talking Heads
+This Must Be The Place (Naive Melody)
+66
+KISS
+Lick It Up
+67
+KC
+Give It Up
+68
+Bonnie Tyler
+Total Eclipse Of The Heart
+69
+Cyndi Lauper
+Girls Just Want To Have Fun
+70
+Peabo Bryson/Roberta Flack
+Tonight, I Celebrate My Love
+71
+Sheena Easton
+Telefone (long Distance Love Affair)
+72
+The Motels
+Suddenly Last Summer
+73
+The Doors
+Gloria
+74
+Peabo Bryson & Roberta Flack
+You're Looking Like Love To Me
+75
+Rainbow
+Street Of Dreams
+76
+Jackson Browne
+Tender Is The Night
+77
+Herb Alpert
+Red Hot
+78
+Asia
+The Smile Has Left Your Eyes
+79
+The S.O.S. Band
+Tell Me If You Still Care
+80
+Air Supply
+Making Love Out Of Nothing At All
+81
+Michael Stanley Band
+Someone Like You
+82
+Prince
+LET's PRETEND WE'rE MARRIED
+83
+Diana Ross
+Let's Go Up
+84
+Crystal Gayle
+The Sound Of Goodbye
+85
+Bob Dylan
+Sweetheart Like You
+86
+Rodney Dangerfield
+Rappin' Rodney
+87
+Atlantic Starr
+Touch A Four Leaf Clover
+88
+The Pointer Sisters
+I Need You
+89
+The Headpins
+Just One More Time
+90
+Twilight 22
+Electric Kingdom
+91
+Jennifer Holliday
+I Am Love
+92
+Journey
+Send Her My Love
+93
+Earth, Wind & Fire
+Magnetic
+94
+The Fixx
+One Thing Leads To Another
+95
+Kim Carnes
+Invisible Hands
+96
+Paul Simon
+Allergies
+97
+Industry
+State Of The Union
+98
+Streets
+If Love Should Go
+99
+Prince
+Delirious
+100
+Dionne Warwick & Luther Vandross
+How Many Times Can We Say Goodbye

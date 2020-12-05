@@ -1,0 +1,300 @@
+1
+Hollywood Argyles
+Alley-Oop
+2
+Brenda Lee
+I'm Sorry
+3
+Connie Francis
+Everybody's Somebody's Fool
+4
+Duane Eddy And The Rebels
+Because They're Young
+5
+The Fendermen
+Mule Skinner Blues
+6
+Roy Orbison
+Only The Lonely (Know How I Feel)
+7
+Brenda Lee
+That's All You Gotta Do
+8
+Paul Anka
+My Home Town
+9
+Dinah Washington & Brook Benton
+A Rockin' Good Way (To Mess Around And Fall In Love)
+10
+The Everly Brothers
+When Will I Be Loved
+11
+Jack Scott
+Burning Bridges
+12
+Ray Peterson
+Tell Laura I Love Her
+13
+The Everly Brothers
+Cathy's Clown
+14
+Hank Locklin
+Please Help Me, I'm Falling
+15
+Dante and the Evergreens
+Alley-Oop
+16
+Anita Bryant
+Paper Roses
+17
+Safaris with The Phantom's Band
+Image Of A Girl
+18
+Sam Cooke
+Wonderful World
+19
+Paul Evans
+Happy-Go-Lucky-Me
+20
+Brian Hyland
+Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+21
+Fats Domino
+Walking To New Orleans
+22
+Ron Holden with The Thunderbirds
+Love You So
+23
+The Fleetwoods
+Runaround
+24
+Connie Francis
+Jealous Of You (Tango Della Gelosia)
+25
+Garry Miles
+Look For A Star
+26
+The Skyliners
+Pennies From Heaven
+27
+Don Costa And His Orchestra And Chorus
+Theme From "The Unforgiven" (The Need For Love)
+28
+Bill Black's Combo
+Josephine
+29
+Tommy Edwards
+I Really Don't Want To Know
+30
+Bobby Darin
+Won't You Come Home Bill Bailey
+31
+Patti Page
+One Of Us (Will Weep Tonight)
+32
+Deane Hawley
+Look For A Star
+33
+Bobby Marchan
+There's Something On Your Mind (Part 2)
+34
+Donnie Brooks
+Mission Bell
+35
+Jimmy Jones
+Good Timin'
+36
+Annette With The Afterbeats
+Train Of Love
+37
+Jim Reeves
+I'm Gettin' Better
+38
+Bobby Rydell
+Swingin' School
+39
+Ella Fitzgerald
+Mack The Knife
+40
+Conway Twitty
+Is A Blue Bird Blue
+41
+Ricky Nelson
+Young Emotions
+42
+Dinah Washington
+This Bitter Earth
+43
+Bobby Rydell
+Ding-A-Ling
+44
+Jimmy Clanton
+Another Sleepless Night
+45
+The Beau-Marks
+Clap Your Hands
+46
+Billy Vaughn And His Orchestra
+Look For A Star
+47
+Jackie Wilson
+Doggin' Around
+48
+Etta James
+All I Could Do Was Cry
+49
+Jeanne Black
+He'll Have To Stay
+50
+Elvis Presley With The Jordanaires
+Stuck On You
+51
+Paul Anka
+Something Happened
+52
+Fats Domino
+Don't Come Knockin'
+53
+Hank Ballard And The Midnighters
+Finger Poppin' Time
+54
+Pat Boone
+Spring Rain
+55
+Dorsey Burnette
+Hey Little One
+56
+Garry Mills
+Look For A Star - Part I
+57
+The Crests
+Trouble In Paradise
+58
+Lloyd Price and His Orchestra
+Question
+59
+Jan And Kjeld
+Banjo Boy
+60
+Frankie Avalon
+Where Are You
+61
+Connie Stevens
+Sixteen Reasons
+62
+Johnny And The Hurricanes
+Down Yonder
+63
+Marv Johnson
+All The Love I've Got
+64
+The Kingston Trio
+Bad Man Blunder
+65
+Charlie Rich
+Lonely Weekends
+66
+Ray Charles and his Orchestra
+Sticks And Stones
+67
+The Drifters
+Lonely Winds
+68
+Adam Wade
+I Can't Help It
+69
+The Coasters
+Wake Me, Shake Me
+70
+Jackie Wilson
+Night
+71
+Marty Robbins
+Is There Any Chance
+72
+Percy Faith And His Orchestra
+Theme For Young Lovers
+73
+Johnny Preston
+Feel So Fine
+74
+Johnny Horton
+Johnny Freedom
+75
+The Brothers Four
+My Tani
+76
+Red River Dave
+There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)
+77
+Little Willie John
+Heartbreak (It's Hurtin' Me)
+78
+Johnny Mathis
+Maria
+79
+Bobby Darin
+I'll Be There
+80
+Jackie Wilson
+(You Were Made For) All My Love
+81
+Andy Williams
+Do You Mind?
+82
+The Everly Brothers
+Be Bop A-Lula
+83
+Jessie Hill
+Ooh Poo Pah Doo - Part II
+84
+Pat Boone
+Walking The Floor Over You
+85
+Joanie Sommers
+One Boy
+86
+Johnny Cash
+Second Honeymoon
+87
+Connie Stevens
+Too Young To Go Steady
+88
+The Bobbettes
+I Shot Mr. Lee
+89
+Johnny Cash And The Tennessee Two
+Down The Street To 301
+90
+Jackie Wilson
+A Woman, A Lover, A Friend
+91
+Freddy Cannon
+Jump Over
+92
+Charlie Ryan and the Timberline Riders
+Hot Rod Lincoln
+93
+Walter Brennan With Billy Vaughn and his Orchestra
+Dutchman's Gold
+94
+Anita Bryant
+In My Little Corner Of The World
+95
+Marv Johnson
+Ain't Gonna Be That Way
+96
+Shirley and Lee
+I've Been Loved Before
+97
+The Demensions
+Over The Rainbow
+98
+Jimmy Jones
+That's When I Cried
+99
+Skip And Flip
+Cherry Pie
+100
+Guy Mitchell
+My Shoes Keep Walking Back To You

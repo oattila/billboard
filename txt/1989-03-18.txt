@@ -1,0 +1,300 @@
+1
+Debbie Gibson
+Lost In Your Eyes
+2
+Mike + The Mechanics
+The Living Years
+3
+Bobby Brown
+Roni
+4
+Milli Vanilli
+Girl You Know It's True
+5
+Guns N' Roses
+Paradise City
+6
+The Bangles
+Eternal Flame
+7
+Rod Stewart
+My Heart Can't Tell You No
+8
+Roxette
+The Look
+9
+New Kids On The Block
+You Got It (The Right Stuff)
+10
+Breathe
+Don't Tell Me Lies
+11
+Chicago
+You're Not Alone
+12
+Was (Not Was)
+Walk The Dinosaur
+13
+Vanessa Williams
+Dreamin'
+14
+Fine Young Cannibals
+She Drives Me Crazy
+15
+Kon Kan
+I Beg Your Pardon
+16
+Anita Baker
+Just Because
+17
+Paula Abdul
+Straight Up
+18
+Ann Wilson & Robin Zander
+Surrender To Me (From "Tequila Sunrise")
+19
+R.E.M.
+Stand
+20
+Roy Orbison
+You Got It
+21
+Sheena Easton
+The Lover In Me
+22
+Karyn White
+Superwoman
+23
+Martika
+More Than You Know
+24
+Eddie Money
+The Love In Your Eyes
+25
+Poison
+Your Mama Don't Dance
+26
+Vixen
+Cryin'
+27
+Tone-Loc
+Wild Thing
+28
+Edie Brickell & New Bohemians
+What I Am
+29
+Deon Estus With George Michael
+Heaven Help Me
+30
+Luther Vandross
+She Won't Talk To Me
+31
+Tone-Loc
+Funky Cold Medina
+32
+Thirty Eight Special
+Second Chance
+33
+Animotion
+Room To Move
+34
+Bon Jovi
+I'll Be There For You
+35
+Van Halen
+Feels So Good
+36
+Def Leppard
+Rocket
+37
+SaFire
+Thinking Of You
+38
+Madonna
+Like A Prayer
+39
+Enya
+Orinoco Flow (Sail Away)
+40
+Erasure
+A Little Respect
+41
+Sweet Sensation (With Romeo J.D.)
+Sincerely Yours
+42
+Sheriff
+When I'm With You
+43
+Rick Astley
+She Wants To Dance With Me
+44
+Bon Jovi
+Born To Be My Baby
+45
+Dino
+24/7
+46
+Metallica
+One
+47
+The Boys
+Dial My Heart
+48
+Stevie B
+I Wanna Be The One
+49
+Boy Meets Girl
+Bring Down The Moon
+50
+Cher & Peter Cetera
+After All (Love Theme From "Chances Are")
+51
+New Edition
+Can You Stand The Rain
+52
+Tiffany
+Radio Romance
+53
+Johnny Kemp
+Birthday Suit (From "Sing")
+54
+Samantha Fox
+I Wanna Have Some Fun
+55
+Paula Abdul
+Forever Your Girl
+56
+Winger
+Seventeen
+57
+Tommy Page
+A Shoulder To Cry On
+58
+Kenny G
+We've Saved The Best For Last
+59
+The Belle Stars
+Iko Iko (From "Rain Man")
+60
+Living Colour
+Cult Of Personality
+61
+Simply Red
+It's Only Love
+62
+The Fixx
+Driven Out
+63
+Information Society
+Walking Away
+64
+The Pasadenas
+Tribute (Right On)
+65
+White Lion
+When The Children Cry
+66
+Jimmy Harnen With Synch
+Where Are You Now?
+67
+Lita Ford (Duet With Ozzy Osbourne)
+Close My Eyes Forever
+68
+Cinderella
+The Last Mile
+69
+Karyn White
+The Way You Love Me
+70
+Tiffany
+All This Time
+71
+Carly Simon
+Let The River Run (Theme From "Working Girl")
+72
+Bette Midler
+Wind Beneath My Wings (From "Beaches")
+73
+Jody Watley
+Real Love
+74
+Inner City
+Good Life
+75
+Love And Money
+Halleluiah Man
+76
+Will To Power
+Fading Away
+77
+Howard Jones
+Everlasting Love
+78
+Kiara (Duet With Shanice Wilson)
+This Time
+79
+Traveling Wilburys
+End Of The Line
+80
+Bobby Brown
+My Prerogative
+81
+Robbie Nevil
+Somebody Like You
+82
+U2
+Angel Of Harlem
+83
+Gina Go-Go
+I Can't Face The Fact
+84
+Cheap Trick
+Never Had A Lot To Lose
+85
+Choirboys
+Run To Paradise
+86
+Samantha Fox
+I Only Wanna Be With You
+87
+Steve Winwood
+Hearts On Fire
+88
+Crosby, Stills, Nash & Young
+Got It Made
+89
+Michael Damian
+Rock On (From "Dream A Little Dream")
+90
+Steve Winwood
+Holding On
+91
+Duran Duran
+Do You Believe In Shame?
+92
+Glenn Frey
+Livin' Right
+93
+Kenny Loggins
+Tell Her
+94
+Def Leppard
+Armageddon It
+95
+Midge Ure
+Dear God
+96
+Poison
+Every Rose Has Its Thorn
+97
+Phil Collins
+Two Hearts
+98
+Giant Steps
+Into You
+99
+Duran Duran
+All She Wants Is
+100
+Taylor Dayne
+Don't Rush Me

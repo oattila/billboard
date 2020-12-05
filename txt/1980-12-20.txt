@@ -1,0 +1,300 @@
+1
+Kenny Rogers
+Lady
+2
+Leo Sayer
+More Than I Can Say
+3
+John Lennon
+(Just Like) Starting Over
+4
+Neil Diamond
+Love On The Rocks
+5
+Stevie Wonder
+Master Blaster (Jammin')
+6
+Bruce Springsteen
+Hungry Heart
+7
+Queen
+Another One Bites The Dust
+8
+Barbra Streisand & Barry Gibb
+Guilty
+9
+Pat Benatar
+Hit Me With Your Best Shot
+10
+Air Supply
+Every Woman In The World
+11
+Blondie
+The Tide Is High
+12
+Heart
+Tell It Like It Is
+13
+Barbra Streisand
+Woman In Love
+14
+The Police
+De Do Do Do, De Da Da Da
+15
+Daryl Hall John Oates
+You've Lost That Lovin' Feeling
+16
+Rod Stewart
+Passion
+17
+Diana Ross
+It's My Turn
+18
+Devo
+Whip It
+19
+The Korgis
+Everybody's Got To Learn Sometime
+20
+Kool & The Gang
+Celebration
+21
+Waylon
+Theme From The Dukes Of Hazzard (Good Ol' Boys)
+22
+Barry Manilow
+I Made It Through The Rain
+23
+Harry Chapin
+Sequel
+24
+Don Williams
+I Believe In You
+25
+Olivia Newton-John & Cliff Richard
+Suddenly
+26
+Eddie Rabbitt
+I Love A Rainy Night
+27
+Steely Dan
+Hey Nineteen
+28
+The Doobie Brothers
+One Step Closer
+29
+Andy Gibb
+Time Is Time
+30
+Diana Ross
+I'm Coming Out
+31
+Christopher Cross
+Never Be The Same
+32
+John Cougar
+This Time
+33
+Tierra
+Together
+34
+Dr. Hook
+Girls Can Get It
+35
+Cliff Richard
+Dreaming
+36
+Randy Meisner
+Deep Inside My Heart
+37
+Donna Summer
+The Wanderer
+38
+Delbert McClinton
+Giving It Up For Your Love
+39
+Dolly Parton
+9 To 5
+40
+The Pointer Sisters
+He's So Shy
+41
+Stephanie Mills
+Never Knew Love Like This Before
+42
+Bob Seger
+The Horizontal Bop
+43
+The Babys
+Turn And Walk Away
+44
+ABBA
+The Winner Takes It All
+45
+Boz Scaggs
+Miss Sun
+46
+Fred Knoblock & Susan Anton
+Killin' Time
+47
+Michael Stanley Band
+He Can't Love You
+48
+Earth, Wind & Fire
+You
+49
+Climax Blues Band
+Gotta Have More Love
+50
+L.T.D.
+Shine On
+51
+Bette Midler
+My Mother's Eyes
+52
+Queen
+Need Your Loving Tonight
+53
+REO Speedwagon
+Keep On Loving You
+54
+Donna Summer
+Cold Love
+55
+Teena Marie
+I Need Your Lovin'
+56
+Rockpile
+Teacher Teacher
+57
+Ronnie Milsap
+Smoky Mountain Rain
+58
+Teddy Pendergrass
+Love T.K.O.
+59
+Dan Fogelberg
+Same Old Lang Syne
+60
+The Jacksons
+Heartbreak Hotel
+61
+The Pointer Sisters
+Could I Be Dreaming
+62
+Dionne Warwick
+Easy Love
+63
+The Alan Parsons Project
+Games People Play
+64
+Eagles
+Seven Bridges Road
+65
+The Vapors
+Turning Japanese
+66
+Roger Daltrey
+Without Your Love
+67
+Stevie Wonder
+I Ain't Gonna Stand For It
+68
+Diana Ross
+Upside Down
+69
+The Jacksons
+Lovely One
+70
+The Kings
+Switchin' To Glide/This Beat Goes On
+71
+Rita Coolidge
+Fool That I Am
+72
+Supertramp
+Breakfast In America
+73
+The Manhattan Transfer
+Trickle Trickle
+74
+David Bowie
+Fashion
+75
+Oak
+Set The Night On Fire
+76
+Blues Brothers
+Who's Making Love
+77
+Pure Prairie League
+I Can't Stop The Feelin'
+78
+Cliff Richard
+A Little In Love
+79
+Stacy Lattisaw
+Let Me Be Your Angel
+80
+Donnie Iris
+Ah! Leah!
+81
+The Star Wars Intergalactic Droid Choir & Chorale
+What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?)
+82
+AC/DC
+Back In Black
+83
+Cheap Trick
+Stop This Game
+84
+Marcy Levy & Robin Gibb
+Help Me!
+85
+Willie Nelson
+On The Road Again
+86
+Paul Simon
+One-Trick Pony
+87
+Jimmy Hall
+I'm Happy That Love Has Found You
+88
+Irene Cara
+Out Here On My Own
+89
+Shalamar
+Full Of Fire
+90
+Dire Straits
+Skateaway
+91
+Pendulum
+Gypsy Spirit
+92
+The Rolling Stones
+She's So Cold
+93
+The 4 Seasons
+Spend The Night In Love
+94
+AC/DC
+You Shook Me All Night Long
+95
+Rupert Holmes
+Morning Man
+96
+The Reddings
+Remote Control
+97
+Jackie English
+Once A Night
+98
+Supertramp
+Dreamer
+99
+The Doobie Brothers
+Real Love
+100
+Carly Simon
+Jesse

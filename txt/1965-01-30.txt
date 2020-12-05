@@ -1,0 +1,300 @@
+1
+Petula Clark
+Downtown
+2
+The Righteous Brothers
+You've Lost That Lovin' Feelin'
+3
+Shirley Ellis
+The Name Game
+4
+The Searchers
+Love Potion Number Nine
+5
+Joe Tex
+Hold What You've Got
+6
+Marvin Gaye
+How Sweet It Is To Be Loved By You
+7
+Gary Lewis And The Playboys
+This Diamond Ring
+8
+The Supremes
+Come See About Me
+9
+Del Shannon
+Keep Searchin' (We'll Follow The Sun)
+10
+The Kinks
+All Day And All Of The Night
+11
+The Beatles
+I Feel Fine
+12
+The Temptations
+My Girl
+13
+Jay & The Americans
+Let's Lock The Door (And Throw Away The Key)
+14
+Gerry And The Pacemakers
+I'll Be There
+15
+Sam Cooke
+Shake
+16
+The Larks
+The Jerk
+17
+Little Anthony And The Imperials
+Goin' Out Of My Head
+18
+The Shangri-Las
+Give Him A Great Big Kiss
+19
+Bobby Vinton
+Mr. Lonely
+20
+Dick and DeeDee
+Thou Shalt Not Steal
+21
+Peter And Gordon
+I Go To Pieces
+22
+The Kingsmen
+The Jolly Green Giant
+23
+Dobie Gray
+The "In" Crowd
+24
+The Zombies
+Tell Her No
+25
+Dean Martin
+You're Nobody Till Somebody Loves You
+26
+The Rolling Stones
+Heart Of Stone
+27
+Bobbi Martin
+Don't Forget I Still Love You
+28
+Jerry Vale
+Have You Looked Into Your Heart
+29
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Bye, Bye, Baby (Baby, Goodbye)
+30
+Lesley Gore
+Look Of Love
+31
+Alvin Cash & The Crawlers
+Twine Time
+32
+The Beau Brummels
+Laugh, Laugh
+33
+The Bachelors
+No Arms Can Ever Hold You
+34
+Mary Wells
+Use Your Head
+35
+Chad & Jeremy
+Willow Weep For Me
+36
+Frank Sinatra
+Somewhere In Your Heart
+37
+The Beatles
+She's A Woman
+38
+Andy Williams
+Dear Heart
+39
+Julie Rogers
+The Wedding
+40
+The Dave Clark Five
+Any Way You Want It
+41
+Robert Goulet
+My Love, Forgive Me (Amore, Scusami)
+42
+Jack Jones
+Dear Heart
+43
+The Impressions
+Amen
+44
+The Ad Libs
+The Boy From New York City
+45
+Sue Thompson
+Paper Tiger
+46
+Trini Lopez
+Lemon Tree
+47
+The Contours
+Can You Jerk Like Me
+48
+The Honeycombs
+I Can't Stop
+49
+Manfred Mann
+Sha La La
+50
+The Miracles
+Come On Do The Jerk
+51
+The Waikikis
+Hawaii Tattoo
+52
+The Dixie Cups
+Little Bell
+53
+Ben E. King
+Seven Letters
+54
+Ray Charles
+Makin' Whoopee
+55
+Ned Miller
+Do What You Do Do Well
+56
+Ronny And The Daytonas
+Bucket "T"
+57
+Brenda Lee
+Thanks A Lot
+58
+Billy Edd Wheeler
+Ode To The Little Brown Shack Out Back
+59
+The Radiants
+Voice Your Choice
+60
+Peter, Paul & Mary
+For Lovin' Me
+61
+Al (He's the King) Hirt
+Fancy Pants
+62
+Ronnie Dove
+Hello Pretty Girl
+63
+Roger Miller
+King Of The Road
+64
+Bert Kaempfert And His Orchestra
+Red Roses For A Blue Lady
+65
+Irma Thomas
+He's My Guy
+66
+Gale Garnett
+Lovin' Place
+67
+The Newbeats
+Break Away (From That Boy)
+68
+Jewel Akens
+The Birds And The Bees
+69
+Reparata And The Delrons
+Whenever A Teenager Cries
+70
+Sam Cooke
+A Change Is Gonna Come
+71
+Connie Francis
+Whose Heart Are You Breaking Tonight
+72
+The Drifters
+At The Club
+73
+The Searchers
+What Have They Done To The Rain
+74
+Sam Cooke
+Cousin Of Mine
+75
+Buck Owens
+I've Got A Tiger By The Tail
+76
+Al Martino
+My Heart Would Know
+77
+The Dolphins
+Hey-Da-Da-Dow
+78
+Adam Faith With The Roulettes
+It's Alright
+79
+The Rag Dolls
+Dusty
+80
+Richard Burton
+Married Man
+81
+Lorne Greene
+The Man
+82
+Wayne Newton
+Comin' On Too Strong
+83
+Bobby Goldsboro
+Little Things
+84
+Nancy Wilson
+Don't Come Running Back To Me
+85
+Herman's Hermits
+Can't You Hear My Heartbeat
+86
+The Ventures
+Diamond Head
+87
+Brenda Lee
+The Crying Game
+88
+Ed Ames
+Try To Remember
+89
+Billy Strange
+Goldfinger
+90
+Otis Redding
+That's How Strong My Love Is
+91
+Mitty Collier
+No Faith, No Love
+92
+The Righteous Brothers
+Bring Your Love To Me
+93
+Jackie Ross
+Jerk And Twine
+94
+The Manhattans
+I Wanna Be (Your Everything)
+95
+Jimmy Cross
+I Want My Baby Back
+96
+The Velvelettes
+He Was Really Sayin' Somethin'
+97
+Adam Wade
+Crying In The Chapel
+98
+Shirley Bassey
+Goldfinger
+99
+Aretha Franklin
+Can't You Just See Me
+100
+Jack Laforge His Piano and Orchestra
+Goldfinger

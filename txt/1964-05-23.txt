@@ -1,0 +1,300 @@
+1
+Mary Wells
+My Guy
+2
+The Beatles
+Love Me Do
+3
+Louis Armstrong And The All Stars
+Hello, Dolly!
+4
+The Dixie Cups
+Chapel Of Love
+5
+The Ray Charles Singers
+Love Me With All Your Heart (Cuando Calienta El Sol)
+6
+The Dave Clark Five
+Bits And Pieces
+7
+The Reflections
+(Just Like) Romeo & Juliet
+8
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Ronnie
+9
+Roy Orbison
+It's Over
+10
+Peter And Gordon
+A World Without Love
+11
+Billy J. Kramer With The Dakotas
+Little Children
+12
+The Beatles
+Do You Want To Know A Secret
+13
+Jan & Dean
+Dead Man's Curve
+14
+The Impressions
+I'm So Proud
+15
+The Beatles
+P.S. I Love You
+16
+Dionne Warwick
+Walk On By
+17
+Irma Thomas
+Wish Someone Would Care
+18
+The Dave Clark Five
+Do You Love Me
+19
+Danny Williams
+White On White
+20
+The Serendipity Singers
+Don't Let The Rain Come Down (Crooked Little Man)
+21
+Robert Maxwell His Harp And Orchestra
+Shangri-La
+22
+Al Hirt
+Cotton Candy
+23
+The Beatles
+Can't Buy Me Love
+24
+Terry Stafford
+Suspicion
+25
+Nat King Cole
+I Don't Want To Be Hurt Anymore
+26
+Barbra Streisand
+People
+27
+The Bachelors
+Diane
+28
+Rick Nelson
+The Very Thought Of You
+29
+The Kingsmen
+Money
+30
+The Vibrations
+My Girl Sloopy
+31
+Vic Dana
+Shangri-La
+32
+Marvin Gaye & Mary Wells
+Once Upon A Time
+33
+Brenda Holloway
+Every Little Bit Hurts
+34
+Elvis Presley With The Jordanaires
+Kiss Me Quick
+35
+The New Christy Minstrels
+Today
+36
+Solomon Burke
+Goodbye Baby (Baby Goodbye)
+37
+Andy Williams
+Wrong For Each Other
+38
+Betty Everett
+The Shoop Shoop Song (It's In His Kiss)
+39
+The Rip Chords
+Three Window Coupe
+40
+Bobby Goldsboro
+Whenever He Holds You
+41
+The Beatles
+Twist And Shout
+42
+Connie Francis
+Be Anything (But Be Mine)
+43
+Henry Mancini And His Orchestra
+The Pink Panther Theme
+44
+The Ronettes
+(The Best Part Of) Breakin' Up
+45
+The Wailers
+Tall Cool One
+46
+Elvis Presley With The Jordanaires
+Viva Las Vegas
+47
+Diane Renay
+Kiss Me Sailor
+48
+Johnny Tillotson
+I Rise, I Fall
+49
+Lesley Gore
+That's The Way Boys Are
+50
+Elvis Presley With The Jubilee Four And Carole Lombard Quartet
+What'd I Say
+51
+King Curtis
+Soul Serenade
+52
+Al Martino
+Tears And Roses
+53
+The Swinging Blue Jeans
+Good Golly Miss Molly
+54
+Inez Foxx
+Hurt By Love
+55
+Skeeter Davis
+Gonna Get Along Without You Now
+56
+Nino Tempo & April Stevens
+Tea For Two
+57
+B.B. King
+Rock Me Baby
+58
+The Dave Clark Five
+I Knew It All The Time
+59
+Tracey Dey
+Gonna' Get Along Without You Now
+60
+The Drifters
+One Way Love
+61
+Tommy Roe
+Carol
+62
+The Searchers
+Sugar And Spice
+63
+Marvin Gaye & Mary Wells
+What's The Matter With You Baby
+64
+Brook Benton
+Another Cup Of Coffee
+65
+Dale & Grace
+The Loneliest Night
+66
+The Searchers
+Ain't That Just Like Me
+67
+The Bermudas
+Donnie
+68
+Bobby Vinton
+Tell Me Why
+69
+Bernadette Carroll
+Party Girl
+70
+Gladys Knight And The Pips
+Giving Up
+71
+Etta James
+Loving You More Every Day
+72
+Jimmy Smith
+Who's Afraid Of Virginia Woolf? (Part I)
+73
+The Simon Sisters
+Winkin', Blinkin' And Nod
+74
+Gene Pitney
+Yesterday's Hero
+75
+Lesley Gore
+I Don't Wanna Be A Loser
+76
+The Beach Boys
+I Get Around
+77
+Brook Benton
+Too Late To Turn Back Now
+78
+Garnet Mimms
+One Girl
+79
+Terry Stafford
+I'll Touch A Star
+80
+Anita Bryant
+The World Of Lonely People
+81
+The Village Stompers
+From Russia With Love
+82
+Trini Lopez
+What Have I Got Of My Own
+83
+The Rolling Stones
+Not Fade Away
+84
+The Orlons
+Rules Of Love
+85
+Jimmy McGriff
+Kiko
+86
+Lucille Starr
+The French Song
+87
+Gerry And The Pacemakers
+Don't Let The Sun Catch You Crying
+88
+Bobby Darin
+Milord
+89
+The Serendipity Singers
+Beans In My Ears
+90
+Millie Small
+My Boy Lollipop
+91
+Bill Black's Combo
+Tequila
+92
+Chad & Jeremy
+Yesterday's Gone
+93
+Chuck Jackson
+Beg Me
+94
+Jackie Wilson
+Big Boss Line
+95
+Christine Quaite
+Tell Me Mamma
+96
+Tommy Tucker
+Long Tall Shorty
+97
+Otis Redding
+Security
+98
+The Overlanders
+Yesterday's Gone
+99
+Eddie Holland
+Just Ain't Enough Love
+100
+Chuck Berry
+No Particular Place To Go

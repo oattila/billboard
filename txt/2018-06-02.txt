@@ -1,0 +1,300 @@
+1
+Drake
+Nice For What
+2
+Childish Gambino
+This Is America
+3
+Drake
+God's Plan
+4
+Post Malone Featuring Ty Dolla $ign
+Psycho
+5
+Zedd, Maren Morris & Grey
+The Middle
+6
+Lil Baby & Drake
+Yes Indeed
+7
+Bebe Rexha & Florida Georgia Line
+Meant To Be
+8
+Ella Mai
+Boo'd Up
+9
+Ariana Grande
+No Tears Left To Cry
+10
+BTS
+Fake Love
+11
+Marshmello & Anne-Marie
+Friends
+12
+BlocBoy JB Featuring Drake
+Look Alive
+13
+Camila Cabello
+Never Be The Same
+14
+Migos Featuring Drake
+Walk It Talk It
+15
+Ed Sheeran
+Perfect
+16
+Cardi B
+Be Careful
+17
+Imagine Dragons
+Whatever It Takes
+18
+Bazzi
+Mine
+19
+Cardi B, Bad Bunny & J Balvin
+I Like It
+20
+Shawn Mendes
+In My Blood
+21
+Kane Brown
+Heaven
+22
+Lil Dicky Featuring Chris Brown
+Freaky Friday
+23
+Post Malone Featuring 21 Savage
+Rockstar
+24
+Camila Cabello Featuring Young Thug
+Havana
+25
+The Weeknd & Kendrick Lamar
+Pray For Me
+26
+Rich The Kid
+Plug Walk
+27
+Maroon 5
+Wait
+28
+Nicki Minaj
+Chun-Li
+29
+Post Malone
+Better Now
+30
+The Weeknd
+Call Out My Name
+31
+Dua Lipa
+New Rules
+32
+XXXTENTACION
+Sad!
+33
+Kendrick Lamar & SZA
+All The Stars
+34
+Taylor Swift
+Delicate
+35
+Juice WRLD
+Lucid Dreams
+36
+Khalid & Normani
+Love Lies
+37
+Bruno Mars & Cardi B
+Finesse
+38
+Luke Combs
+One Number Away
+39
+Jason Aldean
+You Make It Easy
+40
+Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny
+Te Bote
+41
+Rae Sremmurd & Juicy J
+Powerglide
+42
+YoungBoy Never Broke Again
+Overdose
+43
+Calvin Harris & Dua Lipa
+One Kiss
+44
+Dan + Shay
+Tequila
+45
+Offset & Metro Boomin
+Ric Flair Drip
+46
+Selena Gomez
+Back To You
+47
+Daddy Yankee
+Dura
+48
+Nicky Jam x J Balvin
+X
+49
+J. Cole
+KOD
+50
+Post Malone Featuring Nicki Minaj
+Ball For Me
+51
+Dua Lipa
+IDGAF
+52
+Famous Dex
+Japan
+53
+Juice WRLD
+All Girls Are The Same
+54
+Charlie Puth Featuring Kehlani
+Done For Me
+55
+Lauv
+I Like Me Better
+56
+Lil Pump
+Esskeetit
+57
+Morgan Wallen Featuring Florida Georgia Line
+Up Down
+58
+Darius Rucker
+For The First Time
+59
+Kenny Chesney
+Get Along
+60
+Travis Scott Featuring Lil Uzi Vert & Kanye West
+Watch
+61
+Jay Rock, Kendrick Lamar, Future & James Blake
+King's Dead
+62
+Pitbull x El Chombo x Karol G Featuring Cutty Ranks
+Dame Tu Cosita
+63
+Foster The People
+Sit Next To Me
+64
+Blake Shelton
+I Lived It
+65
+Post Malone
+Rich & Sad
+66
+Post Malone
+Paranoid
+67
+Playboi Carti Featuring Lil Uzi Vert
+Shoota
+68
+Kevin Gates
+Change Lanes
+69
+Khalid, Ty Dolla $ign & 6LACK
+OTW
+70
+Halsey Featuring Big Sean & Stefflon Don
+Alone
+71
+Brett Young
+Mercy
+72
+Cardi B Featuring Migos
+Drip
+73
+Kris Wu
+Like That
+74
+Dierks Bentley
+Woman, Amen
+75
+Rich The Kid Featuring Kendrick Lamar
+New Freezer
+76
+David Lee Murphy & Kenny Chesney
+Everything's Gonna Be Alright
+77
+Post Malone Featuring Swae Lee
+Spoil My Night
+78
+Jordan Davis
+Singles You Up
+79
+Lil Baby
+Southside
+80
+Lil Baby Featuring Gunna & Lil Uzi Vert
+Life Goes On
+81
+Luke Bryan
+Most People Are Good
+82
+Kevin Gates
+Let It Sing
+83
+Pharrell Williams x Camila Cabello
+Sangria Wine
+84
+Diplo, French Montana & Lil Pump Featuring Zhavia Ward
+Welcome To The Party
+85
+Bad Wolves
+Zombie
+86
+NAV Featuring Travis Scott
+Champion
+87
+Lil Skies Featuring Landon Cube
+Red Roses
+88
+Post Malone
+Stay
+89
+J. Cole
+ATM
+90
+Jhene Aiko Featuring Swae Lee Or Rae Sremmurd
+Sativa
+91
+Logic & Marshmello
+Everyday
+92
+J. Cole
+Kevin's Heart
+93
+Meghan Trainor
+No Excuses
+94
+XXXTENTACION
+Moonlight
+95
+Lil Skies
+Lust
+96
+Bhad Bhabie Featuring Lil Yachty
+Gucci Flip Flops
+97
+YoungBoy Never Broke Again
+Outside Today
+98
+Sam Hunt
+Downtown's Dead
+99
+Backstreet Boys
+Don't Go Breaking My Heart
+100
+Ozuna & Romeo Santos
+El Farsante

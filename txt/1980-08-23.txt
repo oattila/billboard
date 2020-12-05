@@ -1,0 +1,300 @@
+1
+Olivia Newton-John
+Magic
+2
+Christopher Cross
+Sailing
+3
+The S.O.S. Band
+Take Your Time (Do It Right) Part 1
+4
+The Rolling Stones
+Emotional Rescue
+5
+Diana Ross
+Upside Down
+6
+Billy Joel
+It's Still Rock And Roll To Me
+7
+Irene Cara
+Fame
+8
+Air Supply
+All Out Of Love
+9
+Pete Townshend
+Let My Love Open The Door
+10
+Kim Carnes
+More Love
+11
+George Benson
+Give Me The Night
+12
+The Manhattans
+Shining Star
+13
+Paul Simon
+Late In The Evening
+14
+Genesis
+Misunderstanding
+15
+Ali Thomson
+Take A Little Rhythm
+16
+Benny Mardones
+Into The Night
+17
+Boz Scaggs
+JoJo
+18
+Fred Knoblock
+Why Not Me
+19
+Johnny Lee
+Lookin' For Love
+20
+Ambrosia
+You're The Only Woman (You & I)
+21
+Commodores
+Old-Fashion Love
+22
+Jackson Browne
+Boulevard
+23
+Eddie Rabbitt
+Drivin' My Life Away
+24
+Elton John
+Little Jeannie
+25
+The Dirt Band
+Make A Little Magic
+26
+Bob Seger
+You'll Accomp'ny Me
+27
+Electric Light Orchestra
+All Over The World
+28
+Robbie Dupree
+Hot Rod Hearts
+29
+Larry Graham
+One In A Million You
+30
+Eric Clapton And His Band
+Tulsa Time/Cocaine
+31
+Natalie Cole
+Someone That I Used To Love
+32
+Billy Joel
+Don't Ask Me Why
+33
+The Spinners
+Cupid/I've Loved You For A Long Time
+34
+Paul McCartney And Wings
+Coming Up (Live At Glasgow)
+35
+Mickey Gilley
+Stand By Me
+36
+Kenny Loggins
+I'm Alright
+37
+Rocky Burnette
+Tired Of Toein' The Line
+38
+Meco
+Empire Strikes Back (Medley)
+39
+Robert John
+Hey There Lonely Girl
+40
+Carly Simon
+Jesse
+41
+The Charlie Daniels Band
+In America
+42
+Daryl Hall John Oates
+How Does It Feel To Be Back
+43
+Olivia Newton-John And The Electric Light Orchestra
+Xanadu
+44
+Jermaine Jackson
+You're Supposed To Keep Your Love For Me
+45
+Kenny Rogers
+Love The World Away
+46
+Pat Benatar
+You Better Run
+47
+The Pointer Sisters
+He's So Shy
+48
+Dionne Warwick
+No Night So Long
+49
+Poco
+Under The Gun
+50
+Queen
+Another One Bites The Dust
+51
+Bette Midler
+The Rose
+52
+Livingston Taylor
+First Time Love
+53
+Carole King
+One Fine Day
+54
+Gerry Rafferty
+The Royal Mile (Sweet Darlin')
+55
+Linda Ronstadt
+I Can't Let Go
+56
+Amy Holland
+How Do I Survive
+57
+Stephanie Mills
+Never Knew Love Like This Before
+58
+Whitesnake
+Fool For Your Loving
+59
+Rossington Collins Band
+Don't Misunderstand Me
+60
+Lenore O'malley
+First...Be A Woman
+61
+David Hudson
+Honey, Honey
+62
+Elton John
+(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?
+63
+Robbie Dupree
+Steal Away
+64
+Lipps, Inc.
+Rock It
+65
+Blues Brothers
+Gimme Some Lovin'
+66
+Linda Clifford
+Red Light
+67
+Roger Daltrey
+Free Me
+68
+Yipes!!
+Darlin'
+69
+Boz Scaggs
+Look What You've Done To Me
+70
+Joe Walsh
+All Night Long
+71
+Pure Prairie League
+Let Me Love You Tonight
+72
+England Dan Seals
+Late At Night
+73
+Jon & Vangelis
+I Hear You Now
+74
+The Charlie Daniels Band
+The Legend Of Wooley Swamp
+75
+Larsen-Feiten Band
+Who'll Be The Fool Tonight
+76
+Mickey Gilley
+True Love Ways
+77
+The Brothers Johnson
+Treasure
+78
+Irene Cara
+Out Here On My Own
+79
+Pure Prairie League
+I'm Almost Ready
+80
+Peter Gabriel
+Games Without Frontiers
+81
+The Silencers
+Shiver And Shake
+82
+Stacy Lattisaw
+Let Me Be Your Angel
+83
+Ray, Goodman & Brown
+My Prayer
+84
+The O'Jays
+Girl, Don't Let It Get You Down
+85
+Hotel
+Half Moon Silver
+86
+Chicago
+Thunder And Lightning
+87
+Journey
+Good Morning Girl/stay Awhile
+88
+Split Enz
+I Got You
+89
+Michael Johnson
+You Can Call Me Blue
+90
+The Kings
+Switchin' To Glide/This Beat Goes On
+91
+Electric Light Orchestra
+I'm Alive
+92
+Jermaine Jackson
+Let's Get Serious
+93
+Queen
+Play The Game
+94
+Firefall
+Love That Got Away
+95
+Lipps, Inc.
+Funkytown
+96
+Dr. Hook
+Years From Now
+97
+Roxy Music
+Over You
+98
+Bob Seger
+Against The Wind
+99
+KISS
+Shandi
+100
+Touch
+(Call Me) When The Spirit Moves You

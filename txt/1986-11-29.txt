@@ -1,0 +1,300 @@
+1
+Bon Jovi
+You Give Love A Bad Name
+2
+The Human League
+Human
+3
+Madonna
+True Blue
+4
+Peter Cetera With Amy Grant
+The Next Time I Fall
+5
+Huey Lewis & The News
+Hip To Be Square
+6
+Cameo
+Word Up
+7
+Boston
+Amanda
+8
+Bruce Hornsby & The Range
+The Way It Is
+9
+Lionel Richie
+Love Will Conquer All
+10
+The Bangles
+Walk Like An Egyptian
+11
+Wang Chung
+Everybody Have Fun Tonight
+12
+Billy Idol
+To Be A Lover
+13
+Eddie Money
+Take Me Home Tonight
+14
+Toto
+I'll Be Over You
+15
+Ben E. King
+Stand By Me
+16
+Duran Duran
+Notorious
+17
+Gregory Abbott
+Shake You Down
+18
+Oran 'Juice' Jones
+The Rain
+19
+Pretenders
+Don't Get Me Wrong
+20
+Steve Winwood
+Freedom Overspill
+21
+Robbie Nevil
+C'est La Vie
+22
+Orchestral Manoeuvres In The Dark
+(Forever) Live And Die
+23
+Robert Palmer
+I Didn't Mean To Turn You On
+24
+Howard Jones
+You Know I Love You ... Don't You?
+25
+Survivor
+Is This Love
+26
+Talking Heads
+Wild Wild Life
+27
+Janet Jackson
+Control
+28
+Genesis
+Land Of Confusion
+29
+Ric Ocasek
+Emotion In Motion
+30
+Billy Ocean
+Love Is Forever
+31
+Kool & The Gang
+Victory
+32
+'Til Tuesday
+What About Love
+33
+Bruce Springsteen
+War
+34
+Cyndi Lauper
+True Colors
+35
+Timbuk 3
+The Future's So Bright, I Gotta Wear Shades
+36
+Daryl Hall
+Foolish Pride
+37
+David & David
+Welcome To The Boomtown
+38
+Glass Tiger
+Someday
+39
+Run-D.M.C.
+You Be Illin'
+40
+Kansas
+All I Wanted
+41
+Anita Baker
+Sweet Love
+42
+The Pointer Sisters
+Goldmine
+43
+Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou
+All Cried Out
+44
+Nancy Martinez
+For Tonight
+45
+Carly Simon
+Coming Around Again
+46
+The Police
+Don't Stand So Close To Me '86
+47
+Corey Hart
+I Am By Your Side
+48
+Stacy Lattisaw
+Nail It To The Wall
+49
+Miami Sound Machine
+Falling In Love (Uh-Oh)
+50
+Billy Vera & The Beaters
+At This Moment
+51
+Freddie Jackson
+Tasty Love
+52
+Tina Turner
+Typical Male
+53
+Billy Joel
+This Is The Time
+54
+Tina Turner
+Two People
+55
+Samantha Fox
+Touch Me (I Want Your Body)
+56
+Chico DeBarge
+Talk To Me
+57
+Benjamin Orr
+Stay The Night
+58
+Midnight Star
+Midas Touch
+59
+The Temptations
+Lady Soul
+60
+Luther Vandross
+Stop To Love
+61
+Chicago
+Will You Still Love Me?
+62
+Billy Joel
+A Matter Of Trust
+63
+Jesse Johnson (Featuring Sly Stone)
+Crazay
+64
+Janet Jackson
+When I Think Of You
+65
+The Jets
+You Got It All
+66
+Aretha Franklin
+Jumpin' Jack Flash
+67
+Cyndi Lauper
+Change Of Heart
+68
+Five Star
+Can't Wait Another Minute
+69
+Commodores
+Goin' To The Bank
+70
+Bob Seger
+Miami
+71
+Stacey Q
+Two Of Hearts
+72
+Elton John
+Heartache All Over The World
+73
+Triumph
+Somebody's Out There
+74
+Don Johnson
+Heartache Away
+75
+Eurythmics
+Thorn In My Side
+76
+Ready For The World
+Love You Down
+77
+Cinderella
+Nobody's Fool
+78
+Paul Young
+Some People
+79
+The Georgia Satellites
+Keep Your Hands To Yourself
+80
+Glass Tiger
+Don't Forget Me (When I'm Gone)
+81
+Paul McCartney
+Stranglehold
+82
+Huey Lewis & The News
+Stuck With You
+83
+Rod Stewart
+Every Beat Of My Heart
+84
+Journey
+Girl Can't Help It
+85
+Wham!
+Where Did Your Heart Go?
+86
+David Lee Roth
+That's Life
+87
+Genesis
+Throwing It All Away
+88
+Peter Gabriel
+Big Time
+89
+Andy Taylor
+When The Rain Comes Down
+90
+Nu Shooz
+Point Of No Return
+91
+Debbie Harry
+French Kissin
+92
+Dead Or Alive
+Brand New Lover
+93
+Anita Baker
+Caught Up In The Rapture
+94
+KBC Band
+It's Not You, It's Not Me
+95
+Grace Jones
+I'm Not Perfect (But I'm Perfect For You)
+96
+Peter Gabriel
+In Your Eyes (Theme From "Say Anything")
+97
+Ann Wilson
+The Best Man In The World
+98
+Laban
+Love In Siberia
+99
+The Steve Miller Band
+I Want To Make The World Turn Around
+100
+Don Johnson
+Heartbeat

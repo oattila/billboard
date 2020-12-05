@@ -1,0 +1,300 @@
+1
+Lorde
+Royals
+2
+Miley Cyrus
+Wrecking Ball
+3
+Eminem Featuring Rihanna
+The Monster
+4
+Katy Perry
+Roar
+5
+Avicii
+Wake Me Up!
+6
+One Direction
+Story Of My Life
+7
+Drake Featuring Majid Jordan
+Hold On, We're Going Home
+8
+Imagine Dragons
+Demons
+9
+OneRepublic
+Counting Stars
+10
+Lady Gaga
+Applause
+11
+Jay Z Featuring Justin Timberlake
+Holy Grail
+12
+Passenger
+Let Her Go
+13
+Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J
+23
+14
+Robin Thicke Featuring T.I. + Pharrell
+Blurred Lines
+15
+Eminem
+Berzerk
+16
+Eminem
+Survival
+17
+Eminem
+Rap God
+18
+Lana Del Rey & Cedric Gervais
+Summertime Sadness
+19
+Capital Cities
+Safe And Sound
+20
+Pitbull Featuring Ke$ha
+Timber
+21
+Imagine Dragons
+Radioactive
+22
+YG Featuring Jeezy & Rich Homie Quan
+My Hitta
+23
+Chris Brown Featuring Nicki Minaj
+Love More
+24
+Paramore
+Still Into You
+25
+Katy Perry
+Unconditionally
+26
+AWOLNATION
+Sail
+27
+Luke Bryan
+That's My Kind Of Night
+28
+Bruno Mars
+Gorilla
+29
+Ylvis
+The Fox
+30
+Thomas Rhett
+It Goes Like This
+31
+Selena Gomez
+Slow Down
+32
+Lady Gaga
+Venus
+33
+The Neighbourhood
+Sweater Weather
+34
+Miley Cyrus
+We Can't Stop
+35
+Sara Bareilles
+Brave
+36
+Justin Timberlake
+Mirrors
+37
+Justin Timberlake
+TKO
+38
+Blake Shelton
+Mine Would Be You
+39
+Sage The Gemini Featuring IamSu!
+Gas Pedal
+40
+Jason Derulo
+Marry Me
+41
+Justin Bieber
+Recovery
+42
+Michael Jackson
+Thriller
+43
+Katy Perry Featuring Juicy J
+Dark Horse
+44
+Zedd Featuring Foxes
+Clarity
+45
+Drake Featuring 2 Chainz & Big Sean
+All Me
+46
+J. Cole Featuring TLC
+Crooked Smile
+47
+Taylor Swift Featuring Ed Sheeran
+Everything Has Changed
+48
+Daft Punk Featuring Pharrell Williams
+Get Lucky
+49
+Macklemore & Ryan Lewis Featuring ScHoolboy Q & Hollis
+White Walls
+50
+Macklemore & Ryan Lewis Featuring Ray Dalton
+Can't Hold Us
+51
+Zedd Featuring Hayley Williams
+Stay The Night
+52
+Tim McGraw
+Southern Girl
+53
+Chris Young
+Aw Naw
+54
+August Alsina Featuring Trinidad James
+I Luv This Sh*t
+55
+Keith Urban And Miranda Lambert
+We Were Us
+56
+Sevyn Streeter Featuring Chris Brown
+It Won't Stop
+57
+Ellie Goulding
+Burn
+58
+Lady Gaga Featuring R. Kelly
+Do What U Want
+59
+Britney Spears
+Work B**ch!
+60
+Joe Nichols
+Sunny And 75
+61
+Big Sean Featuring Lil Wayne & Jhene Aiko
+Beware
+62
+Florida Georgia Line
+Stay
+63
+Parmalee
+Carolina
+64
+Eli Young Band
+Drunk Last Night
+65
+Future
+Honest
+66
+JAY-Z
+Tom Ford
+67
+Sage The Gemini
+Red Nose
+68
+Jason Aldean
+Night Train
+69
+Cassadee Pope
+Wasting All These Tears
+70
+Rich Homie Quan
+Type Of Way
+71
+David Nail
+Whatever She's Got
+72
+Bastille
+Pompeii
+73
+Robin Thicke Featuring Kendrick Lamar
+Give It 2 U
+74
+Juicy J Featuring Wale & Trey Songz
+Bounce It
+75
+Martin Garrix
+Animals
+76
+Taylor Swift
+Red
+77
+Zendaya
+Replay
+78
+B.o.B Featuring 2 Chainz
+HeadBand
+79
+Lee Brice
+Parking Lot Party
+80
+Zac Brown Band
+Sweet Annie
+81
+The Band Perry
+Don't Let Me Be Lonely
+82
+Travie McCoy Featuring Jason Mraz
+Rough Water
+83
+Rihanna
+What Now
+84
+P!nk Featuring Lily Allen
+True Love
+85
+Eric Paslay
+Friday Night
+86
+Darius Rucker
+Radio
+87
+Lorde
+Tennis Court
+88
+One Direction
+Best Song Ever
+89
+Jake Owen
+Days Of Gold
+90
+Cole Swindell
+Chillin' It
+91
+Lorde
+Team
+92
+ScHoolboy Q Featuring Kendrick Lamar
+Collard Greens
+93
+Miranda Lambert
+All Kinds Of Kinds
+94
+K. Michelle
+V.S.O.P.
+95
+Eric Church
+The Outsiders
+96
+Tegan And Sara
+Closer
+97
+John Legend
+All Of Me
+98
+Prince Royce
+Darte Un Beso
+99
+Drake Featuring JAY-Z
+Pound Cake / Paris Morton Music 2
+100
+Ariana Grande Featuring Big Sean
+Right There

@@ -1,0 +1,300 @@
+1
+Jackson 5
+I Want You Back
+2
+The Shocking Blue
+Venus
+3
+B.J. Thomas
+Raindrops Keep Fallin' On My Head
+4
+Led Zeppelin
+Whole Lotta Love
+5
+Tom Jones
+Without Love (There Is Nothing)
+6
+Elvis Presley
+Don't Cry Daddy/Rubberneckin'
+7
+Dionne Warwick
+I'll Never Fall In Love Again
+8
+Sly & The Family Stone
+Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star
+9
+Diana Ross & The Supremes
+Someday We'll Be Together
+10
+Peter, Paul & Mary
+Leaving On A Jet Plane
+11
+The Archies
+Jingle Jangle
+12
+Vanity Fare
+Early In The Morning
+13
+Eddie Holman
+Hey There Lonely Girl
+14
+Mark Lindsay
+Arizona
+15
+Tommy Roe
+Jam Up Jelly Tight
+16
+Engelbert Humperdinck
+Winter World Of Love
+17
+The Guess Who
+No Time
+18
+Ferrante & Teicher
+Midnight Cowboy
+19
+Joe South and The Believers
+Walk A Mile In My Shoes
+20
+Jay & The Americans
+Walkin' In The Rain
+21
+The Temptations
+Psychedelic Shack
+22
+The 5th Dimension
+Blowing Away
+23
+Bobby Sherman
+La La La (If I Had You)
+24
+Steam
+Na Na Hey Hey Kiss Him Goodbye
+25
+Jefferson
+Baby Take Me In Your Arms
+26
+Jimmy Cliff
+Wonderful World, Beautiful People
+27
+Neil Diamond
+Holly Holy
+28
+Creedence Clearwater Revival
+Down On The Corner/Fortunate Son
+29
+The Beatles
+Come Together/Something
+30
+Glen Campbell
+Honey Come Back
+31
+Joe Cocker
+She Came In Through The Bathroom Window
+32
+B.B. King
+The Thrill Is Gone
+33
+Tommy James And The Shondells
+She
+34
+Brook Benton
+Rainy Night In Georgia/Rubberneckin'
+35
+CROW
+Evil Woman Don't Play Your Games With Me
+36
+Wilbert Harrison
+Let's Work Together (Part 1)
+37
+Rick Nelson
+She Belongs To Me
+38
+James Brown
+Ain't It Funky Now (Part 1)
+39
+Bobbie Gentry
+Fancy
+40
+James Brown
+Let A Man Come In And Do The Popcorn (Part Two)
+41
+The Cuff Links
+When Julie Comes Around
+42
+Marvin Gaye
+How Can I Forget/Gonna Give Her All The Love I've Got
+43
+Steppenwolf
+Monster
+44
+Johnny Nash
+Cupid
+45
+The Delfonics
+Didn't I (Blow Your Mind This Time)
+46
+Plastic Ono Band
+Cold Turkey
+47
+The Lettermen
+Traces/Memories Medley
+48
+The Original Caste
+One Tin Soldier
+49
+Johnnie Taylor
+Love Bones
+50
+Creedence Clearwater Revival
+Travelin' Band/Who'll Stop The Rain
+51
+Eydie Gorme
+Tonight I'll Say A Prayer
+52
+Lulu
+Oh Me Oh My (I'm A Fool For You Baby)
+53
+The Rascals
+Hold On
+54
+Lenny Welch
+Breaking Up Is Hard To Do
+55
+Smokey Robinson & The Miracles
+Point It Out
+56
+The Meters
+Look-Ka Py Py
+57
+The Hollies
+He Ain't Heavy, He's My Brother
+58
+The Band
+Up On Cripple Creek
+59
+Ike & Tina Turner
+Bold Soul Sister
+60
+Chairman Of The Board
+Give Me Just A Little More Time
+61
+Santana
+Evil Ways
+62
+Joe Simon
+Moon Walk Part 1
+63
+Brenda & The Tabulations
+The Touch Of You
+64
+Luther Ingram
+My Honey And Me
+65
+Candi Staton
+I'm Just A Prisoner (Of Your Good Lovin')
+66
+Street People
+Jennifer Tomkins
+67
+Johnny Cash & June Carter
+If I Were A Carpenter
+68
+Merle Haggard And The Strangers
+Okie From Muskogee
+69
+The New Hope
+Won't Find Better (Than Me)
+70
+David Ruffin
+I'm So Glad I Fell For You
+71
+The Tee Set
+Ma Belle Amie
+72
+Jerry Butler
+Got To See If I Can't Get Mommy (To Come Back Home)
+73
+R.B. Greaves
+Always Something There To Remind Me
+74
+The Lovelites
+How Can I Tell My Mom & Dad
+75
+Little Milton
+If Walls Could Talk
+76
+Nazz
+Hello It's Me
+77
+The Dells
+Oh What A Day
+78
+New Colony Six
+Barbara, I Love You
+79
+The Jaggerz
+The Rapper
+80
+Steam
+I've Gotta Make You Love Me
+81
+Fleetwood Mac
+Oh Well - Pt. I
+82
+Mama Cass Elliot
+New World Coming
+83
+Ronnie Hawkins
+Down In The Alley
+84
+Bobby Goldsboro
+Mornin Mornin
+85
+Les McCann & Eddie Harris
+Compared To What
+86
+Cannonball Adderley
+Country Preacher
+87
+Cold Blood
+You Got Me Hummin
+88
+The Flaming Ember
+Shades Of Green
+89
+The Sandpipers
+Come Saturday Morning
+90
+Sonny James
+It's Just A Matter Of Time
+91
+Vic Dana
+If I Never Knew Your Name
+92
+Jane Birkin Serge Gainsbourg
+Je T'Aime...Moi Non Plus
+93
+Guy Drake
+Welfare Cadilac
+94
+Donny Hathaway
+The Ghetto-Part 1
+95
+Roy Clark
+Then She's A Lover
+96
+King Crimson
+The Court Of The Crimson King - Part 1
+97
+The Kinks
+Victoria
+98
+Thelma Houston
+Save The Country
+99
+Murray Head With The Trinidad Singers
+Superstar
+100
+Tammy Wynette
+I'll See Him Through

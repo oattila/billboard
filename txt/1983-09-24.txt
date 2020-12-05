@@ -1,0 +1,300 @@
+1
+Billy Joel
+Tell Her About It
+2
+Bonnie Tyler
+Total Eclipse Of The Heart
+3
+Men Without Hats
+The Safety Dance
+4
+Michael Sembello
+Maniac
+5
+Air Supply
+Making Love Out Of Nothing At All
+6
+Eurythmics
+Sweet Dreams (Are Made Of This)
+7
+Michael Jackson
+Human Nature
+8
+Taco
+Puttin' On The Ritz
+9
+Stray Cats
+(she's) Sexy + 17
+10
+Asia
+Don't Cry
+11
+The Police
+King Of Pain
+12
+Frank Stallone
+Far From Over
+13
+Spandau Ballet
+True
+14
+Naked Eyes
+Promises, Promises
+15
+The Police
+Every Breath You Take
+16
+Laura Branigan
+How Am I Supposed To Live Without You
+17
+Kenny Rogers Duet With Dolly Parton
+Islands In The Stream
+18
+Donna Summer
+She Works Hard For The Money
+19
+Jackson Browne
+Lawyers In Love
+20
+Culture Club
+I'll Tumble 4 Ya
+21
+The Fixx
+One Thing Leads To Another
+22
+Shalamar
+Dead Giveaway
+23
+Talking Heads
+Burning Down The House
+24
+Rick Springfield
+Human Touch
+25
+Sheena Easton
+Telefone (long Distance Love Affair)
+26
+Elton John
+Kiss The Bride
+27
+The Human League
+(Keep Feeling) Fascination
+28
+Juice Newton
+Tell Her No
+29
+Robert Plant
+Big Log
+30
+Prince
+Delirious
+31
+Peabo Bryson/Roberta Flack
+Tonight, I Celebrate My Love
+32
+Jeffrey Osborne
+Don't You Get So Mad
+33
+George Benson
+Lady Love Me (One More Time)
+34
+The Kinks
+Don't Forget To Dance
+35
+The Motels
+Suddenly Last Summer
+36
+The Moody Blues
+Sitting At The Wheel
+37
+Madness
+It Must Be Love
+38
+Men At Work
+It's A Mistake
+39
+Stevie Nicks
+If Anyone Falls
+40
+Rick James
+Cold Blooded
+41
+Rod Stewart
+What Am I Gonna Do (I'm So In Love With You)
+42
+Bryan Adams
+This Time
+43
+Lionel Richie
+All Night Long (All Night)
+44
+Heart
+How Can I Refuse
+45
+David Bowie
+China Girl
+46
+Elvis Costello And The Attractions
+Everyday I Write The Book
+47
+Agnetha Faltskog
+Can't Shake Loose
+48
+The Animals
+The Night
+49
+Stacy Lattisaw
+Miracles
+50
+Def Leppard
+Foolin'
+51
+David Bowie
+Modern Love
+52
+Donna Summer
+Unconditional Love
+53
+Joan Jett & the Blackhearts
+Everyday People
+54
+Stevie Nicks
+Stand Back
+55
+Huey Lewis & The News
+Heart And Soul
+56
+Men At Work
+Dr. Heckyll & Mr. Jive
+57
+Quarterflash
+Take Me To Heart
+58
+Little River Band
+You're Driving Me Out Of My Mind
+59
+The S.O.S. Band
+Just Be Good To Me
+60
+Wham! U.K.
+Bad Boys
+61
+Kansas
+Fight Fire With Fire
+62
+Paul Anka
+Hold Me 'til The Mornin' Comes
+63
+Eurythmics
+Love Is A Stranger
+64
+The Manhattan Transfer
+Spice Of Life
+65
+Loverboy
+Queen Of The Broken Hearts
+66
+Loverboy
+Hot Girls In Love
+67
+Midnight Star
+Freak-A-Zoid
+68
+Bee Gees
+Someone Belonging To Someone
+69
+Joboxers
+Just Got Lucky
+70
+Billy Joel
+Uptown Girl
+71
+Sergio Mendes
+Rainbow's End
+72
+Jarreau
+Trouble In Paradise
+73
+Michael Sembello
+Automatic Man
+74
+Bob Seger & The Silver Bullet Band
+Old Time Rock & Roll
+75
+Jim Capaldi
+Living On The Edge
+76
+Herbie Hancock
+Rockit
+77
+Eddy Grant
+I Don't Wanna Dance
+78
+Pat Benatar
+Love Is A Battlefield
+79
+Jackson Browne
+Tender Is The Night
+80
+Commodores
+Only You
+81
+Matthew Wilder
+Break My Stride
+82
+Quiet Riot
+Cum On Feel The Noize
+83
+Eddie Rabbitt
+You Put The Beat In My Heart
+84
+Crystal Gayle
+Baby, What About You
+85
+Anne Murray
+A Little Good News
+86
+Bette Midler
+All I Need To Know
+87
+Journey
+Send Her My Love
+88
+Berlin
+Masquerade
+89
+Peter Schilling
+Major Tom (Coming Home)
+90
+Carly Simon
+You Know What To Do
+91
+Journey
+After The Fall
+92
+Styx
+High Time
+93
+Cee Farrow
+Should I Love You
+94
+Glenn Shorrock
+Don't Girls Get Lonely
+95
+Minor Detail
+Canvas Of Life
+96
+Graham Parker
+Life Gets Better
+97
+Duran Duran
+Is There Something I Should Know
+98
+Ronnie Milsap
+Don't You Know How Much I Love You
+99
+Liquid Gold
+What's She Got
+100
+Rita Coolidge
+All Time High

@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Rock With You
+2
+Captain & Tennille
+Do That To Me One More Time
+3
+Rupert Holmes
+Escape (The Pina Colada Song)
+4
+Kenny Rogers
+Coward Of The County
+5
+Stevie Wonder
+Send One Your Love
+6
+Smokey Robinson
+Cruisin'
+7
+Cliff Richard
+We Don't Talk Anymore
+8
+Kool & The Gang
+Ladies Night
+9
+KC And The Sunshine Band
+Please Don't Go
+10
+Little River Band
+Cool Change
+11
+Eagles
+The Long Run
+12
+Dr. Hook
+Better Love Next Time
+13
+Prince
+I Wanna Be Your Lover
+14
+Jefferson Starship
+Jane
+15
+Fleetwood Mac
+Sara
+16
+Kenny Loggins
+This Is It
+17
+Tom Petty And The Heartbreakers
+Don't Do Me Like That
+18
+Queen
+Crazy Little Thing Called Love
+19
+Daryl Hall John Oates
+Wait For Me
+20
+Isaac Hayes
+Don't Let Go
+21
+Dionne Warwick
+Deja Vu
+22
+Commodores
+Still
+23
+Styx
+Babe
+24
+Teri DeSario With K.C.
+Yes, I'm Ready
+25
+Steve Forbert
+Romeo's Tune
+26
+Foghat
+Third Time Lucky (First Time I Was A Fool)
+27
+Foreigner
+Head Games
+28
+Anne Murray
+Daydream Believer
+29
+The Dirt Band
+An American Dream
+30
+Herb Alpert
+Rotation
+31
+Led Zeppelin
+Fool In The Rain
+32
+Styx
+Why Me
+33
+The O'Jays
+Forever Mine
+34
+Tom Johnston
+Savannah Nights
+35
+Dan Fogelberg
+Longer
+36
+Santana
+You Know That I Love You
+37
+Cheap Trick
+Voices
+38
+Barbra Streisand/Donna Summer
+No More Tears (Enough Is Enough)
+39
+Neil Diamond
+September Morn'
+40
+Rufus And Chaka Khan
+Do You Love What You Feel
+41
+Suzi Quatro
+She's In Love With You
+42
+Commodores
+Wonderland
+43
+John Stewart
+Lost Her In The Sun
+44
+Electric Light Orchestra
+Last Train To London
+45
+Joyce Cobb
+Dig The Gold
+46
+Robert John
+Lonely Eyes
+47
+J.D. Souther
+You're Only Lonely
+48
+The Spinners
+Working My Way Back To You/Forgive Me, Girl
+49
+Donna Summer
+On The Radio
+50
+The Flying Lizards
+Money
+51
+The Inmates
+Dirty Water
+52
+Dann Rogers
+Looks Like Love Again
+53
+Barry Manilow
+When I Wanted You
+54
+Pat Benatar
+Heartbreaker
+55
+Toto
+99
+56
+Shalamar
+The Second Time Around
+57
+Rod Stewart
+I Don't Want To Talk About It
+58
+Pablo Cruise
+I Want You Tonight
+59
+Peter Brown
+Stargazer
+60
+Pleasure
+Glide
+61
+Robert Palmer
+Can We Still Be Friends
+62
+Leif Garrett
+Memorize Your Number
+63
+Bonnie Pointer
+I Can't Help Myself (Sugar Pie, Honey Bunch)
+64
+Earth, Wind & Fire
+Star
+65
+ABBA
+Chiquitita
+66
+Jimmy Buffett
+Volcano
+67
+Jennifer Warnes
+Don't Make Me Over
+68
+Molly Hatchet
+Flirtin' With Disaster
+69
+Nicolette Larson & Michael McDonald
+Let Me Go, Love
+70
+Gamma
+I'm Alive
+71
+Journey
+Too Late
+72
+Rupert Holmes
+Him
+73
+Aerosmith
+Remember (Walking In The Sand)
+74
+Dollar
+Shooting Star
+75
+Mike Pinera
+Goodnight My Love
+76
+Kool & The Gang
+Too Hot
+77
+Pink Floyd
+Another Brick In The Wall (Part II)
+78
+Bobby Vinton
+Make Believe It's Your First Time
+79
+Barbra Streisand
+Kiss Me In The Rain
+80
+Bette Midler
+When A Man Loves A Woman
+81
+ZZ Top
+I Thank You
+82
+Tavares
+Bad Times
+83
+George Burns
+I Wish I Was Eighteen Again
+84
+Lobo
+Holdin' On For Dear Love
+85
+Sister Sledge
+Got To Love Somebody
+86
+Switch
+I Call Your Name
+87
+The Babys
+Back On My Feet Again
+88
+Billy Preston & Syreeta
+With You I'm Born Again
+89
+Chuck Mangione
+Give It All You Got
+90
+Peaches & Herb
+I Pledge My Love
+91
+Cindy Bullens
+Trust Me
+92
+Breathless
+Takin' It Back
+93
+Dana Valery
+I Don't Want To Be Lonely
+94
+Supertramp
+Take The Long Way Home
+95
+Sugarhill Gang
+Rapper's Delight
+96
+Rita Coolidge
+I'd Rather Leave While I'm In Love
+97
+The Alan Parsons Project
+Damned If I Do
+98
+Bar-Kays
+Move Your Boogie Body
+99
+Blackfoot
+Train, Train
+100
+M
+Pop Muzik

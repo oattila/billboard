@@ -1,0 +1,300 @@
+1
+Madonna
+Papa Don't Preach
+2
+Steve Winwood
+Higher Love
+3
+Bananarama
+Venus
+4
+Belinda Carlisle
+Mad About You
+5
+Peter Cetera
+Glory Of Love (Theme From "The Karate Kid Part II")
+6
+Lionel Richie
+Dancing On The Ceiling
+7
+Berlin
+Take My Breath Away (Love Theme From "Top Gun")
+8
+Jermaine Stewart
+We Don't Have To Take Our Clothes Off
+9
+Timex Social Club
+Rumors
+10
+Wham!
+The Edge Of Heaven
+11
+Michael McDonald
+Sweet Freedom (Theme From "Running Scared")
+12
+Carl Anderson & Gloria Loring
+Friends And Lovers
+13
+Jeffrey Osborne
+You Should Be Mine (The Woo Woo Song)
+14
+Regina
+Baby Love
+15
+Huey Lewis & The News
+Stuck With You
+16
+Miami Sound Machine
+Words Get In The Way
+17
+Rod Stewart
+Love Touch (Theme From "Legal Eagles")
+18
+David Lee Roth
+Yankee Rose
+19
+Peter Gabriel
+Sledgehammer
+20
+Run-D.M.C.
+Walk This Way
+21
+The Monkees
+That Was Then, This Is Now
+22
+Klymaxx
+Man Size Love (From "Running Scared")
+23
+Glass Tiger
+Don't Forget Me (When I'm Gone)
+24
+Billy Ocean
+Love Zone
+25
+The Outfield
+All The Love In The World
+26
+Kenny Loggins
+Danger Zone
+27
+Double
+The Captain Of Her Heart
+28
+Daryl Hall
+Dreamtime
+29
+John Mellencamp
+Rumbleseat
+30
+Journey
+Suzanne
+31
+Stacey Q
+Two Of Hearts
+32
+Mike + The Mechanics
+Taken In
+33
+Genesis
+Invisible Touch
+34
+Gavin Christopher
+One Step Closer To You
+35
+Device
+Hanging On A Heart Attack
+36
+Janet Jackson
+When I Think Of You
+37
+Patti LaBelle
+Oh, People
+38
+Genesis
+Throwing It All Away
+39
+Paul McCartney
+Press
+40
+Loverboy
+Heaven In Your Eyes
+41
+ZZ Top
+Velcro Fly
+42
+Janet Jackson
+Nasty
+43
+Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou
+All Cried Out
+44
+Van Halen
+Love Walks In
+45
+Eurythmics
+Missionary Man
+46
+Nu Shooz
+Point Of No Return
+47
+Andy Taylor
+Take It Easy
+48
+Simply Red
+Money$ Too Tight (To Mention)
+49
+Mary Jane Girls
+Walk Like A Man (From "A Fine Mess")
+50
+Thirty Eight Special
+Somebody Like You
+51
+Pet Shop Boys
+Opportunities (Let's Make Lots Of Money)
+52
+Billy Joel
+A Matter Of Trust
+53
+Billy Joel
+Modern Woman (From "Ruthless People")
+54
+Mick Jagger
+Ruthless People
+55
+The Beatles
+Twist And Shout
+56
+The Blow Monkeys
+Digging Your Scene
+57
+Anita Baker
+Sweet Love
+58
+El DeBarge
+Love Always
+59
+The Jets
+Private Number
+60
+Honeymoon Suite
+What Does It Take
+61
+Chaka Khan
+Love Of A Lifetime
+62
+Robert Palmer
+I Didn't Mean To Turn You On
+63
+Gwen Guthrie
+Ain't Nothin' Goin' On But The Rent
+64
+Thompson Twins
+Nothing In Common
+65
+The Fabulous Thunderbirds
+Wrap It Up
+66
+Sheena Easton
+So Far So Good (From "About Last Night")
+67
+Don Johnson
+Heartbeat
+68
+Prince And The Revolution
+Anotherloverholenyohead
+69
+Paul Simon
+You Can Call Me Al
+70
+Simply Red
+Holding Back The Years
+71
+New Edition
+Earth Angel (From "The Karate Kid Part II")
+72
+Bruce Hornsby & The Range
+Every Little Kiss
+73
+Heart
+If Looks Could Kill
+74
+The Moody Blues
+Your Wildest Dreams
+75
+Billy Ocean
+There'll Be Sad Songs (To Make You Cry)
+76
+The Moody Blues
+The Other Side Of Life
+77
+Doctor And The Medics
+Spirit In The Sky
+78
+Bob Seger
+It's You
+79
+Air Supply
+Lonely Is The Night
+80
+Art Of Noise With Max Headroom
+Paranoimia
+81
+Queen
+A Kind Of Magic
+82
+Eddie Money
+Take Me Home Tonight
+83
+Kenny Loggins
+Playing With The Boys
+84
+Luther Vandross
+Give Me The Reason
+85
+Howard Jones
+No One Is To Blame
+86
+Icehouse
+No Promises
+87
+El DeBarge
+Who's Johnny ("Short Circuit" Theme)
+88
+Patti LaBelle & Michael McDonald
+On My Own
+89
+The Fixx
+Secret Separation
+90
+Isle Of Man
+Am I Forgiven
+91
+Robert Palmer
+Hyperactive
+92
+GTR
+The Hunter
+93
+One To One
+Angel In My Pocket
+94
+GTR
+When The Heart Rules The Mind
+95
+Nick Jameson
+Weatherman
+96
+The Fabulous Thunderbirds
+Tuff Enuff
+97
+New Edition
+With You All The Way
+98
+Southside Johnny & The Jukes
+Walk Away Renee
+99
+Van Halen
+Dreams
+100
+The Jets
+Crush On You

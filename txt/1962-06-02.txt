@@ -1,0 +1,300 @@
+1
+Ray Charles
+I Can't Stop Loving You
+2
+Mr. Acker Bilk
+Stranger On The Shore
+3
+The Shirelles
+Soldier Boy
+4
+Dion
+Lovers Who Wander
+5
+Dee Dee Sharp
+Mashed Potato Time
+6
+Brenda Lee
+Everybody Loves Me But You
+7
+Ernie Maresca
+Shout! Shout! (Knock Yourself Out)
+8
+Walter Brennan
+Old Rivers
+9
+Mary Wells
+The One Who Really Loves You
+10
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+11
+James Darren
+Conscience
+12
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+13
+The Crystals
+Uptown
+14
+Jay & The Americans
+She Cried
+15
+The Blue-Belles
+I Sold My Heart To The Junkman
+16
+Connie Francis
+Second Hand Love
+17
+Freddy Cannon
+Palisades Park
+18
+Ben E. King
+Don't Play That Song (You Lied)
+19
+The Marvelettes
+Playboy
+20
+Jimmy Dean
+P.T. 109
+21
+Shelley Fabares
+Johnny Angel
+22
+Jimmy Soul
+Twistin' Matilda (and the channel)
+23
+Ronnie and The Hi-Lites
+I Wish That We Were Married
+24
+Elvis Presley
+Follow That Dream
+25
+Burl Ives
+Funny Way Of Laughin'
+26
+Elvis Presley With The Jordanaires
+Good Luck Charm
+27
+Dick and DeeDee
+Tell Me
+28
+David Rose and His Orchestra
+The Stripper
+29
+The Castells
+So This Is Love
+30
+Perry Como
+Caterina
+31
+George Maharis
+Teach Me Tonight
+32
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+33
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+34
+Gary U.S. Bonds
+Twist, Twist Senora
+35
+Patti Page
+Most People Get Married
+36
+James Brown And The Famous Flames
+Night Train
+37
+Johnny Crawford
+Cindy's Birthday
+38
+Joe Henderson
+Snap Your Fingers
+39
+The Volume's
+I Love You
+40
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+41
+Joey Dee & the Starliters
+Shout - Part I
+42
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+43
+Frankie Avalon
+You Are Mine
+44
+Henry Mancini And His Orchestra
+Moon River
+45
+Brook Benton
+Hit Record
+46
+Bobby Vee
+Sharing You
+47
+Clyde McPhatter
+Lover Please
+48
+Linda Scott
+Count Every Star
+49
+Chubby Checker (with Dee Dee Sharp)
+Slow Twistin'
+50
+Ray Charles
+Born To Lose
+51
+Dion
+(I was) Born To Cry
+52
+Bruce Channel
+Number One Man
+53
+Valjean on Piano
+Theme From Ben Casey
+54
+The Lettermen
+How Is Julie?
+55
+King Curtis And The Noble Knights
+Soul Twist
+56
+Peter, Paul & Mary
+Lemon Tree
+57
+James Ray
+Itty Bitty Pieces
+58
+The Marketts
+Balboa Blue
+59
+Fats Domino
+My Real Name
+60
+Patsy Cline
+When I Get Thru With You (You'll Love Me Too)
+61
+Wanda Jackson
+If I Cried Every Time You Hurt Me
+62
+Emilio Pericoli
+Al Di La'
+63
+Dinah Washington
+Where Are You
+64
+Jackie Wilson
+Hearts
+65
+Bobby Curtola
+Fortuneteller
+66
+Dr. Feelgood And The Interns
+Doctor Feel-Good
+67
+Johnnie Morisette
+Meet Me At The Twistin' Place
+68
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+69
+Yvonne Baker and the Sensations
+That's My Desire
+70
+Bertha Tillman
+Oh My Angel
+71
+The Dovells
+Bristol Twistin' Annie
+72
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+73
+Sandy Nelson
+Drummin' Up A Storm
+74
+Earl Grant
+Swingin' Gently
+75
+Sam Cooke
+Having A Party
+76
+Connie Stevens
+Why'd You Wanna Make Me Cry
+77
+Claude King
+Wolverton Mountain
+78
+The Miracles
+I'll Try Something New
+79
+The Corsairs Featuring Jay "Bird" Uzzell
+I'll Take You Home
+80
+Benny Spellman
+Lipstick Traces (On A Cigarette)
+81
+Teddy & The Twilights
+Woman Is A Man's Best Friend
+82
+The Falcons & Band (Ohio Untouchables)
+I Found A Love
+83
+Marty Robbins
+Love Can't Wait
+84
+The Isley Brothers
+Twist And Shout
+85
+Roy Orbison
+The Crowd
+86
+Bobby Rydell
+I'll Never Dance Again
+87
+Toni Fisher
+West Of The Wall
+88
+Joanie Sommers
+Johnny Get Angry
+89
+The Champs
+Limbo Rock
+90
+Jim Reeves
+Adios Amigo
+91
+Solomon Burke
+Down In The Valley
+92
+Arthur Alexander
+Where Have You Been (All My Life)
+93
+Nelson Riddle
+Route 66 Theme
+94
+The Paris Sisters
+Let Me Be The One
+95
+Kenny Ball and his Jazzmen
+The Green Leaves Of Summer
+96
+Jan & Dean
+Tennessee
+97
+Bert Kaempfert And His Orchestra
+That Happy Feeling
+98
+The Kingston Trio
+Scotch And Soda
+99
+John Lee Hooker
+Boom Boom
+100
+Don Gardner And Dee Dee Ford
+I Need Your Loving

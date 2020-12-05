@@ -1,0 +1,300 @@
+1
+Nancy Sinatra & Frank Sinatra
+Somethin' Stupid
+2
+The Supremes
+The Happening
+3
+Arthur Conley
+Sweet Soul Music
+4
+The Monkees
+A Little Bit Me, A Little Bit You
+5
+The Turtles
+Happy Together
+6
+Tommy James And The Shondells
+I Think We're Alone Now
+7
+The Buckinghams
+Don't You Care
+8
+Peaches & Herb
+Close Your Eyes
+9
+The Dave Clark Five
+You Got What It Takes
+10
+The Spencer Davis Group
+I'm A Man
+11
+Martha & The Vandellas
+Jimmy Mack
+12
+The Hollies
+On A Carousel
+13
+Petula Clark
+This Is My Song
+14
+The Five Americans
+Western Union
+15
+Eric Burdon & The Animals
+When I Was Young
+16
+Aretha Franklin
+I Never Loved A Man (The Way I Love You)
+17
+The Happenings
+I Got Rhythm
+18
+The Easybeats
+Friday On My Mind
+19
+The Young Rascals
+Groovin'
+20
+Engelbert Humperdinck
+Release Me (And Let Me Love Again)
+21
+Neil Diamond
+Girl, You'll Be A Woman Soon
+22
+Nancy Sinatra
+Love Eyes
+23
+Simon & Garfunkel
+At The Zoo
+24
+Four Tops
+Bernadette
+25
+The Tremeloes
+Here Comes My Baby
+26
+Aretha Franklin
+Respect
+27
+The Platters
+With This Ring
+28
+The Electric Prunes
+Get Me To The World On Time
+29
+The Yellow Balloon
+Yellow Balloon
+30
+The Byrds
+My Back Pages
+31
+Jefferson Airplane
+Somebody To Love
+32
+Lou Rawls
+Dead End Street Monologue/Dead End Street
+33
+Paul Revere & The Raiders
+Him Or Me - What's It Gonna Be?
+34
+Andy Williams
+Music To Watch Girls By
+35
+The Parade
+Sunshine Girl
+36
+Frankie Laine
+Making Memories
+37
+Roger Miller
+Walkin' In The Sunshine
+38
+Jerry Jaye
+My Girl Josephine
+39
+Herb Alpert & The Tijuana Brass
+Casino Royale
+40
+Tommy James And The Shondells
+Mirage
+41
+James & Bobby Purify
+Shake A Tail Feather
+42
+The Temptations
+All I Need
+43
+Lesley Gore
+California Nights
+44
+The Mamas & The Papas
+Creeque Alley
+45
+The Nitty Gritty Dirt Band
+Buy For Me The Rain
+46
+Whistling Jack Smith
+I Was Kaiser Bill's Batman
+47
+The Righteous Brothers
+Melancholy Music Man
+48
+The Tokens
+Portrait Of My Love
+49
+Booker T. & The MG's
+Hip Hug-Her
+50
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+51
+The Who
+Happy Jack
+52
+Brenda & The Tabulations
+Dry Your Eyes
+53
+Wilson Pickett
+I Found A Love - Part 1
+54
+Dusty Springfield
+I'll Try Anything
+55
+Ronnie Dove
+My Babe
+56
+The Yardbirds
+Little Games
+57
+Mitch Ryder And The Detroit Wheels
+Too Many Fish In The Sea & Three Little Fishes
+58
+Toussaint McCall
+Nothing Takes The Place Of You
+59
+The Marvelettes
+When You're Young And In Love
+60
+Ray Price
+Danny Boy
+61
+Percy Sledge
+Out Of Left Field
+62
+Bobby Darin
+The Lady Came From Baltimore
+63
+The Seeds
+Can't Seem To Make You Mine
+64
+The Lovin' Spoonful
+Six O'Clock
+65
+Dean Martin
+Lay Some Happiness On Me
+66
+Brenton Wood
+The Oogum Boogum Song
+67
+The Romeos
+Precious Memories
+68
+Dionne Warwick
+Alfie
+69
+The Merry-Go-Round
+Live
+70
+The Fantastic Four
+The Whole World Is A Stage
+71
+Sonny & Cher
+A Beautiful Story
+72
+Don And The Goodtimes
+I Could Be So Good To You
+73
+Brenda Holloway
+Just Look What You've Done
+74
+Barbara Lewis
+I'll Make Him Love Me
+75
+The 5th Dimension
+Another Day, Another Heartache
+76
+Casinos
+It's All Over Now
+77
+Cannonball Adderley
+Why? (Am I Treated So Bad)
+78
+The Raelets/Ray Charles Orchestra
+One Hurt Deserves Another
+79
+Otis & Carla
+Tramp
+80
+Ed Ames
+Time, Time
+81
+Jack Jones
+I'm Indestructible
+82
+Eddy Arnold
+Misty Blue
+83
+Roger Williams
+Love Me Forever
+84
+The Intruders
+Together
+85
+Every Mothers' Son
+Come On Down To My Boat
+86
+Jon & Robin And The In Crowd
+Do It Again A Little Bit Slower
+87
+Dyke And The Blazers
+Funky Broadway Part I
+88
+Ellie Greenwich
+I Want You To Be My Baby
+89
+Jackie Wilson
+I've Lost You
+90
+James Brown And The Famous Flames
+Let Yourself Go
+91
+Chuck Jackson & Maxine Brown
+Daddy's Home
+92
+Dee Dee Warwick
+When Love Slips Away
+93
+The Isley Brothers
+Got To Have You Back
+94
+Davie Allan And The Arrows
+Blue's Theme
+95
+Lou Christie
+Shake Hands And Walk Away Cryin'
+96
+Pozo Seco Singers
+I Believed It All
+97
+Stevie Wonder
+Hey Love
+98
+Gladys Knight And The Pips
+Take Me In Your Arms And Love Me
+99
+Carla Thomas
+When Tomorrow Comes
+100
+Clifford Curry
+She Shot A Hole In My Soul

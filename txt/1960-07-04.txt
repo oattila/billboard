@@ -1,0 +1,300 @@
+1
+Connie Francis
+Everybody's Somebody's Fool
+2
+Hollywood Argyles
+Alley-Oop
+3
+Brenda Lee
+I'm Sorry
+4
+Duane Eddy And The Rebels
+Because They're Young
+5
+The Everly Brothers
+Cathy's Clown
+6
+Brenda Lee
+That's All You Gotta Do
+7
+Jack Scott
+Burning Bridges
+8
+Paul Anka
+My Home Town
+9
+The Fendermen
+Mule Skinner Blues
+10
+Dinah Washington & Brook Benton
+A Rockin' Good Way (To Mess Around And Fall In Love)
+11
+Roy Orbison
+Only The Lonely (Know How I Feel)
+12
+Sam Cooke
+Wonderful World
+13
+Anita Bryant
+Paper Roses
+14
+Paul Evans
+Happy-Go-Lucky-Me
+15
+Dante and the Evergreens
+Alley-Oop
+16
+Hank Locklin
+Please Help Me, I'm Falling
+17
+Jimmy Jones
+Good Timin'
+18
+Tommy Edwards
+I Really Don't Want To Know
+19
+Bobby Darin
+Won't You Come Home Bill Bailey
+20
+The Everly Brothers
+When Will I Be Loved
+21
+Bobby Rydell
+Swingin' School
+22
+Ray Peterson
+Tell Laura I Love Her
+23
+Connie Francis
+Jealous Of You (Tango Della Gelosia)
+24
+Ron Holden with The Thunderbirds
+Love You So
+25
+The Fleetwoods
+Runaround
+26
+Ricky Nelson
+Young Emotions
+27
+Don Costa And His Orchestra And Chorus
+Theme From "The Unforgiven" (The Need For Love)
+28
+Ella Fitzgerald
+Mack The Knife
+29
+The Skyliners
+Pennies From Heaven
+30
+Jeanne Black
+He'll Have To Stay
+31
+Fats Domino
+Walking To New Orleans
+32
+Bobby Rydell
+Ding-A-Ling
+33
+Bill Black's Combo
+Josephine
+34
+Patti Page
+One Of Us (Will Weep Tonight)
+35
+Garry Miles
+Look For A Star
+36
+Jimmy Clanton
+Another Sleepless Night
+37
+Deane Hawley
+Look For A Star
+38
+Annette With The Afterbeats
+Train Of Love
+39
+Elvis Presley With The Jordanaires
+Stuck On You
+40
+Connie Stevens
+Sixteen Reasons
+41
+Paul Anka
+Something Happened
+42
+Jim Reeves
+I'm Gettin' Better
+43
+Safaris with The Phantom's Band
+Image Of A Girl
+44
+Jackie Wilson
+Night
+45
+The Brothers Four
+Greenfields
+46
+Bobby Marchan
+There's Something On Your Mind (Part 2)
+47
+Charlie Rich
+Lonely Weekends
+48
+Johnny And The Hurricanes
+Down Yonder
+49
+The Beau-Marks
+Clap Your Hands
+50
+Conway Twitty
+Is A Blue Bird Blue
+51
+Etta James
+All I Could Do Was Cry
+52
+Percy Faith And His Orchestra
+Theme For Young Lovers
+53
+Pat Boone
+Walking The Floor Over You
+54
+The Drifters
+Lonely Winds
+55
+Jackie Wilson
+Doggin' Around
+56
+Billy Vaughn And His Orchestra
+Look For A Star
+57
+Skip And Flip
+Cherry Pie
+58
+Jan And Kjeld
+Banjo Boy
+59
+Brian Hyland
+Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+60
+Hank Ballard And The Midnighters
+Finger Poppin' Time
+61
+Dorsey Burnette
+Hey Little One
+62
+Garry Mills
+Look For A Star - Part I
+63
+Pat Boone
+Spring Rain
+64
+Jessie Hill
+Ooh Poo Pah Doo - Part II
+65
+Marv Johnson
+All The Love I've Got
+66
+The Kingston Trio
+Bad Man Blunder
+67
+Frankie Avalon
+Where Are You
+68
+The Crests
+Trouble In Paradise
+69
+Adam Wade
+I Can't Help It
+70
+Walter Brennan With Billy Vaughn and his Orchestra
+Dutchman's Gold
+71
+The Coasters
+Wake Me, Shake Me
+72
+Johnny Horton
+Sink The Bismark
+73
+Johnny Preston
+Cradle Of Love
+74
+Marv Johnson
+Ain't Gonna Be That Way
+75
+Dinah Washington
+This Bitter Earth
+76
+Marty Robbins
+Is There Any Chance
+77
+Freddy Cannon
+Jump Over
+78
+The Brothers Four
+My Tani
+79
+Donnie Brooks
+Mission Bell
+80
+Lloyd Price and His Orchestra
+Question
+81
+Red River Dave
+There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)
+82
+Johnny Horton
+Johnny Freedom
+83
+Little Willie John
+Heartbreak (It's Hurtin' Me)
+84
+Johnny Mathis
+Maria
+85
+Joiner, Arkansas Junior High School Band
+National City
+86
+Ray Charles and his Orchestra
+Sticks And Stones
+87
+Carl Dobkins, Jr.
+Exclusively Yours
+88
+Harold Dorman
+Mountain Of Love
+89
+Jon Thomas and Orchestra
+Heartbreak (It's Hurtin' Me)
+90
+Fats Domino
+Don't Come Knockin'
+91
+Joanie Sommers
+One Boy
+92
+Johnny Preston
+Feel So Fine
+93
+Andy Williams
+Do You Mind?
+94
+Billy Bland
+You Were Born To Be Loved
+95
+The Bobbettes
+I Shot Mr. Lee
+96
+Johnny Cash
+Second Honeymoon
+97
+Neil Sedaka
+Stairway To Heaven
+98
+Connie Stevens
+Too Young To Go Steady
+99
+Mitchell Torok
+Pink Chiffon
+100
+The Demensions
+Over The Rainbow

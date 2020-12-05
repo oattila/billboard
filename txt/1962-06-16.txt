@@ -1,0 +1,300 @@
+1
+Ray Charles
+I Can't Stop Loving You
+2
+Mr. Acker Bilk
+Stranger On The Shore
+3
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+4
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+5
+Freddy Cannon
+Palisades Park
+6
+Dion
+Lovers Who Wander
+7
+Connie Francis
+Second Hand Love
+8
+David Rose and His Orchestra
+The Stripper
+9
+The Marvelettes
+Playboy
+10
+Mary Wells
+The One Who Really Loves You
+11
+Ben E. King
+Don't Play That Song (You Lied)
+12
+Johnny Crawford
+Cindy's Birthday
+13
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+14
+The Shirelles
+Soldier Boy
+15
+Elvis Presley
+Follow That Dream
+16
+Emilio Pericoli
+Al Di La'
+17
+Dee Dee Sharp
+Mashed Potato Time
+18
+Joe Henderson
+Snap Your Fingers
+19
+Bobby Vee
+Sharing You
+20
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+21
+Brenda Lee
+Everybody Loves Me But You
+22
+The Blue-Belles
+I Sold My Heart To The Junkman
+23
+The Castells
+So This Is Love
+24
+Chuck Jackson
+Any Day Now (My Wild Beautiful Bird)
+25
+Nathaniel Mayer And The Fabulous Twilights
+Village Of Love
+26
+George Maharis
+Teach Me Tonight
+27
+Jimmy Soul
+Twistin' Matilda (and the channel)
+28
+The Crystals
+Uptown
+29
+Walter Brennan
+Old Rivers
+30
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+31
+Bobby Vinton
+Roses Are Red (My Love)
+32
+Jay & The Americans
+She Cried
+33
+James Darren
+Conscience
+34
+The Volume's
+I Love You
+35
+Claude King
+Wolverton Mountain
+36
+Sam Cooke
+Having A Party
+37
+Valjean on Piano
+Theme From Ben Casey
+38
+Ernie Maresca
+Shout! Shout! (Knock Yourself Out)
+39
+Peter, Paul & Mary
+Lemon Tree
+40
+Joanie Sommers
+Johnny Get Angry
+41
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+42
+The Lettermen
+How Is Julie?
+43
+Bobby Rydell
+I'll Never Dance Again
+44
+The Dovells
+Bristol Twistin' Annie
+45
+Bobby Curtola
+Fortuneteller
+46
+Dinah Washington
+Where Are You
+47
+Brook Benton
+Hit Record
+48
+The Marketts
+Balboa Blue
+49
+Earl Grant
+Swingin' Gently
+50
+Burl Ives
+Funny Way Of Laughin'
+51
+Ray Charles
+Born To Lose
+52
+Roy Orbison
+The Crowd
+53
+Patsy Cline
+When I Get Thru With You (You'll Love Me Too)
+54
+Dick and DeeDee
+Tell Me
+55
+James Brown And The Famous Flames
+Night Train
+56
+Ronnie and The Hi-Lites
+I Wish That We Were Married
+57
+The Miracles
+I'll Try Something New
+58
+Perry Como
+Caterina
+59
+Toni Fisher
+West Of The Wall
+60
+The Orlons
+The Wah Watusi
+61
+Dee Dee Sharp
+Gravy (For My Mashed Potatoes)
+62
+Shelley Fabares
+Johnny Loves Me
+63
+Fats Domino
+My Real Name
+64
+Connie Stevens
+Why'd You Wanna Make Me Cry
+65
+Brian Hyland
+Sealed With A Kiss
+66
+The Champs
+Limbo Rock
+67
+Bertha Tillman
+Oh My Angel
+68
+Andy Williams
+Stranger On The Shore
+69
+Teddy & The Twilights
+Woman Is A Man's Best Friend
+70
+Pat Boone
+Speedy Gonzales
+71
+Bert Kaempfert And His Orchestra
+That Happy Feeling
+72
+The Isley Brothers
+Twist And Shout
+73
+Dr. Feelgood And The Interns
+Doctor Feel-Good
+74
+Jan & Dean
+Tennessee
+75
+The Everly Brothers
+How Can I Meet Her?
+76
+Sandy Nelson
+Drummin' Up A Storm
+77
+Paul Petersen
+Keep Your Love Locked (Deep In Your Heart)
+78
+Clyde McPhatter
+Little Bitty Pretty One
+79
+Mickey Shorr and The Cutups
+Dr. Ben Basey
+80
+Arthur Alexander
+Where Have You Been (All My Life)
+81
+Don Gardner And Dee Dee Ford
+I Need Your Loving
+82
+Rene And Ray
+Queen Of My Heart
+83
+Benny Spellman
+Lipstick Traces (On A Cigarette)
+84
+John Lee Hooker
+Boom Boom
+85
+Lawrence Welk And His Orchestra
+Baby Elephant Walk
+86
+Johnny Mathis
+Marianna
+87
+The Kingston Trio
+Scotch And Soda
+88
+Nelson Riddle
+Route 66 Theme
+89
+Solomon Burke
+Down In The Valley
+90
+Jimmy Norman
+I Don't Love You No More (I Don't Care About You)
+91
+Maureen Gray
+Dancin' The Strand
+92
+Kenny Ball and his Jazzmen
+The Green Leaves Of Summer
+93
+Sue Thompson
+Have A Good Time
+94
+Sandy Nelson
+Drum Stomp
+95
+The Miniature Men
+Baby Elephant Walk
+96
+Barbara Lynn
+You'll Lose A Good Thing
+97
+Little Joey And The Flips
+Bongo Stomp
+98
+Jim Reeves
+Adios Amigo
+99
+Linda Scott
+Never In A Million Years
+100
+Ferrante & Teicher
+Lisa

@@ -1,0 +1,300 @@
+1
+Rihanna
+Diamonds
+2
+Maroon 5
+One More Night
+3
+Ke$ha
+Die Young
+4
+Bruno Mars
+Locked Out Of Heaven
+5
+fun.
+Some Nights
+6
+Ne-Yo
+Let Me Love You (Until You Learn To Love Yourself)
+7
+PSY
+Gangnam Style
+8
+The Lumineers
+Ho Hey
+9
+Taylor Swift
+We Are Never Ever Getting Back Together
+10
+Flo Rida
+I Cry
+11
+Alex Clare
+Too Close
+12
+Phillip Phillips
+Home
+13
+Chris Brown
+Don't Wake Me Up
+14
+Justin Bieber Featuring Big Sean
+As Long As You Love Me
+15
+Kanye West, Jay-Z, Big Sean
+Clique
+16
+Florida Georgia Line Featuring Nelly
+Cruise
+17
+Miguel
+Adorn
+18
+P!nk
+Blow Me (One Last Kiss)
+19
+Kendrick Lamar
+Swimming Pools (Drank)
+20
+Justin Bieber Featuring Nicki Minaj
+Beauty And A Beat
+21
+Adele
+Skyfall
+22
+Imagine Dragons
+It's Time
+23
+Owl City & Carly Rae Jepsen
+Good Time
+24
+Neon Trees
+Everybody Talks
+25
+Ed Sheeran
+The A Team
+26
+Nicki Minaj
+Va Va Voom
+27
+Ellie Goulding
+Lights
+28
+Train
+50 Ways To Say Goodbye
+29
+Alicia Keys Featuring Nicki Minaj
+Girl On Fire
+30
+Mumford & Sons
+I Will Wait
+31
+Carly Rae Jepsen
+Call Me Maybe
+32
+Juicy J Featuring Lil Wayne & 2 Chainz
+Bandz A Make Her Dance
+33
+Swedish House Mafia Featuring John Martin
+Don't You Worry Child
+34
+Luke Bryan
+Kiss Tomorrow Goodbye
+35
+Frank Ocean
+Thinkin Bout You
+36
+Gotye Featuring Kimbra
+Somebody That I Used To Know
+37
+Hunter Hayes
+Wanted
+38
+Flo Rida
+Whistle
+39
+Carrie Underwood
+Blown Away
+40
+OneRepublic
+Feel Again
+41
+One Direction
+Little Things
+42
+Macklemore & Ryan Lewis Featuring Wanz
+Thrift Shop
+43
+Enrique Iglesias Featuring Sammy Adams
+Finally Found You
+44
+French Montana Featuring Rick Ross, Drake, Lil Wayne
+Pop That
+45
+Lee Brice
+Hard To Love
+46
+Maroon 5 Featuring Wiz Khalifa
+Payphone
+47
+David Guetta Featuring Sia
+Titanium
+48
+Katy Perry
+Wide Awake
+49
+The Script Featuring will.i.am
+Hall Of Fame
+50
+P!nk
+Try
+51
+Jake Owen
+The One That Got Away
+52
+Lil Wayne Featuring Detail
+No Worries
+53
+Rascal Flatts
+Come Wake Me Up
+54
+Miranda Lambert
+Fastest Girl In Town
+55
+2 Chainz Featuring Kanye West
+Birthday Song
+56
+Justin Moore
+Til My Last Day
+57
+Ellie Goulding
+Anything Could Happen
+58
+Kip Moore
+Beer Money
+59
+Gary Allan
+Every Storm (Runs Out Of Rain)
+60
+The Band Perry
+Better Dig Two
+61
+Pitbull Featuring TJR
+Don't Stop The Party
+62
+Trey Songz Featuring T.I.
+2 Reasons
+63
+Zac Brown Band
+Goodbye In Her Eyes
+64
+Muse
+Madness
+65
+Future
+Turn On The Lights
+66
+Eric Church
+Creepin'
+67
+Christina Perri Featuring Steve Kazee
+A Thousand Years (Part 2)
+68
+One Direction
+Live While We're Young
+69
+Randy Houser
+How Country Feels
+70
+A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar
+F**kin Problems
+71
+Imagine Dragons
+Radioactive
+72
+Brad Paisley
+Southern Comfort Zone
+73
+Taylor Swift
+Begin Again
+74
+Kelly Clarkson
+Catch My Breath
+75
+Greg Bates
+Did It For The Girl
+76
+Jason Aldean
+Take A Little Ride
+77
+Taylor Swift
+I Knew You Were Trouble.
+78
+Jason Aldean With Luke Bryan & Eric Church
+The Only Way I Know
+79
+Rick Ross Featuring Wale & Drake
+Diced Pineapples
+80
+T.I. Featuring Lil Wayne
+Ball
+81
+The Weeknd
+Wicked Games
+82
+Kenny Chesney
+El Cerrito Place
+83
+Nicki Minaj
+Pound The Alarm
+84
+Christina Aguilera
+Your Body
+85
+Brandy Featuring Chris Brown
+Put It Down
+86
+Easton Corbin
+Lovin' You Is Fun
+87
+Beyonce
+Dance For You
+88
+Little Big Town
+Tornado
+89
+Chris Brown
+Don't Judge Me
+90
+Bridgit Mendler
+Ready Or Not
+91
+Kelly Rowland Featuring Lil Wayne
+Ice
+92
+Christina Aguilera With Blake Shelton
+Just A Fool
+93
+Passion Pit
+Take A Walk
+94
+Kendrick Lamar Featuring Drake
+Poetic Justice
+95
+One Direction
+Kiss You
+96
+Meek Mill Featuring Kirko Bangz
+Young & Gettin' It
+97
+Calvin Harris Featuring Florence Welch
+Sweet Nothing
+98
+2 Chainz
+I'm Different
+99
+Trey Songz
+Dive In
+100
+Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne
+Celebration

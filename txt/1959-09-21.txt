@@ -1,0 +1,300 @@
+1
+Santo & Johnny
+Sleep Walk
+2
+The Browns
+The Three Bells
+3
+Lloyd Price
+I'm Gonna Get Married
+4
+The Everly Brothers
+('til) I Kissed You
+5
+Phil Phillips With The Twilights
+Sea Of Love
+6
+Johnny And The Hurricanes
+Red River Rock
+7
+Bobby Darin
+Mack The Knife
+8
+Sarah Vaughan
+Broken-Hearted Melody
+9
+Fats Domino
+I Want To Walk You Home
+10
+Paul Anka
+Put Your Head On My Shoulder
+11
+Bobby Rydell
+Kissin' Time
+12
+The Coasters
+Poison Ivy
+13
+Ivo Robic and The Song-Masters
+Morgen
+14
+Frankie Avalon
+Just Ask Your Heart
+15
+Sandy Nelson
+Teen Beat
+16
+The Fleetwoods
+Mr. Blue
+17
+Jerry Wallace With The Jewels
+Primrose Lane
+18
+Jan & Dean
+Baby Talk
+19
+Homer And Jethro
+The Battle Of Kookamonga
+20
+Dee Clark
+Hey Little Girl
+21
+Ray Charles and his Orchestra
+What'd I Say (Part I & II)
+22
+Sammy Turner
+Lavender-Blue
+23
+Floyd Robinson
+Makin' Love
+24
+Dick Flood
+The Three Bells (The Jimmy Brown Story)
+25
+Nina Simone
+I Loves You, Porgy
+26
+Webb Pierce
+I Ain't Never
+27
+Brook Benton
+Thank You Pretty Baby
+28
+Ronnie Hawkins and The Hawks
+Mary Lou
+29
+The Mormon Tabernacle Choir
+Battle Hymn Of The Republic
+30
+Skip And Flip
+It Was I
+31
+Mitchell Torok
+Caribbean
+32
+Dinah Washington
+What A Diff'rence A Day Makes
+33
+Jimmy Clanton
+My Own True Love
+34
+The Drifters
+There Goes My Baby
+35
+The Crests
+The Angels Listened In
+36
+Fats Domino
+I'm Gonna Be A Wheel Some Day
+37
+Connie Francis
+You're Gonna Miss Me
+38
+The Coasters
+I'm A Hog For You
+39
+The Playmates
+What Is Love?
+40
+The Kingston Trio
+A Worried Man
+41
+Andy Williams
+Lonely Street
+42
+Elvis Presley With The Jordanaires
+A Big Hunk O' Love
+43
+Johnny Cash
+I Got Stripes
+44
+Tony Bellus
+Robbin' The Cradle
+45
+Carl Dobkins, Jr.
+My Heart Is An Open Book
+46
+Freddie Cannon
+Okefenokee
+47
+Bob McFadden And Dor
+The Mummy
+48
+Pat Boone
+Fools Hall Of Fame
+49
+Elvis Presley With The Jordanaires
+My Wish Came True
+50
+Fabian
+Come On And Get Me
+51
+Conway Twitty
+Mona Lisa
+52
+The Tempos
+See You In September
+53
+Tommy Edwards
+I've Been There
+54
+Johnny Horton
+Johnny Reb
+55
+LaVern Baker
+So High So Low
+56
+The Strangers
+The Caterpillar Crawl
+57
+Fireflies
+You Were Mine
+58
+Wink Martindale
+Deck Of Cards
+59
+Jackie Wilson
+You Better Know It
+60
+Nat King Cole
+Midnight Flyer
+61
+Edd Byrnes and Friend
+Like I Love You
+62
+Fabian
+Got The Feeling
+63
+Eddie Cochran
+Somethin Else
+64
+Frank Sinatra "and a bunch of kids"
+High Hopes
+65
+Johnny Tillotson
+True True Happiness
+66
+Duane Eddy And The Rebels
+Forty Miles Of Bad Road
+67
+Dean Martin
+On An Evening In Roma
+68
+Jerry Keller
+Here Comes Summer
+69
+The Platters
+Where
+70
+E.C. Beatty
+Ski King
+71
+Bo Diddley
+Say Man
+72
+Ray Sharpe
+Linda Lu
+73
+Dion & The Belmonts
+Every Little Thing I Do
+74
+Della Reese
+Don't You Know
+75
+Paul Evans and the Curls
+(Seven Little Girls) Sitting In The Back Seat
+76
+Johnny Cash
+Five Feet High And Rising
+77
+The Platters
+Wish It Were Me
+78
+Ricky Nelson
+Sweeter Than You
+79
+Boyd Bennett
+Boogie Bear
+80
+The Clovers
+Love Potion No. 9
+81
+Johnnie Ray
+I'll Never Fall In Love Again
+82
+The Isley Brothers
+Shout - Part 1
+83
+Tony Bennett
+Smile
+84
+Jane Morgan
+With Open Arms
+85
+Anita Bryant
+Till There Was You
+86
+Bob Beckham
+Just As Much As Ever
+87
+Little Willie John
+Leave My Kitten Alone
+88
+Jimmie Rodgers
+Tucumcari
+89
+Johnny Restivo
+The Shape I'm In
+90
+Frankie Avalon
+Two Fools
+91
+Johnny Horton
+Sal's Got A Sugar Lip
+92
+Ricky Nelson
+Just A Little Too Much
+93
+Bobby Vee and The Shadows
+Suzie Baby
+94
+Anita Bryant
+Six Boys And Seven Girls
+95
+Jack Scott
+The Way I Walk
+96
+Jimmy Darren
+Angel Face
+97
+Johnny Mathis
+Small World
+98
+Connie Francis
+Plenty Good Lovin'
+99
+Ernie Fields & Orch.
+In The Mood
+100
+The Dubs
+Chapel Of Dreams

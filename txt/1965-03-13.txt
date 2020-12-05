@@ -1,0 +1,300 @@
+1
+The Beatles
+Eight Days A Week
+2
+The Temptations
+My Girl
+3
+The Supremes
+Stop! In The Name Of Love
+4
+Gary Lewis And The Playboys
+This Diamond Ring
+5
+Jewel Akens
+The Birds And The Bees
+6
+Roger Miller
+King Of The Road
+7
+Gerry And The Pacemakers
+Ferry Cross The Mersey
+8
+Herman's Hermits
+Can't You Hear My Heartbeat
+9
+The Kingsmen
+The Jolly Green Giant
+10
+Little Anthony And The Imperials
+Hurt So Bad
+11
+Shirley Bassey
+Goldfinger
+12
+The Righteous Brothers
+You've Lost That Lovin' Feelin'
+13
+Bert Kaempfert And His Orchestra
+Red Roses For A Blue Lady
+14
+Jr. Walker & The All Stars
+Shotgun
+15
+Petula Clark
+Downtown
+16
+The Ad Libs
+The Boy From New York City
+17
+The Zombies
+Tell Her No
+18
+Bobby Goldsboro
+Little Things
+19
+The Dave Clark Five
+Come Home
+20
+Johnny Rivers
+Midnight Special
+21
+The Impressions
+People Get Ready
+22
+Roy Orbison
+Goodnight
+23
+Vic Dana
+Red Roses For A Blue Lady
+24
+Four Tops
+Ask The Lonely
+25
+Peter And Gordon
+I Go To Pieces
+26
+The Animals
+Don't Let Me Be Misunderstood
+27
+Georgie Fame And The Blue Flames
+Yeh, Yeh
+28
+The Beau Brummels
+Laugh, Laugh
+29
+The Beach Boys
+Do You Wanna Dance?
+30
+Dean Martin
+Send Me The Pillow You Dream On
+31
+Chad & Jeremy
+If I Loved You
+32
+The Trade Winds
+New York's A Lonely Town
+33
+Alvin Cash & The Crawlers
+Twine Time
+34
+Shirley Ellis
+The Name Game
+35
+Martha & The Vandellas
+Nowhere To Run
+36
+Buck Owens
+I've Got A Tiger By The Tail
+37
+Del Shannon
+Stranger In Town
+38
+Sam Cooke
+Shake
+39
+Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio
+Do The Clam
+40
+The Kinks
+All Day And All Of The Night
+41
+Sam Cooke
+A Change Is Gonna Come
+42
+The Searchers
+What Have They Done To The Rain
+43
+Gene Pitney
+I Must Be Seeing Things
+44
+The Beatles
+I Don't Want To Spoil The Party
+45
+Fontella Bass & Bobby McClure
+Don't Mess Up A Good Thing
+46
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Bye, Bye, Baby (Baby, Goodbye)
+47
+Jack Jones
+The Race Is On
+48
+Bobby Vinton
+Long Lonely Nights
+49
+Tony Bennett
+If I Ruled The World
+50
+Wayne Newton
+Red Roses For A Blue Lady
+51
+Joe Tex
+You Better Get It
+52
+Manfred Mann
+Come Tomorrow
+53
+Johnny Tillotson
+Angel
+54
+The Ronettes Featuring Veronica
+Born To Be Together
+55
+Billy Strange
+Goldfinger
+56
+The Moody Blues
+Go Now!
+57
+Marianne Faithfull
+Come And Stay With Me
+58
+Ray Charles
+Cry
+59
+Brenda Holloway
+When I'm Gone
+60
+Joe Tex
+You Got What It Takes
+61
+Otis Redding
+Mr. Pitiful
+62
+The Kinks
+Tired Of Waiting For You
+63
+Maxine Brown
+It's Gonna Be Alright
+64
+Jerry Butler
+Good Times
+65
+Major Lance
+Come See
+66
+Dionne Warwick
+Who Can I Turn To
+67
+Julie Rogers
+Like A Child
+68
+Connie Francis
+For Mama (La Mamma)
+69
+The Arrows Featuring Davie Allan
+Apache '65
+70
+Jerry Vale
+For Mama
+71
+Freddie And The Dreamers
+I'm Telling You Now
+72
+The Beach Boys
+Please Let Me Wonder
+73
+The Beatles
+4 - By The Beatles
+74
+The Hullaballoos
+Did You Ever
+75
+The Ray Charles Singers
+This Is My Prayer
+76
+Johnny Rivers
+Cupid
+77
+Steve Alaimo
+Real Live Girl
+78
+Solomon Burke
+Got To Get You Off My Mind
+79
+The Ikettes
+Peaches "N" Cream
+80
+Johnny Cash
+Orange Blossom Special
+81
+Jan & Dean
+(Here They Come) From All Over The World
+82
+Cannibal And The Headhunters
+Land Of 1000 Dances
+83
+The Reflections
+Poor Man's Son
+84
+John Barry and His Orchestra
+Goldfinger
+85
+Freddie And The Dreamers
+I Understand (Just How You Feel)
+86
+Sandie Shaw
+Girl Don't Come
+87
+Frank Sinatra
+Anytime At All
+88
+Jim Reeves
+This Is It
+89
+Thee Midniters
+Land Of A Thousand Dances (Part I)
+90
+Dick and DeeDee
+Be My Baby
+91
+Bobbi Martin
+I Can't Stop Thinking Of You
+92
+Ronnie Dove
+One Kiss For Old Times' Sake
+93
+Peggy Lee
+Pass Me By
+94
+Jackie Wilson
+Danny Boy
+95
+Dionne Warwick
+You Can Have Him
+96
+Johnny Bond
+10 Little Bottles
+97
+Dusty Springfield
+Losing You
+98
+Glenn Yarbrough
+Baby The Rain Must Fall
+99
+The Nashville Teens
+Find My Way Back Home
+100
+Ian Whitcomb And Bluesville
+This Sporting Life

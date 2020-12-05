@@ -1,0 +1,300 @@
+1
+Sonny & Cher
+I Got You Babe
+2
+The Rolling Stones
+(I Can't Get No) Satisfaction
+3
+Gary Lewis And The Playboys
+Save Your Heart For Me
+4
+Herman's Hermits
+I'm Henry VIII, I Am
+5
+Tom Jones
+What's New Pussycat?
+6
+The Righteous Brothers
+Unchained Melody
+7
+Four Tops
+It's The Same Old Song
+8
+Patty Duke
+Don't Just Stand There
+9
+The Beach Boys
+California Girls
+10
+Billy Joe Royal
+Down In The Boondocks
+11
+The Strangeloves
+I Want Candy
+12
+Barbara Lewis
+Baby, I'm Yours
+13
+The Dave Clark Five
+I Like It Like That
+14
+The Beatles
+Help!
+15
+Mel Carter
+Hold Me, Thrill Me, Kiss Me
+16
+Little Anthony And The Imperials
+Take Me Back
+17
+Dino, Desi & Billy
+I'm A Fool
+18
+Cher
+All I Really Want To Do
+19
+Jay & The Americans
+Cara, Mia
+20
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+21
+Lesley Gore
+Sunshine, Lollipops And Rainbows
+22
+We Five
+You Were On My Mind
+23
+Petula Clark
+You'd Better Come Home
+24
+Peter And Gordon
+To Know You Is To Love You
+25
+Marvin Gaye
+Pretty Little Baby
+26
+Bob Dylan
+Like A Rolling Stone
+27
+The Supremes
+Nothing But Heartaches
+28
+Lee Dorsey
+Ride Your Pony
+29
+The Temptations
+Since I Lost My Baby
+30
+The Miracles
+The Tracks Of My Tears
+31
+Barbara Mason
+Yes, I'm Ready
+32
+The Lettermen
+Theme From "A Summer Place"
+33
+Jackie DeShannon
+What The World Needs Now Is Love
+34
+Roger Miller
+One Dyin' And A Buryin'
+35
+Four Tops
+I Can't Help Myself (Sugar Pie Honey Bunch)
+36
+Brenda Lee
+Too Many Rivers
+37
+Wilson Pickett
+In The Midnight Hour
+38
+The Spinners
+I'll Always Love You
+39
+Roy Orbison
+(Say) You're My Girl
+40
+The Bachelors
+Marie
+41
+Gene Pitney
+Looking Through The Eyes Of Love
+42
+The Byrds
+All I Really Want To Do
+43
+Johnny Rivers
+Seventh Son
+44
+Eddie Hodges
+New Orleans
+45
+Ian Whitcomb And Bluesville
+You Turn Me On (Turn On Song)
+46
+The Beau Brummels
+You Tell Me Why
+47
+Sam The Sham and the Pharaohs
+Ju Ju Hand
+48
+Jr. Walker & The All Stars
+Shake And Fingerpop
+49
+The Yardbirds
+Heart Full Of Soul
+50
+The Righteous Brothers
+Hung On You
+51
+Sam Cooke
+Sugar Dumpling
+52
+The Royalettes
+It's Gonna Take A Miracle
+53
+The Turtles
+It Ain't Me Babe
+54
+Glenn Yarbrough
+It's Gonna Be Fine
+55
+Maxine Brown
+One Step At A Time
+56
+Chad & Jeremy
+I Don't Wanna Lose You Baby
+57
+Ramsey Lewis Trio
+The "In" Crowd
+58
+Dean Martin
+Houston
+59
+Jackie Wilson
+No Pity (In The Naked City)
+60
+Freddie And The Dreamers
+A Little You
+61
+The Chiffons
+Nobody Knows What's Goin' On (In My Mind But Me)
+62
+Arthur Prysock
+It's Too Late, Baby Too Late
+63
+Edwin Starr
+Agent Double-O-Soul
+64
+Bert Kaempfert And His Orchestra
+Moon Over Naples
+65
+The Vacels
+You're My Baby (And Don't You Forget It)
+66
+Dionne Warwick
+Here I Am
+67
+The Astors
+Candy
+68
+Barbara Mason
+Sad, Sad Girl
+69
+Chuck Jackson
+If I Didn't Love You
+70
+Elvis Presley With The Jordanaires
+Tickle Me
+71
+Freddy Cannon
+Action
+72
+The Skyliners
+The Loser
+73
+The Kinks
+Who'll Be The Next In Line
+74
+Marianne Faithfull
+Summer Nights
+75
+Martha & The Vandellas
+You've Been In Love Too Long
+76
+Sounds Orchestral
+Canadian Sunset
+77
+The Kingsmen
+Annie Fanny
+78
+G.L. Crockett
+It's A Man Down There
+79
+The Searchers
+He's Got No Love
+80
+The Animals
+We Gotta Get Out Of This Place
+81
+The Contours
+First I Look At The Purse
+82
+Vic Dana
+Moonlight And Roses (Bring Mem'ries Of You)
+83
+Derek Martin
+You Better Go
+84
+Tony Bennett
+Fly Me To The Moon (In Other Words)
+85
+Wayne Newton
+Summer Wind
+86
+Little Caesar And The Consuls
+(My Girl) Sloopy
+87
+The Drifters
+I'll Take You Where The Music's Playing
+88
+Jim Reeves
+Is It Really Over?
+89
+Perry Como
+Oowee, Oowee
+90
+The Jive Five
+I'm A Happy Man
+91
+O.V. Wright
+You're Gonna Make Me Cry
+92
+The Marvelettes
+Danger Heartbreak Dead Ahead
+93
+Baby Washington
+Only Those In Love
+94
+The O'Jays
+I've Cried My Last Tear
+95
+Donovan
+Colours
+96
+The Castaways
+Liar, Liar
+97
+The Impressions
+I Need You
+98
+Gerry And The Pacemakers
+Give All Your Love To Me
+99
+The McCoys
+Hang On Sloopy
+100
+David Jones
+What Are We Going To Do?

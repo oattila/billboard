@@ -1,0 +1,300 @@
+1
+Bee Gees
+Jive Talkin'
+2
+10cc
+I'm Not In Love
+3
+Olivia Newton-John
+Please Mr. Please
+4
+Eagles
+One Of These Nights
+5
+Elton John
+Someone Saved My Life Tonight
+6
+Melissa Manchester
+Midnight Blue
+7
+Glen Campbell
+Rhinestone Cowboy
+8
+War
+Why Can't We Be Friends?
+9
+James Taylor
+How Sweet It Is (To Be Loved By You)
+10
+Mike Post
+The Rockford Files
+11
+Van McCoy & The Soul City Symphony
+The Hustle
+12
+Wings
+Listen To What The Man Said
+13
+Tony Camillo's Bazuka
+Dynomite-Part I
+14
+Tony Orlando & Dawn
+Mornin' Beautiful
+15
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+16
+Dwight Twilley Band
+I'm On Fire
+17
+Captain & Tennille
+Love Will Keep Us Together
+18
+The Isley Brothers
+Fight The Power Part 1
+19
+Commodores
+Slippery When Wet
+20
+Janis Ian
+At Seventeen
+21
+Ambrosia
+Holdin' On To Yesterday
+22
+KC And The Sunshine Band
+Get Down Tonight
+23
+Michael Jackson
+Just A Little Bit Of You
+24
+Freddy Fender
+Wasted Days And Wasted Nights
+25
+Bad Company
+Feel Like Makin' Love
+26
+Barry Manilow
+Could It Be Magic
+27
+Earth, Wind & Fire
+That's The Way Of The World
+28
+Gladys Knight And The Pips
+The Way We Were/try To Remember
+29
+Sweet
+Ballroom Blitz
+30
+Amazing Rhythm Aces
+Third Rate Romance
+31
+Johnny Rivers
+Help Me Rhonda
+32
+Gwen McCrae
+Rockin' Chair
+33
+Neil Sedaka
+That's When The Music Takes Me
+34
+The Hudson Brothers
+Rendezvous
+35
+David Bowie
+Fame
+36
+Judy Collins
+Send In The Clowns
+37
+Frankie Valli
+Swearin' To God
+38
+Three Dog Night
+Til The World Ends
+39
+Moments
+Look At Me (I'm In Love)
+40
+Travis Wammack
+(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
+41
+ZZ Top
+Tush
+42
+Sharon Paige and Harold Melvin And The Blue Notes
+Hope That We Can Be Together Soon
+43
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+44
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+45
+Cat Stevens
+Two Fine People
+46
+America
+Daisy Jane
+47
+Charlie Rich
+Every Time You Touch Me (I Get High)
+48
+Lynyrd Skynyrd
+Saturday Night Special
+49
+The Temptations
+Glasshouse
+50
+Jud Strunk
+The Biggest Parakeets In Town
+51
+Linda Ronstadt
+It Doesn't Matter Anymore/When Will I Be Loved
+52
+The Osmonds
+The Proud One
+53
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+54
+New Birth
+Dream Merchant
+55
+Morris Albert
+Feelings
+56
+The Stylistics
+Can't Give You Anything (but My Love)
+57
+Joan Baez
+Blue Sky
+58
+Orleans
+Dance With Me
+59
+Eddie Kendricks
+Get The Cream Off The Top
+60
+Jackson 5
+Forever Came Today
+61
+South Shore Commission
+Free Man
+62
+Tavares
+It Only Takes A Minute
+63
+Helen Reddy
+Bluebird
+64
+Pilot
+Magic
+65
+Carpenters
+Solitaire
+66
+The Doobie Brothers
+Sweet Maxine
+67
+Al Green
+Oh Me, Oh My (Dreams In My Arms)
+68
+David Geddes
+Run Joey Run
+69
+Austin Roberts
+Rocky
+70
+Frank Sinatra
+I Believe I'm Gonna Love You
+71
+Ace
+Rock & Roll Runaway
+72
+The Impressions
+Sooner Or Later
+73
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+74
+The Blackbyrds
+Flyin' High
+75
+The O'Jays
+Let Me Make Love To You
+76
+Merry Clayton
+Keep Your Eye On The Sparrow
+77
+The Ritchie Family
+Brazil
+78
+Carly Simon
+Waterfall
+79
+East L.A. Car Pool
+Like They Say In L.A.
+80
+Evie Sands
+I Love Makin' Love To You
+81
+Fantastic Four
+Alvin Stone (The Birth & Death Of A Gangster)
+82
+The Spinners
+They Just Can't Stop It the (Games People Play)
+83
+Chocolate Milk
+Action Speaks Louder Than Words
+84
+B.T. Express
+Give It What You Got/Peace Pipe
+85
+Leon Russell
+Lady Blue
+86
+Helen Reddy
+Ain't No Way To Treat A Lady
+87
+Graham Central Station
+Your Love
+88
+Minnie Riperton
+Inside My Love
+89
+ABBA
+S.O.S.
+90
+Stephen Stills
+Turn Back The Pages
+91
+Ray Stevens
+Misty
+92
+The Grass Roots
+Mamacita
+93
+Batdorf & Rodney
+You Are A Song
+94
+Christopher Paul And Shawn
+For Your Love
+95
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+96
+Hot Chocolate
+Disco Queen
+97
+Chuck Mangione
+Chase The Clouds Away
+98
+The Mystic Moods
+Honey Trippin'
+99
+Bobby Moore
+(Call Me Your) Anything Man
+100
+Bob Seger
+Katmandu

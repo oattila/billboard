@@ -1,0 +1,300 @@
+1
+Michael Jackson
+Billie Jean
+2
+Culture Club
+Do You Really Want To Hurt Me
+3
+Duran Duran
+Hungry Like The Wolf
+4
+Lionel Richie
+You Are
+5
+Pretenders
+Back On The Chain Gang
+6
+Kenny Rogers And Sheena Easton
+We've Got Tonight
+7
+Styx
+Mr. Roboto
+8
+Journey
+Separate Ways (Worlds Apart)
+9
+Daryl Hall John Oates
+One On One
+10
+Golden Earring
+Twilight Zone
+11
+Dexys Midnight Runners
+Come On Eileen
+12
+Bob Seger & The Silver Bullet Band
+Shame On The Moon
+13
+Frida
+I Know There's Something Going On
+14
+Greg Kihn Band
+Jeopardy
+15
+Michael Jackson
+Beat It
+16
+After The Fire
+Der Kommissar
+17
+Earth, Wind & Fire
+Fall In Love With Me
+18
+Eric Clapton
+I've Got A Rock N' Roll Heart
+19
+Christopher Cross
+All Right
+20
+Pat Benatar
+Little Too Late
+21
+Stray Cats
+Stray Cat Strut
+22
+Joe Jackson
+Breaking Us In Two
+23
+Patti Austin A Duet With James Ingram
+Baby, Come To Me
+24
+Men At Work
+Down Under
+25
+ABC
+Poison Arrow
+26
+Billy Joel
+Allentown
+27
+Prince
+Little Red Corvette
+28
+Tom Petty And The Heartbreakers
+Change Of Heart
+29
+Dan Fogelberg
+Make Love Stay
+30
+Thompson Twins
+Lies
+31
+Thomas Dolby
+She Blinded Me With Science
+32
+Eddie Rabbitt With Crystal Gayle
+You And I
+33
+Steel Breeze
+Dreamin' Is Easy
+34
+Bob Seger & The Silver Bullet Band
+Even Now
+35
+Toto
+I Won't Hold You Back
+36
+Supertramp Featuring Rick Davies
+My Kind Of Lady
+37
+Debarge
+I Like It
+38
+Jefferson Starship
+Winds Of Change
+39
+Phil Collins
+I Don't Care Anymore
+40
+Diana Ross
+So Close
+41
+Oxo
+Whirly Girl
+42
+Melissa Manchester
+Nice Girls
+43
+Stephen Bishop
+It Might Be You
+44
+Dionne Warwick
+Take The Short Way Home
+45
+Felony
+The Fanatic
+46
+Kenny Loggins
+Welcome To Heartlight
+47
+Ric Ocasek
+Something To Grab For
+48
+Laura Branigan
+Solitaire
+49
+Barry Manilow
+Some Kind Of Friend
+50
+The Clash
+Should I Stay Or Should I Go
+51
+Musical Youth
+Pass The Dutchie
+52
+Mac McAnally
+Minimum Love
+53
+Psychedelic Furs
+Love My Way
+54
+David Bowie
+Let's Dance
+55
+The Gap Band
+Outstanding
+56
+Bryan Adams
+Straight From The Heart
+57
+John Anderson
+Swingin'
+58
+Sammy Hagar
+Your Love Is Driving Me Crazy
+59
+Firefall
+Always
+60
+The J. Geils Band
+Land Of A Thousand Dances
+61
+Billy Joel
+Goodnight Saigon
+62
+Berlin
+Sex (I'm A...)
+63
+Patrick Simmons
+So Wrong
+64
+Robert Hazard
+Escalator Of Life
+65
+Def Leppard
+Photograph
+66
+Adam Ant
+Desperate But Not Serious
+67
+Yaz
+Only You
+68
+The System
+You Are In My System
+69
+Naked Eyes
+Always Something There To Remind Me
+70
+Missing Persons
+Walking In L.a.
+71
+Ronnie Milsap
+Stranger In My House
+72
+The Pointer Sisters
+If You Wanna Get Back Your Lady
+73
+Jarreau
+Mornin'
+74
+Heaven 17
+Let Me Go
+75
+Robert Ellis Orral With Carlene Carter
+I Couldn't Say No
+76
+The Oak Ridge Boys
+American Made
+77
+Jeffrey Osborne
+Eenie Meenie
+78
+Robbie Patton
+Smiling Islands
+79
+Sammy Hagar
+Never Give Up
+80
+Patti Austin
+Every Home Should Have One
+81
+LeRoux
+Carrie's Gone
+82
+Lou Rawls
+Wind Beneath My Wings
+83
+Saga
+On The Loose
+84
+Wall Of Voodoo
+Mexican Radio
+85
+Vandenberg
+Burning Heart
+86
+The Weather Girls
+It's Raining Men
+87
+Adam Ant
+Goody Two Shoes
+88
+Janet Jackson
+Come Give Your Love To Me
+89
+Tony Carey
+I Won't Be Home Tonight
+90
+INXS
+The One Thing
+91
+Donna Summer
+The Woman In Me
+92
+Neil Diamond
+I'm Alive
+93
+Phil Collins
+You Can't Hurry Love
+94
+Single Bullet Theory
+Keep It Tight
+95
+Night Ranger
+Don't Tell Me You Love Me
+96
+Evelyn King
+Betcha She Don't Love You
+97
+Don Henley
+I Can't Stand Still
+98
+Olivia Newton-John
+Tied Up
+99
+Marty Balin
+What Love Is
+100
+The John Hall Band
+Love Me Again

@@ -1,0 +1,300 @@
+1
+The Beatles
+Hey Jude
+2
+Jeannie C. Riley
+Harper Valley P.T.A.
+3
+The Crazy World Of Arthur Brown
+Fire
+4
+O.C. Smith
+Little Green Apples
+5
+The O'Kaysions
+Girl Watcher
+6
+Clarence Carter
+Slip Away
+7
+The Rascals
+People Got To Be Free
+8
+Bee Gees
+I've Gotta Get A Message To You
+9
+1910 Fruitgum Co.
+1, 2, 3, Red Light
+10
+Aretha Franklin
+I Say A Little Prayer
+11
+The Chambers Brothers
+Time Has Come Today
+12
+The Beatles
+Revolution
+13
+Sergio Mendes & Brasil '66
+The Fool On The Hill
+14
+James Brown
+Say It Loud - I'm Black And I'm Proud (Part 1)
+15
+Aretha Franklin
+The House That Jack Built
+16
+Deep Purple
+Hush
+17
+The Grass Roots
+Midnight Confessions
+18
+The Vogues
+My Special Angel
+19
+Jose Feliciano
+Light My Fire
+20
+Don Fardon
+(The Lament Of The Cherokee) Indian Reservation
+21
+Canned Heat
+On The Road Again
+22
+Marvin Gaye & Tammi Terrell
+You're All I Need To Get By
+23
+Steppenwolf
+Born To Be Wild
+24
+Big Brother And The Holding Company
+Piece Of My Heart
+25
+Gary Puckett And The Union Gap
+Over You
+26
+Creedence Clearwater Revival
+Suzie Q. (Part One)
+27
+Al Wilson
+The Snake
+28
+Smokey Robinson & The Miracles
+Special Occasion
+29
+Jerry Butler
+Hey, Western Union Man
+30
+The Who
+Magic Bus
+31
+The Jimi Hendrix Experience
+All Along The Watchtower
+32
+Iron Butterfly
+In-A-Gadda-Da-Vida
+33
+Dionne Warwick
+Who Is Gonna Love Me?
+34
+The Equals
+Baby, Come Back
+35
+Jr. Walker & The All Stars
+Hip City - Pt. 2
+36
+Max Frost And The Troopers
+Shape Of Things To Come
+37
+The Impressions
+Fool For You
+38
+Johnny Nash
+Hold Me Tight
+39
+Tom Jones
+Help Yourself
+40
+The Delfonics
+Break Your Promise
+41
+Gladys Knight And The Pips
+I Wish It Would Rain
+42
+The Box Tops
+I Met Her In Church
+43
+Bill Medley
+Brown Eyed Woman
+44
+The Turtles
+Elenore
+45
+Eddie Harris
+Listen Here
+46
+Andy Kim
+Shoot'em Up, Baby
+47
+Big Brother And The Holding Company
+Down On Me
+48
+The Rolling Stones
+Street Fighting Man
+49
+Wilson Pickett
+I Found A True Love
+50
+Marvin Gaye
+Chained
+51
+Herb Alpert
+To Wait For Love
+52
+The Cowsills
+Poor Baby
+53
+The Avant-Garde
+Naturally Stoned
+54
+Mary Hopkin
+Those Were The Days
+55
+Jackie DeShannon
+The Weight
+56
+The Unifics
+Court Of Love
+57
+Otis Redding
+I've Got Dreams To Remember
+58
+Cream
+White Room
+59
+Archie Bell & The Drells
+Do The Choo Choo
+60
+Five Stairsteps & Cubie
+Don't Change Your Love
+61
+Bull & The Matadors
+The Funky Judge
+62
+The 5th Dimension
+Sweet Blindness
+63
+Bobby Womack
+Fly Me To The Moon
+64
+Glen Campbell
+Gentle On My Mind
+65
+Patti Drew
+Workin' On A Groovy Thing
+66
+The Band
+The Weight
+67
+The Masqueraders
+I Ain't Got To Love Nobody Else
+68
+Cliff Nobles & Co.
+Horse Fever
+69
+Nancy Wilson
+Peace Of Mind
+70
+Frank Sinatra
+My Way Of Life
+71
+The Archies
+Bang-Shang-A-Lang
+72
+The Status Quo
+Ice In The Sun
+73
+Donovan
+Lalena
+74
+Hugh Masekela
+Puffin' On Down The Track
+75
+Joe Simon
+Message From Maria
+76
+The Marvelettes
+Destination: Anywhere
+77
+Judy Clay & William Bell
+Private Number
+78
+Merrilee Rush & The Turnabouts
+That Kind Of Woman
+79
+Fantastic Four
+I Love You Madly
+80
+Los Pop Tops
+Oh Lord, Why Lord
+81
+The Mamas & The Papas
+For The Love Of Ivy
+82
+Gene Chandler
+There Was A Time
+83
+Ray Charles
+Sweet Young Thing Like You
+84
+Vanilla Fudge
+Take Me For A Little While
+85
+Eivets Rednow
+Alfie
+86
+Steppenwolf
+Magic Carpet Ride
+87
+The Doors
+Light My Fire
+88
+Professor Morrison's Lollipop
+You Got The Love
+89
+Kasenetz-Katz Singing Orchestral Circus
+Quick Joey Small (Run Joey Run)
+90
+B.B. King
+You Put It On Me
+91
+Fever Tree
+San Francisco Girls (Return of the Native)
+92
+The Irish Rovers
+The Biplane, Ever More
+93
+Willie Mitchell
+Up-Hard
+94
+The O'Jays
+The Choice
+95
+Elvis Presley With The Jordanaires
+Almost In Love
+96
+Ronnie Dove
+Tomboy
+97
+Ricardo Ray
+Nitty Gritty
+98
+Four Tops
+I'm In A Different World
+99
+Southwest F.O.B.
+Smell Of Incense
+100
+Neil Diamond
+Sunday Sun

@@ -1,0 +1,300 @@
+1
+Bobby Vinton
+Roses Are Red (My Love)
+2
+The Orlons
+The Wah Watusi
+3
+Ray Charles
+I Can't Stop Loving You
+4
+David Rose and His Orchestra
+The Stripper
+5
+Brian Hyland
+Sealed With A Kiss
+6
+Claude King
+Wolverton Mountain
+7
+Joanie Sommers
+Johnny Get Angry
+8
+Pat Boone
+Speedy Gonzales
+9
+Dee Dee Sharp
+Gravy (For My Mashed Potatoes)
+10
+Freddy Cannon
+Palisades Park
+11
+Emilio Pericoli
+Al Di La'
+12
+Ray Stevens
+Ahab, The Arab
+13
+Neil Sedaka
+Breaking Up Is Hard To Do
+14
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+15
+Chubby Checker
+Dancin' Party
+16
+Bobby Rydell
+I'll Never Dance Again
+17
+Sam Cooke
+Having A Party
+18
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+19
+Eddie Hodges
+(Girls, Girls, Girls) Made To Love
+20
+Joe Henderson
+Snap Your Fingers
+21
+Shelley Fabares
+Johnny Loves Me
+22
+The Isley Brothers
+Twist And Shout
+23
+Barbara Lynn
+You'll Lose A Good Thing
+24
+Don Gardner And Dee Dee Ford
+I Need Your Loving
+25
+The Marvelettes
+Playboy
+26
+Little Eva
+The Loco-Motion
+27
+Gary U.S. Bonds
+Seven Day Weekend
+28
+The Shirelles
+Welcome Home Baby
+29
+Clyde McPhatter
+Little Bitty Pretty One
+30
+Johnny Crawford
+Cindy's Birthday
+31
+Brenda Lee
+It Started All Over Again
+32
+Claudine Clark
+Party Lights
+33
+Roy Orbison
+The Crowd
+34
+Bobby Darin
+Things
+35
+Paul Anka
+A Steel Guitar And A Glass Of Wine
+36
+Brenda Lee
+Heart In Hand
+37
+Dion
+Little Diane
+38
+The Dovells
+Bristol Twistin' Annie
+39
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+40
+Sue Thompson
+Have A Good Time
+41
+Ketty Lester
+But Not For Me
+42
+Little Joey And The Flips
+Bongo Stomp
+43
+Joe Dowell
+Little Red Rented Rowboat
+44
+Mr. Acker Bilk
+Stranger On The Shore
+45
+Toni Fisher
+West Of The Wall
+46
+Jimmy Dean
+Steel Men
+47
+Bobby Curtola
+Fortuneteller
+48
+The Champs
+Limbo Rock
+49
+Sam Cooke
+Bring It On Home To Me
+50
+Nelson Riddle
+Route 66 Theme
+51
+Andy Williams
+Stranger On The Shore
+52
+The Jamies
+Summertime, Summertime
+53
+Jimmy Norman
+I Don't Love You No More (I Don't Care About You)
+54
+Bobby Vee
+Sharing You
+55
+James Darren
+Mary's Little Lamb
+56
+Dinah Washington
+Where Are You
+57
+Earl Grant
+Swingin' Gently
+58
+Gene Pitney
+(The Man Who Shot) Liberty Valance
+59
+Lawrence Welk And His Orchestra
+Baby Elephant Walk
+60
+John Lee Hooker
+Boom Boom
+61
+James Brown And The Famous Flames
+Shout And Shimmy
+62
+Linda Scott
+Never In A Million Years
+63
+Duane Eddy
+The Ballad Of Paladin
+64
+The Everly Brothers
+That's Old Fashioned (That's The Way Love Should Be)
+65
+Floyd Cramer
+Hot Pepper
+66
+Timi Yuro
+What's A Matter Baby (Is It Hurting You)
+67
+Dreamlovers
+If I Should Lose You
+68
+Vince Edwards
+Why Did You Leave Me?
+69
+Dickie Goodman
+Ben Crazy
+70
+Billy Vaughn And His Orchestra
+A Swingin' Safari
+71
+Solomon Burke
+Down In The Valley
+72
+Jackie Wilson
+I Just Can't Help It
+73
+Little Jo Ann
+My Daddy Is President
+74
+Janie Grant
+That Greasy Kid Stuff
+75
+Jerry Butler
+Make It Easy On Yourself
+76
+Baby Cortez
+Rinky Dink
+77
+Fats Domino
+Nothing New (Same Old Thing)
+78
+Ray Anthony
+Worried Mind
+79
+Sandy Nelson
+All Night Long
+80
+April Stevens & Nino Tempo
+Sweet And Lovely
+81
+Jerry Reed And The Hully Girlies
+Goodnight, Irene
+82
+Martin Denny and His Orchestra
+A Taste Of Honey
+83
+Bobby Bare
+Shame On Me
+84
+The Highwaymen
+The Bird Man
+85
+Solomon Burke
+I'm Hanging Up My Heart For You
+86
+Mr. Acker Bilk
+Above The Stars
+87
+The Lafayettes
+Life's Too Short
+88
+The Playmates
+Keep Your Hands In Your Pockets
+89
+Bobby Gregg and His Friends
+Potato Peeler
+90
+Frankie Avalon
+A Miracle
+91
+King Curtis And The Noble Knights
+Beach Party
+92
+Aretha Franklin
+Don't Cry, Baby
+93
+Burl Ives
+Call Me Mr. In-Between
+94
+The Belmonts
+Come On Little Angel
+95
+The Tokens
+La Bomba
+96
+Bob Braun
+Till Death Do Us Part
+97
+Henry Mancini And His Orchestra
+Theme From "Hatari!"
+98
+Fats Domino
+Dance With Mr. Domino
+99
+Billy Stewart
+Reap What You Sow
+100
+The Castle Sisters
+Goodbye Dad

@@ -1,0 +1,300 @@
+1
+Manfred Mann's Earth Band
+Blinded By The Light
+2
+Eagles
+New Kid In Town
+3
+Mary Macgregor
+Torn Between Two Lovers
+4
+Barbra Streisand
+Evergreen (Love Theme From "A Star Is Born")
+5
+Kenny Nolan
+I Like Dreamin'
+6
+The Jacksons
+Enjoy Yourself
+7
+Rose Royce
+Car Wash
+8
+Steve Miller
+Fly Like An Eagle
+9
+Bread
+Lost Without Your Love
+10
+Bob Seger & The Silver Bullet Band
+Night Moves
+11
+Barry Manilow
+Weekend In New England
+12
+Stevie Wonder
+I Wish
+13
+Al Stewart
+Year Of The Cat
+14
+ABBA
+Dancing Queen
+15
+Brick
+Dazz
+16
+KISS
+Hard Luck Woman
+17
+Fleetwood Mac
+Go Your Own Way
+18
+Bee Gees
+Boogie Child
+19
+Thelma Houston
+Don't Leave Me This Way
+20
+Leo Sayer
+You Make Me Feel Like Dancing
+21
+Daryl Hall John Oates
+Rich Girl
+22
+Stephen Bishop
+Save It For A Rainy Day
+23
+10cc
+The Things We Do For Love
+24
+The Sylvers
+Hot Line
+25
+Kansas
+Carry On Wayward Son
+26
+Aerosmith
+Walk This Way
+27
+Smokie
+Living Next Door To Alice
+28
+Boston
+Long Time
+29
+Marilyn McCoo & Billy Davis, Jr.
+You Don't Have To Be A Star (To Be In My Show)
+30
+David Dundas
+Jeans On
+31
+David Soul
+Don't Give Up On Us
+32
+Queen
+Somebody To Love
+33
+Engelbert Humperdinck
+After The Lovin'
+34
+George Harrison
+Crackerbox Palace
+35
+Elvis Presley
+Moody Blue/she Thinks I Still Care
+36
+Tom Jones
+Say You'll Stay Until Tomorrow
+37
+Wings
+Maybe I'm Amazed
+38
+Jackson Browne
+Here Come Those Tears Again
+39
+Commodores
+Fancy Dancer
+40
+Olivia Newton-John
+Sam
+41
+Elton John
+Bite Your Lip (Get up and dance!)
+42
+Parker McGee
+I Just Can't Say No To You
+43
+Dr. Buzzard's Original Savannah Band
+Whispering/Cherchez La Femme/Se Si Bon
+44
+Earth, Wind & Fire
+Saturday Nite
+45
+Rod Stewart
+Tonight's The Night (Gonna Be Alright)
+46
+Rod Stewart
+The First Cut Is The Deepest
+47
+Atlanta Rhythm Section
+So In To You
+48
+Burton Cummings
+Stand Tall
+49
+Deniece Williams
+Free
+50
+Natalie Cole
+I've Got Love On My Mind
+51
+Brass Construction
+Ha Cha Cha (funktion)
+52
+Henhouse Five Plus Too
+In The Mood
+53
+Electric Light Orchestra
+Livin' Thing
+54
+Jennifer Warnes
+Right Time Of The Night
+55
+Wilton Place Street Band
+Disco Lucy (i Love Lucy Theme)
+56
+Orleans
+Reach
+57
+Electric Light Orchestra
+Do Ya
+58
+Wild Cherry
+Baby Don't You Know
+59
+The Dramatics
+Be My Girl
+60
+Enchantment
+Gloria
+61
+Ohio Players
+Feel The Beat (Everybody Disco)
+62
+Dickie Goodman
+Kong
+63
+Bee Gees
+Love So Right
+64
+Silvetti
+Spring Rain
+65
+Boney M
+Daddy Cool
+66
+Rufus Featuring Chaka Khan
+At Midnight (My Love Will Lift You Up)
+67
+Donny & Marie Osmond
+Ain't Nothing Like The Real Thing
+68
+Latimore
+Somethin' 'bout 'cha
+69
+Heart
+Dreamboat Annie
+70
+Little River Band
+I'll Always Call Your Name
+71
+Arthur Prysock
+When Love Is New
+72
+John Travolta
+All Strung Out On You
+73
+Bay City Rollers
+Dedication
+74
+The Emotions
+I Don't Wanna Lose Your Love/Flowers
+75
+Undisputed Truth
+You + Me = Love/Let's Go Down To The Disco
+76
+Love Unlimited Orchestra
+Theme From King Kong (Pt. I)
+77
+Donna Summer
+Spring Affair/Winter Melody
+78
+Grace Jones
+Sorry/That's The Trouble
+79
+The Bar-Kays
+Too Hot To Stop (Pt. 1)
+80
+Harold Melvin And The Blue Notes
+Reaching For The World
+81
+The Sons Of Champlin
+Here Is Where Your Love Belongs
+82
+Aretha Franklin
+Look Into Your Heart
+83
+Gordon Lightfoot
+Race Among The Ruins
+84
+Burton Cummings
+I'm Scared
+85
+William Bell
+Tryin' To Love Two
+86
+Glen Campbell
+Southern Nights
+87
+Mass Production
+Welcome To Our World (Of Merry Music)
+88
+Andrea True Connection
+N.y., You Got Me Dancing
+89
+KC And The Sunshine Band
+I Like To Do It
+90
+Hot
+Angel In Your Arms
+91
+Crown Heights Affair
+Dancin'
+92
+Ozark Mountain Daredevils
+You Know Like I Know
+93
+Loleatta Holloway
+Dreamin
+94
+Climax Blues Band
+Couldn't Get It Right
+95
+Smokey Robinson
+There Will Come A Day (I'm Gonna Happen To You)
+96
+Johnny Rivers
+Ashes And Sand
+97
+Automatic Man
+My Pearl
+98
+Boz Scaggs
+What Can I Say
+99
+Barry DeVorzon And Perry Botikin Jr.
+Bless The Beasts And Children
+100
+Rick Dees & His Cast Of Idiots
+Dis-Gorilla (Part 1)

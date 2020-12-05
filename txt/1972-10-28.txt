@@ -1,0 +1,300 @@
+1
+Chuck Berry
+My Ding-A-Ling
+2
+Elvis Presley
+Burning Love
+3
+The Moody Blues
+Nights In White Satin
+4
+Bill Withers
+Use Me
+5
+Johnny Nash
+I Can See Clearly Now
+6
+Curtis Mayfield
+Freddie's Dead (Theme From "Superfly")
+7
+Rick Nelson And The Stone Canyon Band
+Garden Party
+8
+Michael Jackson
+Ben
+9
+The Main Ingredient
+Everybody Plays The Fool
+10
+Danny O'Keefe
+Good Time Charlie's Got The Blues
+11
+Leon Russell
+Tight Rope
+12
+The Doobie Brothers
+Listen To The Music
+13
+Donny Osmond
+Why/Lonely Boy
+14
+The Spinners
+I'll Be Around
+15
+Lobo
+I'd Love You To Want Me
+16
+Eagles
+Witchy Woman
+17
+Helen Reddy
+I Am Woman
+18
+Arlo Guthrie
+The City Of New Orleans
+19
+The 5th Dimension
+If I Could Reach You
+20
+Mel And Tim
+Starting All Over Again
+21
+Mac Davis
+Baby Don't Get Hooked On Me
+22
+Chi Coltrane
+Thunder And Lightning
+23
+Cornelius Brothers & Sister Rose
+Don't Ever Be Lonely (A Poor Little Fool Like Me)
+24
+Hot Butter
+Popcorn
+25
+Nilsson
+Spaceman
+26
+Gallery
+I Believe In Music
+27
+Joe Cocker and The Chris Stainton Band
+Midnight Rider
+28
+Seals & Crofts
+Summer Breeze
+29
+Rod Stewart
+You Wear It Well
+30
+Sam Neely
+Loving You Just Crossed My Mind
+31
+James Brown
+Get On The Good Foot-Part 1
+32
+Alice Cooper
+Elected
+33
+Raspberries
+Go All The Way
+34
+Cashman & West
+American City Suite
+35
+The Band
+Don't Do It
+36
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+37
+Rick Springfield
+Speak To The Sky
+38
+The Temptations
+Papa Was A Rollin' Stone
+39
+Emerson, Lake & Palmer
+From The Beginning
+40
+The O'Jays
+Back Stabbers
+41
+Mott The Hoople
+All The Young Dudes
+42
+America
+Ventura Highway
+43
+David Cassidy
+Rock Me Baby
+44
+Grand Funk Railroad
+Rock 'N Roll Soul
+45
+Gladstone
+A Piece Of Paper
+46
+Jim Croce
+Operator (That's Not the Way it Feels)
+47
+Jermaine Jackson
+That's How Love Goes
+48
+Wayne Newton
+Can't You Hear The Song?
+49
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+50
+Albert Hammond
+It Never Rains In Southern California
+51
+Donna Fargo
+Funny Face
+52
+Michael Murphey
+Geronimo's Cadillac
+53
+Casey Kelly
+Poor Boy
+54
+Cher
+Don't Hide Your Love
+55
+Austin Roberts
+Something's Wrong With Me
+56
+Billy Preston
+Slaughter
+57
+The Delegates
+Convention '72
+58
+Eric Clapton
+Let It Rain
+59
+Al Green
+You Ought To Be With Me
+60
+The Stylistics
+I'm Stone In Love With You
+61
+King Floyd
+Woman Don't Go Astray
+62
+Betty Wright
+Baby Sitter
+63
+Beverly Bremers
+I'll Make You Music
+64
+Four Tops
+(It's The Way) Nature Planned It
+65
+Lighthouse
+Sunny Days
+66
+Blood, Sweat & Tears
+So Long Dixie
+67
+Denise LaSalle
+Man Sized Job
+68
+Isaac Hayes
+Theme From The Men
+69
+Steve & Eydie Featuring The Osmonds
+We Can Make It Together
+70
+The Osmonds
+Crazy Horses
+71
+Donny Hathaway
+I Love You More Than You'll Ever Know
+72
+Chicago
+Dialogue (Part I & II)
+73
+Laura Lee
+If You Can Beat Me Rockin' (You Can Have My Chair)
+74
+Eddie Kendricks
+If You Let Me
+75
+Holland-Dozier
+Why Can't We Be Lovers
+76
+Al Green
+Guilty
+77
+Danny Holien
+Colorado
+78
+Petula Clark
+Wedding Song (There Is Love)
+79
+B.B. King
+Guess Who/Them Changes
+80
+Bulldog
+No
+81
+The Chi-lites
+A Lonely Man/The Man & The Woman (The Boy & The Girl)
+82
+Tower Of Power
+Down To The Nightclub
+83
+The Isley Brothers
+Work To Do
+84
+Dennis Yost And The Classics IV
+What Am I Crying For?
+85
+Harry Chapin
+Sunday Morning Sunshine
+86
+Gilbert O'Sullivan
+Clair
+87
+Melanie
+Together Alone
+88
+Jackson 5
+Corner Of The Sky
+89
+Mouth & MacNeal
+Hey, You Love
+90
+King Harvest
+Dancing In The Moonlight
+91
+The Heywoods
+Special Someone
+92
+Joe Simon
+Misty Blue
+93
+National Lampoon
+Deteriorata
+94
+The Supremes
+I Guess I'll Miss The Man
+95
+Sammy Davis, Jr. with The Mike Curb Congregation
+The People Tree
+96
+The Guess Who
+Runnin' Back To Saskatoon
+97
+The Raiders
+Song Seller
+98
+The Move
+Do Ya
+99
+Van Morrison
+Redwood Tree
+100
+Tony Cole
+Suite: Man And Woman

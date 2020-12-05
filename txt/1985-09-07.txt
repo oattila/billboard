@@ -1,0 +1,300 @@
+1
+John Parr
+St. Elmo's Fire (Man In Motion)
+2
+Huey Lewis & The News
+The Power Of Love
+3
+Tina Turner
+We Don't Need Another Hero (Thunderdome)
+4
+Aretha Franklin
+Freeway Of Love
+5
+Bryan Adams
+Summer Of '69
+6
+Dire Straits
+Money For Nothing
+7
+Kool & The Gang
+Cherish
+8
+Phil Collins
+Don't Lose My Number
+9
+Billy Joel
+You're Only Human (Second Wind)
+10
+Prince And The Revolution
+Pop Life
+11
+Pat Benatar
+Invincible (Theme From The Legend Of Billie Jean)
+12
+Wham!
+Freedom
+13
+Tears For Fears
+Shout
+14
+Corey Hart
+Never Surrender
+15
+The Pointer Sisters
+Dare Me
+16
+Motley Crue
+Smokin' In The Boys Room
+17
+Madonna
+Dress You Up
+18
+Ready For The World
+Oh Sheila
+19
+Howard Jones
+Life In One Day
+20
+Heart
+What About Love?
+21
+a-ha
+Take On Me
+22
+The Motels
+Shame
+23
+Whitney Houston
+Saving All My Love For You
+24
+Godley & Creme
+Cry
+25
+John Mellencamp
+Lonely Ol' Night
+26
+Eurythmics
+There Must Be An Angel
+27
+Billy Ocean
+Mystery Lady
+28
+Sting
+If You Love Somebody Set Them Free
+29
+Paul Young
+Everytime You Go Away
+30
+John Waite
+Every Step Of The Way
+31
+Debarge
+Who's Holding Donna Now
+32
+Sting
+Fortress Around Your Heart
+33
+David Bowie & Mick Jagger
+Dancing In The Street
+34
+John Cafferty & The Beaver Brown Band
+C-I-T-Y
+35
+Dead Or Alive
+You Spin Me Round (Like A Record)
+36
+Michael McDonald
+No Lookin' Back
+37
+Katrina And The Waves
+Do You Want Crying
+38
+UB40
+I Got You Babe
+39
+Lisa Lisa And Clult Jam With Full Force
+I Wonder If I Take You Home
+40
+Laura Branigan
+Spanish Eddie
+41
+Cock Robin
+When Your Heart Is Weak
+42
+Loverboy
+Lovin' Every Minute Of It
+43
+Stevie Wonder
+Part-Time Lover
+44
+Daryl Hall John Oates
+The Way You Do The Things You Do/My Girl
+45
+Bruce Springsteen
+Glory Days
+46
+Night Ranger
+Four In The Morning (I Can't Take Anymore)
+47
+Hooters
+And We Danced
+48
+Bruce Springsteen
+I'm Goin' Down
+49
+ABC
+Be Near Me
+50
+Don Henley
+Sunset Grill
+51
+Freddie Jackson
+Rock Me Tonight
+52
+REO Speedwagon
+Live Every Moment
+53
+Survivor
+First Night
+54
+Paul Young
+I'm Gonna Tear Your Playhouse Down
+55
+King
+Love And Pride
+56
+Foreigner
+Down On Love
+57
+Depeche Mode
+People Are People
+58
+David Foster
+Love Theme From St. Elmo's Fire (Instrumental)
+59
+Jan Hammer
+Miami Vice Theme
+60
+Cheap Trick
+Tonight It's You
+61
+'Til Tuesday
+Looking Over My Shoulder
+62
+Loose Ends
+Hangin' On A String
+63
+What Is This
+I'll Be Around
+64
+Rick Springfield
+State Of the Heart
+65
+The Power Station
+Communication
+66
+El DeBarge With DeBarge
+You Wear It Well
+67
+Whitney Houston
+You Give Good Love
+68
+Steve Arrington
+Dancin' In The Key Of Life
+69
+The Power Station
+Get It On (Bang A Gong)
+70
+9.9
+All Of Me For All Of You
+71
+Amy Grant
+Wise Up
+72
+Billy Crystal
+You Look Marvelous
+73
+Starship
+We Built This City
+74
+Tom Petty And The Heartbreakers
+Rebels
+75
+Mary Jane Girls
+Wild And Crazy Love
+76
+Ratt
+Lay It Down
+77
+Night Ranger
+Sentimental Street
+78
+Y&T
+Summertime Girls
+79
+The Romantics
+Test Of Time
+80
+Kenny Loggins
+Forever
+81
+Orchestral Manoeuvres In The Dark
+So In Love
+82
+Oingo Boingo
+Weird Science
+83
+Maurice White
+Stand By Me
+84
+Julian Lennon
+Jesse
+85
+Freddie Jackson
+You Are My Lady
+86
+Patti LaBelle
+Stir It Up
+87
+Scritti Politti
+Perfect Way
+88
+Survivor
+The Search Is Over
+89
+Don Henley
+Not Enough Love In The World
+90
+Natalie Cole
+A Little Bit of Heaven
+91
+Jesse Johnson's Revue
+I Want My Girl
+92
+Depeche Mode
+Master & Servant/(Set Me Free) Remotivate Me
+93
+Bon Jovi
+In And Out Of Love
+94
+Talking Heads
+And She Was
+95
+Kate Bush
+Running Up That Hill
+96
+Air Supply
+Power Of Love (You Are My Lady)
+97
+Prince And The Revolution
+Raspberry Beret
+98
+Duran Duran
+A View To A Kill
+99
+Urgent
+Running Back
+100
+Belouis Some
+Some People

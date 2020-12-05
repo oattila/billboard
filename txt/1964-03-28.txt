@@ -1,0 +1,300 @@
+1
+The Beatles
+She Loves You
+2
+The Beatles
+I Want To Hold Your Hand
+3
+The Beatles
+Twist And Shout
+4
+The Beatles
+Please Please Me
+5
+The 4 Seasons
+Dawn (Go Away)
+6
+The Beach Boys
+Fun, Fun, Fun
+7
+Terry Stafford
+Suspicion
+8
+Louis Armstrong And The All Stars
+Hello, Dolly!
+9
+Bobby Vinton
+My Heart Belongs To Only You
+10
+The Dave Clark Five
+Glad All Over
+11
+Tommy Tucker
+Hi-Heel Sneakers
+12
+Elvis Presley With The Jordanaires
+Kissin' Cousins
+13
+Diane Renay
+Navy Blue
+14
+Al (He's the King) Hirt
+Java
+15
+The Temptations
+The Way You Do The Things You Do
+16
+Betty Everett
+The Shoop Shoop Song (It's In His Kiss)
+17
+Al Martino
+I Love You More And More Every Day
+18
+The 4 Seasons
+Stay
+19
+The Serendipity Singers
+Don't Let The Rain Come Down (Crooked Little Man)
+20
+The Searchers
+Needles And Pins
+21
+The Rivieras
+California Sun
+22
+Bobby Goldsboro
+See The Funny Little Clown
+23
+Marvin Gaye
+You're A Wonderful One
+24
+Connie Francis
+Blue Winter
+25
+Sam Cooke
+Good News
+26
+The Beatles
+I Saw Her Standing There
+27
+The Beatles
+Can't Buy Me Love
+28
+The Pyramids
+Penetration
+29
+Elvis Presley With The Jordanaires
+It Hurts Me
+30
+Dusty Springfield
+I Only Want To Be With You
+31
+The Swinging Blue Jeans
+Hippy Hippy Shake
+32
+Brenda Lee
+Think
+33
+Nino Tempo & April Stevens
+Stardust
+34
+Jan & Dean
+Dead Man's Curve
+35
+Dean And Jean
+Hey Jean, Hey Dean
+36
+James Brown And The Famous Flames
+Oh Baby Don't You Weep (Part 1)
+37
+Bobby Bland
+Ain't Nothing You Can Do
+38
+Sammy Davis Jr.
+The Shelter Of Your Arms
+39
+Johnny Cash
+Understand Your Man
+40
+Ray Charles
+My Heart Cries For You
+41
+Chuck Berry
+Nadine (Is It You?)
+42
+The Kingsmen
+Money
+43
+Peter, Paul & Mary
+Tell It On The Mountain
+44
+The Devotions
+Rip Van Winkle
+45
+Ray Charles and his Orchestra
+Baby, Don't You Cry (The New Swingova Rhythm)
+46
+Danny Williams
+White On White
+47
+The Sapphires
+Who Do You Love
+48
+Johnny Tillotson
+Worried Guy
+49
+Gloria Lynne
+I Wish You Love
+50
+The Beatles
+From Me To You
+51
+Chubby Checker
+Hey, Bobba Needle
+52
+Jan & Dean
+The New Girl In School
+53
+Barbara Lewis
+Puppy Love
+54
+Rufus Thomas
+Can Your Monkey Do The Dog
+55
+Bobby Vee With The Eligibles
+I'll Make You Mine
+56
+The Marvelettes
+He's A Good Guy (Yes He Is)
+57
+The Carefrees
+We Love You Beatles
+58
+Solomon Burke
+He'll Have To Go
+59
+Pete Drake And His Talking Steel Guitar
+Forever
+60
+Jimmy Gilmer And The Fireballs
+Ain't Gonna Tell Anybody
+61
+Chris Crosby
+Young And In Love
+62
+Little Stevie Wonder
+Castles In The Sand
+63
+The Miracles
+(You Can't Let The Boy Overpower) The Man In You
+64
+Rick Nelson
+Congratulations
+65
+Jack Jones
+Love With The Proper Stranger
+66
+Nat King Cole
+My True Carrie, Love
+67
+Soul Sisters
+I Can't Stand It
+68
+Lenny Welch
+Ebb Tide
+69
+The Monarchs
+Look Homeward Angel
+70
+The Raindrops
+Book Of Love
+71
+The Beatles
+All My Loving
+72
+Lesley Gore
+That's The Way Boys Are
+73
+Hank Williams Jr.
+Long Gone Lonesome Blues
+74
+Shirley Ellis
+(That's) What The Nitty Gritty Is
+75
+The Beatles
+Roll Over Beethoven
+76
+Major Lance
+The Matador
+77
+The Shirelles
+Sha-La-La
+78
+The Beatles
+Do You Want To Know A Secret
+79
+Garnet Mimms
+Tell Me Baby
+80
+Dusty Springfield
+Stay Awhile
+81
+Ruby And The Romantics
+Our Everlasting Love
+82
+Bobby Rydell
+Make Me Forget
+83
+The Tymes
+To Each His Own
+84
+The Vibrations
+My Girl Sloopy
+85
+The Tams
+You Lied To Your Daddy
+86
+The Four Preps
+A Letter To The Beatles
+87
+Robert Maxwell His Harp And Orchestra
+Shangri-La
+88
+King Curtis
+Soul Serenade
+89
+The Coasters
+T'ain't Nothin' To Me
+90
+Irma Thomas
+Wish Someone Would Care
+91
+Freddie Scott
+Where Does Love Go
+92
+Herb Alpert's Tijuana Brass
+Mexican Drummer Man
+93
+Otis Redding
+Come To Me
+94
+Trini Lopez
+Jailer, Bring Me Water
+95
+Justine Washington
+I Can't Wait Until I See My Baby
+96
+Chuck Jackson
+Hand It Over
+97
+B.B. King And His Orchestra
+How Blue Can You Get
+98
+Tony Bennett
+When Joanna Loved Me
+99
+The Marketts
+Vanishing Point
+100
+Vic Dana
+Shangri-La

@@ -1,0 +1,300 @@
+1
+The Marvelettes
+Please Mr. Postman
+2
+Jimmy Dean
+Big Bad John
+3
+James Darren
+Goodbye Cruel World
+4
+Chubby Checker
+The Twist
+5
+Leroy Van Dyke
+Walk On By
+6
+The Tokens
+The Lion Sleeps Tonight
+7
+Bobby Vee
+Run To Him
+8
+Ferrante & Teicher
+Tonight
+9
+Sandy Nelson
+Let There Be Drums
+10
+Neil Sedaka
+Happy Birthday, Sweet Sixteen
+11
+Jerry Butler
+Moon River
+12
+Dion
+Runaround Sue
+13
+Brenda Lee
+Fool #1
+14
+Patsy Cline
+Crazy
+15
+Joey Dee & the Starliters
+Peppermint Twist - Part I
+16
+The G-Clefs
+I Understand (Just How You Feel)
+17
+Henry Mancini And His Orchestra
+Moon River
+18
+Gene McDaniels
+Tower Of Strength
+19
+Linda Scott
+I Don't Know Why
+20
+The Impressions
+Gypsy Woman
+21
+The Lettermen
+When I Fall In Love
+22
+Chubby Checker
+The Fly
+23
+The Marcels
+Heartaches
+24
+Connie Francis
+When The Boy In Your Arms (Is The Boy In Your Heart)
+25
+Chubby Checker
+Let's Twist Again
+26
+Ray Charles and his Orchestra
+Unchain My Heart
+27
+The Dovells
+Bristol Stomp
+28
+Dinah Washington
+September In The Rain
+29
+The Angels
+'Til
+30
+Wanda Jackson
+In The Middle Of A Heartache
+31
+The Chantels
+Well, I Told You
+32
+John D. Loudermilk
+Language Of Love
+33
+Kenny Dino
+Your Ma Said You Cried In Your Sleep Last Night
+34
+The Crystals
+There's No Other (Like My Baby)
+35
+The Paris Sisters
+I Love How You Love Me
+36
+Troy Shondell
+This Time
+37
+Bobby Edwards
+You're The Reason
+38
+Solomon Burke
+Just Out Of Reach (Of My Two Open Arms)
+39
+Rick Nelson
+A Wonder Like You
+40
+Bobby Rydell
+I Wanna Thank You
+41
+Elvis Presley With The Jordanaires
+Can't Help Falling In Love
+42
+Gene Pitney
+Town Without Pity
+43
+Si Zentner And His Orchestra
+Up A Lazy River
+44
+Eddie Fisher
+Tonight
+45
+The Flares
+Foot Stomping - Part 1
+46
+Brook Benton
+Revenge
+47
+Elvis Presley With The Jordanaires
+Rock-A-Hula Baby
+48
+Dion
+The Majestic
+49
+Sims Twins
+Soothe Me
+50
+Pat Boone
+Johnny Will
+51
+The Highwaymen
+The Gypsy Rover
+52
+Linda Scott
+It's All Because
+53
+Jimmy Elledge
+Funny How Time Slips Away
+54
+Danny Peppermint and the Jumping Jacks
+The Peppermint Twist
+55
+Del Shannon
+Hey! Little Girl
+56
+Barbara George
+I Know (You Don't Love Me No More)
+57
+Vic Dana
+Little Altar Boy
+58
+Ike & Tina Turner
+Poor Fool
+59
+Don Gibson
+Lonesome Number One
+60
+Phil McLean
+Small Sad Sam
+61
+James Ray
+If You Gotta Make A Fool Of Somebody
+62
+Timi Yuro
+Smile
+63
+Fats Domino
+Jambalaya (On The Bayou)
+64
+Johnny Burnette
+God, Country And My Baby
+65
+Gary U.S. Bonds
+Dear Lady Twist
+66
+Bing Crosby
+White Christmas
+67
+The Highwaymen
+Cotton Fields
+68
+Bobby Helms
+Jingle Bell Rock
+69
+Etta James
+It's Too Soon To Know
+70
+Dion
+The Wanderer
+71
+Bobby Rydell/Chubby Checker
+Jingle Bell Rock
+72
+The Showmen
+It Will Stand
+73
+Connie Francis
+Baby's First Christmas
+74
+The Jive Five With Joe Rene And Orchestra
+Never, Never
+75
+Shep And The Limelites
+Three Steps From The Altar
+76
+Glen Campbell
+Turn Around, Look At Me
+77
+Fats Domino
+I Hear You Knocking
+78
+Chubby Checker
+Twistin' U.S.A.
+79
+Claude King
+The Comancheros
+80
+Bobby Vee
+Walkin' With My Angel
+81
+Gene Thomas
+Sometime
+82
+Tony Orlando
+Happy Times (Are Here To Stay)
+83
+Sue Thompson
+Norman
+84
+Johnny Cash
+Tennessee Flat-Top Box
+85
+Brenda Lee
+Rockin' Around The Christmas Tree
+86
+Roger Williams
+Maria
+87
+Dick Dale and The Del-Tones
+Let's Go Trippin'
+88
+Jimmy McCracklin
+Just Got To Know
+89
+Jim Reeves
+Losing Your Love
+90
+Johnny Tillotson
+Dreamy Eyes
+91
+Johnny Mathis
+Maria
+92
+Jim Reeves
+(How Can I Write On Paper) What I Feel In My Heart
+93
+Timi Yuro
+She Really Loves You
+94
+Ray Charles and his Orchestra
+But On The Other Hand Baby
+95
+Bobby Darin
+Irresistible You
+96
+Bobby Bland
+Turn On Your Love Light
+97
+The Dave Brubeck Quartet
+Unsquare Dance
+98
+The Harry Simeone Chorale
+The Little Drummer Boy
+99
+Gladys Knight And The Pips
+Letter Full Of Tears
+100
+Frank Slay And His Orchestra
+Flying Circle

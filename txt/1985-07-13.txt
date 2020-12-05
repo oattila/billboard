@@ -1,0 +1,300 @@
+1
+Duran Duran
+A View To A Kill
+2
+Phil Collins
+Sussudio
+3
+Prince And The Revolution
+Raspberry Beret
+4
+Survivor
+The Search Is Over
+5
+Eurythmics
+Would I Lie To You?
+6
+Paul Young
+Everytime You Go Away
+7
+Whitney Houston
+You Give Good Love
+8
+'Til Tuesday
+Voices Carry
+9
+Bruce Springsteen
+Glory Days
+10
+Cyndi Lauper
+The Goonies 'R' Good Enough
+11
+Sting
+If You Love Somebody Set Them Free
+12
+Bryan Adams
+Heaven
+13
+Night Ranger
+Sentimental Street
+14
+Tears For Fears
+Shout
+15
+Kim Carnes
+Crazy In The Night (Barking At Airplanes)
+16
+Paul Hardcastle
+19
+17
+Madonna
+Angel
+18
+The Power Station
+Get It On (Bang A Gong)
+19
+Air Supply
+Just As I Am
+20
+Corey Hart
+Never Surrender
+21
+Debarge
+Who's Holding Donna Now
+22
+Depeche Mode
+People Are People
+23
+John Cafferty & The Beaver Brown Band
+Tough All Over
+24
+Howard Jones
+Things Can Only Get Better
+25
+Tears For Fears
+Everybody Wants To Rule The World
+26
+Dead Or Alive
+You Spin Me Round (Like A Record)
+27
+The Beach Boys
+Getcha Back
+28
+Supertramp
+Cannonball
+29
+Huey Lewis & The News
+The Power Of Love
+30
+Aretha Franklin
+Freeway Of Love
+31
+Heart
+What About Love?
+32
+Glenn Frey
+Smuggler's Blues
+33
+Daryl Hall John Oates
+Possession Obsession
+34
+Katrina And The Waves
+Walking On Sunshine
+35
+Freddie Jackson
+Rock Me Tonight
+36
+Amy Grant
+Find A Way
+37
+Mary Jane Girls
+In My House
+38
+Bryan Adams
+Summer Of '69
+39
+Don Henley
+Not Enough Love In The World
+40
+Rick Springfield
+State Of the Heart
+41
+Tina Turner
+We Don't Need Another Hero (Thunderdome)
+42
+John Parr
+St. Elmo's Fire (Man In Motion)
+43
+Robert Plant
+Little By Little
+44
+Kenny Loggins
+Forever
+45
+Animotion
+Let Him Go
+46
+Billy Ocean
+Suddenly
+47
+"Weird Al" Yankovic
+Like A Surgeon
+48
+Wham!
+Everything She Wants
+49
+John Fogerty
+Centerfield
+50
+Billy Joel
+You're Only Human (Second Wind)
+51
+Gino Vannelli
+Black Cars
+52
+Billy Ocean
+Mystery Lady
+53
+Jeff Beck & Rod Stewart
+People Get Ready
+54
+Lisa Lisa And Clult Jam With Full Force
+I Wonder If I Take You Home
+55
+Go West
+Call Me
+56
+Sade
+Your Love Is King
+57
+Pat Benatar
+Invincible (Theme From The Legend Of Billie Jean)
+58
+Patti LaBelle
+Stir It Up
+59
+Kool & The Gang
+Cherish
+60
+Howard Jones
+Life In One Day
+61
+Harold Faltermeyer
+Axel F
+62
+The Pointer Sisters
+Dare Me
+63
+George Thorogood & The Destroyers
+Willie & The Hand Jive
+64
+Cock Robin
+When Your Heart Is Weak
+65
+Tom Petty And The Heartbreakers
+Make It Better (Forget About Me)
+66
+Kool & The Gang
+Fresh
+67
+Limahl
+The NeverEnding Story
+68
+Foreigner
+Reaction To Action
+69
+Men At Work
+Everything I Need
+70
+Chaka Khan
+Through the Fire
+71
+Ratt
+Lay It Down
+72
+Carly Simon
+Tired Of Being Blonde
+73
+Hooters
+All You Zombies
+74
+Vitamin Z
+Burning Flame
+75
+Sister Sledge
+Frankie
+76
+Commodores
+Animal Instinct
+77
+Motley Crue
+Smokin' In The Boys Room
+78
+REO Speedwagon
+Live Every Moment
+79
+Simple Minds
+Don't You (Forget About Me)
+80
+Peabo Bryson
+Take No Prisoners (In The Game Of Love)
+81
+Jermaine Jackson
+(Closest Thing To) Perfect
+82
+Stephanie Mills
+Bit By Bit (Theme From Fletch)
+83
+Menudo
+Hold Me
+84
+Madonna
+Crazy For You
+85
+Graham Parker & The Shot
+Wake Up (Next To You)
+86
+Klymaxx
+Meeting In The Ladies Room
+87
+Dire Straits
+Money For Nothing
+88
+Jean Knight
+My Toot Toot
+89
+David Lee Roth
+Just A Gigolo/I Ain't Got Nobody
+90
+Y&T
+Summertime Girls
+91
+a-ha
+Take On Me
+92
+USA For Africa
+We Are The World
+93
+Sade
+Smooth Operator
+94
+REO Speedwagon
+One Lonely Night
+95
+Dokken
+Alone Again
+96
+Kim Mitchell
+Go For Soda
+97
+Shannon
+Do You Wanna Get Away
+98
+Jack Wagner
+The Lady Of My Heart
+99
+Debarge
+Rhythm Of The Night
+100
+The Power Station
+Some Like It Hot

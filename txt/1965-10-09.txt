@@ -1,0 +1,300 @@
+1
+The Beatles
+Yesterday
+2
+The McCoys
+Hang On Sloopy
+3
+Roy Head And The Traits
+Treat Her Right
+4
+Barry McGuire
+Eve Of Destruction
+5
+Ramsey Lewis Trio
+The "In" Crowd
+6
+The Dave Clark Five
+Catch Us If You Can
+7
+The Fortunes
+You've Got Your Troubles
+8
+Sonny & Cher
+Baby Don't Go
+9
+We Five
+You Were On My Mind
+10
+The Lovin' Spoonful
+Do You Believe In Magic
+11
+Elvis Presley
+I'm Yours
+12
+Herman's Hermits
+Just A Little Bit Better
+13
+Jay & The Americans
+Some Enchanted Evening
+14
+The Gentrys
+Keep On Dancing
+15
+The Beatles
+Help!
+16
+Sonny
+Laugh At Me
+17
+The Animals
+We Gotta Get Out Of This Place
+18
+The Castaways
+Liar, Liar
+19
+The Toys
+A Lover's Concerto
+20
+Sonny & Cher
+Just You
+21
+Ronnie Dove
+I'll Make All Your Dreams Come True
+22
+The Vogues
+You're The One
+23
+Charlie Rich
+Mohair Sam
+24
+Gary Lewis And The Playboys
+Everybody Loves A Clown
+25
+Roy Orbison
+Ride Away
+26
+The Yardbirds
+Heart Full Of Soul
+27
+Tom Jones
+With These Hands
+28
+Jody Miller
+Home Of The Brave
+29
+The Turtles
+It Ain't Me Babe
+30
+Edwin Starr
+Agent Double-O-Soul
+31
+Roger Miller
+Kansas City Star
+32
+Lesley Gore
+My Town, My Guy And Me
+33
+Bob Dylan
+Like A Rolling Stone
+34
+Bob Dylan
+Positively 4th Street
+35
+Johnny Tillotson
+Heartaches By The Number
+36
+Billy Joe Royal
+I Knew You When
+37
+Barbara Lewis
+Make Me Your Baby
+38
+The Righteous Brothers
+Unchained Melody
+39
+The Spokesmen
+The Dawn Of Correction
+40
+San Remo Golden Strings
+Hungry For Love
+41
+Sonny & Cher
+I Got You Babe
+42
+Andy Williams
+Ain't It True
+43
+Dino, Desi & Billy
+Not The Lovin' Kind
+44
+Bobby Vinton
+What Color (Is A Man)
+45
+Herb Alpert & The Tijuana Brass
+Taste Of Honey
+46
+Joe Tex
+I Want To (Do Everything For You)
+47
+Herb Alpert & The Tijuana Brass
+3rd Man Theme
+48
+Freddy Cannon
+Action
+49
+James Brown And The Famous Flames
+Papa's Got A Brand New Bag (Part I)
+50
+Joan Baez
+There But For Fortune
+51
+The Beatles
+Act Naturally
+52
+Jonathan King
+Everyone's Gone To The Moon
+53
+The Strangeloves
+Cara-Lin
+54
+Marianne Faithfull
+Summer Nights
+55
+The Barbarians
+Are You A Boy Or Are You A Girl
+56
+Otis Redding
+Respect
+57
+Paul Revere & The Raiders
+Steppin' Out
+58
+Glen Campbell
+The Universal Soldier
+59
+Donovan
+Universal Soldier
+60
+The Sunrays
+I Live For The Sun
+61
+Len Barry
+1-2-3
+62
+Fontella Bass
+Rescue Me
+63
+Bobby Bland
+These Hands (Small But Mighty)
+64
+The Rolling Stones
+Get Off Of My Cloud
+65
+Kim Weston
+Take Me In Your Arms (Rock Me A Little While)
+66
+Patty Duke
+Say Something Funny
+67
+Little Anthony And The Imperials
+I Miss You So
+68
+Sonny & Cher
+But You're Mine
+69
+Lenny Welch
+Two Different Worlds
+70
+Stevie Wonder
+High Heel Sneakers
+71
+Marvin Gaye
+Ain't That Peculiar
+72
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Let's Hang On!
+73
+The Newbeats
+Run, Baby Run (Back Into My Arms)
+74
+The Five Emprees
+Little Miss Sad
+75
+Bobby Goldsboro
+If You've Got A Heart
+76
+Jackie DeShannon
+A Lifetime Of Loneliness
+77
+Johnny Rivers
+Where Have All The Flowers Gone
+78
+The Lettermen
+Secretly
+79
+The Impressions
+Just One Kiss From You
+80
+Neil Sedaka
+The World Through A Tear
+81
+Dickey Lee
+The Girl From Peyton Place
+82
+Patty Duke
+Funny Little Butterflies
+83
+The Ivy League
+Tossing & Turning
+84
+The Gants
+Road Runner
+85
+Petula Clark
+Round Every Corner
+86
+Dionne Warwick
+Looking With My Eyes
+87
+Sam The Sham and the Pharaohs
+Ring Dang Doo
+88
+The Bachelors
+Chapel In The Moonlight
+89
+The Beau Brummels
+Don't Talk To Strangers
+90
+Jack Jones
+Just Yesterday
+91
+Jr. Walker & The All Stars
+Cleo's Back
+92
+Jimmy Smith With Kenny Burrell And Grady Tate
+The Organ Grinder's Swing
+93
+The Ikettes
+I'm So Thankful
+94
+Barbra Streisand
+He Touched Me
+95
+The Miracles
+My Girl Has Gone
+96
+Fred Hughes
+You Can't Take It Away
+97
+Johnny Nash
+Let's Move & Groove (Together)
+98
+Peter, Paul & Mary
+Early Morning Rain
+99
+The Shangri-Las
+Right Now And Not Later
+100
+Brenda Lee
+Rusty Bells

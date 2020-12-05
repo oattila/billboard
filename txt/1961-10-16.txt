@@ -1,0 +1,300 @@
+1
+Ray Charles and his Orchestra
+Hit The Road Jack
+2
+Dion
+Runaround Sue
+3
+The Dovells
+Bristol Stomp
+4
+Roy Orbison
+Crying
+5
+Bobby Darin
+You Must Have Been A Beautiful Baby
+6
+Bobby Vee
+Take Good Care Of My Baby
+7
+Sue Thompson
+Sad Movies (Make Me Cry)
+8
+Jimmy Dean
+Big Bad John
+9
+Bob Moore and His Orch.
+Mexico
+10
+Lee Dorsey
+Ya Ya
+11
+Troy Shondell
+This Time
+12
+The Paris Sisters
+I Love How You Love Me
+13
+Hayley Mills and Hayley Mills
+Let's Get Together
+14
+Chubby Checker
+The Fly
+15
+The Lettermen
+The Way You Look Tonight
+16
+Dick and DeeDee
+The Mountain's High
+17
+Elvis Presley
+Little Sister
+18
+The Chantels
+Look In My Eyes
+19
+The Drifters
+Sweets For My Sweet
+20
+The Everly Brothers
+Don't Blame Me
+21
+Tony Orlando
+Bless You
+22
+Elvis Presley
+(Marie's The Name) His Latest Flame
+23
+Gene McDaniels
+Tower Of Strength
+24
+Bobby Edwards
+You're The Reason
+25
+Connie Francis
+(He's My) Dreamboat
+26
+Duals
+Stick Shift
+27
+The Jive Five With Joe Rene And Orchestra
+My True Story
+28
+Del Shannon
+So Long Baby
+29
+Bobby Lewis
+One Track Mind
+30
+The Fleetwoods
+(He's) The Great Impostor
+31
+Brenda Lee
+Fool #1
+32
+The Flares
+Foot Stomping - Part 1
+33
+The G-Clefs
+I Understand (Just How You Feel)
+34
+Rick Nelson
+Everlovin'
+35
+The Marvelettes
+Please Mr. Postman
+36
+Barry Mann
+Who Put The Bomp (In The Bomp, Bomp, Bomp)
+37
+Johnny Tillotson
+Without You
+38
+Brenda Lee
+Anybody But Me
+39
+Rick Nelson
+A Wonder Like You
+40
+The Stereos
+I Really Love You
+41
+The Shirelles
+Big John
+42
+Fats Domino
+What A Party
+43
+Roy Orbison
+Candy Man
+44
+The Highwaymen
+Michael
+45
+Ray Peterson
+Missing You
+46
+The Dave Brubeck Quartet
+Take Five
+47
+Jose Jimenez
+The Astronaut (Parts 1 & 2)
+48
+Connie Francis
+Hollywood
+49
+Ike & Tina Turner
+It's Gonna Work Out Fine
+50
+Jerry Butler
+Moon River
+51
+Bill Black's Combo
+Movin'
+52
+Brook Benton
+It's Just A House Without You
+53
+Lonnie Donegan And His Skiffle Group
+Does Your Chewing Gum Lose It's Flavor (On The Bedpost Over Night)
+54
+Brian Hyland
+Let Me Belong To You
+55
+Don Shirley Trio
+Water Boy
+56
+The Four Preps
+More Money For You And Me
+57
+Pat Boone
+Big Cold Wind
+58
+The Marcels
+Heartaches
+59
+The Lennon Sisters
+Sad Movies (Make Me Cry)
+60
+Solomon Burke
+Just Out Of Reach (Of My Two Open Arms)
+61
+The Belmonts
+Don't Get Around Much Anymore
+62
+Jimmy Reed
+Bright Lights Big City
+63
+Mar-Keys
+Morning After
+64
+Sam Cooke
+Feel It
+65
+Tommy Hunt
+Human
+66
+Floyd Cramer
+Your Last Goodbye
+67
+Ral Donner
+Please Don't Go
+68
+Aretha Franklin
+Rock-A-Bye Your Baby With A Dixie Melody
+69
+Marty Robbins
+It's Your World
+70
+The Dreamlovers
+When We Get Married
+71
+Adam Wade
+Tonight I Won't Be There
+72
+Timi Yuro
+I Apologize
+73
+Nat King Cole
+Let True Love Begin
+74
+Billy Vaughn And His Orchestra
+Berlin Melody
+75
+Ben E. King
+Young Boy Blues
+76
+Bobby Rydell
+I Wanna Thank You
+77
+Dinah Washington
+September In The Rain
+78
+Frank Sinatra
+I'll Be Seeing You
+79
+Jackie Wilson
+You Don't Know What It Means
+80
+Danny & The Juniors
+Back To The Hop
+81
+Johnny Burnette
+God, Country And My Baby
+82
+Bobby Bland
+Don't Cry No More
+83
+Fats Domino
+Rockin' Bicycle
+84
+Ferrante & Teicher
+Tonight
+85
+Curtis Lee
+Under The Moon Of Love
+86
+Joe Dowell
+The Bridge Of Love
+87
+Billy Vaughn And His Orchestra
+Come September
+88
+James Darren
+Goodbye Cruel World
+89
+The Parkays
+Late Date
+90
+Henry Mancini And His Orchestra
+Moon River
+91
+The Angels
+'Til
+92
+The Everly Brothers
+Muskrat
+93
+Patti Page
+Broken Heart And A Pillow Filled With Tears
+94
+Jerry Fuller
+Guilty Of Loving You
+95
+Matt Monro
+Why Not Now
+96
+Wanda Jackson
+In The Middle Of A Heartache
+97
+Freddy Cannon
+For Me And My Gal
+98
+The Castells
+Make Believe Wedding
+99
+The Impressions
+Gypsy Woman
+100
+Faron Young
+Backtrack

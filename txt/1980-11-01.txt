@@ -1,0 +1,300 @@
+1
+Barbra Streisand
+Woman In Love
+2
+Queen
+Another One Bites The Dust
+3
+The Pointer Sisters
+He's So Shy
+4
+Kenny Rogers
+Lady
+5
+The Doobie Brothers
+Real Love
+6
+Donna Summer
+The Wanderer
+7
+Diana Ross
+Upside Down
+8
+Stephanie Mills
+Never Knew Love Like This Before
+9
+Diana Ross
+I'm Coming Out
+10
+Stevie Wonder
+Master Blaster (Jammin')
+11
+Carly Simon
+Jesse
+12
+Air Supply
+All Out Of Love
+13
+Cliff Richard
+Dreaming
+14
+Boz Scaggs
+Look What You've Done To Me
+15
+The Jacksons
+Lovely One
+16
+Kenny Loggins
+I'm Alright
+17
+Supertramp
+Dreamer
+18
+Eddie Rabbitt
+Drivin' My Life Away
+19
+Devo
+Whip It
+20
+Leo Sayer
+More Than I Can Say
+21
+Daryl Hall John Oates
+You've Lost That Lovin' Feeling
+22
+Willie Nelson
+On The Road Again
+23
+Irene Cara
+Out Here On My Own
+24
+Jackson Browne
+That Girl Could Sing
+25
+Pat Benatar
+Hit Me With Your Best Shot
+26
+Stacy Lattisaw
+Let Me Be Your Angel
+27
+Olivia Newton-John And The Electric Light Orchestra
+Xanadu
+28
+The Rolling Stones
+She's So Cold
+29
+Paul Simon
+Late In The Evening
+30
+Roger Daltrey
+Without Your Love
+31
+Christopher Cross
+Never Be The Same
+32
+Neil Diamond
+Love On The Rocks
+33
+Anne Murray
+Could I Have This Dance
+34
+George Benson
+Give Me The Night
+35
+Jimmy Hall
+I'm Happy That Love Has Found You
+36
+AC/DC
+You Shook Me All Night Long
+37
+Al Stewart
+Midnight Rocks
+38
+John Lennon
+(Just Like) Starting Over
+39
+Waylon
+Theme From The Dukes Of Hazzard (Good Ol' Boys)
+40
+Billy Joel
+Sometimes A Fantasy
+41
+Kansas
+Hold On
+42
+Ali Thomson
+Live Every Minute
+43
+John Cougar
+This Time
+44
+Kim Carnes
+Cry Like A Baby
+45
+Nielsen/Pearson
+If You Should Sail
+46
+The Vapors
+Turning Japanese
+47
+Johnny Lee
+Lookin' For Love
+48
+The Korgis
+Everybody's Got To Learn Sometime
+49
+Don Williams
+I Believe In You
+50
+Randy Meisner
+Deep Inside My Heart
+51
+Robbie Dupree
+Hot Rod Hearts
+52
+Donna Summer
+Walk Away
+53
+The Doolittle Band
+Who Were You Thinkin' Of
+54
+The Cars
+Touch And Go
+55
+Earth, Wind & Fire
+Let Me Talk
+56
+Pure Prairie League
+I'm Almost Ready
+57
+Irene Cara
+Fame
+58
+707
+I Could Be Good For You
+59
+Amy Holland
+How Do I Survive
+60
+The Charlie Daniels Band
+The Legend Of Wooley Swamp
+61
+George Benson
+Love X Love
+62
+Larsen-Feiten Band
+Who'll Be The Fool Tonight
+63
+Diana Ross
+It's My Turn
+64
+The Police
+De Do Do Do, De Da Da Da
+65
+Eddie Money (with Valerie Carter)
+Let's Be Lovers Again
+66
+Paul Simon
+One-Trick Pony
+67
+Mac Davis
+Texas In My Rear View Mirror
+68
+Barbra Streisand & Barry Gibb
+Guilty
+69
+Olivia Newton-John & Cliff Richard
+Suddenly
+70
+Harry Chapin
+Sequel
+71
+Air Supply
+Every Woman In The World
+72
+Robert John
+Sherry
+73
+Commodores
+Heroes
+74
+Electric Light Orchestra
+All Over The World
+75
+The B-52s
+Private Idaho
+76
+Dionne Warwick
+No Night So Long
+77
+Kool & The Gang
+Celebration
+78
+Larry Graham
+When We Get Married
+79
+Bob Seger
+You'll Accomp'ny Me
+80
+Dr. Hook
+Girls Can Get It
+81
+Frank Stallone
+Case Of You
+82
+Billy Joel
+Don't Ask Me Why
+83
+Larry Graham
+One In A Million You
+84
+The Rolling Stones
+Emotional Rescue
+85
+Billy Burnette
+Don't Say No
+86
+Zapp
+More Bounce To The Ounce Part I
+87
+The Kings
+Switchin' To Glide/This Beat Goes On
+88
+Robbin Thompson Band
+Brite Eyes
+89
+Natalie Cole
+Someone That I Used To Love
+90
+Jim Hurt
+I Love Women
+91
+Burt Reynolds
+Let's Do Something Cheap And Superficial
+92
+Ambrosia
+You're The Only Woman (You & I)
+93
+Meco
+Love Theme From Shogun (Mariko's Theme)
+94
+Pete Townshend
+A Little Is Enough
+95
+Teddy Pendergrass
+Can't We Try
+96
+Poco
+Midnight Rain
+97
+The Allman Brothers Band
+Angeline
+98
+The O'Jays
+Girl, Don't Let It Get You Down
+99
+Split Enz
+I Got You
+100
+Christopher Cross
+Sailing

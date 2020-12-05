@@ -1,0 +1,300 @@
+1
+The Association
+Windy
+2
+The Music Explosion
+Little Bit O' Soul
+3
+Frankie Valli
+Can't Take My Eyes Off You
+4
+Scott McKenzie
+San Francisco (Be Sure To Wear Flowers In Your Hair)
+5
+Petula Clark
+Don't Sleep In The Subway
+6
+Every Mothers' Son
+Come On Down To My Boat
+7
+The 5th Dimension
+Up -- Up And Away
+8
+The Doors
+Light My Fire
+9
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+C'mon Marianne
+10
+Procol Harum
+A Whiter Shade Of Pale
+11
+Stevie Wonder
+I Was Made To Love Her
+12
+Jefferson Airplane
+White Rabbit
+13
+Johnny Rivers
+The Tracks Of My Tears
+14
+Janis Ian
+Society's Child (Baby I've Been Thinking)
+15
+Ray Charles
+Here We Go Again
+16
+The Grass Roots
+Let's Live For Today
+17
+The Buckinghams
+Mercy, Mercy, Mercy
+18
+Dionne Warwick
+Alfie
+19
+Marvin Gaye & Tammi Terrell
+Ain't No Mountain High Enough
+20
+Sandy Posey
+I Take It Back
+21
+Nancy Sinatra & Lee Hazlewood
+Jackson
+22
+Bar-Kays
+Soul Finger
+23
+Herman's Hermits
+Don't Go Out Into The Rain (You're Going To Melt)
+24
+The American Breed
+Step Out Of Your Mind
+25
+Smokey Robinson & The Miracles
+More Love
+26
+Bettye Swann
+Make Me Yours
+27
+Peaches & Herb
+For Your Love
+28
+The Hollies
+Carrie-Anne
+29
+The Fifth Estate
+Ding Dong! The Witch Is Dead
+30
+Engelbert Humperdinck
+There Goes My Everything
+31
+Arthur Conley
+Shake, Rattle & Roll
+32
+The Tremeloes
+Silence Is Golden
+33
+The Turtles
+She'd Rather Be With Me
+34
+Oscar Toney, Jr.
+For Your Precious Love
+35
+Tommy James And The Shondells
+I Like The Way
+36
+Aretha Franklin
+Respect
+37
+Sammy Davis Jr.
+Don't Blame The Children
+38
+The Young Rascals
+Groovin'
+39
+Al Martino
+Mary In The Morning
+40
+The Everly Brothers
+Bowling Green
+41
+Percy Sledge
+Love Me Tender
+42
+Dean Martin
+In The Chapel In The Moonlight
+43
+The Hollies
+Pay You Back With Interest
+44
+The Dave Clark Five
+You Must Have Been A Beautiful Baby
+45
+Linda Jones
+Hypnotized
+46
+The Royal Guardsmen
+Airplane Song (My Airplane)
+47
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+48
+Lou Rawls
+Show Business
+49
+Marvin Gaye
+Your Unchanging Love
+50
+Solomon Burke
+Take Me (Just As I Am)
+51
+Frankie Laine
+You Wanted Someone To Play With (I Wanted Someone To Love)
+52
+The Happenings
+My Mammy
+53
+Herb Alpert & The Tijuana Brass
+The Happening
+54
+The Spencer Davis Group
+Somebody Help Me
+55
+Nancy Sinatra
+You Only Live Twice
+56
+Sam & Dave
+Soothe Me
+57
+Crispian St. Peters
+You Were On My Mind
+58
+Mitch Ryder
+Joy
+59
+Wilson Pickett
+Soul Dance Number Three
+60
+The Parliaments
+(I Wanna) Testify
+61
+The Young Rascals
+A Girl Like You
+62
+Pieces Of Eight
+Lonely Drifter
+63
+Joe Tex
+Woman Like That, Yeah
+64
+The Forum
+The River Is Wide
+65
+The Who
+Pictures Of Lily
+66
+Lesley Gore
+Summer And Sandy
+67
+Brenda & The Tabulations
+Who's Lovin' You
+68
+Sam The Sham and the Pharaohs
+Black Sheep
+69
+J.J. Barnes
+Baby Please Come Back Home
+70
+The Vanilla Fudge
+You Keep Me Hangin' On
+71
+Sagittarius
+My World Fell Down
+72
+The Critters
+Don't Let The Rain Fall Down On Me
+73
+Jack Jones
+Now I Know
+74
+The Glories
+I Stand Accused (Of Loving You)
+75
+The Love Generation
+Groovy Summertime
+76
+Dusty Springfield
+Give Me Time
+77
+Toussaint McCall
+I'll Do It For You
+78
+Buffalo Springfield
+Bluebird
+79
+Bee Gees
+To Love Somebody
+80
+The Kinks
+Mr. Pleasant
+81
+Tommy Boyce & Bobby Hart
+Out & About
+82
+The Platters
+Washed Ashore (On A Lonely Island In The Sea)
+83
+Four Tops
+I'll Turn To Stone
+84
+Gladys Knight And The Pips
+Everybody Needs Love
+85
+Glen Campbell
+Gentle On My Mind
+86
+Neil Diamond
+Thank The Lord For The Night Time
+87
+James & Bobby Purify
+I Take What I Want
+88
+Moby Grape
+Omaha
+89
+Dyke And The Blazers
+Funky Broadway Part I
+90
+Davie Allan And The Arrows
+Blue's Theme
+91
+Percy Sledge
+What Am I Living For
+92
+James Brown And The Famous Flames
+Cold Sweat - Part 1
+93
+The Magnificent Men
+I Could Be So Happy
+94
+David Houston & Tammy Wynette
+My Elusive Dreams
+95
+Andy Williams
+More And More
+96
+The Blades Of Grass
+Happy
+97
+The Sunshine Company
+Happy
+98
+Jay And The Techniques
+Apples, Peaches, Pumpkin Pie
+99
+Van Morrison
+Brown Eyed Girl
+100
+The Seeds
+A Thousand Shadows

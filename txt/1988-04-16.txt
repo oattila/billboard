@@ -1,0 +1,300 @@
+1
+Billy Ocean
+Get Outta My Dreams, Get Into My Car
+2
+INXS
+Devil Inside
+3
+Whitney Houston
+Where Do Broken Hearts Go
+4
+Michael Jackson
+Man In The Mirror
+5
+Terence Trent D'Arby
+Wishing Well
+6
+Pebbles
+Girlfriend
+7
+The Jets
+Rocket 2 U
+8
+Aerosmith
+Angel
+9
+Tiffany
+I Saw Him Standing There
+10
+Jody Watley
+Some Kind Of Lover
+11
+Debbie Gibson
+Out Of The Blue
+12
+Natalie Cole
+Pink Cadillac
+13
+Taylor Dayne
+Prove Your Love
+14
+John Mellencamp
+Check It Out
+15
+Gloria Estefan & Miami Sound Machine
+Anything For You
+16
+Richard Marx
+Endless Summer Nights
+17
+Bruce Springsteen
+One Step Up
+18
+Keith Sweat
+I Want Her
+19
+Icehouse
+Electric Blue
+20
+Scarlett & Black
+You Don't Know
+21
+Pet Shop Boys
+Always On My Mind
+22
+Michael Bolton
+(Sittin' On) The Dock Of The Bay
+23
+Samantha Fox
+Naughty Girls (Need Love Too)
+24
+Morris Day
+Fishnet
+25
+Rick Astley
+Never Gonna Give You Up
+26
+Johnny Hates Jazz
+Shattered Dreams
+27
+The Deele
+Two Occasions
+28
+Henry Lee Summer
+I Wish I Had A Girl
+29
+White Lion
+Wait
+30
+Foreigner
+I Don't Want To Live Without You
+31
+Toto
+Pamela
+32
+Brenda Russell Featuring Joe Esposito
+Piano In The Dark
+33
+LL Cool J
+Going Back To Cali (From "Less Than Zero")
+34
+George Michael
+Father Figure
+35
+Bryan Ferry
+Kiss And Tell (From "Bright Lights, Big City")
+36
+Orchestral Manoeuvres In The Dark
+Dreaming
+37
+Jermaine Stewart
+Say It Again
+38
+Def Leppard
+Hysteria
+39
+Belinda Carlisle
+I Get Weak
+40
+George Michael
+One More Try
+41
+Patrick Swayze (Featuring Wendy Fraser)
+She's Like The Wind
+42
+Times Two
+Strange But True
+43
+Suave
+My Girl
+44
+Paul Carrack
+One Good Reason
+45
+David Lee Roth
+Just Like Paradise
+46
+Daryl Hall John Oates
+Everything Your Heart Desires
+47
+Rick Springfield
+Rock Of Life
+48
+Merry Clayton
+Yes (From The Motion Picture "Dirty Dancing")
+49
+Dan Reed Network
+Ritual
+50
+Cher
+I Found Someone
+51
+Bananarama
+Love In The First Degree
+52
+Alexander O'Neal Featuring Cherrelle
+Never Knew Love Like This
+53
+So
+Are You Sure
+54
+Pretty Poison
+Nightime
+55
+Eria Fachin
+Savin' Myself
+56
+Brenda K. Starr
+I Still Believe
+57
+The Cover Girls
+Promise Me
+58
+Louis Armstrong
+What A Wonderful World
+59
+Glass Tiger
+I'm Still Searching
+60
+Salt-N-Pepa
+Push It
+61
+Big Pig
+Breakaway
+62
+Rick Astley
+Together Forever
+63
+M/A/R/R/S
+Pump Up The Volume
+64
+Cher
+We All Sleep Alone
+65
+Midnight Oil
+Beds Are Burning
+66
+Lita Ford
+Kiss Me Deadly
+67
+Bardeux
+When We Kiss
+68
+Belinda Carlisle
+Circle In The Sand
+69
+Eric Carmen
+Hungry Eyes (From "Dirty Dancing")
+70
+Gloria Estefan & Miami Sound Machine
+Can't Stay Away From You
+71
+E.U.
+Da'Butt (From The "School Daze" Soundtrack)
+72
+Roxanne
+Play That Funky Music
+73
+Cheap Trick
+The Flame
+74
+Kingdom Come
+Get It On
+75
+Al B. Sure!
+Nite And Day
+76
+Whitesnake
+Give Me All Your Love
+77
+The Alarm
+Presence Of Love
+78
+The Church
+Under The Milky Way
+79
+The Jets
+Make It Real
+80
+Sweet Sensation
+Take It While It's Hot
+81
+The Cure
+Hot Hot Hot!!!
+82
+James Taylor
+Never Die Young
+83
+Donald Fagen
+Century's End (From "Bright Lights, Big City")
+84
+Noel
+Like A Child
+85
+Robert Plant
+Tall Cool One
+86
+Lonzo And World Class Wreckin Kru
+Turn Off The Lights
+87
+Nu Shooz
+Should I Say Yes?
+88
+Underworld
+Underneath The Radar
+89
+Sting
+Englishman In New York
+90
+Breathe
+Hands To Heaven
+91
+Paul Carrack
+Don't Shed A Tear
+92
+Dan Hill
+Never Thought (That I Could Love)
+93
+Fleetwood Mac
+Family Man
+94
+David Lee Roth
+Stand Up
+95
+Steve Winwood
+Talking Back To The Night
+96
+Cellarful Of Noise
+Samantha (What You Gonna Do?)
+97
+Stacey Q
+Don't Make A Fool Of Yourself
+98
+Heart
+I Want You So Bad
+99
+Sting
+Be Still My Beating Heart
+100
+George Harrison
+When We Was Fab

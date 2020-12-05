@@ -1,0 +1,300 @@
+1
+Steve Lawrence
+Go Away Little Girl
+2
+The Tornadoes
+Telstar
+3
+Brook Benton
+Hotel Happiness
+4
+The Exciters
+Tell Him
+5
+Bobby Vee
+The Night Has A Thousand Eyes
+6
+Chubby Checker
+Limbo Rock
+7
+Mary Wells
+Two Lovers
+8
+Paul Petersen
+My Dad
+9
+Lou Monte
+Pepino The Italian Mouse
+10
+Paul and Paula
+Hey Paula
+11
+The Rooftop Singers
+Walk Right In
+12
+Rick Nelson
+It's Up To You
+13
+The Drifters
+Up On The Roof
+14
+Dickey Lee
+I Saw Linda Yesterday
+15
+Bob B. Soxx And The Blue Jeans
+Zip-A-Dee Doo-Dah
+16
+Johnny Thunder
+Loop De Loop
+17
+Gene Pitney
+Half Heaven - Half Heartache
+18
+The 4 Seasons
+Big Girls Don't Cry
+19
+Marcie Blane
+Bobby's Girl
+20
+The Shirelles
+Everybody Loves A Lover
+21
+Elvis Presley With The Jordanaires
+Return To Sender
+22
+Ray Charles
+You Are My Sunshine
+23
+Connie Francis
+I'm Gonna' Be Warm This Winter
+24
+Jerry Wallace
+Shutters And Boards
+25
+The Earls
+Remember Then
+26
+Dionne Warwick
+Don't Make Me Over
+27
+Kitty Kallen
+My Coloring Book
+28
+The Miracles
+You've Really Got A Hold On Me
+29
+Les Cooper and the Soul Rockers
+Wiggle Wobble
+30
+Herb Alpert And Tijuana Brass
+The Lonely Bull (El Solo Torro)
+31
+Esther Phillips "Little Esther"
+Release Me
+32
+Sandy Stewart
+My Coloring Book
+33
+Bobby Vinton
+Trouble Is My Middle Name
+34
+LaVern Baker
+See See Rider
+35
+The Cookies
+Chains
+36
+The Pastel Six
+The Cinnamon Cinder (It's A Very Nice Dance)
+37
+Dion
+Love Came To Me
+38
+Bobby Vinton
+Let's Kiss And Make Up
+39
+Nat King Cole
+Dear Lonely Hearts
+40
+The Crystals
+He's Sure The Boy I Love
+41
+Ned Miller
+From A Jack To A King
+42
+Del Shannon
+Little Town Flirt
+43
+Chris Montez
+Some Kinda Fun
+44
+Timi Yuro
+The Love Of A Boy
+45
+Little Eva
+Keep Your Hands Off My Baby
+46
+Frank Ifield
+Lovesick Blues
+47
+The Orlons
+Don't Hang Up
+48
+The Routers
+Let's Go (pony)
+49
+Joe Harnell And His Orchestra
+Fly Me To The Moon - Bossa Nova
+50
+Marion Worth
+Shake Me I Rattle (Squeeze Me I Cry)
+51
+Johnny Crawford
+Proud
+52
+The Rebels
+Wild Weekend
+53
+Flatt & Scruggs
+The Ballad Of Jed Clampett
+54
+The Contours
+Shake Sherry
+55
+Floyd Cramer
+Java
+56
+The Marvelettes
+Strange I Know
+57
+Marty Robbins
+Ruby Ann
+58
+Duane Eddy and the Rebelettes
+(Dance With The) Guitar Man
+59
+The Beach Boys
+Ten Little Indians
+60
+Vince Guaraldi Trio
+Cast Your Fate To The Wind
+61
+Peggy Lee
+I'm A Woman
+62
+Jan Bradley
+Mama Didn't Lie
+63
+Lonnie Russ
+My Wife Can't Cook
+64
+Gabriel And The Angels
+That's Life (That's Tough)
+65
+The Cascades
+Rhythm Of The Rain
+66
+Paul Anka
+Love (Makes the World Go 'round)
+67
+The Excellents
+Coney Island Baby
+68
+Etta James
+Would It Make Any Difference To You
+69
+Dion
+Ruby Baby
+70
+Bent Fabric and His Piano
+Chicken Feed
+71
+Bobby Goldsboro
+Molly
+72
+Bobby Bland
+Call On Me
+73
+Lou Christie
+The Gypsy Cried
+74
+Steve Alaimo
+Every Day I Have To Cry
+75
+The Alley Cats
+Puddin N' Tain (Ask Me Again, I'll Tell You The Same)
+76
+Jimmy McGriff
+All About My Girl
+77
+Barbara Lynn
+You're Gonna Need Me
+78
+Peter, Paul & Mary
+Settle Down (Goin' Down That Highway)
+79
+Mike Clifford
+What To Do With Laurie
+80
+Jimmy Clanton
+Darkest Street In Town
+81
+Bobby Bland
+That's The Way Love Is
+82
+Eydie Gorme
+Blame It On The Bossa Nova
+83
+Sue Thompson
+Willie Can
+84
+The Toy Dolls
+Little Tin Soldier
+85
+Don Covay
+The Popeye Waddle
+86
+Tony Bennett
+I Wanna Be Around
+87
+Bobby Darin
+You're The Reason I'm Living
+88
+Booker T. & The MG's
+Jellybread
+89
+Baby Jane & The Rockabyes
+How Much Is That Doggie In The Window
+90
+Marvin Gaye
+Hitch Hike
+91
+Dobie Gray
+Look At Me
+92
+Tony Bennett
+I Will Live My Life For You
+93
+The Supremes
+Let Me Go The Right Way
+94
+Connie Francis
+Al Di La
+95
+Roosevelt Fountain And Pens Of Rhythm
+Red Pepper I
+96
+The Matys Bros.
+Who Stole The Keeshka?
+97
+Dean Martin
+From The Bottom Of My Heart (Dammi, Dammi, Dammi)
+98
+The Moments
+Walk Right In
+99
+Danny & The Juniors
+Oo-La-La-Limbo
+100
+Jerry Landis
+The Lone Teen Ranger

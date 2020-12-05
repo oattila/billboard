@@ -1,0 +1,300 @@
+1
+Bee Gees
+Night Fever
+2
+Bee Gees
+Stayin' Alive
+3
+Samantha Sang
+Emotion
+4
+Eric Clapton
+Lay Down Sally
+5
+Barry Manilow
+Can't Smile Without You
+6
+Andy Gibb
+(Love Is) Thicker Than Water
+7
+Paul Davis
+I Go Crazy
+8
+Dan Hill
+Sometimes When We Touch
+9
+Yvonne Elliman
+If I Can't Have You
+10
+Jay Ferguson
+Thunder Island
+11
+Billy Joel
+Just The Way You Are
+12
+Kansas
+Dust In The Wind
+13
+Chic
+Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+14
+LeBlanc & Carr
+Falling
+15
+Raydio
+Jack And Jill
+16
+Natalie Cole
+Our Love
+17
+Art Garfunkel With James Taylor & Paul Simon
+(What A)  Wonderful World
+18
+England Dan & John Ford Coley
+We'll Never Have To Say Goodbye Again
+19
+Bob Welch
+Ebony Eyes
+20
+Jackson Browne
+Running On Empty
+21
+Heatwave
+Always And Forever
+22
+David Gates
+Goodbye Girl
+23
+Stargard
+Theme Song From "Which Way Is Up"
+24
+Parliament
+Flash Light
+25
+Electric Light Orchestra
+Sweet Talkin' Woman
+26
+Gene Cotton
+Before My Heart Finds Out
+27
+Lou Rawls
+Lady Love
+28
+Roberta Flack With Donny Hathaway
+The Closer I Get To You
+29
+Rod Stewart
+Hot Legs
+30
+Andrew Gold
+Thank You For Being A Friend
+31
+ABBA
+The Name Of The Game
+32
+Chuck Mangione
+Feels So Good
+33
+Bee Gees
+How Deep Is Your Love
+34
+Enchantment
+It's You That I Need
+35
+Jefferson Starship
+Count On Me
+36
+Van Halen
+You Really Got Me
+37
+Gordon Lightfoot
+The Circle Is Small (I Can See It In Your Eyes)
+38
+KC And The Sunshine Band
+Boogie Shoes
+39
+The Trammps
+Disco Inferno
+40
+Atlanta Rhythm Section
+Imaginary Lover
+41
+Styx
+Fooling Yourself (The Angry Young Man)
+42
+Waylon & Willie
+Mammas Don't Let Your Babies Grow Up To Be Cowboys
+43
+Lynyrd Skynyrd
+What's Your Name
+44
+Earth, Wind & Fire
+Fantasy
+45
+Chicago
+Little One
+46
+Eddie Money
+Baby Hold On
+47
+Rubicon
+I'm Gonna Take Care Of Everything
+48
+Queen
+We Are The Champions
+49
+Tavares
+More Than A Woman
+50
+Player
+This Time I'm In It For Love
+51
+Sweet
+Love Is Like Oxygen
+52
+Carpenters
+Sweet, Sweet Smile
+53
+KISS
+Rocket Ride
+54
+Dolly Parton
+Two Doors Down
+55
+Donna Summer
+Rumour Has It
+56
+Little River Band
+Happy Anniversary
+57
+Diana Ross
+Your Love Is So Good For Me
+58
+Rita Coolidge
+The Way You Do The Things You Do
+59
+Steely Dan
+Peg
+60
+Bunny Sigler
+Let Me Party With You (Part 1) (Party, Party, Party)
+61
+James Taylor
+Honey Don't Leave L.a.
+62
+Leif Garrett
+Put Your Head On My Shoulder
+63
+George Benson
+On Broadway
+64
+L.T.D.
+Never Get Enough Of Your Love
+65
+Sea Level
+That's Your Secret
+66
+John Denver
+It Amazes Me
+67
+Boz Scaggs
+Hollywood
+68
+Player
+Baby Come Back
+69
+Billy Joel
+Movin' Out (Anthony's Song)
+70
+Wings
+With A Little Luck
+71
+The Michael Zager Band
+Let's All Chant
+72
+Aerosmith
+Kings And Queens
+73
+Crystal Gayle
+Ready For The Times To Get Better
+74
+Shaun Cassidy
+Do You Believe In Magic
+75
+Wild Cherry
+I Love My Music
+76
+Warren Zevon
+Werewolves Of London
+77
+Bob Weir
+Bombs Away
+78
+Bonnie Tyler
+It's A Heartache
+79
+Don Brown
+Sitting In Limbo
+80
+Starz
+(Any Way That You Want It) I'll Be There
+81
+Claudja Barry
+Dancin' Fever
+82
+Bill Brandon
+We Fell In Love While Dancing
+83
+Brooklyn Dreams
+Music, Harmony And Rhythm
+84
+Ashford & Simpson
+Don't Cost You Nothing
+85
+Meat Loaf
+Two Out Of Three Ain't Bad
+86
+Allan Clarke
+(I Will Be Your) Shadow In The Street
+87
+Robert Palmer
+Every Kinda People
+88
+Stargard
+Disco Rufus
+89
+High Inergy
+Love Is All You Need
+90
+Hotel
+You'll Love Again
+91
+Peter Brown With Betty Wright
+Dance With Me
+92
+Barbara Mandrell
+Woman To Woman
+93
+Eruption
+I Can't Stand The Rain
+94
+Belle Epoque
+Miss Broadway
+95
+Ronnie McDowell
+I Love You, I Love You, I Love You
+96
+John Williams
+Theme From "Close Encounters Of The Third Kind"
+97
+Eloise Laws
+Number One
+98
+Linda Ronstadt
+Poor Poor Pitiful Me
+99
+Randy Newman
+Short People
+100
+Rod Stewart
+You're In My Heart (The Final Acclaim)

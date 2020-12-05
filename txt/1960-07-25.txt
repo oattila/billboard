@@ -1,0 +1,300 @@
+1
+Brenda Lee
+I'm Sorry
+2
+Roy Orbison
+Only The Lonely (Know How I Feel)
+3
+Hollywood Argyles
+Alley-Oop
+4
+Connie Francis
+Everybody's Somebody's Fool
+5
+Brian Hyland
+Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+6
+The Fendermen
+Mule Skinner Blues
+7
+Safaris with The Phantom's Band
+Image Of A Girl
+8
+Ray Peterson
+Tell Laura I Love Her
+9
+Hank Locklin
+Please Help Me, I'm Falling
+10
+Brenda Lee
+That's All You Gotta Do
+11
+The Everly Brothers
+When Will I Be Loved
+12
+Duane Eddy And The Rebels
+Because They're Young
+13
+Fats Domino
+Walking To New Orleans
+14
+Elvis Presley With The Jordanaires
+It's Now Or Never
+15
+Dinah Washington & Brook Benton
+A Rockin' Good Way (To Mess Around And Fall In Love)
+16
+Paul Anka
+My Home Town
+17
+Hank Ballard And The Midnighters
+Finger Poppin' Time
+18
+Garry Miles
+Look For A Star
+19
+Bill Black's Combo
+Josephine
+20
+Donnie Brooks
+Mission Bell
+21
+The Crests
+Trouble In Paradise
+22
+Fats Domino
+Don't Come Knockin'
+23
+Lloyd Price and His Orchestra
+Question
+24
+Billy Vaughn And His Orchestra
+Look For A Star
+25
+Johnny Preston
+Feel So Fine
+26
+Garry Mills
+Look For A Star - Part I
+27
+Dinah Washington
+This Bitter Earth
+28
+Dante and the Evergreens
+Alley-Oop
+29
+Deane Hawley
+Look For A Star
+30
+Sam Cooke
+Wonderful World
+31
+The Everly Brothers
+Cathy's Clown
+32
+The Skyliners
+Pennies From Heaven
+33
+Jack Scott
+Burning Bridges
+34
+Tommy Edwards
+I Really Don't Want To Know
+35
+Patti Page
+One Of Us (Will Weep Tonight)
+36
+Connie Francis
+Jealous Of You (Tango Della Gelosia)
+37
+Conway Twitty
+Is A Blue Bird Blue
+38
+Little Willie John
+Heartbreak (It's Hurtin' Me)
+39
+The Ventures
+Walk -- Don't Run
+40
+Bobby Marchan
+There's Something On Your Mind (Part 2)
+41
+Marty Robbins
+Is There Any Chance
+42
+Ron Holden with The Thunderbirds
+Love You So
+43
+Jim Reeves
+I'm Gettin' Better
+44
+Anita Bryant
+Paper Roses
+45
+Frankie Avalon
+Where Are You
+46
+The Fleetwoods
+Runaround
+47
+Paul Evans
+Happy-Go-Lucky-Me
+48
+Bobby Rydell
+Volare
+49
+Jackie Wilson
+(You Were Made For) All My Love
+50
+Anita Bryant
+In My Little Corner Of The World
+51
+The Coasters
+Wake Me, Shake Me
+52
+Etta James
+All I Could Do Was Cry
+53
+Elvis Presley With The Jordanaires
+A Mess Of Blues
+54
+Bobby Darin
+Won't You Come Home Bill Bailey
+55
+Charlie Ryan and the Timberline Riders
+Hot Rod Lincoln
+56
+Dorsey Burnette
+Hey Little One
+57
+The Bobbettes
+I Shot Mr. Lee
+58
+Ray Charles and his Orchestra
+Sticks And Stones
+59
+The Beau-Marks
+Clap Your Hands
+60
+Jon Thomas and Orchestra
+Heartbreak (It's Hurtin' Me)
+61
+Hank Ballard And The Midnighters
+The Twist
+62
+The Kingston Trio
+Bad Man Blunder
+63
+Clyde McPhatter
+Ta Ta
+64
+Red River Dave
+There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)
+65
+The Demensions
+Over The Rainbow
+66
+Rusty Draper
+Please Help Me, I'm Falling
+67
+Ella Fitzgerald
+Mack The Knife
+68
+Paul Anka
+Something Happened
+69
+The Brothers Four
+My Tani
+70
+Andy Williams
+Do You Mind?
+71
+Connie Stevens
+Too Young To Go Steady
+72
+Adam Wade
+I Can't Help It
+73
+Charlie Rich
+Lonely Weekends
+74
+Jimmy Jones
+Good Timin'
+75
+Joanie Sommers
+One Boy
+76
+Bobby Rydell
+Swingin' School
+77
+Johnny Horton
+Johnny Freedom
+78
+Dion & The Belmonts
+In The Still Of The Night
+79
+Johnny Cash
+Second Honeymoon
+80
+Jackie Wilson
+A Woman, A Lover, A Friend
+81
+The Everly Brothers
+Be Bop A-Lula
+82
+Jim Reeves
+I Know One
+83
+Annette With The Afterbeats
+Train Of Love
+84
+Johnny And The Hurricanes
+Down Yonder
+85
+Johnny Cash And The Tennessee Two
+Down The Street To 301
+86
+Johnny Burnette
+Dreamin'
+87
+Jimmy Jones
+That's When I Cried
+88
+Guy Mitchell
+My Shoes Keep Walking Back To You
+89
+Jeanne Black
+Lisa
+90
+Don Costa And His Orchestra And Chorus
+Theme From "The Unforgiven" (The Need For Love)
+91
+Jessie Hill
+Whip It On Me
+92
+Johnny Cash
+Honky-Tonk Girl
+93
+The Olympics
+Big Boy Pete
+94
+The Flamingos
+Mio Amore
+95
+Freddie Cannon
+Happy Shades Of Blue
+96
+Ferrante & Teicher
+Theme From The Apartment
+97
+Shirley and Lee
+I've Been Loved Before
+98
+The Viscounts
+Night Train
+99
+Hank Thompson
+She's Just A Whole Lot Like You
+100
+Jack Scott
+Cool Water

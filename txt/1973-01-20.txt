@@ -1,0 +1,300 @@
+1
+Carly Simon
+You're So Vain
+2
+Stevie Wonder
+Superstition
+3
+Billy Paul
+Me And Mrs. Jones
+4
+Elton John
+Crocodile Rock
+5
+Kenny Loggins & Jim Messina
+Your Mama Don't Dance
+6
+Johnny Rivers
+Rockin' Pneumonia - Boogie Woogie Flu
+7
+Gilbert O'Sullivan
+Clair
+8
+Curtis Mayfield
+Superfly
+9
+Timmy Thomas
+Why Can't We Live Together
+10
+Hurricane Smith
+Oh, Babe, What Would You Say?
+11
+Donna Fargo
+Funny Face
+12
+Wings
+Hi, Hi, Hi
+13
+Marvin Gaye
+Trouble Man
+14
+James Taylor
+Don't Let Me Be Lonely Tonight
+15
+War
+The World Is A Ghetto
+16
+Four Tops
+Keeper Of The Castle
+17
+Raspberries
+I Wanna Be With You
+18
+Steely Dan
+Do It Again
+19
+Brighter Side Of Darkness
+Love Jones
+20
+Jethro Tull
+Living In The Past
+21
+Three Dog Night
+Pieces Of April
+22
+King Harvest
+Dancing In The Moonlight
+23
+Elvis Presley
+Separate Ways
+24
+Albert Hammond
+It Never Rains In Southern California
+25
+John Denver
+Rocky Mountain High
+26
+Lobo
+Don't Expect Me To Be Your Friend
+27
+Blue Haze
+Smoke Gets In Your Eyes
+28
+Jermaine Jackson
+Daddy's Home
+29
+The Blue Ridge Rangers
+Jambalaya (On The Bayou)
+30
+Joni Mitchell
+You Turn Me On, I'm A Radio
+31
+The Spinners
+Could It Be I'm Falling In Love
+32
+Cat Stevens
+Sitting
+33
+Carole King
+Been To Canaan
+34
+Don McLean
+Dreidel
+35
+Chuck Berry
+Reelin' & Rockin'
+36
+Bette Midler
+Do You Want To Dance?
+37
+Bobby Womack & Peace
+Harry Hippie
+38
+Al Green
+You Ought To Be With Me
+39
+The Who
+The Relay
+40
+Luther Ingram
+I'll Be Your Shelter (In Time Of Storm)
+41
+Neil Diamond
+Walk On Water
+42
+The Partridge Family Starring Shirley Jones Featuring David Cassidy
+Looking Through The Eyes Of Love
+43
+Edward Bear
+Last Song
+44
+Cornelius Brothers & Sister Rose
+I'm Never Gonna Be Alone Anymore
+45
+The Temptations
+Papa Was A Rollin' Stone
+46
+Helen Reddy
+I Am Woman
+47
+Austin Roberts
+Something's Wrong With Me
+48
+Smokey Robinson & The Miracles
+I Can't Stand To See You Cry
+49
+Dr. Hook And The Medicine Show
+The Cover Of "Rolling Stone"
+50
+Bread
+Sweet Surrender
+51
+Eagles
+Peaceful Easy Feeling
+52
+Johnny Nash
+I Can See Clearly Now
+53
+Nilsson
+Remember (Christmas)
+54
+The Main Ingredient
+You've Got To Take It (If You Want It)
+55
+Bulldog
+No
+56
+The Doobie Brothers
+Jesus Is Just Alright
+57
+Emerson, Lake & Palmer
+Lucky Man
+58
+The 5th Dimension
+Living Together, Growing Together
+59
+Gallery
+Big City Miss Ruth Ann
+60
+Harold Melvin And The Blue Notes
+If You Don't Know Me By Now
+61
+The O'Jays
+Love Train
+62
+James Brown-Lyn Collins
+What My Baby Needs Now Is A Little More Lovin'
+63
+Clean Living
+In Heaven There Is No Beer
+64
+Deliverance/Eric Weissberg & Steve Mandell
+Dueling Banjos
+65
+Joe Cocker and The Chris Stainton Band
+Woman To Woman
+66
+Keith Hampshire
+Daytime Night-Time
+67
+Holland-Dozier
+Don't Leave Me Starvin' For Your Love (Part 1)
+68
+Anne Murray
+Danny's Song
+69
+Cashman & West
+Songman
+70
+Engelbert Humperdinck
+I Never Said Goodbye
+71
+Diana Ross
+Good Morning Heartache
+72
+Wayne Newton
+Anthem
+73
+Joe Stampley
+Soul Song
+74
+Valerie Simpson
+Silly Wasn't I
+75
+Barbara Mason
+Give Me Your Love
+76
+Seals & Crofts
+Hummingbird
+77
+Merry Clayton
+Oh No, Not My Baby
+78
+Glen Campbell
+One Last Time
+79
+James Brown
+I Got Ants In My Pants (and i want to dance) (Part 1)
+80
+Paul Davis
+Boogie Woogie Man
+81
+Slade
+Mama Weer All Crazee Now
+82
+Barbra Streisand
+Didn't We
+83
+Bobby Darin
+Happy
+84
+Rita Coolidge
+Fever/My Crew
+85
+Cymande
+The Message
+86
+Les Emmerson
+Control Of Me
+87
+Limmie & Family Cookin'
+You Can Do Magic
+88
+Bobby Vinton
+But I Do
+89
+Ten Years After
+Choo Choo Mama
+90
+Johnny Williams
+Slow Motion (Part 1)
+91
+Travis Wammack
+How Can I Tell You
+92
+Shawn Phillips
+We
+93
+Al Green
+Hot Wire
+94
+Joey Heatherton
+I'm Sorry
+95
+Anacostia
+On And Off (Part 1)
+96
+Little Jimmy Osmond
+Tweedlee Dee
+97
+Uriah Heep
+Blind Eye/Sweet Lorraine
+98
+Dottie West
+If It's All Right With You
+99
+The Sweet
+Little Willy
+100
+Millie Jackson
+I Miss You Baby

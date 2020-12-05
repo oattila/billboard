@@ -1,0 +1,300 @@
+1
+Tommy Roe
+Dizzy
+2
+Classics IV Featuring Dennis Yost
+Traces
+3
+The Zombies
+Time Of The Season
+4
+The 5th Dimension
+Aquarius/Let The Sunshine In
+5
+Creedence Clearwater Revival
+Proud Mary
+6
+The Temptations
+Run Away Child, Running Wild
+7
+1910 Fruitgum Co.
+Indian Giver
+8
+Glen Campbell
+Galveston
+9
+David Ruffin
+My Whole World Ended (The Moment You Left Me)
+10
+Jerry Butler
+Only The Strong Survive
+11
+The Foundations
+Build Me Up Buttercup
+12
+Blood, Sweat & Tears
+You've Made Me So Very Happy
+13
+Dionne Warwick
+This Girl's In Love With You
+14
+Sly & The Family Stone
+Everyday People
+15
+Steppenwolf
+Rock Me
+16
+New Colony Six
+Things I'd Like To Say
+17
+Edwin Starr
+Twenty-Five Miles
+18
+Tommy James And The Shondells
+Crimson And Clover
+19
+The Bubble Puppy
+Hot Smoke & Sasafrass
+20
+Aretha Franklin
+The Weight
+21
+Smokey Robinson & The Miracles
+Baby, Baby Don't Cry
+22
+Joe South
+Games People Play
+23
+Paul Revere & The Raiders Featuring Mark Lindsay
+Mr. Sun, Mr. Moon
+24
+Frankie Laine
+You Gave Me A Mountain
+25
+Jay & The Americans
+This Magic Moment
+26
+The Isley Brothers
+It's Your Thing
+27
+Sir Douglas Quintet
+Mendocino
+28
+The Watts 103rd Street Rhythm Band
+Do Your Thing
+29
+Supremes & Temptations
+I'll Try Something New
+30
+Sammy Davis Jr.
+I've Gotta Be Me
+31
+Gary Puckett And The Union Gap
+Don't Give In To Him
+32
+Spirit
+I Got A Line On You
+33
+The Box Tops
+Sweet Cream Ladies, Forward March
+34
+The Vogues
+No, Not Much
+35
+The Cowsills
+Hair
+36
+Neil Diamond
+Brother Love's Travelling Salvation Show
+37
+Three Dog Night
+Try A Little Tenderness
+38
+Clarence Carter
+Snatching It Back
+39
+Joe Simon
+The Chokin' Kind
+40
+The First Edition
+But You Know I Love You
+41
+The Arbors
+The Letter
+42
+Brenda Lee
+Johnny One Time
+43
+The Beach Boys
+I Can Hear Music
+44
+Booker T. & The MG's
+Time Is Tight
+45
+The Meters
+Sophisticated Cissy
+46
+Betty Everett
+There'll Come A Time
+47
+Stevie Wonder
+I Don't Know Why
+48
+Otis Redding
+A Lover's Question
+49
+The Brooklyn Bridge Featuring Johnny Maestro
+Blessed Is The Rain
+50
+Peaches & Herb
+When He Touches Me (Nothing Else Matters)
+51
+Red Skelton
+The Pledge Of Allegiance
+52
+Elvis Presley
+Memories
+53
+Crazy Elephant
+Gimme Gimme Good Lovin'
+54
+Bettye Swann
+Don't Touch Me
+55
+Carla Thomas
+I Like What You're Doing (To Me)
+56
+Rhinoceros
+Apricot Brandy
+57
+Tyrone Davis
+Is It Something You've Got
+58
+The Monkees
+Tear Drop City
+59
+The Grass Roots
+Lovin' Things
+60
+Engelbert Humperdinck
+The Way It Used To Be
+61
+Tommy James And The Shondells
+Sweet Cherry Wine
+62
+Bee Gees
+First Of May
+63
+Thee Prophets
+Playgirl
+64
+Dusty Springfield
+Don't Forget About Me
+65
+Johnny Rivers
+These Are Not My People
+66
+Derek
+Back Door Man
+67
+The Peppermint Rainbow
+Will You Be Staying After Sunday
+68
+Vanilla Fudge
+Shotgun
+69
+Frank Sinatra
+My Way
+70
+The Ventures
+Hawaii Five-O
+71
+B.J. Thomas
+It's Only Love
+72
+Shango
+Day After Day (It's Slippin' Away)
+73
+The Fireballs
+Long Green
+74
+Mama Cass
+Move In A Little Closer, Baby
+75
+Gladys Knight And The Pips
+Didn't You Know (You'd Have To Cry Sometime)
+76
+Wilson Pickett
+Mini-Skirt Minnie
+77
+Ohio Express
+Mercy
+78
+Paul Anka
+In The Still Of The Night
+79
+The Doors
+Wishful Sinful
+80
+Aretha Franklin
+Tracks Of My Tears
+81
+The Dynamics
+Ice Cream Song
+82
+The Association
+Goodbye Columbus
+83
+The Flirtations
+Nothing But A Heartache
+84
+Canned Heat
+Time Was
+85
+MC5
+Kick Out The Jams
+86
+Jeannie C. Riley
+There Never Was A Time
+87
+Nazz
+Hello It's Me
+88
+Dee Dee Warwick
+Foolish Fool
+89
+The Chi-lites
+Give It Away
+90
+Sly & The Family Stone
+Sing A Simple Song
+91
+Connie Francis
+The Wedding Cake
+92
+The Dells
+Hallways Of My Mind
+93
+Sam & Dave
+Born Again
+94
+Led Zeppelin
+Good Times Bad Times
+95
+The Maskman & The Agents
+One Eye Open
+96
+Herb Alpert & The Tijuana Brass
+Zazueira (Za-zoo-wher-a)
+97
+Nancy Sinatra
+God Knows I Love You
+98
+The 4 Seasons
+Something's On Her Mind
+99
+Bobby Hatfield
+Only You (And You Alone)
+100
+Archie Bell & The Drells
+I Love My Baby

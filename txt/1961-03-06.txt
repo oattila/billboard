@@ -1,0 +1,300 @@
+1
+Chubby Checker
+Pony Time
+2
+Elvis Presley With The Jordanaires
+Surrender
+3
+The String-A-Longs
+Wheels
+4
+Marty Robbins
+Don't Worry
+5
+Connie Francis
+Where The Boys Are
+6
+Lawrence Welk And His Orchestra
+Calcutta
+7
+Buzz Clifford
+Baby Sittin' Boogie
+8
+The Shirelles
+Dedicated To The One I Love
+9
+The Capris
+There's A Moon Out Tonight
+10
+The Everly Brothers
+Ebony Eyes
+11
+Bobby Rydell
+Good Time Baby
+12
+Roy Hamilton
+You Can Have Her
+13
+Ben E. King
+Spanish Harlem
+14
+The Miracles (featuring Bill "Smokey" Robinson)
+Shop Around
+15
+Jorgen Ingmann & His Guitar
+Apache
+16
+The Shirelles
+Will You Love Me Tomorrow
+17
+The Everly Brothers
+Walk Right Back
+18
+Ferrante & Teicher
+Exodus
+19
+Neil Sedaka
+Calendar Girl
+20
+Ferlin Husky
+Wings Of A Dove
+21
+Johnny Burnette
+Little Boy Sad
+22
+Carla Thomas
+Gee Whiz (Look At His Eyes)
+23
+Brook Benton
+Think Twice
+24
+Brenda Lee
+Emotions
+25
+Maxine Brown
+All In My Mind
+26
+Bill Black's Combo
+Hearts Of Stone
+27
+Fats Domino
+What A Price
+28
+Shelby Flint
+Angel On My Shoulder
+29
+The Ventures
+Ram-Bunk-Shush
+30
+Frank Gari
+Utopia
+31
+Bobby Darin
+Lazy River
+32
+Kathy Young With The Innocents
+Happy Birthday Blues
+33
+Johnny Tillotson
+Jimmy's Girl
+34
+Bobby Vee
+Stayin' In
+35
+Cathy Jean and The Roommates
+Please Love Me Forever
+36
+Dee Clark
+Your Friends
+37
+Billy Vaughn And His Orchestra
+Wheels
+38
+The Coasters
+Wait A Minute
+39
+Kokomo
+Asia Minor
+40
+Paul Anka
+The Story Of My Love
+41
+Connie Francis
+No One
+42
+Dion
+Havin' Fun
+43
+Fats Domino
+Ain't That Just Like A Woman
+44
+Elvis Presley With The Jordanaires
+Lonely Man
+45
+Bert Kaempfert And His Orchestra
+Wonderland By Night
+46
+Brook Benton
+For My Baby
+47
+Chuck Jackson
+I Don't Want To Cry
+48
+Rochell And The Candles With Johnny Wyatt
+Once Upon A Time
+49
+The Vibrations
+The Watusi
+50
+Duane Eddy His Twangy Guitar And The Rebels
+Pepe
+51
+Floyd Cramer
+On The Rebound
+52
+Gene Pitney
+(I Wanna) Love My Life Away
+53
+Bobby Bland
+I Pity The Fool
+54
+Rosie And The Originals
+Angel Baby
+55
+Johnny Maestro
+Model Girl
+56
+Jackie Wilson
+My Empty Arms
+57
+Jackie Wilson
+The Tear Of The Year
+58
+The Pentagons
+To Be Loved (Forever)
+59
+Bobby Rydell
+Cherié
+60
+The Cambridge Strings And Singers
+Theme from Tunes Of Glory
+61
+Danny & The Juniors
+Pony Express
+62
+Ramrods
+(Ghost) Riders In The Sky
+63
+Etta James
+At Last
+64
+Hank Ballard And The Midnighters
+Let's Go Again (Where We Went Last Night)
+65
+The Echoes
+Baby Blue
+66
+Sam Cooke
+That's It - I Quit - I'm Movin' On
+67
+Clarence Henry
+But I Do
+68
+Dickie Goodman
+The Touchables
+69
+The Goodtimers
+Pony Time
+70
+Ray Charles
+One Mint Julep
+71
+Bill Doggett
+Honky Tonk (Part 2)
+72
+Etta Jones
+When I Fall In Love
+73
+Bert Kaempfert And His Orchestra
+Cerveza
+74
+Jerry Butler
+Find Another Girl
+75
+Frankie Avalon
+All Of Everything
+76
+Steve Lawrence
+Portrait Of My Love
+77
+Del Shannon
+Runaway
+78
+The Larks
+It's Unbelievable
+79
+James Brown And The Famous Flames
+Bewildered
+80
+Conway Twitty
+C'est Si Bon (It's So Good)
+81
+Freddy King
+Hide Away
+82
+Damita Jo
+Keep Your Hands Off Of Him
+83
+Aretha Franklin With The Ray Bryant Combo
+Won't Be Long
+84
+Bobby Vee
+More Than I Can Say
+85
+Billy Vaughn And His Orchestra
+Orange Blossom Special
+86
+Frank Sinatra
+The Second Time Around
+87
+The Marcels
+Blue Moon
+88
+Mitch Miller With Orchestra And Chorus
+Tunes Of Glory
+89
+Herb Lance & The Classics
+Blue Moon
+90
+Mary Wells
+Bye Bye Baby
+91
+Della Reese
+The Most Beautiful Words
+92
+The Playmates
+Little Miss Stuck-Up
+93
+The Tokens
+Tonight I Fell In Love
+94
+Mark Dinning
+Top Forty, News, Weather And Sports
+95
+Edith Piaf
+Milord
+96
+Anita Bryant
+A Texan And A Girl From Mexico
+97
+Buddy Knox
+Ling-Ting-Tong
+98
+Johnny And The Hurricanes
+Ja-Da
+99
+The Enchanters
+I Lied To My Heart
+100
+Sonny James
+Apache

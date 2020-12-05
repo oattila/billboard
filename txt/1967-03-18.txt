@@ -1,0 +1,300 @@
+1
+The Beatles
+Penny Lane
+2
+The Turtles
+Happy Together
+3
+Johnny Rivers
+Baby I Need Your Lovin'
+4
+The Supremes
+Love Is Here And Now You're Gone
+5
+The Rolling Stones
+Ruby Tuesday
+6
+The Mamas & The Papas
+Dedicated To The One I Love
+7
+Mitch Ryder And The Detroit Wheels
+Sock It To Me-Baby!
+8
+Herman's Hermits
+There's A Kind Of Hush
+9
+Ed Ames
+My Cup Runneth Over
+10
+The Casinos
+Then You Can Tell Me Goodbye
+11
+The Beatles
+Strawberry Fields Forever
+12
+Buffalo Springfield
+For What It's Worth (Stop, Hey What's That Sound)
+13
+The Marvelettes
+The Hunter Gets Captured By The Game
+14
+The Buckinghams
+Kind Of A Drag
+15
+The Lovin' Spoonful
+Darling Be Home Soon
+16
+Lesley Gore
+California Nights
+17
+The Young Rascals
+I've Been Lonely Too Long
+18
+Tommy James And The Shondells
+I Think We're Alone Now
+19
+Donovan
+Epistle To Dippy
+20
+The Spencer Davis Group
+Gimme Some Lovin'
+21
+Peaches & Herb
+Let's Fall In Love
+22
+Paul Revere & The Raiders
+Ups And Downs
+23
+Four Tops
+Bernadette
+24
+P.J. Proby
+Niki Hoeky
+25
+Aretha Franklin
+I Never Loved A Man (The Way I Love You)
+26
+Harpers Bizarre
+The 59th Street Bridge Song (Feelin' Groovy)
+27
+The Royal Guardsmen
+The Return Of The Red Baron
+28
+Petula Clark
+This Is My Song
+29
+Martha & The Vandellas
+Jimmy Mack
+30
+Smokey Robinson & The Miracles
+The Love I Saw In You Was Just A Mirage
+31
+Jr. Walker & The All Stars
+Pucker Up Buttercup
+32
+Marvin Gaye & Kim Weston
+It Takes Two
+33
+Cannonball Adderley
+Mercy, Mercy, Mercy
+34
+Sonny & Cher
+The Beat Goes On
+35
+The Five Americans
+Western Union
+36
+The Mojo Men
+Sit Down, I Think I Love You
+37
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Beggin'
+38
+The 5th Dimension
+Go Where You Wanna Go
+39
+The Seekers
+Georgy Girl
+40
+Herman's Hermits
+No Milk Today
+41
+Brenda & The Tabulations
+Dry Your Eyes
+42
+Al Martino
+Daddy's Little Girl
+43
+The Monkees
+I'm A Believer
+44
+Jack Jones
+Lady
+45
+Ronnie Dove
+One More Mountain To Climb
+46
+The Seekers
+Morningtown Ride
+47
+Frankie Laine
+I'll Take Care Of Your Cares
+48
+Neil Diamond
+You Got To Me
+49
+Wilson Pickett
+Everybody Needs Somebody To Love
+50
+Nancy Sinatra & Frank Sinatra
+Somethin' Stupid
+51
+The Platters
+With This Ring
+52
+Sam & Dave
+When Something Is Wrong With My Baby
+53
+Stevie Wonder
+Travlin' Man
+54
+Elvis Presley With The Jordanaires and The Imperials Quartet
+Indescribably Blue
+55
+Arthur Conley
+Sweet Soul Music
+56
+The Brass Ring featuring Phil Bodner
+The Dis-Advantages Of You
+57
+Gary Lewis And The Playboys
+The Loser (With A Broken Heart)
+58
+Brian Hyland
+Hung Up In Your Eyes
+59
+James Brown And The Famous Flames
+Kansas City
+60
+Jerry Butler
+I Dig You Baby
+61
+Herb Alpert & The Tijuana Brass
+Wade In The Water
+62
+The Association
+No Fair At All
+63
+Joe Tex
+Show Me
+64
+Tom Jones
+Detroit City
+65
+Sandy Posey
+What A Woman In Love Won't Do
+66
+Don Ho and the Aliis
+Tiny Bubbles
+67
+Ramsey Lewis
+One, Two, Three
+68
+The Music Machine
+The People In Me
+69
+New Colony Six
+Love You So Much
+70
+Marlena Shaw
+Mercy, Mercy, Mercy
+71
+Nancy Sinatra with Lee Hazlewood
+Summer Wine
+72
+Shirley Ellis
+Soul Time
+73
+Chris Montez
+Because Of You
+74
+Jimmy Ruffin
+Gonna Give Her All The Love I've Got
+75
+The Innocence
+Mairzy Doats
+76
+Gene Chandler
+Girl Don't Care
+77
+Keith
+Tell Me To My Face
+78
+The Rainy Daze
+That Acapulco Gold
+79
+James Carr
+The Dark End Of The Street
+80
+Micky Dolenz
+Don't Do It
+81
+Blues Magoos
+Pipe Dream
+82
+Bobby Vinton
+For He's A Jolly Good Fellow
+83
+The Buckinghams
+Laudy Miss Claudy
+84
+Jackie Wilson
+I Don't Want To Lose You
+85
+The Buckinghams
+Don't You Care
+86
+The Seeds
+Mr. Farmer
+87
+Percy Sledge
+Baby, Help Me
+88
+Eddy Arnold
+Lonely Again
+89
+Simon & Garfunkel
+At The Zoo
+90
+Dusty Springfield
+I'll Try Anything
+91
+Jimmy Hughes
+Why Not Tonight
+92
+The Artistics
+Girl I Need You
+93
+The Peanut Butter Conspiracy
+It's A Happening Thing
+94
+Dionne Warwick
+The Beginning Of Loneliness
+95
+2 Of Clubs
+Walk Tall
+96
+Sam The Sham and the Pharaohs
+Oh That's Good, No That's Bad
+97
+The Woolies
+Who Do You Love
+98
+Ray Charles
+I Want To Talk About You
+99
+The Hollies
+On A Carousel
+100
+The Easybeats
+Friday On My Mind

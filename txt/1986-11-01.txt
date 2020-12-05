@@ -1,0 +1,300 @@
+1
+Cyndi Lauper
+True Colors
+2
+Tina Turner
+Typical Male
+3
+Robert Palmer
+I Didn't Mean To Turn You On
+4
+Boston
+Amanda
+5
+The Human League
+Human
+6
+Madonna
+True Blue
+7
+Janet Jackson
+When I Think Of You
+8
+Anita Baker
+Sweet Love
+9
+Eddie Money
+Take Me Home Tonight
+10
+Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou
+All Cried Out
+11
+Bon Jovi
+You Give Love A Bad Name
+12
+Cameo
+Word Up
+13
+Oran 'Juice' Jones
+The Rain
+14
+Don Johnson
+Heartbeat
+15
+Peter Cetera With Amy Grant
+The Next Time I Fall
+16
+Genesis
+Throwing It All Away
+17
+Journey
+Girl Can't Help It
+18
+Toto
+I'll Be Over You
+19
+Billy Joel
+A Matter Of Trust
+20
+Lionel Richie
+Love Will Conquer All
+21
+Corey Hart
+I Am By Your Side
+22
+Ric Ocasek
+Emotion In Motion
+23
+Stacey Q
+Two Of Hearts
+24
+Aretha Franklin
+Jumpin' Jack Flash
+25
+Huey Lewis & The News
+Hip To Be Square
+26
+Peter Gabriel
+In Your Eyes (Theme From "Say Anything")
+27
+Bruce Hornsby & The Range
+The Way It Is
+28
+Glass Tiger
+Don't Forget Me (When I'm Gone)
+29
+Billy Idol
+To Be A Lover
+30
+Triumph
+Somebody's Out There
+31
+Wang Chung
+Everybody Have Fun Tonight
+32
+Steve Winwood
+Freedom Overspill
+33
+Loverboy
+Heaven In Your Eyes
+34
+Huey Lewis & The News
+Stuck With You
+35
+Carl Anderson & Gloria Loring
+Friends And Lovers
+36
+The Bangles
+Walk Like An Egyptian
+37
+Orchestral Manoeuvres In The Dark
+(Forever) Live And Die
+38
+'Til Tuesday
+What About Love
+39
+Ben E. King
+Stand By Me
+40
+Pretenders
+Don't Get Me Wrong
+41
+Five Star
+Can't Wait Another Minute
+42
+Jermaine Stewart
+Jody
+43
+Talking Heads
+Wild Wild Life
+44
+Howard Jones
+You Know I Love You ... Don't You?
+45
+New Edition
+Earth Angel (From "The Karate Kid Part II")
+46
+Midnight Star
+Midas Touch
+47
+Gregory Abbott
+Shake You Down
+48
+Robbie Nevil
+C'est La Vie
+49
+Nu Shooz
+Point Of No Return
+50
+Wham!
+Where Did Your Heart Go?
+51
+Daryl Hall
+Foolish Pride
+52
+The Temptations
+Lady Soul
+53
+Van Halen
+Love Walks In
+54
+David & David
+Welcome To The Boomtown
+55
+Survivor
+Is This Love
+56
+Duran Duran
+Notorious
+57
+Run-D.M.C.
+Walk This Way
+58
+Miami Sound Machine
+Words Get In The Way
+59
+Elton John
+Heartache All Over The World
+60
+The Beach Boys
+California Dreamin'
+61
+Daryl Hall
+Dreamtime
+62
+Eurythmics
+Missionary Man
+63
+Stacy Lattisaw
+Nail It To The Wall
+64
+Genesis
+Land Of Confusion
+65
+Nancy Martinez
+For Tonight
+66
+The Outfield
+Everytime You Cry
+67
+Billy Ocean
+Love Is Forever
+68
+Berlin
+Take My Breath Away (Love Theme From "Top Gun")
+69
+The Police
+Don't Stand So Close To Me '86
+70
+Lionel Richie
+Dancing On The Ceiling
+71
+The Beatles
+Twist And Shout
+72
+Kool & The Gang
+Victory
+73
+Janet Jackson
+Control
+74
+Timbuk 3
+The Future's So Bright, I Gotta Wear Shades
+75
+Jesse Johnson (Featuring Sly Stone)
+Crazay
+76
+Run-D.M.C.
+You Be Illin'
+77
+Bananarama
+More Than Physical
+78
+Paul Simon
+You Can Call Me Al
+79
+Billy Ocean
+Love Zone
+80
+David Lee Roth
+Goin' Crazy!
+81
+Kansas
+All I Wanted
+82
+Glass Tiger
+Someday
+83
+Joan Jett & the Blackhearts
+Good Music
+84
+The Pointer Sisters
+Goldmine
+85
+Bad Company
+This Love
+86
+Steve Winwood
+Higher Love
+87
+Andy Taylor
+When The Rain Comes Down
+88
+Art Of Noise With Max Headroom
+Paranoimia
+89
+Device
+Who Says
+90
+The Monkees
+Daydream Believer
+91
+Luther Vandross
+Give Me The Reason
+92
+Berlin
+Like Flames
+93
+Samantha Fox
+Touch Me (I Want Your Body)
+94
+Miami Sound Machine
+Falling In Love (Uh-Oh)
+95
+Kenny Loggins
+Playing With The Boys
+96
+Regina
+Baby Love
+97
+Carly Simon
+Coming Around Again
+98
+Commodores
+Goin' To The Bank
+99
+Bananarama
+Venus
+100
+Billy Squier
+Love Is The Hero

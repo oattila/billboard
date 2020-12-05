@@ -1,0 +1,300 @@
+1
+Eagles
+One Of These Nights
+2
+10cc
+I'm Not In Love
+3
+Bee Gees
+Jive Talkin'
+4
+Olivia Newton-John
+Please Mr. Please
+5
+Van McCoy & The Soul City Symphony
+The Hustle
+6
+Elton John
+Someone Saved My Life Tonight
+7
+Melissa Manchester
+Midnight Blue
+8
+Wings
+Listen To What The Man Said
+9
+Gwen McCrae
+Rockin' Chair
+10
+Tony Camillo's Bazuka
+Dynomite-Part I
+11
+Gladys Knight And The Pips
+The Way We Were/try To Remember
+12
+War
+Why Can't We Be Friends?
+13
+Mike Post
+The Rockford Files
+14
+Glen Campbell
+Rhinestone Cowboy
+15
+James Taylor
+How Sweet It Is (To Be Loved By You)
+16
+Dwight Twilley Band
+I'm On Fire
+17
+Captain & Tennille
+Love Will Keep Us Together
+18
+Tony Orlando & Dawn
+Mornin' Beautiful
+19
+Charlie Rich
+Every Time You Touch Me (I Get High)
+20
+Commodores
+Slippery When Wet
+21
+Frankie Valli
+Swearin' To God
+22
+The Isley Brothers
+Fight The Power Part 1
+23
+Janis Ian
+At Seventeen
+24
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+25
+Ambrosia
+Holdin' On To Yesterday
+26
+Michael Jackson
+Just A Little Bit Of You
+27
+Lynyrd Skynyrd
+Saturday Night Special
+28
+Freddy Fender
+Wasted Days And Wasted Nights
+29
+Bad Company
+Feel Like Makin' Love
+30
+Barry Manilow
+Could It Be Magic
+31
+Earth, Wind & Fire
+That's The Way Of The World
+32
+KC And The Sunshine Band
+Get Down Tonight
+33
+Sweet
+Ballroom Blitz
+34
+Amazing Rhythm Aces
+Third Rate Romance
+35
+Helen Reddy
+Bluebird
+36
+Judy Collins
+Send In The Clowns
+37
+Neil Sedaka
+That's When The Music Takes Me
+38
+The Hudson Brothers
+Rendezvous
+39
+David Bowie
+Fame
+40
+Moments
+Look At Me (I'm In Love)
+41
+Travis Wammack
+(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
+42
+Sharon Paige and Harold Melvin And The Blue Notes
+Hope That We Can Be Together Soon
+43
+Hot Chocolate
+Disco Queen
+44
+Johnny Rivers
+Help Me Rhonda
+45
+Three Dog Night
+Til The World Ends
+46
+Pilot
+Magic
+47
+ZZ Top
+Tush
+48
+Al Green
+Oh Me, Oh My (Dreams In My Arms)
+49
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+50
+Ray Stevens
+Misty
+51
+The Temptations
+Glasshouse
+52
+Jud Strunk
+The Biggest Parakeets In Town
+53
+Michael Murphey
+Wildfire
+54
+Cat Stevens
+Two Fine People
+55
+America
+Daisy Jane
+56
+Morris Albert
+Feelings
+57
+Joan Baez
+Blue Sky
+58
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+59
+Eddie Kendricks
+Get The Cream Off The Top
+60
+Jackson 5
+Forever Came Today
+61
+South Shore Commission
+Free Man
+62
+Linda Ronstadt
+It Doesn't Matter Anymore/When Will I Be Loved
+63
+Aerosmith
+Sweet Emotion
+64
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+65
+The Osmonds
+The Proud One
+66
+The Stylistics
+Can't Give You Anything (but My Love)
+67
+New Birth
+Dream Merchant
+68
+Orleans
+Dance With Me
+69
+Chocolate Milk
+Action Speaks Louder Than Words
+70
+Bachman-Turner Overdrive
+Hey You
+71
+MFSB
+Sexy
+72
+Tavares
+It Only Takes A Minute
+73
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+74
+The Impressions
+Sooner Or Later
+75
+The O'Jays
+Let Me Make Love To You
+76
+Carpenters
+Solitaire
+77
+The Doobie Brothers
+Sweet Maxine
+78
+David Geddes
+Run Joey Run
+79
+Austin Roberts
+Rocky
+80
+Carly Simon
+Waterfall
+81
+Frank Sinatra
+I Believe I'm Gonna Love You
+82
+Ace
+Rock & Roll Runaway
+83
+The Brecker Brothers
+Sneakin' Up Behind You
+84
+Debbie Campbell
+Please Tell Him That I Said Hello
+85
+The Blackbyrds
+Flyin' High
+86
+Evie Sands
+I Love Makin' Love To You
+87
+Merry Clayton
+Keep Your Eye On The Sparrow
+88
+The Ritchie Family
+Brazil
+89
+East L.A. Car Pool
+Like They Say In L.A.
+90
+Love Childs Afro Cuban Blues Band
+Life And Death In G&A
+91
+Fantastic Four
+Alvin Stone (The Birth & Death Of A Gangster)
+92
+Reparata
+Shoes
+93
+Elvin Bishop
+Sure Feels Good
+94
+The Reflections
+Three Steps From True Love
+95
+Leon Russell
+Lady Blue
+96
+Smokey
+If You Think You Know How To Love Me
+97
+The Grass Roots
+Mamacita
+98
+Christopher Paul And Shawn
+For Your Love
+99
+Chuck Mangione
+Chase The Clouds Away
+100
+The Mystic Moods
+Honey Trippin'

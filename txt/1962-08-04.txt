@@ -1,0 +1,300 @@
+1
+Bobby Vinton
+Roses Are Red (My Love)
+2
+Neil Sedaka
+Breaking Up Is Hard To Do
+3
+Brian Hyland
+Sealed With A Kiss
+4
+The Orlons
+The Wah Watusi
+5
+Ray Stevens
+Ahab, The Arab
+6
+Pat Boone
+Speedy Gonzales
+7
+Ray Charles
+I Can't Stop Loving You
+8
+Little Eva
+The Loco-Motion
+9
+David Rose and His Orchestra
+The Stripper
+10
+Richard Chamberlain
+Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+11
+Claude King
+Wolverton Mountain
+12
+Chubby Checker
+Dancin' Party
+13
+Barbara Lynn
+You'll Lose A Good Thing
+14
+Joanie Sommers
+Johnny Get Angry
+15
+Dee Dee Sharp
+Gravy (For My Mashed Potatoes)
+16
+Bobby Darin
+Things
+17
+Eddie Hodges
+(Girls, Girls, Girls) Made To Love
+18
+The Isley Brothers
+Twist And Shout
+19
+Dion
+Little Diane
+20
+Don Gardner And Dee Dee Ford
+I Need Your Loving
+21
+Claudine Clark
+Party Lights
+22
+Brenda Lee
+Heart In Hand
+23
+Freddy Cannon
+Palisades Park
+24
+Emilio Pericoli
+Al Di La'
+25
+Joe Dowell
+Little Red Rented Rowboat
+26
+Sam Cooke
+Having A Party
+27
+Ray Charles
+You Don't Know Me
+28
+The Shirelles
+Welcome Home Baby
+29
+Bobby Rydell
+I'll Never Dance Again
+30
+Johnny Tillotson
+It Keeps Right On A-Hurtin'
+31
+Nelson Riddle
+Route 66 Theme
+32
+Sam Cooke
+Bring It On Home To Me
+33
+Brenda Lee
+It Started All Over Again
+34
+Shelley Fabares
+Johnny Loves Me
+35
+Little Joey And The Flips
+Bongo Stomp
+36
+Joe Henderson
+Snap Your Fingers
+37
+Sue Thompson
+Have A Good Time
+38
+The Jamies
+Summertime, Summertime
+39
+James Darren
+Mary's Little Lamb
+40
+The Marvelettes
+Playboy
+41
+Jimmy Dean
+Steel Men
+42
+Burl Ives
+Call Me Mr. In-Between
+43
+Tommy Roe
+Sheila
+44
+Baby Cortez
+Rinky Dink
+45
+Duane Eddy
+The Ballad Of Paladin
+46
+Timi Yuro
+What's A Matter Baby (Is It Hurting You)
+47
+Jimmy Norman
+I Don't Love You No More (I Don't Care About You)
+48
+Billy Vaughn And His Orchestra
+A Swingin' Safari
+49
+Ketty Lester
+But Not For Me
+50
+Lawrence Welk And His Orchestra
+Baby Elephant Walk
+51
+Dickie Goodman
+Ben Crazy
+52
+Jerry Butler
+Make It Easy On Yourself
+53
+Clyde McPhatter
+Little Bitty Pretty One
+54
+Connie Francis
+Vacation
+55
+Jimmy Smith And The Big Band
+Walk On The Wild Side (Part 1)
+56
+Linda Scott
+Never In A Million Years
+57
+Elvis Presley With The Jordanaires
+She's Not You
+58
+Roy Orbison
+The Crowd
+59
+Bobby Bare
+Shame On Me
+60
+The Champs
+Limbo Rock
+61
+Martin Denny and His Orchestra
+A Taste Of Honey
+62
+Bobby Curtola
+Fortuneteller
+63
+Toni Fisher
+West Of The Wall
+64
+Johnny Crawford
+Cindy's Birthday
+65
+Gary U.S. Bonds
+Seven Day Weekend
+66
+Bent Fabric and His Piano
+Alley Cat
+67
+Little Jo Ann
+My Daddy Is President
+68
+Mr. Acker Bilk
+Stranger On The Shore
+69
+Mr. Acker Bilk
+Above The Stars
+70
+Marty Robbins
+Devil Woman
+71
+Bob Braun
+Till Death Do Us Part
+72
+The Highwaymen
+The Bird Man
+73
+Dinah Washington
+Where Are You
+74
+Vince Edwards
+Why Did You Leave Me?
+75
+Ray Charles
+Careless Love
+76
+Ray Anthony
+Worried Mind
+77
+Earl Grant
+Swingin' Gently
+78
+King Curtis And The Noble Knights
+Beach Party
+79
+Connie Stevens
+Mr. Songwriter
+80
+Etta James
+Stop The Wedding
+81
+Frankie Avalon
+A Miracle
+82
+Gene McDaniels
+Point Of No Return
+83
+Chris Montez
+Let's Dance
+84
+Dr. Feelgood And The Interns
+Right String But The Wrong Yo-Yo
+85
+The Tokens
+La Bomba
+86
+The Belmonts
+Come On Little Angel
+87
+The Ventures
+Lolita Ya-Ya
+88
+John D. Loudermilk
+Callin' Doctor Casey
+89
+Patti Page
+The Boys' Night Out
+90
+Dick Roman
+(Theme from) A Summer Place
+91
+Nat King Cole
+Ramblin' Rose
+92
+The Lafayettes
+Life's Too Short
+93
+The Duprees
+You Belong To Me
+94
+The Springfields
+Silver Threads And Golden Needles
+95
+Henry Mancini And His Orchestra
+Theme From "Hatari!"
+96
+Cathy Carroll
+Poor Little Puppet
+97
+Ike Clanton
+Sugar Plum
+98
+Bruce Channel
+Come On Baby
+99
+George Maharis
+Love Me As I Love You
+100
+Walter Brennan
+Houdini

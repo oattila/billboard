@@ -1,0 +1,300 @@
+1
+Bee Gees
+Jive Talkin'
+2
+Eagles
+One Of These Nights
+3
+Olivia Newton-John
+Please Mr. Please
+4
+Elton John
+Someone Saved My Life Tonight
+5
+Hamilton, Joe Frank & Reynolds
+Fallin' In Love
+6
+Glen Campbell
+Rhinestone Cowboy
+7
+War
+Why Can't We Be Friends?
+8
+James Taylor
+How Sweet It Is (To Be Loved By You)
+9
+Melissa Manchester
+Midnight Blue
+10
+Mike Post
+The Rockford Files
+11
+10cc
+I'm Not In Love
+12
+KC And The Sunshine Band
+Get Down Tonight
+13
+Captain & Tennille
+Love Will Keep Us Together
+14
+Tony Orlando & Dawn
+Mornin' Beautiful
+15
+The Isley Brothers
+Fight The Power Part 1
+16
+Janis Ian
+At Seventeen
+17
+Wings
+Listen To What The Man Said
+18
+Ambrosia
+Holdin' On To Yesterday
+19
+Barry Manilow
+Could It Be Magic
+20
+Freddy Fender
+Wasted Days And Wasted Nights
+21
+Bad Company
+Feel Like Makin' Love
+22
+Earth, Wind & Fire
+That's The Way Of The World
+23
+Michael Jackson
+Just A Little Bit Of You
+24
+Sweet
+Ballroom Blitz
+25
+Amazing Rhythm Aces
+Third Rate Romance
+26
+Johnny Rivers
+Help Me Rhonda
+27
+Neil Sedaka
+That's When The Music Takes Me
+28
+The Hudson Brothers
+Rendezvous
+29
+Tony Camillo's Bazuka
+Dynomite-Part I
+30
+David Bowie
+Fame
+31
+ZZ Top
+Tush
+32
+Three Dog Night
+Til The World Ends
+33
+Johnny Wakelin & The Kinshasa Band
+Black Superman - "Muhammad Ali"
+34
+Van McCoy & The Soul City Symphony
+The Hustle
+35
+Paul Anka/Odia Coates
+(I Believe) There's Nothing Stronger Than Our Love
+36
+America
+Daisy Jane
+37
+Cat Stevens
+Two Fine People
+38
+Travis Wammack
+(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
+39
+Moments
+Look At Me (I'm In Love)
+40
+Carpenters
+Solitaire
+41
+The Temptations
+Glasshouse
+42
+The Osmonds
+The Proud One
+43
+The Pointer Sisters
+How Long (Betcha' Got A Chick On The Side)
+44
+New Birth
+Dream Merchant
+45
+Morris Albert
+Feelings
+46
+Sharon Paige and Harold Melvin And The Blue Notes
+Hope That We Can Be Together Soon
+47
+Linda Ronstadt
+It Doesn't Matter Anymore/When Will I Be Loved
+48
+Orleans
+Dance With Me
+49
+Judy Collins
+Send In The Clowns
+50
+Tavares
+It Only Takes A Minute
+51
+The Stylistics
+Can't Give You Anything (but My Love)
+52
+The Doobie Brothers
+Sweet Maxine
+53
+Dwight Twilley Band
+I'm On Fire
+54
+David Geddes
+Run Joey Run
+55
+Eddie Kendricks
+Get The Cream Off The Top
+56
+Commodores
+Slippery When Wet
+57
+Gladys Knight And The Pips
+The Way We Were/try To Remember
+58
+Austin Roberts
+Rocky
+59
+Gwen McCrae
+Rockin' Chair
+60
+Frank Sinatra
+I Believe I'm Gonna Love You
+61
+Frankie Valli
+Swearin' To God
+62
+Helen Reddy
+Ain't No Way To Treat A Lady
+63
+Charlie Rich
+Every Time You Touch Me (I Get High)
+64
+John Denver
+I'm Sorry
+65
+The Ritchie Family
+Brazil
+66
+Merry Clayton
+Keep Your Eye On The Sparrow
+67
+Paul Simon/Phoebe Snow
+Gone At Last
+68
+The Impressions
+Sooner Or Later
+69
+Gary Toms Empire
+7-6-5-4-3-2-1 (Blow Your Whistle)
+70
+The Spinners
+They Just Can't Stop It the (Games People Play)
+71
+Ace
+Rock & Roll Runaway
+72
+B.T. Express
+Give It What You Got/Peace Pipe
+73
+Evie Sands
+I Love Makin' Love To You
+74
+The Blackbyrds
+Flyin' High
+75
+Leon Russell
+Lady Blue
+76
+East L.A. Car Pool
+Like They Say In L.A.
+77
+Graham Central Station
+Your Love
+78
+Jackson 5
+Forever Came Today
+79
+Pilot
+Magic
+80
+Michael Murphey
+Carolina In The Pines
+81
+Fantastic Four
+Alvin Stone (The Birth & Death Of A Gangster)
+82
+Minnie Riperton
+Inside My Love
+83
+Esther Phillips
+What A Diff'rence A Day Makes
+84
+ABBA
+S.O.S.
+85
+John Williams/"Jaws" Soundtrack
+Main Title (Theme From "Jaws")
+86
+Captain & Tennille
+Por Amor Viviremos
+87
+Crown Heights Affair
+Dreaming A Dream
+88
+Stephen Stills
+Turn Back The Pages
+89
+Jim Stafford
+I Got Stoned And I Missed It
+90
+Alice Cooper
+Department Of Youth
+91
+The Grass Roots
+Mamacita
+92
+Batdorf & Rodney
+You Are A Song
+93
+Christopher Paul And Shawn
+For Your Love
+94
+Bob Seger
+Katmandu
+95
+Faith, Hope And Charity
+To Each His Own
+96
+Baron Stewart
+We Been Singin' Songs
+97
+Jim Gilstrap
+House Of Strangers
+98
+The Mystic Moods
+Honey Trippin'
+99
+Bobby Moore
+(Call Me Your) Anything Man
+100
+Duke & The Drivers
+What You Got

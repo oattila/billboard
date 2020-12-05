@@ -1,0 +1,300 @@
+1
+Meghan Trainor
+All About That Bass
+2
+Taylor Swift
+Shake It Off
+3
+Nicki Minaj
+Anaconda
+4
+Jessie J, Ariana Grande & Nicki Minaj
+Bang Bang
+5
+Iggy Azalea Featuring Rita Ora
+Black Widow
+6
+Sam Smith
+Stay With Me
+7
+MAGIC!
+Rude
+8
+Ariana Grande Featuring Zedd
+Break Free
+9
+Maroon 5
+Maps
+10
+Sia
+Chandelier
+11
+Charli XCX
+Boom Clap
+12
+Clean Bandit Featuring Jess Glynne
+Rather Be
+13
+Jeremih Featuring YG
+Don't Tell 'Em
+14
+Nico & Vinz
+Am I Wrong
+15
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona
+Bailando
+16
+Iggy Azalea Featuring Charli XCX
+Fancy
+17
+Ariana Grande Featuring Iggy Azalea
+Problem
+18
+Tove Lo
+Habits (Stay High)
+19
+Bobby Shmurda
+Hot Boy
+20
+Jason Aldean
+Burnin' It Down
+21
+Disclosure Featuring Sam Smith
+Latch
+22
+John Legend
+All Of Me
+23
+Echosmith
+Cool Kids
+24
+Katy Perry
+This Is How We Do
+25
+Coldplay
+A Sky Full Of Stars
+26
+Pharrell Williams
+Happy
+27
+Florida Georgia Line
+Dirt
+28
+Becky G
+Shower
+29
+Kenny Chesney
+American Kids
+30
+Ed Sheeran
+Don't
+31
+Rich Gang Featuring Young Thug & Rich Homie Quan
+Lifestyle
+32
+Katy Perry Featuring Juicy J
+Dark Horse
+33
+T.I. Featuring Iggy Azalea
+No Mediocre
+34
+Tinashe Featuring ScHoolboy Q
+2 On
+35
+Drake
+0 To 100 / The Catch Up
+36
+Rae Sremmurd
+No Flex Zone
+37
+5 Seconds Of Summer
+Amnesia
+38
+Demi Lovato Featuring Cher Lloyd
+Really Don't Care
+39
+Chris Brown Featuring Usher & Rick Ross
+New Flame
+40
+Lady Antebellum
+Bartender
+41
+OneRepublic
+Counting Stars
+42
+ScHoolboy Q Featuring BJ The Chicago Kid
+Studio
+43
+Calvin Harris
+Summer
+44
+Jason Derulo Featuring Snoop Dogg
+Wiggle
+45
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga
+Loyal
+46
+DJ Snake & Lil Jon
+Turn Down For What
+47
+Luke Bryan
+Roller Coaster
+48
+Dustin Lynch
+Where It's At (Yep, Yep)
+49
+OneRepublic
+Love Runs Out
+50
+Sam Hunt
+Leave The Night On
+51
+Kiesza
+Hideaway
+52
+Cole Swindell
+Hope You Get Lonely Tonight
+53
+Dierks Bentley
+Drunk On A Plane
+54
+Pitbull Featuring John Ryan
+Fireball
+55
+Maroon 5
+Animals
+56
+Miranda Lambert Duet With Carrie Underwood
+Somethin' Bad
+57
+Lil Wayne Featuring Drake
+Believe Me
+58
+Jason Derulo
+Trumpets
+59
+Vance Joy
+Riptide
+60
+Tim McGraw Featuring Faith Hill
+Meanwhile Back At Mama's
+61
+Chase Rice
+Ready Set Roll
+62
+Blake Shelton
+Neon Light
+63
+T.I. Featuring Young Thug
+About The Money
+64
+Nicki Minaj
+Pills N Potions
+65
+Frankie Ballard
+Sunshine & Whiskey
+66
+Mr. Probz
+Waves
+67
+Brantley Gilbert Featuring Justin Moore & Thomas Rhett
+Small Town Throwdown
+68
+Milky Chance
+Stolen Dance
+69
+Childish Gambino
+V. 3005
+70
+Maddie & Tae
+Girl In A Country Song
+71
+Jason Aldean
+Sweet Little Somethin'
+72
+Migos
+Fight Night
+73
+Fifth Harmony
+Bo$$
+74
+Rich Homie Quan Featuring Problem
+Walk Thru
+75
+Hozier
+Take Me To Church
+76
+Little Big Town
+Day Drinking
+77
+Eminem Featuring Sia
+Guts Over Fear
+78
+Iggy Azalea
+Work
+79
+Eli Young Band
+Dust
+80
+Kid Ink Featuring Chris Brown
+Main Chick
+81
+Michael Jackson & Justin Timberlake
+Love Never Felt So Good
+82
+Joe Nichols
+Yeah
+83
+Maroon 5
+It Was Always You
+84
+Keith Urban
+Somewhere In My Car
+85
+Jeezy Featuring Jay Z
+Seen It All
+86
+Tyga Featuring Young Thug
+Hookah
+87
+Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie
+***Flawless
+88
+The Swon Brothers
+Later On
+89
+Eric Church
+Cold One
+90
+Steve Aoki, Chris Lake & Tujamo Featuring Kid Ink
+Delirious (Boneless)
+91
+TeeFLii Featuring 2 Chainz
+24 Hours
+92
+Mary Lambert
+Secrets
+93
+Usher
+Good Kisser
+94
+Colbie Caillat
+Try
+95
+Trey Songz Featuring Nicki Minaj
+Touchin, Lovin
+96
+Rita Ora
+I Will Never Let You Down
+97
+Brad Paisley
+River Bank
+98
+DJ Khaled Featuring Chris Brown, August Alsina, Future & Jeremih
+Hold You Down
+99
+Usher Featuring Nicki Minaj
+She Came To Give It To You
+100
+Big & Rich
+Look At You

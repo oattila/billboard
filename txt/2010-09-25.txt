@@ -1,0 +1,300 @@
+1
+Katy Perry
+Teenage Dream
+2
+Eminem Featuring Rihanna
+Love The Way You Lie
+3
+Bruno Mars
+Just The Way You Are
+4
+Taio Cruz
+Dynamite
+5
+Enrique Iglesias Featuring Pitbull
+I Like It
+6
+Usher Featuring Pitbull
+DJ Got Us Fallin' In Love
+7
+Nelly
+Just A Dream
+8
+Ke$ha
+Take It Off
+9
+Flo Rida Featuring David Guetta
+Club Can't Handle Me
+10
+Taylor Swift
+Mine
+11
+B.o.B Featuring Rivers Cuomo
+Magic
+12
+Katy Perry Featuring Snoop Dogg
+California Gurls
+13
+Mike Posner
+Cooler Than Me
+14
+B.o.B Featuring Hayley Williams
+Airplanes
+15
+Eminem
+Not Afraid
+16
+Far*East Movement Featuring Cataracs & Dev
+Like A G6
+17
+Trey Songz Featuring Nicki Minaj
+Bottoms Up
+18
+Jason Derulo
+Ridin' Solo
+19
+Maroon 5
+Misery
+20
+Chris Brown Featuring Tyga & Kevin McCall
+Deuces
+21
+Usher Featuring will.i.am
+OMG
+22
+Sugarland
+Stuck Like Glue
+23
+Travie McCoy Featuring Bruno Mars
+Billionaire
+24
+Neon Trees
+Animal
+25
+Drake
+Find Your Love
+26
+OneRepublic
+Secrets
+27
+Nicki Minaj
+Your Love
+28
+Lil Wayne Featuring Drake
+Right Above It
+29
+Kenny Chesney
+The Boys of Fall
+30
+Usher Featuring Jay-Z
+Hot Tottie
+31
+Adam Lambert
+If I Had You
+32
+Sara Bareilles
+King Of Anything
+33
+Train
+Hey, Soul Sister
+34
+Train
+If It's Love
+35
+Selena Gomez & The Scene
+A Year Without Rain
+36
+CeeLo Green
+F**k You! (Forget You)
+37
+Sean Kingston Featuring Nicki Minaj
+Letting Go (Dutty Love)
+38
+Cali Swag District
+Teach Me How To Dougie
+39
+The Band Perry
+If I Die Young
+40
+John Mayer
+Half Of My Heart
+41
+Jay Sean Featuring Nicki Minaj
+2012 (It Ain't The End)
+42
+Drake Featuring Lil Wayne
+Miss Me
+43
+Paramore
+The Only Exception
+44
+Uncle Kracker
+Smile
+45
+Waka Flocka Flame Featuring Roscoe Dash & Wale
+No Hands
+46
+Lady Antebellum
+Need You Now
+47
+Billy Currington
+Pretty Good At Drinkin' Beer
+48
+Taio Cruz Featuring Ludacris
+Break Your Heart
+49
+Drake Featuring T.I. & Swizz Beatz
+Fancy
+50
+The Script
+Breakeven
+51
+Lady Antebellum
+Our Kind Of Love
+52
+T.I. Featuring Keri Hilson
+Got Your Back
+53
+Darius Rucker
+Come Back Song
+54
+Lee Brice
+Love Like Crazy
+55
+Michael Buble
+Hollywood
+56
+Soulja Boy Tell'em
+Pretty Boy Swag
+57
+Daughtry
+September
+58
+Monica
+Love All Over Me
+59
+Auburn Featuring Iyaz
+La La La
+60
+Little Big Town
+Little White Church
+61
+Blake Shelton
+All About Tonight
+62
+Rick Ross Featuring Styles P
+B.M.F. (Blowin' Money Fast)
+63
+Rodney Atkins
+Farmer's Daughter
+64
+Jason Aldean
+My Kinda Party
+65
+Easton Corbin
+Roll With It
+66
+Josh Turner
+All Over Me
+67
+Carrie Underwood
+Undo It
+68
+Zac Brown Band
+Free
+69
+Kid Cudi Featuring Kanye West
+Erase Me
+70
+Kanye West
+POWER
+71
+The Ready Set
+Love Like Woe
+72
+Zac Brown Band Featuring Alan Jackson
+As She's Walking Away
+73
+Linkin Park
+The Catalyst
+74
+New Boyz Featuring Iyaz
+Break My Bank
+75
+Rihanna
+Only Girl (In The World)
+76
+Jazmine Sullivan
+Holding You Down (Goin In Circles)
+77
+Selena Gomez & The Scene
+Round & Round
+78
+will.i.am & Nicki Minaj
+Check It Out
+79
+Mumford & Sons
+Little Lion Man
+80
+Rascal Flatts
+Why Wait
+81
+Jerrod Niemann
+Lover, Lover
+82
+Shakira Featuring Freshlyground
+Waka Waka (This Time For Africa)
+83
+YG
+Toot It And Boot It
+84
+Sean Kingston
+Dumb Love
+85
+Fantasia
+Bittersweet
+86
+P!nk
+Glitter In The Air
+87
+Keith Urban
+I'm In
+88
+David Guetta & Chris Willis Featuring Fergie & LMFAO
+Gettin' Over You
+89
+Rihanna Featuring Slash
+Rockstar 101
+90
+Craig Morgan
+This Ain't Nothin'
+91
+George Strait
+The Breath You Take
+92
+Nick Jonas
+Introducing Me
+93
+Florence + The Machine
+Dog Days Are Over
+94
+Brad Paisley
+Anything Like Me
+95
+The Script
+The Man Who Can't Be Moved
+96
+Miranda Lambert
+Only Prettier
+97
+Josh Thompson
+Way Out Here
+98
+Toby Keith
+Trailerhood
+99
+Plain White T's
+Rhythm of Love
+100
+Ne-Yo
+Champagne Life

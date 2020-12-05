@@ -1,0 +1,300 @@
+1
+Janet Jackson
+Again
+2
+Meat Loaf
+I'd Do Anything For Love (But I Won't Do That)
+3
+Ace Of Base
+All That She Wants
+4
+Mariah Carey
+Hero
+5
+Salt-N-Pepa
+Shoop
+6
+DRS
+Gangsta Lean
+7
+Xscape
+Just Kickin' It
+8
+Toni Braxton
+Breathe Again
+9
+Bryan Adams
+Please Forgive Me
+10
+Bryan Adams/Rod Stewart/Sting
+All For Love
+11
+Tevin Campbell
+Can We Talk
+12
+Michael Bolton
+Said I Loved You...But I Lied
+13
+2Pac
+Keep Ya Head Up
+14
+Tag Team
+Whoomp! (There It Is)
+15
+Zhane
+Hey Mr. D.J.
+16
+Haddaway
+What Is Love
+17
+Mariah Carey
+Dreamlover
+18
+K7
+Come Baby Come
+19
+The Cranberries
+Linger
+20
+Tony Toni Tone
+Anniversary
+21
+Babyface
+Never Keeping Secrets
+22
+R. Kelly
+Sex Me (Parts I & II)
+23
+Color Me Badd
+Time And Chance
+24
+Culture Beat
+Mr. Vain
+25
+Phil Collins
+Both Sides Of The Story
+26
+10,000 Maniacs
+Because The Night
+27
+Billy Joel
+The River Of Dreams
+28
+Jimmy Cliff
+I Can See Clearly Now (From "Cool Runnings")
+29
+Jodeci
+Cry For You
+30
+Mr. Big
+Wild World
+31
+Inner Circle
+Sweat (A La La La La Long)
+32
+Toni Braxton
+Another Sad Love Song
+33
+Hi-Five
+Never Should've Let You Go (From "Sister Act 2")
+34
+Billy Joel
+All About Soul
+35
+Shaquille O'Neal
+(I Know I Got) Skillz
+36
+Blind Melon
+No Rain
+37
+Snoop Dogg
+What's My Name?
+38
+Aerosmith
+Cryin'
+39
+Janet Jackson
+If
+40
+Def Leppard
+Two Steps Behind (From "Last Action Hero")
+41
+Queen Latifah
+U.N.I.T.Y.
+42
+Gabrielle
+Dreams
+43
+Domino
+Getto Jam
+44
+Joshua Kadison
+Jessie
+45
+Zapp & Roger
+Slow And Easy
+46
+2Pac
+I Get Around
+47
+Eazy-E
+Real Muthaphuckkin G's
+48
+Rod Stewart
+Reason To Believe
+49
+Gin Blossoms
+Hey Jealousy
+50
+SWV
+Right Here (Human Nature)/Downtown
+51
+UB40
+Higher Ground
+52
+R.E.M.
+Everybody Hurts
+53
+Intro
+Come Inside
+54
+Ice Cube
+Really Doe
+55
+Expose
+As Long As I Can Dream
+56
+Red Hot Chili Peppers
+Soul To Squeeze (From "Coneheads")
+57
+A Tribe Called Quest
+Award Tour
+58
+Rick Astley
+Hopelessly
+59
+Das EFX
+Freakit
+60
+Gin Blossoms
+Found Out About You
+61
+Celine Dion
+The Power Of Love
+62
+Elton John & Kiki Dee
+True Love
+63
+Mista Grimm
+Indo Smoke (From "Poetic Justice")
+64
+Collage
+I'll Be Loving You
+65
+Lisa Keith
+Better Than You
+66
+Boyz II Men
+Let It Snow
+67
+Aerosmith
+Amazing
+68
+Taylor Dayne
+Send Me A Lover
+69
+US3
+Cantaloop (Flip Fantasia)
+70
+Jade
+Looking For Mr. Do Right
+71
+The Lemonheads
+Into Your Arms
+72
+Wu-Tang Clan
+Method Man
+73
+Dr. Dre
+Let Me Ride
+74
+John Mellencamp
+Human Wheels
+75
+Bell Biv DeVoe
+Something In Your Eyes
+76
+Souls Of Mischief
+93 'til Infinity
+77
+The Goodmen
+Give It Up
+78
+RAab
+Foreplay
+79
+Bruce Hornsby
+Fields Of Gray
+80
+Little Texas
+God Blessed Texas
+81
+Lisette Melendez
+Goody Goody
+82
+Robin S.
+Love For Love
+83
+En Vogue Featuring FMOB
+Runaway Love
+84
+Bee Gees
+Paying The Price Of Love
+85
+Kenny G
+Sentimental
+86
+Kris Kross
+I'm Real
+87
+Ice Cube Featuring Das EFX
+Check Yo Self
+88
+Reality
+Yolanda
+89
+Jazzy Jeff & The Fresh Prince
+Boom! Shake The Room
+90
+Clay Walker
+What's It To You
+91
+Trisha Yearwood
+The Song Remembers When
+92
+Jazzy Jeff & The Fresh Prince
+I'm Looking For The One (To Be With Me)
+93
+Sting
+Nothing 'Bout Me
+94
+Def Leppard
+Miss You In A Heartbeat
+95
+Nightcrawlers
+Push The Feeling On
+96
+Dwight Yoakam
+Fast As You
+97
+The Breeders
+Cannonball
+98
+Shai
+Yours
+99
+George Strait
+Easy Come, Easy Go
+100
+MC Ren
+Same Ol' Shit

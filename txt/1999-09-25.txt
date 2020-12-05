@@ -1,0 +1,300 @@
+1
+TLC
+Unpretty
+2
+Ricky Martin
+She's All I Ever Had
+3
+Enrique Iglesias
+Bailamos
+4
+Christina Aguilera
+Genie In A Bottle
+5
+LFO
+Summer Girls
+6
+Lou Bega
+Mambo No. 5 (A Little Bit Of...)
+7
+Santana Featuring Rob Thomas
+Smooth
+8
+Smash Mouth
+All Star
+9
+Sugar Ray
+Someday
+10
+702
+Where My Girls At?
+11
+Garth Brooks as Chris Gaines
+Lost In You
+12
+Red Hot Chili Peppers
+Scar Tissue
+13
+98 Degrees
+I Do (Cherish You)
+14
+Backstreet Boys
+I Want It That Way
+15
+Tal Bachman
+She's So High
+16
+Whitney Houston
+My Love Is Your Love
+17
+Destiny's Child
+Bills, Bills, Bills
+18
+Goo Goo Dolls
+Black Balloon
+19
+Pearl Jam
+Last Kiss
+20
+Ginuwine
+So Anxious
+21
+Len
+Steal My Sunshine
+22
+Eric Benet Featuring Tamia
+Spend My Life With You
+23
+Mariah Carey Featuring Jay-Z
+Heartbreaker
+24
+Jennifer Lopez
+If You Had My Love
+25
+Juvenile Featuring Mannie Fresh & Lil' Wayne
+Back That Thang Up
+26
+Faith Evans
+Never Gonna Let You Go
+27
+Fastball
+Out Of My Head
+28
+Tim McGraw
+Something Like That
+29
+Brian McKnight
+Back At One
+30
+K-Ci & JoJo
+Tell Me It's Real
+31
+EVE & Nokio
+What Ya Want
+32
+Q-Tip
+Vivrant Thing
+33
+Tracie Spencer
+It's All About You (Not About Me)
+34
+Kenny Chesney
+You Had Me From Hello
+35
+Lonestar
+Amazed
+36
+Sarah McLachlan
+I Will Remember You (Live)
+37
+Maxwell
+Fortunate
+38
+JAY-Z
+Jigga My N****
+39
+Alan Jackson
+Little Man
+40
+Ideal
+Get Gone
+41
+Martina McBride
+I Love You
+42
+Blessid Union Of Souls
+Hey Leonardo (She Likes Me For Me)
+43
+Citizen King
+Better Days (And The Bottom Drops Out)
+44
+Dixie Chicks
+Ready To Run
+45
+Sixpence None The Richer
+There She Goes
+46
+Naughty By Nature Featuring Zhane
+Jamboree
+47
+Faith Hill
+The Secret Of Life
+48
+Britney Spears
+(You Drive Me) Crazy
+49
+Jo Dee Messina
+Lesson In Leavin'
+50
+Warren G Featuring Mack 10
+I Want It All
+51
+Mary J. Blige
+All That I Can Say
+52
+'N Sync & Gloria Estefan
+Music Of My Heart
+53
+Shania Twain
+Man! I Feel Like A Woman!
+54
+Chely Wright
+Single White Female
+55
+R. Kelly
+If I Could Turn Back The Hands Of Time
+56
+Marc Anthony
+I Need To Know
+57
+Phil Collins
+You'll Be In My Heart
+58
+Edwin McCain
+I Could Not Ask For More
+59
+Vitamin C Featuring Lady Saw
+Smile
+60
+Backstreet Boys
+Larger Than Life
+61
+Case
+Happily Ever After
+62
+Deborah Cox With R.L.
+We Can't Be Friends
+63
+JAY-Z
+Girls' Best Friend
+64
+George Strait
+What Do You Say To That
+65
+Trisha Yearwood
+I'll Still Love You More
+66
+B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne
+Bling Bling
+67
+Blink-182
+What's My Age Again?
+68
+Silk
+Meeting In My Bedroom
+69
+Melissa Etheridge
+Angels Would Fall
+70
+Lil' Troy Featuring Yungsta, Fat Pat, Lil' Will, Hawk, Big T
+Wanna Be A Baller
+71
+Mandy Moore
+Candy
+72
+Lee Ann Womack
+(Now You See Me) Now You Don't
+73
+Creed
+Higher
+74
+Puff Daddy Featuring R. Kelly
+Satisfy You
+75
+Steve Wariner
+I'm Already Taken
+76
+Eve
+Gotta Man
+77
+Mark Wills
+She's In Love
+78
+Alabama Featuring 'N Sync
+God Must Have Spent A Little More Time On You
+79
+Dru Hill
+Beauty
+80
+Montgomery Gentry
+Lonely And Gone
+81
+Britney Spears
+Sometimes
+82
+Joey McIntyre
+I Love You Came Too Late
+83
+Lenny Kravitz
+American Woman
+84
+Madonna
+Beautiful Stranger
+85
+Coko
+Sunshine
+86
+Missy "Misdemeanor" Elliott Featuring Big Boi & Nicole
+All N My Grill
+87
+Destiny's Child
+Bug A Boo
+88
+Donell Jones
+U Know What's Up
+89
+Joe Diffie
+A Night To Remember
+90
+Lauryn Hill
+Everything Is Everything
+91
+Shania Twain
+You've Got A Way
+92
+Youngstown
+I'll Be Your Everything
+93
+Chad Brock
+Lightning Does The Work
+94
+Ricky Martin
+The Cup Of Life (The Official Song Of The World Cup, France '98)
+95
+Limp Bizkit
+Nookie
+96
+Tanto Metro & Devonte
+Everyone Falls In Love
+97
+Yankee Grey
+All Things Considered
+98
+Erykah Badu Featuring Rahzel
+Southern Gul
+99
+Amber
+Sexual (Li Da Di)
+100
+Sherrie Austin
+Never Been Kissed

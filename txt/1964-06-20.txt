@@ -1,0 +1,300 @@
+1
+The Dixie Cups
+Chapel Of Love
+2
+Peter And Gordon
+A World Without Love
+3
+The Beach Boys
+I Get Around
+4
+The Ray Charles Singers
+Love Me With All Your Heart (Cuando Calienta El Sol)
+5
+Millie Small
+My Boy Lollipop
+6
+Dionne Warwick
+Walk On By
+7
+The Beatles
+Love Me Do
+8
+Barbra Streisand
+People
+9
+Gerry And The Pacemakers
+Don't Let The Sun Catch You Crying
+10
+The Bachelors
+Diane
+11
+Billy J. Kramer With The Dakotas
+Little Children
+12
+Mary Wells
+My Guy
+13
+Bobby Vinton
+Tell Me Why
+14
+Louis Armstrong And The All Stars
+Hello, Dolly!
+15
+Johnny Rivers
+Memphis
+16
+Billy J. Kramer With The Dakotas
+Bad To Me
+17
+The New Christy Minstrels
+Today
+18
+Brenda Holloway
+Every Little Bit Hurts
+19
+Marvin Gaye & Mary Wells
+Once Upon A Time
+20
+Al Martino
+Tears And Roses
+21
+Elvis Presley With The Jubilee Four And Carole Lombard Quartet
+What'd I Say
+22
+The Beatles
+P.S. I Love You
+23
+The Reflections
+(Just Like) Romeo & Juliet
+24
+The Dave Clark Five
+Do You Love Me
+25
+Chuck Berry
+No Particular Place To Go
+26
+Terry Stafford
+I'll Touch A Star
+27
+Chad & Jeremy
+Yesterday's Gone
+28
+The Searchers
+Don't Throw Your Love Away
+29
+Connie Francis
+Be Anything (But Be Mine)
+30
+The Serendipity Singers
+Beans In My Ears
+31
+The Dave Clark Five
+Can't You See That She's Mine
+32
+Marvin Gaye & Mary Wells
+What's The Matter With You Baby
+33
+The Rip Chords
+Three Window Coupe
+34
+B.B. King
+Rock Me Baby
+35
+Stan Getz/Astrud Gilberto
+The Girl From Ipanema
+36
+Nat King Cole
+I Don't Want To Be Hurt Anymore
+37
+Lesley Gore
+I Don't Wanna Be A Loser
+38
+Al Hirt
+Cotton Candy
+39
+Roy Orbison
+It's Over
+40
+Elvis Presley With The Jordanaires
+Viva Las Vegas
+41
+The Beach Boys
+Don't Worry Baby
+42
+Johnny Tillotson
+I Rise, I Fall
+43
+Brook Benton
+Too Late To Turn Back Now
+44
+Sam Cooke
+Good Times
+45
+The Swinging Blue Jeans
+Good Golly Miss Molly
+46
+Marvin Gaye
+Try It Baby
+47
+Brook Benton
+Another Cup Of Coffee
+48
+The Temptations
+I'll Be In Trouble
+49
+Gladys Knight And The Pips
+Giving Up
+50
+Solomon Burke
+Goodbye Baby (Baby Goodbye)
+51
+The 4 Seasons
+Alone
+52
+Bernadette Carroll
+Party Girl
+53
+The 4 Seasons Featuring the "Sound of Frankie Valli"
+Rag Doll
+54
+Lucille Starr
+The French Song
+55
+Trini Lopez
+What Have I Got Of My Own
+56
+Bobby Darin
+Milord
+57
+Sam Cooke
+Tennessee Waltz
+58
+The Searchers
+Sugar And Spice
+59
+Anita Bryant
+The World Of Lonely People
+60
+Inez Foxx
+Hurt By Love
+61
+Ray Charles and his Orchestra
+My Baby Don't Dig Me
+62
+Roger Miller
+Dang Me
+63
+Chubby Checker
+Lazy Elsie Molly
+64
+The Bermudas
+Donnie
+65
+The Impressions
+Keep On Pushing
+66
+The Orlons
+Rules Of Love
+67
+Rita Pavone
+Remember Me
+68
+The Premiers
+Farmer John
+69
+Chuck Jackson
+Beg Me
+70
+Stevie Wonder
+Hey Harmonica Man
+71
+Eddie Holland
+Just Ain't Enough Love
+72
+Steve Lawrence
+Everybody Knows
+73
+Brenda Lee
+Alone With You
+74
+The Rolling Stones
+Not Fade Away
+75
+The Four-Evers
+Be My Girl
+76
+Bobby Vee
+Hickory, Dick And Doc
+77
+Round Robin
+Kick That Little Foot Sally Ann
+78
+Jimmie Rodgers
+The World I Used To Know
+79
+Dusty Springfield
+Wishin' And Hopin'
+80
+Bobby Bland
+Share Your Love With Me
+81
+The Overlanders
+Yesterday's Gone
+82
+Louis Armstrong And The All Stars
+I Still Get Jealous
+83
+Bobby Rydell
+A World Without Love
+84
+Major Lance
+It Ain't No Use
+85
+Brenda Lee
+My Dreams
+86
+Alvin Robinson
+Something You Got
+87
+Jack Jones
+The First Night Of The Full Moon
+88
+The Jelly Beans
+I Wanna Love Him So Bad
+89
+Danny Williams
+A Little Toy Balloon
+90
+The Ronettes
+Do I Love You?
+91
+Dean And Jean
+I Wanna Be Loved
+92
+Robert Maxwell His Harp And Orchestra
+Peg O' My Heart
+93
+Patty & The Emblems
+Mixed-Up, Shook-Up, Girl
+94
+Rufus & Carla
+Night Time Is The Right Time
+95
+Barbara Lynn
+Oh! Baby (We Got A Good Thing Goin')
+96
+Johnny Mathis
+Taste Of Tears
+97
+The Beatles
+Four By The Beatles
+98
+The Everly Brothers
+The Ferris Wheel
+99
+The Paris Sisters
+Dream Lover
+100
+Jimmy Hughes
+Steal Away

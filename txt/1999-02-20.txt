@@ -1,0 +1,300 @@
+1
+Monica
+Angel Of Mine
+2
+Britney Spears
+...Baby One More Time
+3
+Cher
+Believe
+4
+Whitney Houston Feat. Faith Evans & Kelly Price
+Heartbreak Hotel
+5
+Deborah Cox
+Nobody's Supposed To Be Here
+6
+Backstreet Boys
+All I Have To Give
+7
+Brandy
+Have You Ever?
+8
+Goo Goo Dolls
+Slide
+9
+Sarah McLachlan
+Angel
+10
+Case & Joe
+Faded Pictures
+11
+Gerald Levert
+Taking Everything
+12
+Eagle-Eye Cherry
+Save Tonight
+13
+Third Eye Blind
+Jumper
+14
+Jesse Powell
+You
+15
+R. Kelly & Celine Dion
+I'm Your Angel
+16
+Sugar Ray
+Every Morning
+17
+Jewel
+Hands
+18
+Shawn Mullins
+Lullaby
+19
+Mark Chesnutt
+I Don't Want To Miss A Thing
+20
+Will Smith
+Miami
+21
+'N Sync
+(God Must Have Spent) A Little More Time On You
+22
+Whitney Houston & Mariah Carey
+When You Believe
+23
+Divine
+Lately
+24
+R. Kelly
+When A Woman's Fed Up
+25
+Dru Hill
+These Are The Times
+26
+Jay-Z Featuring Amil (Of Major Coinz) & Ja
+Can I Get A...
+27
+Lauryn Hill
+Ex-Factor
+28
+BLACKstreet & Mya Featuring Mase & Blinky Blink
+Take Me There
+29
+Total Featuring Missy Elliott
+Trippin'
+30
+Lauryn Hill
+Doo Wop (That Thing)
+31
+Mo Thugs Family Featuring Bone Thugs-N-Harmony
+Ghetto Cowboy
+32
+Lenny Kravitz
+Fly Away
+33
+Tyrese
+Sweet Lady
+34
+Boyz II Men
+I Will Get There
+35
+John Michael Montgomery
+Hold On To Me
+36
+Diamond Rio
+Unbelievable
+37
+matchbox 20
+Back 2 Good
+38
+Sara Evans
+No Place That Far
+39
+Faith Evans
+Love Like This
+40
+Shania Twain
+From This Moment On
+41
+Jo Dee Messina
+Stand Beside Me
+42
+Eve 6
+Inside Out
+43
+Tim McGraw
+For A Little While
+44
+Goo Goo Dolls
+Iris
+45
+2Pac
+Changes
+46
+George Strait
+Meanwhile
+47
+New Radicals
+You Get What You Give
+48
+Edwin McCain
+I'll Be
+49
+Dixie Chicks
+You Were Mine
+50
+Everlast
+What It's Like
+51
+Barenaked Ladies
+It's All Been Done
+52
+Kenny Chesney
+How Forever Feels
+53
+The Wilkinsons
+Fly (The Angel Song)
+54
+Faith Evans Featuring Puff Daddy
+All Night Long
+55
+Reba
+Wrong Night
+56
+Mariah Carey
+I Still Believe
+57
+The Roots Featuring Erykah Badu
+You Got Me
+58
+Alanis Morissette
+Unsent
+59
+Shania Twain
+That Don't Impress Me Much
+60
+Billy Ray Cyrus
+Busy Man
+61
+Dru Hill Featuring Redman
+How Deep Is Your Love
+62
+Trisha Yearwood
+Powerful Thing
+63
+The Offspring
+Pretty Fly (For A White Guy)
+64
+Snoop Dogg Featuring Mystikal And Fiend
+Woof
+65
+Jennifer Love Hewitt
+How Do I Deal
+66
+The Kinleys
+Somebody's Out There Watching
+67
+TLC
+No Scrubs
+68
+Juvenile
+Ha
+69
+OutKast
+Rosa Parks
+70
+Everclear
+Father Of Mine
+71
+Sixpence None The Richer
+Kiss Me
+72
+Randy Travis
+Spirit Of A Boy, Wisdom Of A Man
+73
+Brooks & Dunn
+I Can't Get Over You
+74
+R. Kelly Featuring Keith Murray
+Home Alone
+75
+TLC
+Silly Ho
+76
+Dave Matthews Band
+Crush
+77
+Brandy
+Angel In Disguise
+78
+Cool Breeze Featuring OutKast, Goodie Mob & Witchdoctor
+Watch For The Hook
+79
+Alabama
+Keepin' Up
+80
+Ginuwine
+What's So Different
+81
+BlackHawk
+There You Have It
+82
+Shaggy Featuring Janet
+Luv Me, Luv Me
+83
+Cake
+Never There
+84
+Ice Cube Featuring Mr. Short Khop
+Pushin' Weight
+85
+B*Witched
+C'est La Vie
+86
+U2
+Sweetest Thing
+87
+Spice Girls
+Goodbye
+88
+Shae Jones
+Talk Show Shhh!
+89
+Chad Brock
+Ordinary Life
+90
+Vengaboys
+We Like To Party!
+91
+Aaron Tippin
+For You I Will
+92
+Collin Raye
+Someone You Used To Know
+93
+Brian McKnight Featuring Tone & Kobe Bryant
+Hold Me
+94
+DMX
+Ruff Ryders' Anthem
+95
+Terri Clark
+You're Easy On The Eyes
+96
+Madonna
+The Power Of Good-Bye
+97
+Clay Walker
+You're Beginning To Get To Me
+98
+JAY-Z
+Hard Knock Life (Ghetto Anthem)
+99
+Alan Jackson
+Right On The Money
+100
+Foxy Brown
+Hot Spot

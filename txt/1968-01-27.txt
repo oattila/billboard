@@ -1,0 +1,300 @@
+1
+John Fred And The Playboys
+Judy In Disguise (With Glasses)
+2
+Aretha Franklin
+Chain Of Fools
+3
+The Lemon Pipers
+Green Tambourine
+4
+The Union Gap Featuring Gary Puckett
+Woman, Woman
+5
+The American Breed
+Bend Me, Shape Me
+6
+The Beatles
+Hello Goodbye
+7
+Classics IV
+Spooky
+8
+The Monkees
+Daydream Believer
+9
+Gladys Knight And The Pips
+I Heard It Through The Grapevine
+10
+Marvin Gaye & Tammi Terrell
+If I Could Build My Whole World Around You
+11
+The Buckinghams
+Susan
+12
+The Human Beinz
+Nobody But Me
+13
+Stone Poneys Featuring Linda Ronstadt
+Different Drum
+14
+Smokey Robinson & The Miracles
+I Second That Emotion
+15
+The Temptations
+I Wish It Would Rain
+16
+Small Faces
+Itchycoo Park
+17
+The Lettermen
+Goin' Out Of My Head/Can't Take My Eyes Off You
+18
+Paul Mauriat And His Orchestra
+Love Is Blue (L'amour Est Bleu)
+19
+Engelbert Humperdinck
+Am I That Easy To Forget
+20
+The Foundations
+Baby, Now That I've Found You
+21
+The Marvelettes
+My Baby Must Be A Magician
+22
+The Sandpebbles
+Love Power
+23
+Etta James
+Tell Mama
+24
+The Beach Boys
+Darlin'
+25
+The Rolling Stones
+She's A Rainbow
+26
+Tommy Boyce & Bobby Hart
+I Wonder What She's Doing Tonite
+27
+Jr. Walker & The All Stars
+Come See About Me
+28
+The Fireballs
+Bottle Of Wine
+29
+Strawberry Alarm Clock
+Tomorrow
+30
+Frankie Valli
+To Give (The Reason I Live)
+31
+Peaches & Herb
+Two Little Kids
+32
+Bobby Vinton
+Just As Much As Ever
+33
+Soul Survivors
+Explosion (In Your Soul)
+34
+Vikki Carr
+The Lesson
+35
+Henson Cargill
+Skip A Rope
+36
+James Brown And The Famous Flames
+I Can't Stand Myself (When You Touch Me)
+37
+Eric Burdon & The Animals
+Monterey
+38
+Martha Reeves & The Vandellas
+Honey Chile
+39
+Nancy Sinatra & Lee Hazlewood
+Some Velvet Morning
+40
+Joe Tex
+Skinny Legs And All
+41
+Spanky And Our Gang
+Sunday Mornin'
+42
+The Fantastic Johnny C
+Boogaloo Down Broadway
+43
+The Dave Clark Five
+Everybody Knows
+44
+The Cowsills
+We Can Fly
+45
+Marvin Gaye
+You
+46
+Ed Ames
+Who Will Answer?
+47
+The Impressions
+We're A Winner
+48
+Herman's Hermits
+I Can Take Or Leave Your Loving
+49
+The Lovin' Spoonful
+Money
+50
+Joe Simon
+No Sad Songs
+51
+Al Greene & The Soul Mate's
+Back Up Train
+52
+Neil Diamond
+New Orleans
+53
+Wes Montgomery
+Windy
+54
+Lulu
+Best Of Both Worlds
+55
+Dave Dee, Dozy, Beaky, Mick And Tich
+Zabadak
+56
+The Hesitations
+Born Free
+57
+Tom Jones
+I'm Coming Home
+58
+Wilson Pickett
+I'm In Love
+59
+Barbara Mason
+Oh, How It Hurts
+60
+Jay And The Techniques
+Strawberry Shortcake
+61
+Dionne Warwick
+(Theme From) Valley Of The Dolls
+62
+Jerry Butler
+Lost
+63
+Herb Alpert & The Tijuana Brass
+Carmen
+64
+Bee Gees
+Words
+65
+James Brown And The Famous Flames
+There Was A Time
+66
+The Dells
+There Is
+67
+Otis Redding
+(Sittin' On) The Dock Of The Bay
+68
+Carla Thomas
+Pick Up The Pieces
+69
+Cream
+Sunshine Of Your Love
+70
+Glen Campbell
+Hey Little One
+71
+Billy Vera & Judy Clay
+Storybook Children
+72
+Sam & Dave
+I Thank You
+73
+James & Bobby Purify
+Do Unto Me
+74
+Arthur Prysock
+A Working Man's Prayer
+75
+Hugh Masekela
+Up-Up And Away
+76
+Inez & Charlie Foxx
+(1-2-3-4-5-6-7) Count The Days
+77
+1910 Fruitgum Co.
+Simon Says
+78
+Lalo Schifrin
+Mission-Impossible
+79
+The Music Makers
+United (Part 1)
+80
+James Carr
+A Man Needs A Woman
+81
+Tommy James And The Shondells
+Get Out Now
+82
+Howard Tate
+Stop
+83
+Elvis Presley
+Guitar Man
+84
+Five Stairsteps & Cubie
+A Million To One
+85
+Miriam Makeba
+Malayisha
+86
+Billy Stewart
+Cross My Heart
+87
+The Epic Splendor
+A Little Rain Must Fall
+88
+Clarence Carter
+Looking For A Fox
+89
+Calvin Arnold
+Funky Way
+90
+Oscar Toney, Jr.
+Without Love (There Is Nothing)
+91
+Johnny Cash
+Rosanna's Going Wild
+92
+The Mills Brothers
+Cab Driver
+93
+Laura Lee
+Up Tight, Good Man
+94
+Linda Jones
+Give My Love A Try
+95
+Frankie Laine
+To Each His Own
+96
+The Five Americans
+7:30 Guided Tour
+97
+Robert Knight
+Blessed Are The Lonely
+98
+Ray Charles
+Come Rain Or Come Shine
+99
+Every Mothers' Son
+No One Knows
+100
+Al Hirt
+Keep The Ball Rollin'

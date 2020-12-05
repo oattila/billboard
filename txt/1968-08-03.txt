@@ -1,0 +1,300 @@
+1
+The Doors
+Hello, I Love You
+2
+Mason Williams
+Classical Gas
+3
+The 5th Dimension
+Stoned Soul Picnic
+4
+Hugh Masekela
+Grazing In The Grass
+5
+Donovan
+Hurdy Gurdy Man
+6
+The Rolling Stones
+Jumpin' Jack Flash
+7
+Gary Puckett And The Union Gap
+Lady Willpower
+8
+Cliff Nobles & Co.
+The Horse
+9
+The Vogues
+Turn Around, Look At Me
+10
+Cream
+Sunshine Of Your Love
+11
+Steppenwolf
+Born To Be Wild
+12
+The Status Quo
+Pictures Of Matchstick Men
+13
+The Rascals
+People Got To Be Free
+14
+Eric Burdon & The Animals
+Sky Pilot (Part One)
+15
+Herb Alpert
+This Guy's In Love With You
+16
+The Vanilla Fudge
+You Keep Me Hangin' On
+17
+The Amboy Dukes
+Journey To The Center Of The Mind
+18
+The Dells
+Stay In My Corner
+19
+Bobby Goldsboro
+Autumn Of My Life
+20
+Mama Cass With The Mamas & The Papas
+Dream A Little Dream Of Me
+21
+The Cowsills
+Indian Lake
+22
+Booker T. & The MG's
+Soul-Limbo
+23
+Sergio Mendes & Brasil '66
+The Look Of Love
+24
+Merrilee Rush & The Turnabouts
+Angel Of The Morning
+25
+Shorty Long
+Here Comes The Judge
+26
+Friend And Lover
+Reach Out Of The Darkness
+27
+Paul Revere & The Raiders Featuring Mark Lindsay
+Don't Take It So Hard
+28
+Bobby Vinton
+Halfway To Paradise
+29
+Nancy Wilson
+Face It Girl, It's Over
+30
+Gary Lewis And The Playboys
+Sealed With A Kiss
+31
+Peggy Scott & Jo Jo Benson
+Lover's Holiday
+32
+Jose Feliciano
+Light My Fire
+33
+Glen Campbell
+Dreams Of The Everyday Housewife
+34
+Tommy Boyce & Bobby Hart
+Alice Long (You're Still My Favorite Girlfriend)
+35
+Ray Charles
+Eleanor Rigby
+36
+Jerry Butler
+Never Give You Up
+37
+Johnny Cash
+Folsom Prison Blues
+38
+Gene Pitney
+She's A Heartbreaker
+39
+Archie Bell & The Drells
+I Can't Stop Dancing
+40
+B.J. Thomas
+The Eyes Of A New York Woman
+41
+The Fantastic Johnny C
+Hitch It To The Horse
+42
+People
+I Love You
+43
+Wilson Pickett
+I'm A Midnight Mover
+44
+Stevie Wonder
+You Met Your Match
+45
+Pigmeat Markham
+Here Comes The Judge
+46
+Richard Harris
+MacArthur Park
+47
+Ohio Express
+Yummy Yummy Yummy
+48
+The Moody Blues
+Tuesday Afternoon (Forever Afternoon)
+49
+The Intruders
+(Love Is Like A) Baseball Game
+50
+Petula Clark
+Don't Give Up
+51
+Four Tops
+Yesterday's Dreams
+52
+Otis Redding
+Amen
+53
+1910 Fruitgum Co.
+1, 2, 3, Red Light
+54
+Marvin Gaye & Tammi Terrell
+You're All I Need To Get By
+55
+Billy Vera
+With Pen In Hand
+56
+Barbara Acklin
+Love Makes A Woman
+57
+Willie Mitchell
+Prayer Meetin'
+58
+Roger Williams
+The Impossible Dream
+59
+The Peppermint Trolley Company
+Baby You Come Rollin' Across My Mind
+60
+The Marvelettes
+Here I Am Baby
+61
+The Beach Boys
+Do It Again
+62
+Wayne Newton
+Dreams Of The Everyday Housewife
+63
+Otis Redding
+Hard To Handle
+64
+Jackie Wilson
+I Get The Sweetest Feeling
+65
+Ray Charles
+Understanding
+66
+Neil Diamond
+Two-Bit Manchild
+67
+Clarence Carter
+Slip Away
+68
+The Cherry People
+And Suddenly
+69
+Eternity's Children
+Mrs. Bluebird
+70
+The New Colony Six
+Can't You See Me Cry
+71
+Eddie Floyd
+I've Never Found A Girl (To Love Me Like You Do)
+72
+Elvis Presley With The Jordanaires
+Your Time Hasn't Come Yet, Baby
+73
+The Lovin' Spoonful
+Never Going Back
+74
+James Brown And The Famous Flames
+I Guess I'll Have To Cry, Cry, Cry
+75
+Nancy Sinatra
+Happy
+76
+Little Carl Carlton
+Competition Ain't Nothin'
+77
+The Impressions
+I Loved And I Lost
+78
+The Irish Rovers
+(The Puppet Song) Whiskey On A Sunday
+79
+Tommy James And The Shondells
+Somebody Cares
+80
+Bill Medley
+Brown Eyed Woman
+81
+The Happenings
+Breaking Up Is Hard To Do
+82
+The Ballads
+God Bless Our Love
+83
+The Temptations
+Please Return Your Love To Me
+84
+Wilmer And The Dukes
+Give Me One More Chance
+85
+B.B. King
+I'm Gonna Do What They Do To Me
+86
+Sam & Dave
+Can't You Find Another Way (Of Doing It)
+87
+Jerry Jeff Walker
+Mr. Bojangles
+88
+Bobby Cole
+Mister Bo Jangles
+89
+Ohio Express
+Down At Lulu's
+90
+Ray Stevens
+Mr. Businessman
+91
+Betty Wright
+Girls Can't Do What The Guys Do
+92
+The American Breed
+Anyway That You Want Me
+93
+Sly & The Family Stone
+Life
+94
+Freddie Hughes
+Send My Baby Back
+95
+Spanky And Our Gang
+Give A Damn
+96
+Patti Drew
+Workin' On A Groovy Thing
+97
+Percy Sledge
+Sudden Stop
+98
+The Soul Clan
+Soul Meeting
+99
+The Love Generation
+Montage From How Sweet It Is (I Know That You Know)
+100
+Flavor
+Sally Had A Party

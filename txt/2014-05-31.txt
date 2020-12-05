@@ -1,0 +1,300 @@
+1
+John Legend
+All Of Me
+2
+Iggy Azalea Featuring Charli XCX
+Fancy
+3
+Ariana Grande Featuring Iggy Azalea
+Problem
+4
+Pharrell Williams
+Happy
+5
+DJ Snake & Lil Jon
+Turn Down For What
+6
+Katy Perry Featuring Juicy J
+Dark Horse
+7
+Jason Derulo Featuring 2 Chainz
+Talk Dirty
+8
+Justin Timberlake
+Not A Bad Thing
+9
+Michael Jackson & Justin Timberlake
+Love Never Felt So Good
+10
+Coldplay
+A Sky Full Of Stars
+11
+Calvin Harris
+Summer
+12
+Paramore
+Ain't It Fun
+13
+Idina Menzel
+Let It Go
+14
+Coldplay
+Magic
+15
+Bastille
+Pompeii
+16
+Ed Sheeran
+Sing
+17
+Nico & Vinz
+Am I Wrong
+18
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga
+Loyal
+19
+American Authors
+Best Day Of My Life
+20
+Jason Derulo Featuring Snoop Dogg
+Wiggle
+21
+Luke Bryan
+Play It Again
+22
+Rixton
+Me And My Broken Heart
+23
+Katy Perry
+Birthday
+24
+OneRepublic
+Counting Stars
+25
+MKTO
+Classic
+26
+Florida Georgia Line Ft. Jason Derulo & Luke Bryan
+This Is How We Roll
+27
+Naughty Boy Featuring Sam Smith
+La La La
+28
+MAGIC!
+Rude
+29
+Coldplay
+Midnight
+30
+Brantley Gilbert
+Bottoms Up
+31
+Lorde
+Team
+32
+5 Seconds Of Summer
+She Looks So Perfect
+33
+Trey Songz
+Na Na
+34
+Pitbull Featuring G.R.L.
+Wild Wild Love
+35
+Pitbull Featuring Ke$ha
+Timber
+36
+Disclosure Featuring Sam Smith
+Latch
+37
+Kid Ink Featuring Chris Brown
+Show Me
+38
+Rascal Flatts
+Rewind
+39
+Beyonce
+Partition
+40
+Avicii
+Wake Me Up!
+41
+Imagine Dragons
+Demons
+42
+Passenger
+Let Her Go
+43
+One Direction
+Story Of My Life
+44
+Jake Owen
+Beachin'
+45
+Eminem Featuring Nate Ruess
+Headlights
+46
+Thomas Rhett
+Get Me Some Of That
+47
+5 Seconds Of Summer
+Don't Stop
+48
+Christina Perri
+Human
+49
+Sam Smith
+Stay With Me
+50
+Eminem Featuring Rihanna
+The Monster
+51
+Jhene Aiko
+The Worst
+52
+Future Featuring Pharrell, Pusha T & Casino
+Move That Doh
+53
+Miranda Lambert
+Automatic
+54
+KONGOS
+Come With Me Now
+55
+Young Money Featuring Drake
+Trophies
+56
+Tiesto
+Red Lights
+57
+Brett Eldredge
+Beat Of The Music
+58
+Keith Urban
+Cop Car
+59
+Neon Trees
+Sleeping With A Friend
+60
+Blake Shelton Featuring Gwen Sebastian
+My Eyes
+61
+YG Featuring Drake
+Who Do You Love?
+62
+Sia
+Chandelier
+63
+Eric Church
+Give Me Back My Hometown
+64
+Justin Moore
+Lettin' The Night Roll
+65
+Lee Brice
+I Don't Dance
+66
+Austin Mahone Featuring Pitbull
+Mmm Yeah
+67
+Tyler Farr
+Whiskey In My Water
+68
+Chris Young
+Who I Am With You
+69
+OneRepublic
+Love Runs Out
+70
+Shakira
+Empire
+71
+Jerrod Niemann
+Drink To That All Night
+72
+KCamp Featuring 2 Chainz
+Cut Her Off
+73
+Usher
+Good Kisser
+74
+Tinashe Featuring ScHoolboy Q
+2 On
+75
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona
+Bailando
+76
+Young Thug
+Stoner
+77
+Iggy Azalea
+Work
+78
+Joe Nichols
+Yeah
+79
+Wiz Khalifa
+We Dem Boyz
+80
+Fitz And The Tantrums
+The Walker
+81
+Brad Paisley
+River Bank
+82
+Billy Currington
+We Are Tonight
+83
+The Black Keys
+Fever
+84
+Craig Campbell
+Keep Them Kisses Comin'
+85
+Jay Z Featuring Beyonce
+Part II (On The Run)
+86
+Dustin Lynch
+Where It's At (Yep, Yep)
+87
+Ed Sheeran
+One
+88
+Phillip Phillips
+Raging Fire
+89
+Ingrid Michaelson
+Girls Chase Boys
+90
+Imagine Dragons
+On Top Of The World
+91
+Dierks Bentley
+Drunk On A Plane
+92
+Kid Ink Featuring Chris Brown
+Main Chick
+93
+Shakira Featuring Rihanna
+Can't Remember To Forget You
+94
+The Band Perry
+Chainsaw
+95
+One Direction
+You & I
+96
+Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard
+Or Nah
+97
+Sara Bareilles
+I Choose You
+98
+Jake Worthington
+Heaven
+99
+Craig Morgan
+Wake Up Lovin' You
+100
+Future Featuring Kanye West
+I Won

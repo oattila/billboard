@@ -1,0 +1,300 @@
+1
+Flo Rida
+Whistle
+2
+Ellie Goulding
+Lights
+3
+Carly Rae Jepsen
+Call Me Maybe
+4
+Katy Perry
+Wide Awake
+5
+Maroon 5 Featuring Wiz Khalifa
+Payphone
+6
+Gotye Featuring Kimbra
+Somebody That I Used To Know
+7
+David Guetta Featuring Sia
+Titanium
+8
+fun.
+Some Nights
+9
+Phillip Phillips
+Home
+10
+Rihanna
+Where Have You Been
+11
+P!nk
+Blow Me (One Last Kiss)
+12
+Justin Bieber Featuring Big Sean
+As Long As You Love Me
+13
+Owl City & Carly Rae Jepsen
+Good Time
+14
+Cher Lloyd
+Want U Back
+15
+Maroon 5
+One More Night
+16
+Demi Lovato
+Give Your Heart A Break
+17
+Neon Trees
+Everybody Talks
+18
+Usher
+Scream
+19
+Calvin Harris Featuring Ne-Yo
+Let's Go
+20
+Kanye West, Big Sean, Pusha T, 2 Chainz
+Mercy
+21
+Alex Clare
+Too Close
+22
+Little Big Town
+Pontoon
+23
+Mumford & Sons
+I Will Wait
+24
+fun. Featuring Janelle Monae
+We Are Young
+25
+One Direction
+What Makes You Beautiful
+26
+2 Chainz Featuring Drake
+No Lie
+27
+Jason Mraz
+I Won't Give Up
+28
+Nicki Minaj
+Starships
+29
+Nicki Minaj
+Pound The Alarm
+30
+Flo Rida Featuring Sia
+Wild Ones
+31
+Havana Brown Featuring Pitbull
+We Run The Night
+32
+Kenny Chesney
+Come Over
+33
+Love And Theft
+Angel Eyes
+34
+Hunter Hayes
+Wanted
+35
+Wiz Khalifa
+Work Hard, Play Hard
+36
+Train
+Drive By
+37
+The Wanted
+Glad You Came
+38
+Carrie Underwood
+Blown Away
+39
+Gloriana
+(Kissed You) Good Night
+40
+Jason Aldean
+Take A Little Ride
+41
+Kelly Clarkson
+Stronger (What Doesn't Kill You)
+42
+Kelly Clarkson
+Dark Side
+43
+Trey Songz
+Heart Attack
+44
+Grouplove
+Tongue Tied
+45
+Blake Shelton
+Over
+46
+Usher Featuring Rick Ross
+Lemme See
+47
+Ca$h Out
+Cashin' Out
+48
+Luke Bryan
+Drunk On You
+49
+The Lumineers
+Ho Hey
+50
+The Wanted
+Chasing The Sun
+51
+Of Monsters And Men
+Little Talks
+52
+Josh Turner
+Time Is Love
+53
+Chris Brown
+Don't Wake Me Up
+54
+Train
+50 Ways To Say Goodbye
+55
+No Doubt
+Settle Down
+56
+Jana Kramer
+Why Ya Wanna
+57
+Meek Mill Featuring Drake
+Amen
+58
+matchbox twenty
+She's So Mean
+59
+Dierks Bentley
+5-1-5-0
+60
+Justin Bieber
+Boyfriend
+61
+Trey Songz Featuring T.I.
+2 Reasons
+62
+Tim McGraw
+Truck Yeah
+63
+Linkin Park
+Burn It Down
+64
+One Direction
+One Thing
+65
+The Band Perry
+Postcard From Paris
+66
+Lee Brice
+Hard To Love
+67
+Dustin Lynch
+Cowboys And Angels
+68
+Wale Featuring Rick Ross, Meek Mill & T-Pain
+Bag Of Money
+69
+Keith Urban
+For You
+70
+French Montana Featuring Rick Ross, Drake, Lil Wayne
+Pop That
+71
+B.o.B Featuring Taylor Swift
+Both Of Us
+72
+Taylor Swift
+We Are Never Ever Getting Back Together
+73
+Gym Class Heroes Featuring Ryan Tedder
+The Fighter
+74
+Zac Brown Band
+The Wind
+75
+Pitbull
+Back In Time
+76
+DJ Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Lil Wayne
+Take It To The Head
+77
+Miguel
+Adorn
+78
+J. Cole Featuring Missy Elliott
+Nobody's Perfect
+79
+Imagine Dragons
+It's Time
+80
+Driicky Graham
+Snap Backs & Tattoos
+81
+Miranda Lambert
+Fastest Girl In Town
+82
+Frank Ocean
+Thinkin Bout You
+83
+Nicki Minaj Featuring 2 Chainz
+Beez In The Trap
+84
+Rascal Flatts
+Come Wake Me Up
+85
+Ed Sheeran
+The A Team
+86
+Lil Wayne Featuring Big Sean
+My Homies Still
+87
+Thompson Square
+Glass
+88
+Big & Rich
+That's Why I Pray
+89
+Future
+Turn On The Lights
+90
+Easton Corbin
+Lovin' You Is Fun
+91
+Keyshia Cole Featuring Lil Wayne
+Enough Of No Love
+92
+Chris Young
+Neon
+93
+Jake Owen
+The One That Got Away
+94
+Lady Antebellum
+Wanted You More
+95
+Kendrick Lamar
+Swimming Pools (Drank)
+96
+NERO
+Promises
+97
+Ne-Yo
+Let Me Love You (Until You Learn To Love Yourself)
+98
+Imagine Dragons
+Radioactive
+99
+The Black Keys
+Gold On The Ceiling
+100
+Green Day
+Oh Love

@@ -1,0 +1,300 @@
+1
+Paula Abdul
+Straight Up
+2
+Sheriff
+When I'm With You
+3
+Tone-Loc
+Wild Thing
+4
+Bon Jovi
+Born To Be My Baby
+5
+White Lion
+When The Children Cry
+6
+Tiffany
+All This Time
+7
+Sheena Easton
+The Lover In Me
+8
+Samantha Fox
+I Wanna Have Some Fun
+9
+Rick Astley
+She Wants To Dance With Me
+10
+Information Society
+Walking Away
+11
+Edie Brickell & New Bohemians
+What I Am
+12
+Debbie Gibson
+Lost In Your Eyes
+13
+Karyn White
+The Way You Love Me
+14
+U2
+Angel Of Harlem
+15
+New Kids On The Block
+You Got It (The Right Stuff)
+16
+Ann Wilson & Robin Zander
+Surrender To Me (From "Tequila Sunrise")
+17
+The Boys
+Dial My Heart
+18
+Def Leppard
+Armageddon It
+19
+Taylor Dayne
+Don't Rush Me
+20
+Erasure
+A Little Respect
+21
+Mike + The Mechanics
+The Living Years
+22
+Phil Collins
+Two Hearts
+23
+Bobby Brown
+Roni
+24
+Steve Winwood
+Holding On
+25
+Guns N' Roses
+Paradise City
+26
+Duran Duran
+All She Wants Is
+27
+Rod Stewart
+My Heart Can't Tell You No
+28
+The Escape Club
+Shake For The Sheik
+29
+Breathe
+Don't Tell Me Lies
+30
+Milli Vanilli
+Girl You Know It's True
+31
+Bobby Brown
+My Prerogative
+32
+Kon Kan
+I Beg Your Pardon
+33
+Chicago
+You're Not Alone
+34
+Poison
+Every Rose Has Its Thorn
+35
+Anita Baker
+Just Because
+36
+Vanessa Williams
+Dreamin'
+37
+Kylie Minogue
+It's No Secret
+38
+Eddie Money
+The Love In Your Eyes
+39
+Joan Jett & the Blackhearts
+Little Liar
+40
+The Bangles
+Eternal Flame
+41
+Boys Club
+I Remember Holding You
+42
+Was (Not Was)
+Walk The Dinosaur
+43
+Martika
+More Than You Know
+44
+Roy Orbison
+You Got It
+45
+Cinderella
+The Last Mile
+46
+Annie Lennox & Al Green
+Put A Little Love In Your Heart
+47
+Huey Lewis & The News
+Give Me The Keys (And I'll Drive You Crazy)
+48
+R.E.M.
+Stand
+49
+Vixen
+Cryin'
+50
+Roxette
+The Look
+51
+Michael Jackson
+Smooth Criminal
+52
+Van Halen
+Feels So Good
+53
+Chicago
+Look Away
+54
+Luther Vandross
+She Won't Talk To Me
+55
+Karyn White
+Superwoman
+56
+Boy Meets Girl
+Waiting For A Star To Fall
+57
+The Bangles
+In Your Room
+58
+Tommy Conwell And The Young Rumblers
+If We Never Meet Again
+59
+Camouflage
+The Great Commandment
+60
+Fine Young Cannibals
+She Drives Me Crazy
+61
+Anita Baker
+Giving You The Best That I Got
+62
+Enya
+Orinoco Flow (Sail Away)
+63
+Maxi Priest
+Wild World
+64
+Boy Meets Girl
+Bring Down The Moon
+65
+Fleetwood Mac
+As Long As You Follow
+66
+House Of Lords
+I Wanna Be Loved
+67
+SaFire
+Thinking Of You
+68
+The Timelords
+Doctorin' The Tardis
+69
+Marc Almond
+Tears Run Rings
+70
+Kenny G
+We've Saved The Best For Last
+71
+Giant Steps
+Into You
+72
+The Beach Boys
+Kokomo (From"Cocktail" )
+73
+Eighth Wonder
+Cross My Heart
+74
+Survivor
+Across The Miles
+75
+Kenny G
+Silhouette
+76
+Dino
+24/7
+77
+Will To Power
+Fading Away
+78
+Thirty Eight Special
+Second Chance
+79
+When In Rome
+The Promise
+80
+Sweet Sensation (With Romeo J.D.)
+Sincerely Yours
+81
+Kenny Loggins
+Tell Her
+82
+New Edition
+Can You Stand The Rain
+83
+Traveling Wilburys
+End Of The Line
+84
+Crosby, Stills, Nash & Young
+Got It Made
+85
+Eddie Money
+Walk On Water
+86
+The Art Of Noise Featuring Tom Jones
+Kiss
+87
+Will To Power
+Baby, I Love Your Way/Freebird Medley
+88
+Basia
+New Day For You
+89
+The Escape Club
+Wild, Wild West
+90
+Ratt
+Way Cool Jr.
+91
+Tommy Page
+A Shoulder To Cry On
+92
+Kylie Minogue
+The Loco-Motion
+93
+Phil Collins
+Groovy Kind Of Love
+94
+Robbie Nevil
+Back On Holiday
+95
+Sir Mix-A-Lot
+Posse On Broadway
+96
+Tracie Spencer
+Imagine
+97
+Guns N' Roses
+Welcome To The Jungle
+98
+Pet Shop Boys
+Left To My Own Devices
+99
+Van Halen
+Finish What Ya Started
+100
+Ivan Neville
+Not Just Another Girl

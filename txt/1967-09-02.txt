@@ -1,0 +1,300 @@
+1
+Bobbie Gentry
+Ode To Billie Joe
+2
+The Beatles
+All You Need Is Love
+3
+Diana Ross & The Supremes
+Reflections
+4
+The Doors
+Light My Fire
+5
+Aretha Franklin
+Baby I Love You
+6
+Bobby Vee And The Strangers
+Come Back When You Grow Up
+7
+James Brown And The Famous Flames
+Cold Sweat - Part 1
+8
+The Monkees
+Pleasant Valley Sunday
+9
+The Temptations
+You're My Everything
+10
+Stevie Wonder
+I Was Made To Love Her
+11
+The Monkees
+Words
+12
+The Beach Boys
+Heroes And Villains
+13
+Neil Diamond
+Thank The Lord For The Night Time
+14
+Jay And The Techniques
+Apples, Peaches, Pumpkin Pie
+15
+The Box Tops
+The Letter
+16
+Procol Harum
+A Whiter Shade Of Pale
+17
+The Young Rascals
+A Girl Like You
+18
+The Hollies
+Carrie-Anne
+19
+Wilson Pickett
+Funky Broadway
+20
+The Parliaments
+(I Wanna) Testify
+21
+The Tremeloes
+Silence Is Golden
+22
+Van Morrison
+Brown Eyed Girl
+23
+Simon & Garfunkel
+Fakin' It
+24
+Donovan
+There Is A Mountain
+25
+Eric Burdon & The Animals
+San Franciscan Nights
+26
+Bee Gees
+To Love Somebody
+27
+Jackie Wilson
+(Your Love Keeps Lifting Me) Higher And Higher
+28
+The Turtles
+You Know What I Mean
+29
+Paul Revere & The Raiders Featuring Mark Lindsay
+I Had A Dream
+30
+Frank Sinatra
+The World We Knew (Over And Over)
+31
+The Buckinghams
+Mercy, Mercy, Mercy
+32
+Dionne Warwick
+The Windows Of The World
+33
+Booker T. & The MG's
+Groovin'
+34
+Bunny Sigler
+Let The Good Times Roll & Feel So Good
+35
+Frankie Valli
+Can't Take My Eyes Off You
+36
+The Mamas & The Papas
+Twelve Thirty (Young Girls Are Coming To The Canyon)
+37
+The Grass Roots
+Things I Should Have Said
+38
+Peter, Paul & Mary
+I Dig Rock And Roll Music
+39
+Linda Jones
+Hypnotized
+40
+Tommy James And The Shondells
+Gettin' Together
+41
+Davie Allan And The Arrows
+Blue's Theme
+42
+The Five Americans
+Zip Code
+43
+Chris Bartley
+The Sweetest Thing This Side Of Heaven
+44
+Jr. Walker & The All Stars
+Shoot Your Shot
+45
+The Yardbirds
+Ha Ha Said The Clown
+46
+Brenton Wood
+Gimme Little Sign
+47
+The Happenings
+My Mammy
+48
+Gladys Knight And The Pips
+Everybody Needs Love
+49
+Dean Martin
+Little Ole Wine Drinker, Me
+50
+Sonny & Cher
+It's The Little Things
+51
+Spanky And Our Gang
+Making Every Minute Count
+52
+The Sunshine Company
+Happy
+53
+Roy Orbison
+Cry Softly Lonely One
+54
+Ronnie Dove
+I Want To Love You For What You Are
+55
+Otis & Carla
+Knock On Wood
+56
+Gary Lewis And The Playboys
+Jill
+57
+The Esquires
+Get On Up
+58
+Martha & The Vandellas
+Love Bug Leave My Heart Alone
+59
+The Association
+Never My Love
+60
+Al Kent
+You've Got To Pay The Price
+61
+Harpers Bizarre
+Anything Goes
+62
+Herman's Hermits
+Museum
+63
+The Third Rail
+Run, Run, Run
+64
+Every Mothers' Son
+Put Your Mind At Ease
+65
+Oscar Toney, Jr.
+Turn On Your Love Light
+66
+Dyke And The Blazers
+Funky Broadway Part I
+67
+The Dave Clark Five
+A Little Bit Now
+68
+Frankie Laine
+Laura, What's He Got That I Ain't Got
+69
+Joe Tex
+A Woman's Hands
+70
+Frankie Valli
+I Make A Fool Of Myself
+71
+Bill Cosby
+Little Ole Man (Uptight-Everything's Alright)
+72
+Petula Clark
+The Cat In The Window (The Bird In The Sky)
+73
+Tom Jones
+Sixteen Tons
+74
+Elvis Presley With The Jordanaires
+There's Always Me
+75
+King Curtis
+Memphis Soul Stew
+76
+Ray Charles
+In The Heat Of The Night
+77
+The Lewis & Clarke Expedition
+I Feel Good (I Feel Bad)
+78
+Ruby Andrews
+Casonova (Your Playing Days Are Over)
+79
+Percy Sledge
+Just Out Of Reach (Of My Two Empty Arms)
+80
+Vikki Carr
+It Must Be Him
+81
+Brook Benton
+Laura (Tell Me What He's Got That I Ain't Got)
+82
+Aretha Franklin
+Take A Look
+83
+Soul Survivors
+Expressway (To Your Heart)
+84
+Jefferson Airplane
+Ballad Of You & Me & Pooneil
+85
+Eddy Arnold
+Turn The World Around
+86
+The Cryan' Shames
+It Could Be We're In Love
+87
+Bar-Kays
+Knucklehead
+88
+The Youngbloods
+Get Together
+89
+Leon Haywood
+It's Got To Be Mellow
+90
+The Impressions
+I Can't Stay Away From You
+91
+Patti Drew
+Tell Him
+92
+Barbra Streisand
+Stout-Hearted Men
+93
+The Jimi Hendrix Experience
+Purple Haze
+94
+Traffic featuring Stevie Winwood
+Paper Sun
+95
+The Cyrkle
+Penny Arcade
+96
+Dusty Springfield
+The Look Of Love
+97
+Syl Johnson
+Come On Sock It To Me
+98
+Gene Chandler
+There Goes The Lover
+99
+Betty Harris
+Nearer To You
+100
+The Association
+Requiem For The Masses
