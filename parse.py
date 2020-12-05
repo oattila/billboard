@@ -13,18 +13,6 @@ class Next(enum.Enum):
 
 shitFinder = re.compile(r'^[\w ()/.,?!&+\'"\-òà¿#;:*=$%\[\]@]+$')
 
-def Find(week):
-	filename = tools.GetTxtPath(week)
-
-	with open(filename, "r") as f: 
-		for line in f.readlines():
-			if line.lower().find("prince") != -1:
-				print(filename)
-				print(line)
-
-	return False
-
-
 def Fix(str):
 	str = str.replace("&#039;", "'")
 	str = str.replace("`", "'")
