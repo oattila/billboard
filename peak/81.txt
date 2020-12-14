@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 81, total 276 songs
+Hot 100 Songs with peak position = 81, total 277 songs
 
 1958
 
@@ -464,3 +464,4 @@ Hot 100 Songs with peak position = 81, total 276 songs
 274. YoungBoy Never Broke Again: The Last Backyard...
 275. Larray: Canceled
 276. King Von Featuring Lil Durk: Crazy Story 2.0
+277. Bad Bunny: Hoy Cobre

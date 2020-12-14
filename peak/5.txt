@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 5, total 423 songs
+Hot 100 Songs with peak position = 5, total 424 songs
 
 1958
 
@@ -611,3 +611,4 @@ Hot 100 Songs with peak position = 5, total 423 songs
 421. Lady Gaga: Stupid Love
 422. Justin Bieber Featuring Quavo: Intentions
 423. Juice WRLD: Wishing Well
+424. Bad Bunny & Jhay Cortez: Dakiti

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 72, total 282 songs
+Hot 100 Songs with peak position = 72, total 283 songs
 
 1958
 
@@ -467,3 +467,4 @@ Hot 100 Songs with peak position = 72, total 282 songs
 280. YoungBoy Never Broke Again: Dead Trollz
 281. Kelsea Ballerini: Hole In The Bottle
 282. BTS: Dis-ease
+283. Bad Bunny: Haciendo Que Me Amas

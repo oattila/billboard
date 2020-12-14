@@ -1,5 +1,5 @@
 import datetime
-import constants
+from . import constants
 
 MONDAY = 0
 SATURDAY = 5

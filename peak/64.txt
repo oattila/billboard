@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 64, total 275 songs
+Hot 100 Songs with peak position = 64, total 276 songs
 
 1958
 
@@ -460,3 +460,4 @@ Hot 100 Songs with peak position = 64, total 275 songs
 273. Meek Mill: Otherside Of America
 274. Sech, Daddy Yankee & J Balvin Featuring ROSALIA & Farruko: Relacion
 275. Future & Lil Uzi Vert: Marni On Me
+276. Bad Bunny: Yo Visto Asi

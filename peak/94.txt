@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 94, total 292 songs
+Hot 100 Songs with peak position = 94, total 293 songs
 
 1958
 
@@ -474,3 +474,4 @@ Hot 100 Songs with peak position = 94, total 292 songs
 290. Karol G: Ay, Dios Mio!
 291. Jason Derulo: Take You Dancing
 292. Megan Thee Stallion: Circles
+293. Bad Bunny: La Droga

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 30, total 245 songs
+Hot 100 Songs with peak position = 30, total 246 songs
 
 1958
 
@@ -430,3 +430,4 @@ Hot 100 Songs with peak position = 30, total 245 songs
 243. Polo G Featuring Juice WRLD: Flex
 244. Megan Thee Stallion Featuring Young Thug: Don't Stop
 245. Luke Combs: Better Together
+246. Kelly Clarkson: Underneath The Tree

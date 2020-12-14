@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 83, total 254 songs
+Hot 100 Songs with peak position = 83, total 255 songs
 
 1958
 
@@ -439,3 +439,4 @@ Hot 100 Songs with peak position = 83, total 254 songs
 252. Bryson Tiller: Always Forever
 253. The Kid LAROI: Always Do
 254. Morgan Wallen: Livin' The Dream
+255. Justin Bieber: Rockin' Around The Christmas Tree

@@ -1,10 +1,11 @@
-import chartdates
 import os
-import constants
 import re
-import tools
-import chartdates
 import enum
+
+from . import chartdates
+from . import constants
+from . import tools
+from . import chartdates
 
 class Next(enum.Enum):
 	RANK = 1

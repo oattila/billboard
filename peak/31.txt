@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 31, total 249 songs
+Hot 100 Songs with peak position = 31, total 248 songs
 
 1958
 
@@ -426,11 +426,10 @@ Hot 100 Songs with peak position = 31, total 249 songs
 
 2020
 
-242. Kelly Clarkson: Underneath The Tree
-243. Eminem Featuring Ed Sheeran: Those Kinda Nights
-244. Megan Thee Stallion: B.I.T.C.H.
-245. Lil Baby: Emotionally Scarred
-246. Travis Denning: After A Few
-247. Pop Smoke: Got It On Me
-248. Russell Dickerson: Love You Like I Used To
-249. Future & Lil Uzi Vert: Drankin N Smokin
+242. Eminem Featuring Ed Sheeran: Those Kinda Nights
+243. Megan Thee Stallion: B.I.T.C.H.
+244. Lil Baby: Emotionally Scarred
+245. Travis Denning: After A Few
+246. Pop Smoke: Got It On Me
+247. Russell Dickerson: Love You Like I Used To
+248. Future & Lil Uzi Vert: Drankin N Smokin

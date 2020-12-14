@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 87, total 268 songs
+Hot 100 Songs with peak position = 87, total 269 songs
 
 1958
 
@@ -450,3 +450,4 @@ Hot 100 Songs with peak position = 87, total 268 songs
 266. BTS: Filter
 267. Lil Uzi Vert Featuring Young Thug: Got The Guap
 268. VEDO: You Got It
+269. Bad Bunny: Maldita Pobreza

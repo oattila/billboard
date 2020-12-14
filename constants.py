@@ -1,7 +1,9 @@
 import datetime
+import os
 
-HTML_DIR = "html"
-TXT_DIR = "txt"
-PEAK_DIR = "peak"
+ROOT_DIR = os.path.dirname(os.path.realpath(__file__))
+HTML_DIR = ROOT_DIR + "/html"
+TXT_DIR = ROOT_DIR + "/txt"
+PEAK_DIR = ROOT_DIR + "/peak"
 FIRST_CHART_DATE = datetime.date(1958, 8, 4)
 BILLBOARD_URL = "https://www.billboard.com/charts/hot-100/"

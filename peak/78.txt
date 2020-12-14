@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 78, total 267 songs
+Hot 100 Songs with peak position = 78, total 268 songs
 
 1958
 
@@ -452,3 +452,4 @@ Hot 100 Songs with peak position = 78, total 267 songs
 265. Rod Wave: The Greatest
 266. Arcangel x Sech: Sigues Con El
 267. Gunna: Nasty Girl / On Camera
+268. Bad Bunny: Booker T

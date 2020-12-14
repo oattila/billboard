@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 8, total 385 songs
+Hot 100 Songs with peak position = 8, total 384 songs
 
 1958
 
@@ -571,5 +571,4 @@ Hot 100 Songs with peak position = 8, total 385 songs
 381. DJ Khaled Featuring Drake: Greece
 382. Juice WRLD & The Weeknd: Smile
 383. Ariana Grande: 34+35
-384. Bad Bunny & Jhay Cortez: Dakiti
-385. Shawn Mendes & Justin Bieber: Monster
+384. Shawn Mendes & Justin Bieber: Monster

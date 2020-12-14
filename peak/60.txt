@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 60, total 268 songs
+Hot 100 Songs with peak position = 60, total 269 songs
 
 1958
 
@@ -453,3 +453,4 @@ Hot 100 Songs with peak position = 60, total 268 songs
 266. Lil Uzi Vert Featuring Young Thug & Gunna: Strawberry Peels
 267. PARTYNEXTDOOR Featuring Drake: Loyal
 268. Keith Urban: God Whispered Your Name
+269. Bad Bunny: Te Mudaste

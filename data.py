@@ -1,7 +1,8 @@
-import tools
-import constants
 import datetime
 import sys
+
+from . import tools
+from . import constants
 
 def MakeId(artist, song):
 	return artist + song
@@ -23,7 +24,7 @@ class Database:
 
 		for filename in tools.GetAll(constants.TXT_DIR, "(\d\d\d\d-\d\d-\d\d.txt)"):
 			week = datetime.date.fromisoformat(filename.removesuffix(".txt"))
-			filename = "txt/" + filename
+			filename = constants.TXT_DIR + "/" + filename
 
 			with open(filename, "r") as f:
 				while True:
@@ -51,6 +52,9 @@ class Database:
 				p.topWeek = week
 
 			p.top = rank
+
+	def GetRandomSong(self):
+		return random.choice(self.songs.values())
 
 def MakePeakFile(db, rank):
 	filename = constants.PEAK_DIR + "/" + str(rank) + ".txt"

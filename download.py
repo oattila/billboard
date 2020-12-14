@@ -1,11 +1,12 @@
 import datetime
-import chartdates
-import os
-import constants
 import requests
 import time
-import tools
-import parse
+import os
+
+from . import chartdates
+from . import constants
+from . import tools
+from . import parse
 
 def GetMissingDates():
 	result = []
@@ -34,7 +35,8 @@ def Download(date):
 		parse.Parse(str(date), True)
 	except Exception as e:
 		print("Parsing failed for " + path + ": " + str(e))
-		#os.remove(path)
+		print("Chart probably not released yet. Removing " + path)
+		os.remove(path)
 
 	return True;
 
@@ -42,7 +44,6 @@ def main():
 	tools.EnsureDir(constants.HTML_DIR)
 
 	missingDates = GetMissingDates()
-
 	print(str(len(missingDates)) + " charts are missing")
 
 	for date in missingDates:

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 65, total 272 songs
+Hot 100 Songs with peak position = 65, total 273 songs
 
 1958
 
@@ -457,3 +457,4 @@ Hot 100 Songs with peak position = 65, total 272 songs
 270. Andrew Jannakos: Gone Too Soon
 271. Ariana Grande: My Hair
 272. NAV Featuring Lil Baby: Don't Need Friends
+273. Trey Lewis: Dicked Down In Dallas

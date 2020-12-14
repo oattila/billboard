@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 95, total 273 songs
+Hot 100 Songs with peak position = 95, total 274 songs
 
 1958
 
@@ -440,3 +440,4 @@ Hot 100 Songs with peak position = 95, total 273 songs
 271. Mulatto: B*tch From da Souf
 272. Big Sean Featuring Ty Dolla $ign & Jhene Aiko: Body Language
 273. Farruko: La Toxica
+274. Carrie Underwood: Favorite Time Of Year
