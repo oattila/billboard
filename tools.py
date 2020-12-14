@@ -2,12 +2,6 @@ import os
 import re
 from . import constants
 
-def GetDir():
-	result = os.path.dirname(os.path.realpath(__file__))
-	return result
-
-print(GetDir())
-
 def GetHtmlPath(week):
 	return constants.HTML_DIR + "/" + str(week) + ".html"
 
