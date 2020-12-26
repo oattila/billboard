@@ -465,6 +465,6 @@ Hot 100 Songs with peak position = 21, total 280 songs
 
 2020
 
-278. The Ronettes: Sleigh Ride
-279. The Weeknd: Alone Again
-280. StaySolidRocky: Party Girl
+278. The Weeknd: Alone Again
+279. StaySolidRocky: Party Girl
+280. Taylor Swift: Champagne Problems

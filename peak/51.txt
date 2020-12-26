@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 51, total 274 songs
+Hot 100 Songs with peak position = 51, total 275 songs
 
 1958
 
@@ -462,3 +462,4 @@ Hot 100 Songs with peak position = 51, total 274 songs
 272. Drake: Losses
 273. Juice WRLD: Man Of The Year
 274. J. Cole: Lion King On Ice
+275. CJ: Whoopty

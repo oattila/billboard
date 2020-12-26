@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 28, total 283 songs
+Hot 100 Songs with peak position = 28, total 282 songs
 
 1958
 
@@ -460,11 +460,10 @@ Hot 100 Songs with peak position = 28, total 283 songs
 
 2020
 
-276. Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra: It's Beginning To Look A Lot Like Christmas
-277. Eminem: Darkness
-278. YoungBoy Never Broke Again: Lil Top
-279. Lil Baby Featuring Future: Live Off My Closet
-280. Lil Uzi Vert: POP
-281. The Weeknd: Too Late
-282. Megan Thee Stallion: Girls In The Hood
-283. Machine Gun Kelly X blackbear: My Ex's Best Friend
+276. Eminem: Darkness
+277. YoungBoy Never Broke Again: Lil Top
+278. Lil Baby Featuring Future: Live Off My Closet
+279. Lil Uzi Vert: POP
+280. The Weeknd: Too Late
+281. Megan Thee Stallion: Girls In The Hood
+282. Machine Gun Kelly X blackbear: My Ex's Best Friend

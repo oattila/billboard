@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 82, total 266 songs
+Hot 100 Songs with peak position = 82, total 267 songs
 
 1958
 
@@ -445,3 +445,4 @@ Hot 100 Songs with peak position = 82, total 266 songs
 264. Future: One Of My
 265. Big Sean Featuring Nipsey Hussle: Deep Reverence
 266. Megan Thee Stallion: Shots Fired
+267. Taylor Swift: Closure

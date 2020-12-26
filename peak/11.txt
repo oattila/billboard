@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 11, total 324 songs
+Hot 100 Songs with peak position = 11, total 325 songs
 
 1958
 
@@ -512,3 +512,4 @@ Hot 100 Songs with peak position = 11, total 324 songs
 322. blackbear: Hot Girl Bummer
 323. Juice WRLD: Righteous
 324. Pop Smoke Featuring 50 Cent & Roddy Ricch: The Woo
+325. Dean Martin: Let It Snow, Let It Snow, Let It Snow

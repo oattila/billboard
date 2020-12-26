@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 91, total 376 songs
+Hot 100 Songs with peak position = 91, total 377 songs
 
 1959
 
@@ -558,3 +558,4 @@ Hot 100 Songs with peak position = 91, total 376 songs
 374. Anitta Featuring Cardi B & Myke Towers: Me Gusta
 375. Machine Gun Kelly: Drunk Face
 376. 21 Savage & Metro Boomin: Said N Done
+377. Kid Cudi: Damaged

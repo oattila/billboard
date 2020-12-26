@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 36, total 270 songs
+Hot 100 Songs with peak position = 36, total 269 songs
 
 1958
 
@@ -450,11 +450,10 @@ Hot 100 Songs with peak position = 36, total 270 songs
 
 2020
 
-263. Chuck Berry: Run Rudolph Run
-264. Eminem Featuring Young M.A: Unaccommodating
-265. Lil Uzi Vert: You Better Move
-266. Sam Smith & Demi Lovato: I'm Ready
-267. Thomas Rhett Featuring Jon Pardi: Beer Can't Fix
-268. Marshmello & Demi Lovato: OK Not To Be OK
-269. Blake Shelton Featuring Gwen Stefani: Happy Anywhere
-270. Parker McCollum: Pretty Heart
+263. Eminem Featuring Young M.A: Unaccommodating
+264. Lil Uzi Vert: You Better Move
+265. Sam Smith & Demi Lovato: I'm Ready
+266. Thomas Rhett Featuring Jon Pardi: Beer Can't Fix
+267. Marshmello & Demi Lovato: OK Not To Be OK
+268. Blake Shelton Featuring Gwen Stefani: Happy Anywhere
+269. Parker McCollum: Pretty Heart

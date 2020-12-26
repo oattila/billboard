@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 52, total 285 songs
+Hot 100 Songs with peak position = 52, total 286 songs
 
 1958
 
@@ -467,3 +467,4 @@ Hot 100 Songs with peak position = 52, total 285 songs
 283. J. Cole: The Climb Back
 284. Yung Bleu Featuring Drake: You're Mines Still
 285. Ariana Grande Featuring Ty Dolla $ign: Safety Net
+286. Taylor Swift: Happiness

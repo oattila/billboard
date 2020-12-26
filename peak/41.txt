@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 41, total 254 songs
+Hot 100 Songs with peak position = 41, total 256 songs
 
 1958
 
@@ -433,3 +433,5 @@ Hot 100 Songs with peak position = 41, total 254 songs
 252. Pop Smoke: Something Special
 253. Chris Janson: Done
 254. Maroon 5: Nobody's Love
+255. Lil Baby: Errbody
+256. Kid Cudi: Tequila Shots

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 63, total 279 songs
+Hot 100 Songs with peak position = 63, total 281 songs
 
 1958
 
@@ -461,3 +461,5 @@ Hot 100 Songs with peak position = 63, total 279 songs
 277. J Balvin, Dua Lipa, Bad Bunny & Tainy: Un Dia (One Day)
 278. Chloe X Halle: Do It
 279. Ariana Grande: Six Thirty
+280. The Kid LAROI: Without You
+281. Taylor Swift Featuring The National: Coney Island

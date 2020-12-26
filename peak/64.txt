@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 64, total 276 songs
+Hot 100 Songs with peak position = 64, total 277 songs
 
 1958
 
@@ -461,3 +461,4 @@ Hot 100 Songs with peak position = 64, total 276 songs
 274. Sech, Daddy Yankee & J Balvin Featuring ROSALIA & Farruko: Relacion
 275. Future & Lil Uzi Vert: Marni On Me
 276. Bad Bunny: Yo Visto Asi
+277. Kid Cudi: Another Day

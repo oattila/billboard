@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 40, total 243 songs
+Hot 100 Songs with peak position = 40, total 244 songs
 
 1958
 
@@ -419,3 +419,4 @@ Hot 100 Songs with peak position = 40, total 243 songs
 241. Florida Georgia Line: I Love My Country
 242. Ariana Grande: pov
 243. Sam Smith: Diamonds
+244. Taylor Swift: Gold Rush

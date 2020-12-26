@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 74, total 254 songs
+Hot 100 Songs with peak position = 74, total 255 songs
 
 1958
 
@@ -436,3 +436,4 @@ Hot 100 Songs with peak position = 74, total 254 songs
 252. Harry Styles: Golden
 253. DaBaby Featuring Young Thug: Blind
 254. Bad Bunny: Te Deseo Lo Mejor
+255. Jack Harlow Featuring Big Sean: Way Out

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 7, total 411 songs
+Hot 100 Songs with peak position = 7, total 410 songs
 
 1958
 
@@ -596,6 +596,5 @@ Hot 100 Songs with peak position = 7, total 411 songs
 
 2020
 
-409. Andy Williams: It's The Most Wonderful Time Of The Year
-410. Drake Featuring Playboi Carti: Pain 1993
-411. Juice WRLD: Conversations
+409. Drake Featuring Playboi Carti: Pain 1993
+410. Juice WRLD: Conversations

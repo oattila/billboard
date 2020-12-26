@@ -1,5 +1,6 @@
 import datetime
 import sys
+import random
 
 from . import tools
 from . import constants
@@ -16,7 +17,7 @@ class Song:
 		self.topWeek = None
 
 	def __str__(self):
-		return self.artist + ": " + self.name
+		return f'{self.artist}: {self.name} ({self.top}. {self.topWeek})'
 
 class Database:
 	def __init__(self):
@@ -54,10 +55,11 @@ class Database:
 			p.top = rank
 
 	def GetRandomSong(self):
-		return random.choice(self.songs.values())
+		return random.choice(list(self.songs.values()))
 
-def MakePeakFile(db, rank):
-	filename = constants.PEAK_DIR + "/" + str(rank) + ".txt"
+def MakePeakFile(db, rank, pretty):
+	suffix = "" if pretty else "_raw"
+	filename = constants.PEAK_DIR + "/" + str(rank) + suffix + ".txt"
 
 	with open(filename, "w") as f: 
 		list = []
@@ -68,7 +70,8 @@ def MakePeakFile(db, rank):
 
 		list.sort(key = lambda song: song.topWeek)
 
-		f.write("Hot 100 Songs with peak position = " + str(rank) + ", total " + str(len(list)) + " songs\n")
+		if pretty:
+			f.write("Hot 100 Songs with peak position = " + str(rank) + ", total " + str(len(list)) + " songs\n")
 
 		i = 0
 		year = 0
@@ -76,10 +79,16 @@ def MakePeakFile(db, rank):
 		for song in list:
 			if song.topWeek.year != year:
 				year = song.topWeek.year
-				f.write("\n" + str(year) + "\n\n")
+
+				if pretty:
+					f.write("\n" + str(year) + "\n\n")
 
 			i = i + 1
-			f.write(str(i) + ". " + song.artist + ": " + song.name + "\n")
+
+			if pretty:
+				f.write(str(i) + ". " + song.artist + ": " + song.name + "\n")
+			else:
+				f.write(song.artist + "\n" + song.name +"\n")
 
 		return len(list)
 
@@ -88,7 +97,8 @@ def main():
 
 	with open(constants.PEAK_DIR + "/counts.txt", "w") as f:
 		for i in range(1, 101):
-			count = MakePeakFile(db, i)
+			count = MakePeakFile(db, i, False)
+			count = MakePeakFile(db, i, True)
 			f.write(str(count) + "\n")
 
 if __name__ == "__main__":

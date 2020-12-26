@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 10, total 380 songs
+Hot 100 Songs with peak position = 10, total 381 songs
 
 1958
 
@@ -565,3 +565,4 @@ Hot 100 Songs with peak position = 10, total 380 songs
 378. Lil Baby & 42 Dugg: We Paid
 379. Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI: Hate The Other Side
 380. 21 Savage & Metro Boomin Featuring Drake: Mr. Right Now
+381. Jose Feliciano: Feliz Navidad

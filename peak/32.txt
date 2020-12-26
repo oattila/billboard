@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 32, total 256 songs
+Hot 100 Songs with peak position = 32, total 257 songs
 
 1958
 
@@ -438,3 +438,4 @@ Hot 100 Songs with peak position = 32, total 256 songs
 254. Future Featuring Travis Scott: Solitaires
 255. 21 Savage & Metro Boomin: Slidin
 256. Ariana Grande Featuring Doja Cat: Motive
+257. Ariana Grande: Santa Tell Me

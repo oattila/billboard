@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 97, total 276 songs
+Hot 100 Songs with peak position = 97, total 275 songs
 
 1958
 
@@ -445,4 +445,3 @@ Hot 100 Songs with peak position = 97, total 276 songs
 273. Tory Lanez: Money Over Fallouts
 274. T.I. Featuring Lil Baby: Pardon
 275. Future: Rockstar Chainz
-276. Karol G: Bichota

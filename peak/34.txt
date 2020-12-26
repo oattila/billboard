@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 34, total 247 songs
+Hot 100 Songs with peak position = 34, total 248 songs
 
 1958
 
@@ -432,3 +432,4 @@ Hot 100 Songs with peak position = 34, total 247 songs
 245. Pop Smoke Featuring Quavo: Aim For The Moon
 246. Juice WRLD: Stay High
 247. Jack Harlow: Tyler Herro
+248. Taylor Swift Featuring HAIM: No Body, No Crime

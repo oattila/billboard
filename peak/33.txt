@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 33, total 247 songs
+Hot 100 Songs with peak position = 33, total 248 songs
 
 1958
 
@@ -429,3 +429,4 @@ Hot 100 Songs with peak position = 33, total 247 songs
 245. BLACKPINK: How You Like That
 246. 21 Savage & Metro Boomin: Many Men
 247. HARDY Featuring Lauren Alaina & Devin Dawson: One Beer
+248. Michael Buble: It's Beginning To Look A Lot Like Christmas

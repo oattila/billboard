@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 1, total 1114 songs
+Hot 100 Songs with peak position = 1, total 1115 songs
 
 1958
 
@@ -1302,3 +1302,4 @@ Hot 100 Songs with peak position = 1, total 1114 songs
 1112. 24kGoldn Featuring iann dior: Mood
 1113. Ariana Grande: Positions
 1114. BTS: Life Goes On
+1115. Taylor Swift: Willow

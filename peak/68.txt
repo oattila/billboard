@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 68, total 263 songs
+Hot 100 Songs with peak position = 68, total 264 songs
 
 1958
 
@@ -448,3 +448,4 @@ Hot 100 Songs with peak position = 68, total 263 songs
 261. Kehlani: Toxic
 262. Future: Hard To Choose One
 263. Future & Lil Uzi Vert: Sleeping On The Floor
+264. Taylor Swift: Long Story Short

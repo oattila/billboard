@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 84, total 282 songs
+Hot 100 Songs with peak position = 84, total 283 songs
 
 1958
 
@@ -467,3 +467,4 @@ Hot 100 Songs with peak position = 84, total 282 songs
 280. Bryson Tiller: Years Go By
 281. Luke Combs: Cold As You
 282. NAV With Gunna: Young Wheezy
+283. Carrie Underwood & John Legend: Hallelujah

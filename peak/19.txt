@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 19, total 253 songs
+Hot 100 Songs with peak position = 19, total 254 songs
 
 1958
 
@@ -438,3 +438,4 @@ Hot 100 Songs with peak position = 19, total 253 songs
 251. A$AP Ferg Featuring  Nicki Minaj & MadeinTYO: Move Ya Hips
 252. 21 Savage & Metro Boomin: Glock In My Lap
 253. Kane Brown With Swae Lee & Khalid: Be Like That
+254. The Ronettes: Sleigh Ride

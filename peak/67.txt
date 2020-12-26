@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 67, total 271 songs
+Hot 100 Songs with peak position = 67, total 272 songs
 
 1958
 
@@ -456,3 +456,4 @@ Hot 100 Songs with peak position = 67, total 271 songs
 269. Gunna: Argentina
 270. YoungBoy Never Broke Again: All In
 271. Future & Lil Uzi Vert: Million Dollar Play
+272. Taylor Swift: Dorothea

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 78, total 268 songs
+Hot 100 Songs with peak position = 78, total 269 songs
 
 1958
 
@@ -453,3 +453,4 @@ Hot 100 Songs with peak position = 78, total 268 songs
 266. Arcangel x Sech: Sigues Con El
 267. Gunna: Nasty Girl / On Camera
 268. Bad Bunny: Booker T
+269. Kid Cudi: Mr. Solo Dolo III

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 66, total 254 songs
+Hot 100 Songs with peak position = 66, total 253 songs
 
 1958
 
@@ -432,4 +432,3 @@ Hot 100 Songs with peak position = 66, total 254 songs
 251. ROSALIA & Travis Scott: TKN
 252. Ne-Yo & Jeremih: U 2 Luv
 253. King Von Featuring Polo G: The Code
-254. CJ: Whoopty

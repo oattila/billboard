@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 76, total 271 songs
+Hot 100 Songs with peak position = 76, total 272 songs
 
 1958
 
@@ -456,3 +456,4 @@ Hot 100 Songs with peak position = 76, total 271 songs
 269. 21 Savage & Metro Boomin: RIP Luv
 270. Saweetie Featuring Jhene Aiko: Back To The Streets
 271. The Kid LAROI Featuring YoungBoy Never Brok Again & Internet Money: Tragic
+272. Mariah Carey Featuring Ariana Grande & Jennifer Hudson: Oh Santa!

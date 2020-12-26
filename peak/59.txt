@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 59, total 240 songs
+Hot 100 Songs with peak position = 59, total 241 songs
 
 1958
 
@@ -425,3 +425,4 @@ Hot 100 Songs with peak position = 59, total 240 songs
 238. Gunna Featuring Lil Baby: Blindfold
 239. BLACKPINK: Lovesick Girls
 240. The Kid LAROI: So Done
+241. Kelly Clarkson & Brett Eldredge: Under The Mistletoe

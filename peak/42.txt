@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 42, total 282 songs
+Hot 100 Songs with peak position = 42, total 281 songs
 
 1958
 
@@ -424,49 +424,48 @@ Hot 100 Songs with peak position = 42, total 282 songs
 
 2015
 
-252. Ariana Grande: Santa Tell Me
-253. Empire Cast Featuring Estelle & Jussie Smollett: Conqueror
-254. Justin Bieber: Mark My Words
+252. Empire Cast Featuring Estelle & Jussie Smollett: Conqueror
+253. Justin Bieber: Mark My Words
 
 2016
 
-255. Carrie Underwood: Heartbeat
-256. Iggy Azalea: Team
-257. Disturbed: The Sound Of Silence
-258. Dierks Bentley Featuring Elle King: Different For Girls
+254. Carrie Underwood: Heartbeat
+255. Iggy Azalea: Team
+256. Disturbed: The Sound Of Silence
+257. Dierks Bentley Featuring Elle King: Different For Girls
 
 2017
 
-259. Blake Shelton: A Guy With A Girl
-260. Kendrick Lamar: Lust.
-261. Fifth Harmony Featuring Gucci Mane: Down
+258. Blake Shelton: A Guy With A Girl
+259. Kendrick Lamar: Lust.
+260. Fifth Harmony Featuring Gucci Mane: Down
 
 2018
 
-262. YoungBoy Never Broke Again: Overdose
-263. KIDS SEE GHOSTS Featuring Louis Prima: 4th Dimension
-264. XXXTENTACION: Everybody Dies In Their Nightmares
-265. Drake: Finesse
-266. Foster The People: Sit Next To Me
-267. Nicki Minaj Featuring Ariana Grande: Bed
-268. Eminem: Stepping Stone
-269. Metro Boomin Featuring 21 Savage: 10 Freaky Girls
+261. YoungBoy Never Broke Again: Overdose
+262. KIDS SEE GHOSTS Featuring Louis Prima: 4th Dimension
+263. XXXTENTACION: Everybody Dies In Their Nightmares
+264. Drake: Finesse
+265. Foster The People: Sit Next To Me
+266. Nicki Minaj Featuring Ariana Grande: Bed
+267. Eminem: Stepping Stone
+268. Metro Boomin Featuring 21 Savage: 10 Freaky Girls
 
 2019
 
-270. John & Yoko/The Plastic Ono Band With The Harlem Community Choir: Happy Xmas (War Is Over)
-271. Thomas Rhett: Sixteen
-272. Scotty McCreery: This Is It
-273. YNW Melly Featuring Kanye West: Mixed Personalities
-274. Brett Young: Here Tonight
-275. Summer Walker & Usher: Come Thru
+269. John & Yoko/The Plastic Ono Band With The Harlem Community Choir: Happy Xmas (War Is Over)
+270. Thomas Rhett: Sixteen
+271. Scotty McCreery: This Is It
+272. YNW Melly Featuring Kanye West: Mixed Personalities
+273. Brett Young: Here Tonight
+274. Summer Walker & Usher: Come Thru
 
 2020
 
-276. Jon Pardi: Heartache Medication
-277. Karol G & Nicki Minaj: Tusa
-278. Juice WRLD: Up Up And Away
-279. Taylor Swift: Betty
-280. Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban: Be A Light
-281. Dan + Shay: I Should Probably Go To Bed
-282. Chris Lane: Big, Big Plans
+275. Jon Pardi: Heartache Medication
+276. Karol G & Nicki Minaj: Tusa
+277. Juice WRLD: Up Up And Away
+278. Taylor Swift: Betty
+279. Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban: Be A Light
+280. Dan + Shay: I Should Probably Go To Bed
+281. Chris Lane: Big, Big Plans

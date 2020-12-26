@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 85, total 234 songs
+Hot 100 Songs with peak position = 85, total 235 songs
 
 1958
 
@@ -416,3 +416,4 @@ Hot 100 Songs with peak position = 85, total 234 songs
 232. DaBaby: CHAMPION
 233. Kenny Chesney: Happy Does
 234. Thomas Rhett: What's Your Country Song
+235. Kid Cudi: Heaven On Earth
