@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 71, total 297 songs
+Hot 100 Songs with peak position = 71, total 295 songs
 
 1958
 
@@ -482,6 +482,4 @@ Hot 100 Songs with peak position = 71, total 297 songs
 292. G-Eazy Featuring blackbear: Hate The Way
 293. Ariana Grande: West Side
 294. Niko Moon: Good Time
-295. Megan Thee Stallion Featuring DaBaby: Cry Baby
-296. Justin Bieber: Rockin' Around The Christmas Tree
-297. Taylor Swift: Cowboy Like Me
+295. Taylor Swift: Cowboy Like Me

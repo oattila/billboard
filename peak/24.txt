@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 24, total 247 songs
+Hot 100 Songs with peak position = 24, total 246 songs
 
 1958
 
@@ -418,8 +418,7 @@ Hot 100 Songs with peak position = 24, total 247 songs
 
 2020
 
-243. Andy Williams: Happy Holiday / The Holiday Season
-244. Justin Bieber Featuring Post Malone & Clever: Forever
-245. Jhene Aiko Featuring H.E.R.: B.S.
-246. The Weeknd: Scared To Live
-247. AJR: Bang!
+243. Justin Bieber Featuring Post Malone & Clever: Forever
+244. Jhene Aiko Featuring H.E.R.: B.S.
+245. The Weeknd: Scared To Live
+246. AJR: Bang!

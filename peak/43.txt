@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 43, total 260 songs
+Hot 100 Songs with peak position = 43, total 261 songs
 
 1958
 
@@ -448,3 +448,7 @@ Hot 100 Songs with peak position = 43, total 260 songs
 258. Lil Durk Featuring Lil Baby & Polo G: 3 Headed Goat
 259. Pop Smoke: Yea Yea
 260. Ariana Grande: Just Like Magic
+
+2021
+
+261. Nat King Cole: Deck The Halls

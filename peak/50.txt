@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 50, total 263 songs
+Hot 100 Songs with peak position = 50, total 264 songs
 
 1958
 
@@ -448,3 +448,7 @@ Hot 100 Songs with peak position = 50, total 263 songs
 261. Machine Gun Kelly: Bloody Valentine
 262. Tate McRae: You Broke Me First.
 263. Future & Lil Uzi Vert: That's It
+
+2021
+
+264. Bing Crosby: I'll Be Home For Christmas

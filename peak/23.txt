@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 23, total 275 songs
+Hot 100 Songs with peak position = 23, total 276 songs
 
 1958
 
@@ -463,3 +463,7 @@ Hot 100 Songs with peak position = 23, total 275 songs
 273. Taylor Swift: August
 274. Luke Combs: Lovin' On You
 275. surf mesa Featuring Emilee: ily
+
+2021
+
+276. Michael Buble: It's Beginning To Look A Lot Like Christmas

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 61, total 266 songs
+Hot 100 Songs with peak position = 61, total 267 songs
 
 1958
 
@@ -451,3 +451,7 @@ Hot 100 Songs with peak position = 61, total 266 songs
 264. Polo G: Martin & Gina
 265. 21 Savage & Metro Boomin Featuring Young Nudy: Snitches & Rats
 266. Taylor Swift: Ivy
+
+2021
+
+267. Justin Bieber: Rockin' Around The Christmas Tree

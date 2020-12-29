@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 39, total 262 songs
+Hot 100 Songs with peak position = 39, total 263 songs
 
 1958
 
@@ -444,3 +444,7 @@ Hot 100 Songs with peak position = 39, total 262 songs
 260. Pop Smoke: 44 Bulldog
 261. Taylor Swift: This Is Me Trying
 262. Taylor Swift: 'Tis The Damn Season
+
+2021
+
+263. Donny Hathaway: This Christmas

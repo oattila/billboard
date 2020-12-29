@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 29, total 275 songs
+Hot 100 Songs with peak position = 29, total 273 songs
 
 1958
 
@@ -453,10 +453,8 @@ Hot 100 Songs with peak position = 29, total 275 songs
 
 2020
 
-269. Darlene Love: Christmas (Baby Please Come Home)
-270. Brett Young: Catch
-271. Marshmello & Halsey: Be Kind
-272. SZA Featuring Ty Dolla $ign: Hit Different
-273. Kane Brown: Cool Again
-274. Jameson Rodgers: Some Girls
-275. Chuck Berry: Run Rudolph Run
+269. Brett Young: Catch
+270. Marshmello & Halsey: Be Kind
+271. SZA Featuring Ty Dolla $ign: Hit Different
+272. Kane Brown: Cool Again
+273. Jameson Rodgers: Some Girls

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 62, total 278 songs
+Hot 100 Songs with peak position = 62, total 279 songs
 
 1958
 
@@ -463,3 +463,7 @@ Hot 100 Songs with peak position = 62, total 278 songs
 276. Rod Wave: Letter From Houston
 277. Lil Durk: The Voice
 278. Keith Urban Duet With P!nk: One Too Many
+
+2021
+
+279. Carrie Underwood: Favorite Time Of Year

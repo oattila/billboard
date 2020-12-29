@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 12, total 334 songs
+Hot 100 Songs with peak position = 12, total 335 songs
 
 1958
 
@@ -522,3 +522,7 @@ Hot 100 Songs with peak position = 12, total 334 songs
 332. Maluma & The Weeknd: Hawai
 333. Megan Thee Stallion: Body
 334. Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra: It's Beginning To Look A Lot Like Christmas
+
+2021
+
+335. Kelly Clarkson: Underneath The Tree

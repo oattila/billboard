@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 9, total 374 songs
+Hot 100 Songs with peak position = 9, total 375 songs
 
 1958
 
@@ -562,3 +562,7 @@ Hot 100 Songs with peak position = 9, total 374 songs
 372. Chris Brown & Young Thug: Go Crazy
 373. Lewis Capaldi: Before You Go
 374. 21 Savage & Metro Boomin: Runnin
+
+2021
+
+375. Wham!: Last Christmas

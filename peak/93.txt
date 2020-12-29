@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 93, total 304 songs
+Hot 100 Songs with peak position = 93, total 305 songs
 
 1958
 
@@ -480,3 +480,7 @@ Hot 100 Songs with peak position = 93, total 304 songs
 302. Polo G: 33
 303. Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka: La Jeepeta
 304. Darius Rucker: Beers And Sunshine
+
+2021
+
+305. Lil Durk: Backdoor

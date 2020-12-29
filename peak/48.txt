@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 48, total 255 songs
+Hot 100 Songs with peak position = 48, total 256 songs
 
 1958
 
@@ -440,3 +440,7 @@ Hot 100 Songs with peak position = 48, total 255 songs
 253. Lil Baby & 42 Dugg: Grace
 254. Bryson Tiller Featuring Drake: Outta Time
 255. Matt Stell: Everywhere But On
+
+2021
+
+256. Dan + Shay: Take Me Home For Christmas

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 80, total 242 songs
+Hot 100 Songs with peak position = 80, total 241 songs
 
 1958
 
@@ -419,5 +419,4 @@ Hot 100 Songs with peak position = 80, total 242 songs
 238. Sleepy Hallow: Deep End Freestyle
 239. Lil Tecca & Lil Uzi Vert: Dolly
 240. Trippie Redd: Weeeeee
-241. Carrie Underwood: Favorite Time Of Year
-242. Kid Cudi: Dive
+241. Kid Cudi: Dive

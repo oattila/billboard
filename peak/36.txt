@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 36, total 269 songs
+Hot 100 Songs with peak position = 36, total 270 songs
 
 1958
 
@@ -457,3 +457,7 @@ Hot 100 Songs with peak position = 36, total 269 songs
 267. Marshmello & Demi Lovato: OK Not To Be OK
 268. Blake Shelton Featuring Gwen Stefani: Happy Anywhere
 269. Parker McCollum: Pretty Heart
+
+2021
+
+270. Bing Crosby & The Andrews Sisters: Mele Kalikimaka (Merry Christmas)

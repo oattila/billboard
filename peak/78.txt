@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 78, total 269 songs
+Hot 100 Songs with peak position = 78, total 270 songs
 
 1958
 
@@ -454,3 +454,7 @@ Hot 100 Songs with peak position = 78, total 269 songs
 267. Gunna: Nasty Girl / On Camera
 268. Bad Bunny: Booker T
 269. Kid Cudi: Mr. Solo Dolo III
+
+2021
+
+270. Gabby Barrett: The First Noel

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 8, total 384 songs
+Hot 100 Songs with peak position = 8, total 385 songs
 
 1958
 
@@ -572,3 +572,7 @@ Hot 100 Songs with peak position = 8, total 384 songs
 382. Juice WRLD & The Weeknd: Smile
 383. Ariana Grande: 34+35
 384. Shawn Mendes & Justin Bieber: Monster
+
+2021
+
+385. Dean Martin: Let It Snow, Let It Snow, Let It Snow

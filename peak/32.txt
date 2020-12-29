@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 32, total 257 songs
+Hot 100 Songs with peak position = 32, total 256 songs
 
 1958
 
@@ -425,17 +425,19 @@ Hot 100 Songs with peak position = 32, total 257 songs
 
 2019
 
-247. Perry Como: (There's No Place Like) Home For The Holidays
-248. Pinkfong: Baby Shark
-249. Thomas Rhett: Look What God Gave Her
-250. Young Thug Featuring Lil Baby: Bad Bad Bad
+247. Pinkfong: Baby Shark
+248. Thomas Rhett: Look What God Gave Her
+249. Young Thug Featuring Lil Baby: Bad Bad Bad
 
 2020
 
-251. Bad Bunny: Si Veo A Tu Mama
-252. The Weeknd: Snowchild
-253. Drake: Deep Pockets
-254. Future Featuring Travis Scott: Solitaires
-255. 21 Savage & Metro Boomin: Slidin
-256. Ariana Grande Featuring Doja Cat: Motive
-257. Ariana Grande: Santa Tell Me
+250. Bad Bunny: Si Veo A Tu Mama
+251. The Weeknd: Snowchild
+252. Drake: Deep Pockets
+253. Future Featuring Travis Scott: Solitaires
+254. 21 Savage & Metro Boomin: Slidin
+255. Ariana Grande Featuring Doja Cat: Motive
+
+2021
+
+256. Thurl Ravenscroft: You're A Mean One, Mr. Grinch

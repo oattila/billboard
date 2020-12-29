@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 26, total 259 songs
+Hot 100 Songs with peak position = 26, total 260 songs
 
 1958
 
@@ -444,3 +444,7 @@ Hot 100 Songs with peak position = 26, total 259 songs
 257. Miranda Lambert: Bluebird
 258. Taylor Swift: Mirrorball
 259. 21 Savage & Metro Boomin Featuring Young Thug: Rich N*gga Sh*t
+
+2021
+
+260. Gene Autry: Here Comes Santa Claus (Right Down Santa Claus Lane)

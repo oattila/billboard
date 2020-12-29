@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 100, total 185 songs
+Hot 100 Songs with peak position = 100, total 184 songs
 
 1958
 
@@ -302,5 +302,4 @@ Hot 100 Songs with peak position = 100, total 185 songs
 181. Kane Brown: Worldwide Beautiful
 182. Little Big Town: Wine, Beer, Whiskey
 183. Future & Lil Uzi Vert: Bought A Bad Bitch
-184. Carrie Underwood: Silent Night
-185. Kid Cudi: Beautiful Trip
+184. Kid Cudi: Beautiful Trip

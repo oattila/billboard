@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 89, total 258 songs
+Hot 100 Songs with peak position = 89, total 257 songs
 
 1958
 
@@ -438,5 +438,4 @@ Hot 100 Songs with peak position = 89, total 258 songs
 254. Lil Uzi Vert Featuring Young Nudy: Money Spread
 255. Kane Brown & John Legend: Last Time I Say Sorry
 256. Zayn: Better
-257. Karol G: Bichota
-258. The Kid LAROI & Juice WRLD: Reminds Me Of You
+257. The Kid LAROI & Juice WRLD: Reminds Me Of You

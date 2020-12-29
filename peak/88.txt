@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 88, total 273 songs
+Hot 100 Songs with peak position = 88, total 274 songs
 
 1958
 
@@ -461,3 +461,7 @@ Hot 100 Songs with peak position = 88, total 273 songs
 271. Polo G: Don't Believe The Hype
 272. Kygo & OneRepublic: Lose Somebody
 273. YoungBoy Never Broke Again: Right Foot Creep
+
+2021
+
+274. Karol G: Bichota

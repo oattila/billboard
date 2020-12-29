@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 54, total 296 songs
+Hot 100 Songs with peak position = 54, total 297 songs
 
 1958
 
@@ -481,3 +481,7 @@ Hot 100 Songs with peak position = 54, total 296 songs
 294. Future & Lil Uzi Vert: Real Baby Pluto
 295. Miley Cyrus Featuring Dua Lipa: Prisoner
 296. Kid Cudi, Skepta & Pop Smoke: Show Out
+
+2021
+
+297. Carrie Underwood & John Legend: Hallelujah

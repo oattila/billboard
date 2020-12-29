@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 5, total 424 songs
+Hot 100 Songs with peak position = 5, total 425 songs
 
 1958
 
@@ -612,3 +612,7 @@ Hot 100 Songs with peak position = 5, total 424 songs
 422. Justin Bieber Featuring Quavo: Intentions
 423. Juice WRLD: Wishing Well
 424. Bad Bunny & Jhay Cortez: Dakiti
+
+2021
+
+425. Andy Williams: It's The Most Wonderful Time Of The Year

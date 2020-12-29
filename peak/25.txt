@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 25, total 264 songs
+Hot 100 Songs with peak position = 25, total 263 songs
 
 1958
 
@@ -442,4 +442,3 @@ Hot 100 Songs with peak position = 25, total 264 songs
 261. Pop Smoke: What You Know Bout Love
 262. Chris Stapleton: Starting Over
 263. Morgan Wallen: Somebody's Problem
-264. Kelly Clarkson: Underneath The Tree

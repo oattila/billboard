@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 45, total 244 songs
+Hot 100 Songs with peak position = 45, total 243 songs
 
 1958
 
@@ -418,5 +418,4 @@ Hot 100 Songs with peak position = 45, total 244 songs
 240. The Weeknd: Faith
 241. Lil Baby: All In
 242. Drake: From Florida With Love
-243. Paul McCartney: Wonderful Christmastime
-244. Taylor Swift: Tolerate It
+243. Taylor Swift: Tolerate It

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 40, total 244 songs
+Hot 100 Songs with peak position = 40, total 243 songs
 
 1958
 
@@ -407,16 +407,15 @@ Hot 100 Songs with peak position = 40, total 244 songs
 
 2019
 
-235. Elvis Presley: Blue Christmas
-236. Pardison Fontaine Featuring Cardi B: Backin' It Up
-237. Jason Aldean: Rearview Town
+235. Pardison Fontaine Featuring Cardi B: Backin' It Up
+236. Jason Aldean: Rearview Town
 
 2020
 
-238. Lady Antebellum: What If I Never Get Over You
-239. Jhene Aiko: P*$$y Fairy (OTW)
-240. Katy Perry: Daisies
-241. Florida Georgia Line: I Love My Country
-242. Ariana Grande: pov
-243. Sam Smith: Diamonds
-244. Taylor Swift: Gold Rush
+237. Lady Antebellum: What If I Never Get Over You
+238. Jhene Aiko: P*$$y Fairy (OTW)
+239. Katy Perry: Daisies
+240. Florida Georgia Line: I Love My Country
+241. Ariana Grande: pov
+242. Sam Smith: Diamonds
+243. Taylor Swift: Gold Rush

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 13, total 314 songs
+Hot 100 Songs with peak position = 13, total 315 songs
 
 1958
 
@@ -502,3 +502,7 @@ Hot 100 Songs with peak position = 13, total 314 songs
 312. BLACKPINK X Selena Gomez: Ice Cream
 313. Ava Max: Kings & Queens
 314. BTS: Blue & Grey
+
+2021
+
+315. The Ronettes: Sleigh Ride

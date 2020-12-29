@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 60, total 269 songs
+Hot 100 Songs with peak position = 60, total 270 songs
 
 1958
 
@@ -454,3 +454,7 @@ Hot 100 Songs with peak position = 60, total 269 songs
 267. PARTYNEXTDOOR Featuring Drake: Loyal
 268. Keith Urban: God Whispered Your Name
 269. Bad Bunny: Te Mudaste
+
+2021
+
+270. Eminem: Gnat

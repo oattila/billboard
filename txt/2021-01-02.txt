@@ -1,0 +1,300 @@
+1
+Mariah Carey
+All I Want For Christmas Is You
+2
+Brenda Lee
+Rockin' Around The Christmas Tree
+3
+Bobby Helms
+Jingle Bell Rock
+4
+Burl Ives
+A Holly Jolly Christmas
+5
+Andy Williams
+It's The Most Wonderful Time Of The Year
+6
+Jose Feliciano
+Feliz Navidad
+7
+24kGoldn Featuring iann dior
+Mood
+8
+Dean Martin
+Let It Snow, Let It Snow, Let It Snow
+9
+Wham!
+Last Christmas
+10
+Chuck Berry
+Run Rudolph Run
+11
+Nat King Cole
+The Christmas Song (Merry Christmas To You)
+12
+Kelly Clarkson
+Underneath The Tree
+13
+The Ronettes
+Sleigh Ride
+14
+Ariana Grande
+Positions
+15
+Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra
+It's Beginning To Look A Lot Like Christmas
+16
+Gene Autry
+Rudolph The Red-Nosed Reindeer
+17
+Ariana Grande
+Santa Tell Me
+18
+Andy Williams
+Happy Holiday / The Holiday Season
+19
+Darlene Love
+Christmas (Baby Please Come Home)
+20
+Bing Crosby
+White Christmas
+21
+Justin Bieber Featuring Chance The Rapper
+Holy
+22
+Perry Como
+(There's No Place Like) Home For The Holidays
+23
+Michael Buble
+It's Beginning To Look A Lot Like Christmas
+24
+Chris Brown & Young Thug
+Go Crazy
+25
+Drake Featuring Lil Durk
+Laugh Now Cry Later
+26
+Gene Autry
+Here Comes Santa Claus (Right Down Santa Claus Lane)
+27
+Dua Lipa Featuring DaBaby
+Levitating
+28
+Paul McCartney
+Wonderful Christmastime
+29
+Pop Smoke Featuring Lil Baby & DaBaby
+For The Night
+30
+Gabby Barrett Featuring Charlie Puth
+I Hope
+31
+Internet Money & Gunna Featuring Don Toliver & NAV
+Lemonade
+32
+Thurl Ravenscroft
+You're A Mean One, Mr. Grinch
+33
+Elvis Presley
+Blue Christmas
+34
+Bad Bunny & Jhay Cortez
+Dakiti
+35
+Megan Thee Stallion
+Body
+36
+Bing Crosby & The Andrews Sisters
+Mele Kalikimaka (Merry Christmas)
+37
+AJR
+Bang!
+38
+Taylor Swift
+Willow
+39
+Donny Hathaway
+This Christmas
+40
+Ariana Grande
+34+35
+41
+Ava Max
+Kings & Queens
+42
+Billie Eilish
+Therefore I Am
+43
+Nat King Cole
+Deck The Halls
+44
+BTS
+Dynamite
+45
+Eagles
+Please Come Home For Christmas
+46
+Jackson 5
+Santa Claus Is Comin' To Town
+47
+The Beach Boys
+Little Saint Nick
+48
+Dan + Shay
+Take Me Home For Christmas
+49
+Michael Buble
+Have Yourself A Merry Little Christmas
+50
+Bing Crosby
+I'll Be Home For Christmas
+51
+Pop Smoke
+What You Know Bout Love
+52
+CJ
+Whoopty
+53
+Justin Bieber & benny blanco
+Lonely
+54
+Carrie Underwood & John Legend
+Hallelujah
+55
+Cardi B Featuring Megan Thee Stallion
+WAP
+56
+Lil Nas X
+Holiday
+57
+Luke Combs
+Better Together
+58
+Lil Baby
+On Me
+59
+Ed Sheeran
+Afterglow
+60
+Eminem
+Gnat
+61
+Justin Bieber
+Rockin' Around The Christmas Tree
+62
+Carrie Underwood
+Favorite Time Of Year
+63
+Maluma & The Weeknd
+Hawai
+64
+Shawn Mendes & Justin Bieber
+Monster
+65
+Sam Smith
+Diamonds
+66
+Chris Stapleton
+Starting Over
+67
+Megan Thee Stallion Featuring DaBaby
+Cry Baby
+68
+Tate McRae
+You Broke Me First.
+69
+Machine Gun Kelly X blackbear
+My Ex's Best Friend
+70
+The Kid LAROI
+Without You
+71
+Chris Lane
+Big, Big Plans
+72
+21 Savage & Metro Boomin Featuring Drake
+Mr. Right Now
+73
+Luke Combs
+Forever After All
+74
+BRS Kash
+Throat Baby (Go Baby)
+75
+Kelly Clarkson & Brett Eldredge
+Under The Mistletoe
+76
+Jack Harlow
+Tyler Herro
+77
+Taylor Swift
+Champagne Problems
+78
+Gabby Barrett
+The First Noel
+79
+Russell Dickerson
+Love You Like I Used To
+80
+Lady A
+Champagne Night
+81
+Miley Cyrus Featuring Dua Lipa
+Prisoner
+82
+Niko Moon
+Good Time
+83
+Morgan Wallen
+7 Summers
+84
+Popp Hunna
+Adderall (Corvette Corvette)
+85
+Yung Bleu Featuring Drake
+You're Mines Still
+86
+Kid Cudi
+Tequila Shots
+87
+Saweetie Featuring Jhene Aiko
+Back To The Streets
+88
+Karol G
+Bichota
+89
+Jack Harlow Featuring Big Sean
+Way Out
+90
+SZA Featuring Ty Dolla $ign
+Hit Different
+91
+Taylor Swift
+'Tis The Damn Season
+92
+H.E.R.
+Damage
+93
+Lil Durk
+Backdoor
+94
+Carrie Underwood
+Silent Night
+95
+Harry Styles
+Golden
+96
+Kelsea Ballerini
+Hole In The Bottle
+97
+Taylor Swift Featuring HAIM
+No Body, No Crime
+98
+DDG
+Moonwalking In Calabasas
+99
+King Von
+Took Her To The O
+100
+Ritt Momney
+Put Your Records On
