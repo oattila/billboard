@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 64, total 277 songs
+Hot 100 Songs with peak position = 64, total 279 songs
 
 1958
 
@@ -462,3 +462,8 @@ Hot 100 Songs with peak position = 64, total 277 songs
 275. Future & Lil Uzi Vert: Marni On Me
 276. Bad Bunny: Yo Visto Asi
 277. Kid Cudi: Another Day
+
+2021
+
+278. G-Eazy Featuring Chris Brown & Mark Morrison: Provide
+279. Glass Animals: Heat Waves

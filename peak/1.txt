@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 1, total 1115 songs
+Hot 100 Songs with peak position = 1, total 1116 songs
 
 1958
 
@@ -1303,3 +1303,7 @@ Hot 100 Songs with peak position = 1, total 1115 songs
 1113. Ariana Grande: Positions
 1114. BTS: Life Goes On
 1115. Taylor Swift: Willow
+
+2021
+
+1116. Olivia Rodrigo: Drivers License

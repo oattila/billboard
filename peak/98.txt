@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 98, total 256 songs
+Hot 100 Songs with peak position = 98, total 255 songs
 
 1958
 
@@ -416,7 +416,3 @@ Hot 100 Songs with peak position = 98, total 256 songs
 253. YoungBoy Never Broke Again: Dirty Stick
 254. Clairo: Sofia
 255. DJ Chose Featuring BeatKing: Thick
-
-2021
-
-256. DDG: Moonwalking In Calabasas

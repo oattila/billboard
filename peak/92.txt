@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 92, total 336 songs
+Hot 100 Songs with peak position = 92, total 339 songs
 
 1958
 
@@ -510,5 +510,11 @@ Hot 100 Songs with peak position = 92, total 336 songs
 332. Eric Church: Stick That In Your Country Song
 333. DaBaby x Stunna 4 Vegas: No Dribble
 334. YFN Lucci: Wet. (She Got That...) 
-335. Lil Durk, 6LACK & Young Thug: Stay Down
-336. Megan Thee Stallion Featuring City Girls & Hot Girl Meg: Do It On The Tip
+335. Megan Thee Stallion Featuring City Girls & Hot Girl Meg: Do It On The Tip
+
+2021
+
+336. Playboi Carti: New N3on
+337. Morgan Wallen: This Bar
+338. Selena Gomez: De Una Vez
+339. Jake Owen: Made For You

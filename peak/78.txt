@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 78, total 270 songs
+Hot 100 Songs with peak position = 78, total 271 songs
 
 1958
 
@@ -458,3 +458,4 @@ Hot 100 Songs with peak position = 78, total 270 songs
 2021
 
 270. Gabby Barrett: The First Noel
+271. YBN Nahmir Featuring 21 Savage: Opp Stoppa

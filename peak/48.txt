@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 48, total 256 songs
+Hot 100 Songs with peak position = 48, total 259 songs
 
 1958
 
@@ -444,3 +444,6 @@ Hot 100 Songs with peak position = 48, total 256 songs
 2021
 
 256. Dan + Shay: Take Me Home For Christmas
+257. Sabrina Carpenter: Skin
+258. Florida Georgia Line: Long Live
+259. Gabby Barrett: The Good Ones

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 12, total 335 songs
+Hot 100 Songs with peak position = 12, total 336 songs
 
 1958
 
@@ -526,3 +526,4 @@ Hot 100 Songs with peak position = 12, total 335 songs
 2021
 
 335. Kelly Clarkson: Underneath The Tree
+336. Justin Bieber & benny blanco: Lonely

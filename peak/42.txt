@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 42, total 281 songs
+Hot 100 Songs with peak position = 42, total 282 songs
 
 1958
 
@@ -467,5 +467,9 @@ Hot 100 Songs with peak position = 42, total 281 songs
 277. Juice WRLD: Up Up And Away
 278. Taylor Swift: Betty
 279. Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban: Be A Light
-280. Dan + Shay: I Should Probably Go To Bed
-281. Chris Lane: Big, Big Plans
+280. Chris Lane: Big, Big Plans
+
+2021
+
+281. Morgan Wallen: Warning
+282. Darius Rucker: Beers And Sunshine

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 88, total 274 songs
+Hot 100 Songs with peak position = 88, total 275 songs
 
 1958
 
@@ -464,4 +464,5 @@ Hot 100 Songs with peak position = 88, total 274 songs
 
 2021
 
-274. Karol G: Bichota
+274. Jazmine Sullivan: Pick Up Your Feelings
+275. Clinton Kane: Chicken Tendies

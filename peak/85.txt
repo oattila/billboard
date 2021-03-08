@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 85, total 235 songs
+Hot 100 Songs with peak position = 85, total 233 songs
 
 1958
 
@@ -414,6 +414,4 @@ Hot 100 Songs with peak position = 85, total 235 songs
 230. YoungBoy Never Broke Again: Long RD
 231. Noah Cyrus & Leon Bridges: July
 232. DaBaby: CHAMPION
-233. Kenny Chesney: Happy Does
-234. Thomas Rhett: What's Your Country Song
-235. Kid Cudi: Heaven On Earth
+233. Kid Cudi: Heaven On Earth

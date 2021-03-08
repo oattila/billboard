@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 38, total 260 songs
+Hot 100 Songs with peak position = 38, total 261 songs
 
 1958
 
@@ -445,3 +445,7 @@ Hot 100 Songs with peak position = 38, total 260 songs
 258. Kenny Chesney: Here And Now
 259. Juice WRLD & Trippie Redd: Tell Me U Luv Me
 260. Calvin Harris X The Weeknd: Over Now
+
+2021
+
+261. The Kid LAROI: Without You

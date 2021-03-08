@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 91, total 377 songs
+Hot 100 Songs with peak position = 91, total 379 songs
 
 1959
 
@@ -559,3 +559,8 @@ Hot 100 Songs with peak position = 91, total 377 songs
 375. Machine Gun Kelly: Drunk Face
 376. 21 Savage & Metro Boomin: Said N Done
 377. Kid Cudi: Damaged
+
+2021
+
+378. Lil Durk: Kanye Krazy
+379. Jordan Davis: Almost Maybes

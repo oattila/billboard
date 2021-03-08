@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 57, total 273 songs
+Hot 100 Songs with peak position = 57, total 275 songs
 
 1958
 
@@ -452,3 +452,8 @@ Hot 100 Songs with peak position = 57, total 273 songs
 271. 21 Savage & Metro Boomin: Brand New Draco
 272. Phoebe & Maggie: Iris
 273. Taylor Swift Featuring Bon Iver: Evermore
+
+2021
+
+274. Jason Derulo: Take You Dancing
+275. Harry Styles: Golden

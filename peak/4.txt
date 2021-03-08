@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 4, total 447 songs
+Hot 100 Songs with peak position = 4, total 448 songs
 
 1958
 
@@ -635,3 +635,7 @@ Hot 100 Songs with peak position = 4, total 447 songs
 445. BTS: ON
 446. SAINt JHN: Roses
 447. Taylor Swift: The 1
+
+2021
+
+448. The Weeknd: Save Your Tears

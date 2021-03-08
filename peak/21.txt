@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 21, total 280 songs
+Hot 100 Songs with peak position = 21, total 281 songs
 
 1958
 
@@ -468,3 +468,7 @@ Hot 100 Songs with peak position = 21, total 280 songs
 278. The Weeknd: Alone Again
 279. StaySolidRocky: Party Girl
 280. Taylor Swift: Champagne Problems
+
+2021
+
+281. Tate McRae: You Broke Me First.

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 2, total 505 songs
+Hot 100 Songs with peak position = 2, total 507 songs
 
 1958
 
@@ -693,3 +693,8 @@ Hot 100 Songs with peak position = 2, total 505 songs
 503. Drake Featuring Lil Durk: Laugh Now Cry Later
 504. Luke Combs: Forever After All
 505. Billie Eilish: Therefore I Am
+
+2021
+
+506. Ariana Grande: 34+35
+507. Cardi B: Up

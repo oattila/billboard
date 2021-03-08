@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 20, total 306 songs
+Hot 100 Songs with peak position = 20, total 305 songs
 
 1958
 
@@ -493,4 +493,3 @@ Hot 100 Songs with peak position = 20, total 306 songs
 303. YNW Melly & Juice WRLD: Suicidal
 304. Luke Combs Featuring Eric Church: Does To Me
 305. Saweetie: Tap In
-306. Dua Lipa Featuring DaBaby: Levitating

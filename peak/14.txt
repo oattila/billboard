@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 14, total 312 songs
+Hot 100 Songs with peak position = 14, total 311 songs
 
 1958
 
@@ -496,4 +496,3 @@ Hot 100 Songs with peak position = 14, total 312 songs
 309. Drake Featuring Giveon: Chicago Freestyle
 310. Juice WRLD: Titanic
 311. Miley Cyrus: Midnight Sky
-312. Justin Bieber & benny blanco: Lonely

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 54, total 297 songs
+Hot 100 Songs with peak position = 54, total 298 songs
 
 1958
 
@@ -485,3 +485,4 @@ Hot 100 Songs with peak position = 54, total 297 songs
 2021
 
 297. Carrie Underwood & John Legend: Hallelujah
+298. Kali Uchis: Telepatia

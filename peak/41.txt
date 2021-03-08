@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 41, total 256 songs
+Hot 100 Songs with peak position = 41, total 255 songs
 
 1958
 
@@ -428,10 +428,9 @@ Hot 100 Songs with peak position = 41, total 256 songs
 2020
 
 249. Doja Cat & Tyga: Juicy
-250. The Weeknd: Save Your Tears
-251. Gunna Featuring Roddy Ricch: Cooler Than A Bitch
-252. Pop Smoke: Something Special
-253. Chris Janson: Done
-254. Maroon 5: Nobody's Love
-255. Lil Baby: Errbody
-256. Kid Cudi: Tequila Shots
+250. Gunna Featuring Roddy Ricch: Cooler Than A Bitch
+251. Pop Smoke: Something Special
+252. Chris Janson: Done
+253. Maroon 5: Nobody's Love
+254. Lil Baby: Errbody
+255. Kid Cudi: Tequila Shots

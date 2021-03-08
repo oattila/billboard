@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 67, total 273 songs
+Hot 100 Songs with peak position = 67, total 274 songs
 
 1958
 
@@ -460,4 +460,5 @@ Hot 100 Songs with peak position = 67, total 273 songs
 
 2021
 
-273. Megan Thee Stallion Featuring DaBaby: Cry Baby
+273. Black Eyed Peas X Shakira: Girl Like Me
+274. Lil Yachty Featuring Kodak Black: Hit Bout It

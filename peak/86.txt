@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 86, total 291 songs
+Hot 100 Songs with peak position = 86, total 293 songs
 
 1958
 
@@ -473,3 +473,8 @@ Hot 100 Songs with peak position = 86, total 291 songs
 289. DaBaby: Practice
 290. Future & Lil Uzi Vert: Plastic
 291. Meek Mill Featuring Lil Durk: Pain Away
+
+2021
+
+292. Lil Durk: Refugee
+293. Morgan Wallen Featuring Ben Burgess: Outlaw

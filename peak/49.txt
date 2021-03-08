@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 49, total 245 songs
+Hot 100 Songs with peak position = 49, total 246 songs
 
 1958
 
@@ -430,3 +430,4 @@ Hot 100 Songs with peak position = 49, total 245 songs
 2021
 
 245. Michael Buble: Have Yourself A Merry Little Christmas
+246. Dua Lipa: We're Good

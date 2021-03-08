@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 82, total 267 songs
+Hot 100 Songs with peak position = 82, total 269 songs
 
 1958
 
@@ -446,3 +446,8 @@ Hot 100 Songs with peak position = 82, total 267 songs
 265. Big Sean Featuring Nipsey Hussle: Deep Reverence
 266. Megan Thee Stallion: Shots Fired
 267. Taylor Swift: Closure
+
+2021
+
+268. Playboi Carti Featuring Kanye West: Go2DaMoon
+269. Myke Towers & Juhn: Bandido

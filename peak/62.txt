@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 62, total 279 songs
+Hot 100 Songs with peak position = 62, total 283 songs
 
 1958
 
@@ -467,3 +467,7 @@ Hot 100 Songs with peak position = 62, total 279 songs
 2021
 
 279. Carrie Underwood: Favorite Time Of Year
+280. Lil Durk: Backdoor
+281. Morgan Wallen: Dangerous
+282. Billie Eilish & ROSALIA: Lo Vas A Olvidar
+283. Masked Wolf: Astronaut In The Ocean

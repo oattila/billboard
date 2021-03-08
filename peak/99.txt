@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 99, total 226 songs
+Hot 100 Songs with peak position = 99, total 227 songs
 
 1958
 
@@ -374,4 +374,8 @@ Hot 100 Songs with peak position = 99, total 226 songs
 223. 6ix9ine: YaYa
 224. Joel Corry X MNEK: Head & Heart
 225. The Kid LAROI Featuring Machine Gun Kelly: F*ck You, Goodbye
-226. Morgan Wallen: Cover Me Up
+
+2021
+
+226. Playboi Carti Featuring Kid Cudi: M3tamorphosis
+227. Mooski: Track Star

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 55, total 261 songs
+Hot 100 Songs with peak position = 55, total 264 songs
 
 1958
 
@@ -446,3 +446,9 @@ Hot 100 Songs with peak position = 55, total 261 songs
 259. Gunna Featuring Travis Scott: Top Floor
 260. Pop Smoke: Bad Bitch From Tokyo (Intro)
 261. Jon Pardi: Ain't Always The Cowboy
+
+2021
+
+262. DaBaby: Masterpiece
+263. Polo G: GNF (OKOKOK)
+264. All Time Low Featuring Demi Lovato & blackbear : Monsters
