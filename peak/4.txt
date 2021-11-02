@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 4, total 447 songs
+Hot 100 Songs with peak position = 4, total 452 songs
 
 1958
 
@@ -635,3 +635,11 @@ Hot 100 Songs with peak position = 4, total 447 songs
 445. BTS: ON
 446. SAINt JHN: Roses
 447. Taylor Swift: The 1
+
+2021
+
+448. The Weeknd: Save Your Tears
+449. Ariana Grande Feat. Doja Cat & Megan Thee Stallion: 34+35
+450. Lizzo Featuring Cardi B: Rumors
+451. Drake: Champagne Poetry
+452. Drake Featuring 21 Savage & Project Pat: Knife Talk

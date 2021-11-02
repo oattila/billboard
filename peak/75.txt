@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 75, total 271 songs
+Hot 100 Songs with peak position = 75, total 274 songs
 
 1958
 
@@ -457,5 +457,11 @@ Hot 100 Songs with peak position = 75, total 271 songs
 267. Future: Too Comfortable
 268. 6LACK Featuring Lil Baby: Know My Rights
 269. Ariana Grande: Love Language
-270. Lady A: Champagne Night
-271. Taylor Swift: Marjorie
+270. Taylor Swift: Marjorie
+
+2021
+
+271. VEDO: You Got It
+272. Jazmine Sullivan: Pick Up Your Feelings
+273. Taylor Swift: You Belong With Me (Taylor's Version)
+274. Ed Sheeran: Visiting Hours

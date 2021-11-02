@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 40, total 243 songs
+Hot 100 Songs with peak position = 40, total 245 songs
 
 1958
 
@@ -416,6 +416,11 @@ Hot 100 Songs with peak position = 40, total 243 songs
 238. Jhene Aiko: P*$$y Fairy (OTW)
 239. Katy Perry: Daisies
 240. Florida Georgia Line: I Love My Country
-241. Ariana Grande: pov
-242. Sam Smith: Diamonds
-243. Taylor Swift: Gold Rush
+241. Taylor Swift: Gold Rush
+
+2021
+
+242. Tyler, The Creator Featuring Lil Uzi Vert & Pharrell Williams: Juggernaut
+243. Kanye West: Remote Control
+244. YoungBoy Never Broke Again: No Where
+245. Chris Stapleton: You Should Probably Leave

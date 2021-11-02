@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 74, total 255 songs
+Hot 100 Songs with peak position = 74, total 259 songs
 
 1958
 
@@ -433,7 +433,14 @@ Hot 100 Songs with peak position = 74, total 255 songs
 249. Carrie Underwood: Drinking Alone
 250. Travis Scott: The Plan
 251. 21 Savage & Metro Boomin: Steppin On N*ggas
-252. Harry Styles: Golden
-253. DaBaby Featuring Young Thug: Blind
-254. Bad Bunny: Te Deseo Lo Mejor
-255. Jack Harlow Featuring Big Sean: Way Out
+252. DaBaby Featuring Young Thug: Blind
+253. Bad Bunny: Te Deseo Lo Mejor
+254. Jack Harlow Featuring Big Sean: Way Out
+
+2021
+
+255. Popp Hunna: Adderall (Corvette Corvette)
+256. Morgan Wallen: Livin' The Dream
+257. Selena Gomez With Rauw Alejandro: Baila Conmigo
+258. Post Malone: Only Wanna Be With You
+259. P!nk: All I Know So Far

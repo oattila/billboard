@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 7, total 410 songs
+Hot 100 Songs with peak position = 7, total 412 songs
 
 1958
 
@@ -598,3 +598,8 @@ Hot 100 Songs with peak position = 7, total 410 songs
 
 409. Drake Featuring Playboi Carti: Pain 1993
 410. Juice WRLD: Conversations
+
+2021
+
+411. J. Cole & Lil Baby: pride.is.the.devil
+412. Drake Featuring Lil Durk & Giveon: In The Bible

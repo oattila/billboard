@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 31, total 248 songs
+Hot 100 Songs with peak position = 31, total 254 songs
 
 1958
 
@@ -433,3 +433,12 @@ Hot 100 Songs with peak position = 31, total 248 songs
 246. Pop Smoke: Got It On Me
 247. Russell Dickerson: Love You Like I Used To
 248. Future & Lil Uzi Vert: Drankin N Smokin
+
+2021
+
+249. Parmalee x Blanco Brown: Just The Way
+250. Moneybagg Yo: Time Today
+251. Mooski: Track Star
+252. Dua Lipa: We're Good
+253. Lil Baby & Lil Durk: 2040
+254. CKay: Love Nwantiti (Ah Ah Ah)

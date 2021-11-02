@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 29, total 273 songs
+Hot 100 Songs with peak position = 29, total 276 songs
 
 1958
 
@@ -458,3 +458,9 @@ Hot 100 Songs with peak position = 29, total 273 songs
 271. SZA Featuring Ty Dolla $ign: Hit Different
 272. Kane Brown: Cool Again
 273. Jameson Rodgers: Some Girls
+
+2021
+
+274. Ed Sheeran: Afterglow
+275. Thomas Rhett: What's Your Country Song
+276. Olivia Rodrigo: Hope Ur OK

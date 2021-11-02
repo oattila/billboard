@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 66, total 253 songs
+Hot 100 Songs with peak position = 66, total 258 songs
 
 1958
 
@@ -432,3 +432,11 @@ Hot 100 Songs with peak position = 66, total 253 songs
 251. ROSALIA & Travis Scott: TKN
 252. Ne-Yo & Jeremih: U 2 Luv
 253. King Von Featuring Polo G: The Code
+
+2021
+
+254. Morgan Wallen: More Surprised Than Me
+255. Young Thug Featuring Rowdy Rebel: Came And Saw
+256. Lil Nas X: Sun Goes Down
+257. Tyler, The Creator: Massa
+258. Meek Mill: Expensive Pain

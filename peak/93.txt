@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 93, total 305 songs
+Hot 100 Songs with peak position = 93, total 306 songs
 
 1958
 
@@ -479,8 +479,9 @@ Hot 100 Songs with peak position = 93, total 305 songs
 301. Pop Smoke Featuring Quavo: Shake The Room
 302. Polo G: 33
 303. Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka: La Jeepeta
-304. Darius Rucker: Beers And Sunshine
 
 2021
 
-305. Lil Durk: Backdoor
+304. Lil Durk: Death Ain't Easy
+305. Morgan Wallen: Wonderin' Bout The Wind
+306. Rod Wave: What's Wrong

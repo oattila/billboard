@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 13, total 315 songs
+Hot 100 Songs with peak position = 13, total 319 songs
 
 1958
 
@@ -506,3 +506,7 @@ Hot 100 Songs with peak position = 13, total 315 songs
 2021
 
 315. The Ronettes: Sleigh Ride
+316. Pooh Shiesty Featuring Lil Durk: Back In Blood
+317. J. Cole: applying.pressure
+318. Maroon 5 Featuring Megan Thee Stallion: Beautiful Mistakes
+319. Post Malone: Motley Crew

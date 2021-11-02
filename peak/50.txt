@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 50, total 264 songs
+Hot 100 Songs with peak position = 50, total 270 songs
 
 1958
 
@@ -446,9 +446,15 @@ Hot 100 Songs with peak position = 50, total 264 songs
 259. Doja Cat Featuring Gucci Mane: Like That
 260. YoungBoy Never Broke Again: Kacey Talk
 261. Machine Gun Kelly: Bloody Valentine
-262. Tate McRae: You Broke Me First.
-263. Future & Lil Uzi Vert: That's It
+262. Future & Lil Uzi Vert: That's It
 
 2021
 
-264. Bing Crosby: I'll Be Home For Christmas
+263. Bing Crosby: I'll Be Home For Christmas
+264. Lil Tjay Featuring Offset & Moneybagg Yo: Run It Up
+265. Tenille Arts: Somebody Like That
+266. Dylan Scott: Nobody
+267. DaBaby: Red Light Green Light
+268. Kane Brown X blackbear: Memory
+269. Trippie Redd Featuring Lil Uzi Vert: Holy Smokes
+270. Scotty McCreery: You Time

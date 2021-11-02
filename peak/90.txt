@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 90, total 253 songs
+Hot 100 Songs with peak position = 90, total 264 songs
 
 1958
 
@@ -435,3 +435,17 @@ Hot 100 Songs with peak position = 90, total 253 songs
 251. YoungBoy Never Broke Again Featuring Sherhonda Gaulden: Bout My Business
 252. Lil Tecca & Polo G Featuring Lil Durk: When You Down
 253. Kid Cudi: Sad People
+
+2021
+
+254. Playboi Carti: Vamp Anthem
+255. Morgan Wallen Featuring Chris Stapleton: Only Thing That's Gone
+256. 6ix9ine: ZaZa
+257. NLE Choppa: Final Warning
+258. Billie Eilish: Halley's Comet
+259. Clinton Kane: I Guess I'm In Love
+260. Kanye West: Tell The Vision
+261. J Balvin & Skrillex: In Da Getto
+262. Lil Nas X: Lost In The Citadel
+263. Meek Mill: Love Train
+264. Lady A: Like A Lady

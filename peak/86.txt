@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 86, total 291 songs
+Hot 100 Songs with peak position = 86, total 299 songs
 
 1958
 
@@ -473,3 +473,14 @@ Hot 100 Songs with peak position = 86, total 291 songs
 289. DaBaby: Practice
 290. Future & Lil Uzi Vert: Plastic
 291. Meek Mill Featuring Lil Durk: Pain Away
+
+2021
+
+292. Lil Durk: Refugee
+293. Morgan Wallen Featuring Ben Burgess: Outlaw
+294. Polo G Featuring G Herbo: Go Part 1
+295. Pop Smoke Featuring Dua Lipa: Demeanor
+296. Carly Pearce: Next Girl
+297. KSI x Lil Wayne: Lose
+298. Trippie Redd Featuring SoFaygo: MP5
+299. Lil Nas X: Tales Of Dominica

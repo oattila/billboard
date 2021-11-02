@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 32, total 256 songs
+Hot 100 Songs with peak position = 32, total 266 songs
 
 1958
 
@@ -441,3 +441,13 @@ Hot 100 Songs with peak position = 32, total 256 songs
 2021
 
 256. Thurl Ravenscroft: You're A Mean One, Mr. Grinch
+257. Blake Shelton Featuring Gwen Stefani: Happy Anywhere
+258. Morgan Wallen: Sand In My Boots
+259. Jake Owen: Made For You
+260. Sam Hunt: Breaking Up Was Easy In The 90's
+261. Rauw Alejandro: Todo de Ti
+262. Lainey Wilson: Things A Man Oughta Know
+263. Drake: Fucking Fans
+264. Joyner Lucas & J. Cole: Your Heart
+265. Justin Bieber: Ghost
+266. THE ANXIETY: WILLOW & Tyler Cole: Meet Me At Our Spot

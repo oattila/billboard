@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 61, total 267 songs
+Hot 100 Songs with peak position = 61, total 273 songs
 
 1958
 
@@ -455,3 +455,9 @@ Hot 100 Songs with peak position = 61, total 267 songs
 2021
 
 267. Justin Bieber: Rockin' Around The Christmas Tree
+268. Ariana Grande: Test Drive
+269. Rod Wave: Gone Till November
+270. Demi Lovato Featuring Ariana Grande: Met Him Last Night
+271. Migos: Modern Day
+272. YoungBoy Never Broke Again: Smoke Strong
+273. Ivan Cornejo: Esta Danada

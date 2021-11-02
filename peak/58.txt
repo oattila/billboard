@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 58, total 277 songs
+Hot 100 Songs with peak position = 58, total 282 songs
 
 1958
 
@@ -459,3 +459,11 @@ Hot 100 Songs with peak position = 58, total 277 songs
 275. Luke Combs: Six Feet Apart
 276. Taylor Swift: Peace
 277. Bebe Rexha Featuring Doja Cat: Baby, I'm Jealous
+
+2021
+
+278. Saweetie Featuring Jhene Aiko: Back To The Streets
+279. Lil Baby & Lil Durk: Okay
+280. Regard x Troye Sivan x Tate McRae: You
+281. Kanye West: Donda
+282. YoungBoy Never Broke Again: Nevada

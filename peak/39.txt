@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 39, total 263 songs
+Hot 100 Songs with peak position = 39, total 269 songs
 
 1958
 
@@ -448,3 +448,9 @@ Hot 100 Songs with peak position = 39, total 263 songs
 2021
 
 263. Donny Hathaway: This Christmas
+264. Sam Smith: Diamonds
+265. Lil Durk Featuring Lil Baby: Finesse Out The Gang Way
+266. Kelsea Ballerini: Hole In The Bottle
+267. DaBaby: Ball If I Want To
+268. Billie Eilish: NDA
+269. Lil Durk: Pissed Me Off

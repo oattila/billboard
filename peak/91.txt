@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 91, total 377 songs
+Hot 100 Songs with peak position = 91, total 384 songs
 
 1959
 
@@ -559,3 +559,13 @@ Hot 100 Songs with peak position = 91, total 377 songs
 375. Machine Gun Kelly: Drunk Face
 376. 21 Savage & Metro Boomin: Said N Done
 377. Kid Cudi: Damaged
+
+2021
+
+378. Lil Durk: Kanye Krazy
+379. Justin Bieber: Somebody
+380. Cico P: Tampa
+381. Rod Wave Featuring Kodak Black: Get Ready
+382. Lil Wayne Featuring Rich The Kid: Feelin Like Tunechi
+383. Oliver Tree: Life Goes On
+384. Coldplay X Selena Gomez: Let Somebody Go

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 78, total 270 songs
+Hot 100 Songs with peak position = 78, total 276 songs
 
 1958
 
@@ -458,3 +458,9 @@ Hot 100 Songs with peak position = 78, total 270 songs
 2021
 
 270. Gabby Barrett: The First Noel
+271. YBN Nahmir Featuring 21 Savage: Opp Stoppa
+272. YoungBoy Never Broke Again: White Teeth
+273. Bas With J. Cole & Lil TJay: The Jackie
+274. YNW Melly Featuring Lil Uzi Vert: Mind Of Melvin
+275. Skylar Grey, Polo G, Mozzy & Eminem: Last One Standing
+276. Young Thug With Juice WRLD: Rich N***a Shit

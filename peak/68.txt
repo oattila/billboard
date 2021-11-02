@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 68, total 264 songs
+Hot 100 Songs with peak position = 68, total 272 songs
 
 1958
 
@@ -449,3 +449,14 @@ Hot 100 Songs with peak position = 68, total 264 songs
 262. Future: Hard To Choose One
 263. Future & Lil Uzi Vert: Sleeping On The Floor
 264. Taylor Swift: Long Story Short
+
+2021
+
+265. Justin Bieber: 2 Much
+266. Imagine Dragons: Follow You
+267. 42 Dugg Featuring Future: Maybach
+268. Lil Baby, Lil Durk & Rod Wave: Rich Off Pain
+269. Tyler, The Creator Featuring Teezo Touchdown: RunItUp
+270. Doja Cat: Get Into It (Yuh)
+271. Kanye West: New Again
+272. Young Thug With Post Malone & A$AP Rocky: Livin It Up

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 11, total 323 songs
+Hot 100 Songs with peak position = 11, total 331 songs
 
 1958
 
@@ -511,3 +511,14 @@ Hot 100 Songs with peak position = 11, total 323 songs
 321. blackbear: Hot Girl Bummer
 322. Juice WRLD: Righteous
 323. Pop Smoke Featuring 50 Cent & Roddy Ricch: The Woo
+
+2021
+
+324. Taylor Swift: Love Story (Taylor's Version)
+325. Rod Wave: Tombstone
+326. Trippie Redd & Playboi Carti: Miss The Rage
+327. Doja Cat & The Weeknd: You Right
+328. Billie Eilish: Happier Than Ever
+329. Kanye West: Off The Grid
+330. Drake: No Friends In The Industry
+331. Doja Cat: Need To Know

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 15, total 289 songs
+Hot 100 Songs with peak position = 15, total 295 songs
 
 1958
 
@@ -477,3 +477,12 @@ Hot 100 Songs with peak position = 15, total 289 songs
 
 288. Lil Baby: Woah
 289. Morgan Wallen: More Than My Hometown
+
+2021
+
+290. Luke Combs: Better Together
+291. Lil Baby: On Me
+292. Olivia Rodrigo: Happier
+293. Migos Featuring Drake: Having Our Way
+294. Jason Aldean & Carrie Underwood: If I Didn't Love You
+295. Maneskin: Beggin'

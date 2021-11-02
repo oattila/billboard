@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 28, total 282 songs
+Hot 100 Songs with peak position = 28, total 289 songs
 
 1958
 
@@ -465,8 +465,15 @@ Hot 100 Songs with peak position = 28, total 282 songs
 278. Lil Uzi Vert: POP
 279. The Weeknd: Too Late
 280. Megan Thee Stallion: Girls In The Hood
-281. Machine Gun Kelly X blackbear: My Ex's Best Friend
 
 2021
 
-282. Paul McCartney: Wonderful Christmastime
+281. Paul McCartney: Wonderful Christmastime
+282. Dan + Shay: I Should Probably Go To Bed
+283. Megan Thee Stallion Featuring DaBaby: Cry Baby
+284. Eric Church: Hell Of A View
+285. J. Cole & Bas: hunger.on.hillside
+286. Kanye West: Believe What I Say
+287. Chloe: Have Mercy
+288. YoungBoy Never Broke Again: Bad Morning
+289. Elvie Shane: My Boy

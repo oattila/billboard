@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 26, total 260 songs
+Hot 100 Songs with peak position = 26, total 267 songs
 
 1958
 
@@ -448,3 +448,10 @@ Hot 100 Songs with peak position = 26, total 260 songs
 2021
 
 260. Gene Autry: Here Comes Santa Claus (Right Down Santa Claus Lane)
+261. Coi Leray Featuring Lil Durk: No More Parties
+262. Polo G Featuring The Kid LAROI & Lil Durk: No Return
+263. Dierks Bentley: Gone
+264. Cole Swindell: Single Saturday Night
+265. Kanye West: Jesus Lord
+266. Drake Featuring Tems: Fountains
+267. Jameson Rodgers Featuring Luke Combs: Cold Beer Calling My Name

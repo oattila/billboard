@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 25, total 263 songs
+Hot 100 Songs with peak position = 25, total 266 songs
 
 1958
 
@@ -439,6 +439,12 @@ Hot 100 Songs with peak position = 25, total 263 songs
 258. The Weeknd: Hardest To Love
 259. Rod Wave: Heart On Ice
 260. Drake Featuring Chris Brown: Not You Too
-261. Pop Smoke: What You Know Bout Love
-262. Chris Stapleton: Starting Over
-263. Morgan Wallen: Somebody's Problem
+261. Chris Stapleton: Starting Over
+262. Morgan Wallen: Somebody's Problem
+
+2021
+
+263. J. Cole: the.climb.back
+264. Kali Uchis: Telepatia
+265. Drake Featuring Lil Wayne & Rick Ross: You Only Live Twice
+266. Farruko: Pepas

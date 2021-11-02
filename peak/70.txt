@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 70, total 268 songs
+Hot 100 Songs with peak position = 70, total 271 songs
 
 1958
 
@@ -450,6 +450,12 @@ Hot 100 Songs with peak position = 70, total 268 songs
 
 264. Gunna: Met Gala
 265. Luke Combs Featuring Amanda Shires: Without You
-266. H.E.R.: Damage
-267. Ariana Grande: Obvious
-268. BTS: Telepathy
+266. Ariana Grande: Obvious
+267. BTS: Telepathy
+
+2021
+
+268. ROSE: On The Ground
+269. Lil Baby & Lil Durk: Lying
+270. Billie Eilish: Billie Bossa Nova
+271. Kanye West: Lord I Need You

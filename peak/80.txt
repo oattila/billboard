@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 80, total 241 songs
+Hot 100 Songs with peak position = 80, total 247 songs
 
 1958
 
@@ -420,3 +420,12 @@ Hot 100 Songs with peak position = 80, total 241 songs
 239. Lil Tecca & Lil Uzi Vert: Dolly
 240. Trippie Redd: Weeeeee
 241. Kid Cudi: Dive
+
+2021
+
+242. Moneybagg Yo Featuring Polo G & Lil Durk: Free Promo
+243. Lil Baby, Lil Durk & Young Thug: Up The Side
+244. Pop Smoke: More Time
+245. Billie Eilish: I Didn't Change My Number
+246. Lil Tecca & Gunna: Repeat It
+247. YoungBoy Never Broke Again: Forgiato

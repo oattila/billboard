@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 79, total 253 songs
+Hot 100 Songs with peak position = 79, total 258 songs
 
 1958
 
@@ -430,5 +430,13 @@ Hot 100 Songs with peak position = 79, total 253 songs
 249. Future: Posted With Demons
 250. Pop Smoke: Tunnel Vision (Outro)
 251. Internet Money Featuring Juice WRLD & Trippie Redd: Blastoff
-252. Ritt Momney: Put Your Records On
-253. Bad Bunny: El Mundo Es Mio
+252. Bad Bunny: El Mundo Es Mio
+
+2021
+
+253. NF Featuring Hopsin: Lost
+254. DJ Khaled Featuring Bryson Tiller, Lil Baby & Roddy Ricch: Body In Motion
+255. Lil Baby & Lil Durk: Please
+256. Polo G Featuring Pop Smoke & Fivio Foreign: Clueless
+257. Nas Featuring Eminem & EPMD: EPMD 2
+258. Machine Gun Kelly: Papercuts

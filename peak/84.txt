@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 84, total 283 songs
+Hot 100 Songs with peak position = 84, total 287 songs
 
 1958
 
@@ -465,9 +465,13 @@ Hot 100 Songs with peak position = 84, total 283 songs
 278. Lady Gaga: Alice
 279. Summer Walker: Let It Go
 280. Bryson Tiller: Years Go By
-281. Luke Combs: Cold As You
-282. NAV With Gunna: Young Wheezy
+281. NAV With Gunna: Young Wheezy
 
 2021
 
-283. Popp Hunna: Adderall (Corvette Corvette)
+282. Morgan Wallen: Your Bartender
+283. Justin Bieber Featuring BEAM: Love You Different
+284. DJ Khaled Featuring Cardi B: Big Paper
+285. Tyler, The Creator Featuring Domo Genesis: Manifesto
+286. Lisa: Lalisa
+287. Jimmie Allen & Brad Paisley: Freedom Was A Highway

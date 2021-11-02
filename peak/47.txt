@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 47, total 250 songs
+Hot 100 Songs with peak position = 47, total 255 songs
 
 1958
 
@@ -435,3 +435,8 @@ Hot 100 Songs with peak position = 47, total 250 songs
 2021
 
 250. The Beach Boys: Little Saint Nick
+251. Kenny Chesney: Happy Does
+252. Erica Banks: Buss It
+253. SpotemGottem: Beat Box
+254. Travis Scott & HVME: Goosebumps
+255. Lil Nas X Featuring Megan Thee Stallion: Dolla Sign Slime

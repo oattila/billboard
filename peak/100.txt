@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 100, total 184 songs
+Hot 100 Songs with peak position = 100, total 190 songs
 
 1958
 
@@ -303,3 +303,12 @@ Hot 100 Songs with peak position = 100, total 184 songs
 182. Little Big Town: Wine, Beer, Whiskey
 183. Future & Lil Uzi Vert: Bought A Bad Bitch
 184. Kid Cudi: Beautiful Trip
+
+2021
+
+185. Anuel AA & Ozuna: Antes
+186. Moneybagg Yo: Clear Da Air
+187. DJ Khaled Featuring Lil Wayne & Jeremih: Thankful
+188. Nicki Minaj & Skillibeng: Crocodile Teeth
+189. The Kid LAROI Featuring Mustard: Still Chose You
+190. Nas: Rare

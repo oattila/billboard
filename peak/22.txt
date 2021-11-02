@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 22, total 263 songs
+Hot 100 Songs with peak position = 22, total 268 songs
 
 1958
 
@@ -451,3 +451,8 @@ Hot 100 Songs with peak position = 22, total 263 songs
 2021
 
 263. Perry Como: (There's No Place Like) Home For The Holidays
+264. Juice WRLD & Young Thug: Bad Boy
+265. Rod Wave Featuring Polo G: Richer
+266. Aventura x Bad Bunny: Volvi
+267. Meek Mill Featuring Lil Baby & Lil Durk: Sharing Locations
+268. Drake Featuring Kid Cudi: IMY2

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 12, total 335 songs
+Hot 100 Songs with peak position = 12, total 343 songs
 
 1958
 
@@ -526,3 +526,11 @@ Hot 100 Songs with peak position = 12, total 335 songs
 2021
 
 335. Kelly Clarkson: Underneath The Tree
+336. Justin Bieber & benny blanco: Lonely
+337. SpotemGottem Featuring Pooh Shiesty Or DaBaby: Beat Box
+338. Young Thug & Gunna Featuring Drake: Solid
+339. Nicki Minaj, Drake & Lil Wayne: Seeing Green
+340. Olivia Rodrigo: Brutal
+341. Kanye West: Ok Ok
+342. Drake Featuring Future: N 2 Deep
+343. Glass Animals: Heat Waves

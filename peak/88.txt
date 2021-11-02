@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 88, total 274 songs
+Hot 100 Songs with peak position = 88, total 282 songs
 
 1958
 
@@ -464,4 +464,12 @@ Hot 100 Songs with peak position = 88, total 274 songs
 
 2021
 
-274. Karol G: Bichota
+274. Clinton Kane: Chicken Tendies
+275. Machine Gun Kelly & CORPSE: Daywalker!
+276. Rod Wave: How The Game Go
+277. Taylor Swift: Fifteen (Taylor's Version)
+278. Tate McRae X Khalid: Working
+279. Belly, The Weeknd & Young Thug: Better Believe
+280. Nessa Barrett: i hope ur miserable until ur dead
+281. Lil Nas X Featuring Elton John: One Of Me
+282. Giveon: For Tonight

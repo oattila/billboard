@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 21, total 280 songs
+Hot 100 Songs with peak position = 21, total 284 songs
 
 1958
 
@@ -468,3 +468,10 @@ Hot 100 Songs with peak position = 21, total 280 songs
 278. The Weeknd: Alone Again
 279. StaySolidRocky: Party Girl
 280. Taylor Swift: Champagne Problems
+
+2021
+
+281. Lil Baby & Lil Durk: Voice Of The Heroes
+282. Chris Young + Kane Brown: Famous Friends
+283. Dan + Shay: Glad You Exist
+284. Elton John & Dua Lipa: Cold Heart (PNAU Remix)

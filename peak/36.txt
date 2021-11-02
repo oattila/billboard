@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 36, total 270 songs
+Hot 100 Songs with peak position = 36, total 271 songs
 
 1958
 
@@ -455,9 +455,10 @@ Hot 100 Songs with peak position = 36, total 270 songs
 265. Sam Smith & Demi Lovato: I'm Ready
 266. Thomas Rhett Featuring Jon Pardi: Beer Can't Fix
 267. Marshmello & Demi Lovato: OK Not To Be OK
-268. Blake Shelton Featuring Gwen Stefani: Happy Anywhere
-269. Parker McCollum: Pretty Heart
+268. Parker McCollum: Pretty Heart
 
 2021
 
-270. Bing Crosby & The Andrews Sisters: Mele Kalikimaka (Merry Christmas)
+269. Bing Crosby & The Andrews Sisters: Mele Kalikimaka (Merry Christmas)
+270. Luke Bryan: Down To One
+271. Meek Mill: Intro (Hate On Me)

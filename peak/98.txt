@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 98, total 256 songs
+Hot 100 Songs with peak position = 98, total 257 songs
 
 1958
 
@@ -419,4 +419,5 @@ Hot 100 Songs with peak position = 98, total 256 songs
 
 2021
 
-256. DDG: Moonwalking In Calabasas
+256. Rod Wave: Sneaky Links
+257. Dan + Shay: Steal My Love

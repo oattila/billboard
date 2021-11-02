@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 37, total 260 songs
+Hot 100 Songs with peak position = 37, total 263 songs
 
 1958
 
@@ -445,3 +445,9 @@ Hot 100 Songs with peak position = 37, total 260 songs
 258. Taylor Swift: Invisible String
 259. Why Don't We: Fallin'
 260. Lil Nas X: Holiday
+
+2021
+
+261. Taylor Swift: Wildest Dreams (Taylor's Version)
+262. YoungBoy Never Broke Again: On My Side
+263. Old Dominion: I Was On A Boat That Day

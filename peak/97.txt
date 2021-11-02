@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 97, total 275 songs
+Hot 100 Songs with peak position = 97, total 282 songs
 
 1958
 
@@ -445,3 +445,13 @@ Hot 100 Songs with peak position = 97, total 275 songs
 273. Tory Lanez: Money Over Fallouts
 274. T.I. Featuring Lil Baby: Pardon
 275. Future: Rockstar Chainz
+
+2021
+
+276. Jazmine Sullivan Featuring H.E.R.: Girl Like Me
+277. Juice WRLD, Clever & Post Malone: Life's A Mess II
+278. Polo G: Bloody Canvas
+279. Pop Smoke Featuring Bizzy Banks: 30
+280. T-Pain & Kehlani: I Like Dat
+281. Lil Nas X Featuring Miley Cyrus: Am I Dreaming
+282. Priscilla Block: Just About Over You

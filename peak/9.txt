@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 9, total 375 songs
+Hot 100 Songs with peak position = 9, total 381 songs
 
 1958
 
@@ -559,10 +559,16 @@ Hot 100 Songs with peak position = 9, total 375 songs
 
 370. Lil Uzi Vert: Silly Watch
 371. Juice WRLD X Halsey: Life's A Mess
-372. Chris Brown & Young Thug: Go Crazy
-373. Lewis Capaldi: Before You Go
-374. 21 Savage & Metro Boomin: Runnin
+372. Lewis Capaldi: Before You Go
+373. 21 Savage & Metro Boomin: Runnin
 
 2021
 
-375. Wham!: Last Christmas
+374. Wham!: Last Christmas
+375. Morgan Wallen: Wasted On You
+376. SZA: Good Days
+377. Pop Smoke: What You Know Bout Love
+378. Olivia Rodrigo: Traitor
+379. Drake: TSU
+380. Wizkid Featuring Justin Bieber & Tems: Essence
+381. Ed Sheeran: Shivers

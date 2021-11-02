@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 72, total 284 songs
+Hot 100 Songs with peak position = 72, total 288 songs
 
 1958
 
@@ -465,7 +465,14 @@ Hot 100 Songs with peak position = 72, total 284 songs
 278. Lil Uzi Vert: Secure The Bag
 279. Lil Uzi Vert Featuring NAV: Leaders
 280. YoungBoy Never Broke Again: Dead Trollz
-281. Kelsea Ballerini: Hole In The Bottle
-282. BTS: Dis-ease
-283. Bad Bunny: Haciendo Que Me Amas
-284. Juice WRLD x benny blanco: Real Shit
+281. BTS: Dis-ease
+282. Bad Bunny: Haciendo Que Me Amas
+283. Juice WRLD x benny blanco: Real Shit
+
+2021
+
+284. Playboi Carti: Slay3r
+285. Karol G: Bichota
+286. Billie Eilish: Oxytocin
+287. Lil Nas X: Dead Right Now
+288. Meek Mill Featuring Lil Uzi Vert: Blue Note$ II

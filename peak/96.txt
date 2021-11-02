@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 96, total 258 songs
+Hot 100 Songs with peak position = 96, total 261 songs
 
 1958
 
@@ -422,3 +422,9 @@ Hot 100 Songs with peak position = 96, total 258 songs
 
 257. Zac Brown Band: The Man Who Loves You The Most
 258. Nas Featuring Fivio Foreign & A$AP Ferg: Spicy
+
+2021
+
+259. Tom MacDonald: Fake Woke
+260. Rod Wave: Shock Da World
+261. Young Thug: Tick Tock

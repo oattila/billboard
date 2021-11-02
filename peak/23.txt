@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 23, total 276 songs
+Hot 100 Songs with peak position = 23, total 279 songs
 
 1958
 
@@ -467,3 +467,6 @@ Hot 100 Songs with peak position = 23, total 276 songs
 2021
 
 276. Michael Buble: It's Beginning To Look A Lot Like Christmas
+277. Migos: Straightenin
+278. Nelly & Florida Georgia Line: Lil Bit
+279. Ryan Hurd With Maren Morris: Chasing After You

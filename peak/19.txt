@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 19, total 254 songs
+Hot 100 Songs with peak position = 19, total 258 songs
 
 1958
 
@@ -442,3 +442,7 @@ Hot 100 Songs with peak position = 19, total 254 songs
 2021
 
 254. Darlene Love: Christmas (Baby Please Come Home)
+255. Gabby Barrett: The Good Ones
+256. J. Cole, Bas & 6LACK: let.go.my.hand
+257. Olivia Rodrigo: 1 Step Forward, 3 Steps Back
+258. Marshmello X Jonas Brothers: Leave Before You Love Me

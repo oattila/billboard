@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 14, total 312 songs
+Hot 100 Songs with peak position = 14, total 319 songs
 
 1958
 
@@ -496,4 +496,14 @@ Hot 100 Songs with peak position = 14, total 312 songs
 309. Drake Featuring Giveon: Chicago Freestyle
 310. Juice WRLD: Titanic
 311. Miley Cyrus: Midnight Sky
-312. Justin Bieber & benny blanco: Lonely
+
+2021
+
+312. Saweetie Featuring Doja Cat: Best Friend
+313. J. Cole & Bas: 100.mil'
+314. Olivia Rodrigo: Enough For You
+315. Tyler, The Creator Featuring YoungBoy Never Broke Again & Ty Dolla $ign: WUSYANAME
+316. Aaron Lewis: Am I The Only One
+317. Normani Featuring Cardi B: Wild Side
+318. Silk Sonic (Bruno Mars & Anderson .Paak): Skate
+319. Drake: Pipe Down

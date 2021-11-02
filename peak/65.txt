@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 65, total 273 songs
+Hot 100 Songs with peak position = 65, total 278 songs
 
 1958
 
@@ -458,3 +458,11 @@ Hot 100 Songs with peak position = 65, total 273 songs
 271. Ariana Grande: My Hair
 272. NAV Featuring Lil Baby: Don't Need Friends
 273. Trey Lewis: Dicked Down In Dallas
+
+2021
+
+274. Rod Wave: Blame On You
+275. Taylor Swift: Forever & Always (Taylor's Version)
+276. Morray: Quicksand
+277. Migos Featuring Polo G: Malibu
+278. Sueco: Paralyzed

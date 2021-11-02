@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 3, total 503 songs
+Hot 100 Songs with peak position = 3, total 510 songs
 
 1958
 
@@ -691,3 +691,13 @@ Hot 100 Songs with peak position = 3, total 503 songs
 501. DJ Khaled Featuring Drake: Popstar
 502. Justin Bieber Featuring Chance The Rapper: Holy
 503. Gabby Barrett Featuring Charlie Puth: I Hope
+
+2021
+
+504. Lil Tjay Featuring 6LACK: Calling My Phone
+505. Chris Brown & Young Thug: Go Crazy
+506. Drake Featuring Rick Ross: Lemon Pepper Freestyle
+507. Olivia Rodrigo: Deja Vu
+508. Doja Cat Featuring SZA: Kiss Me More
+509. Drake Featuring Travis Scott: Fair Trade
+510. Walker Hayes: Fancy Like

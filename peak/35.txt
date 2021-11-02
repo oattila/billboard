@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 35, total 263 songs
+Hot 100 Songs with peak position = 35, total 265 songs
 
 1959
 
@@ -439,3 +439,8 @@ Hot 100 Songs with peak position = 35, total 263 songs
 261. Sada Baby Featuring Nicki Minaj: Whole Lotta Choppas
 262. Ariana Grande Featuring The Weeknd: Off The Table
 263. Mike WiLL Made-It, Nicki Minaj & YoungBoy Never Broke Again: What That Speed Bout!?
+
+2021
+
+264. Moneybagg Yo: Shottas (Lala)
+265. Drake: The Remorse

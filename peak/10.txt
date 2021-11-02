@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 10, total 381 songs
+Hot 100 Songs with peak position = 10, total 387 songs
 
 1958
 
@@ -569,3 +569,9 @@ Hot 100 Songs with peak position = 10, total 381 songs
 2021
 
 381. Chuck Berry: Run Rudolph Run
+382. CJ: Whoopty
+383. Billie Eilish: Your Power
+384. Bad Bunny: Yonaguni
+385. Kanye West: Jail
+386. Drake Featuring JAY-Z: Love All
+387. Lil Nas X: Thats What I Want

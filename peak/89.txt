@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 89, total 257 songs
+Hot 100 Songs with peak position = 89, total 264 songs
 
 1958
 
@@ -439,3 +439,13 @@ Hot 100 Songs with peak position = 89, total 257 songs
 255. Kane Brown & John Legend: Last Time I Say Sorry
 256. Zayn: Better
 257. The Kid LAROI & Juice WRLD: Reminds Me Of You
+
+2021
+
+258. Rod Wave: OMDB
+259. Rascal Flatts: How They Remember You
+260. Polo G: Boom
+261. Mora, Bad Bunny & Sech: Volando
+262. EST Gee: Lick Back
+263. Tom MacDonald: Brainwashed
+264. Meek Mill Featuring A$AP Ferg: Me (FWM)

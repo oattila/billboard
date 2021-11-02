@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 87, total 269 songs
+Hot 100 Songs with peak position = 87, total 271 songs
 
 1958
 
@@ -449,5 +449,10 @@ Hot 100 Songs with peak position = 87, total 269 songs
 265. Lil Wayne: Mama Mia
 266. BTS: Filter
 267. Lil Uzi Vert Featuring Young Thug: Got The Guap
-268. VEDO: You Got It
-269. Bad Bunny: Maldita Pobreza
+268. Bad Bunny: Maldita Pobreza
+
+2021
+
+269. Giveon: Like I Want You
+270. Justin Bieber Featuring Burna Boy: Loved By You
+271. twenty one pilots: Shy Away

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 33, total 248 songs
+Hot 100 Songs with peak position = 33, total 252 songs
 
 1958
 
@@ -433,3 +433,7 @@ Hot 100 Songs with peak position = 33, total 248 songs
 2021
 
 248. Elvis Presley: Blue Christmas
+249. Lady A: Champagne Night
+250. J. Cole: close
+251. Polo G & Lil Wayne: Gang Gang
+252. Lee Brice: Memory I Don't Mess With

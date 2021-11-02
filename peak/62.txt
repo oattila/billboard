@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 62, total 279 songs
+Hot 100 Songs with peak position = 62, total 287 songs
 
 1958
 
@@ -462,8 +462,16 @@ Hot 100 Songs with peak position = 62, total 279 songs
 275. Black Eyed Peas, Ozuna + J.Rey Soul: Mamacita
 276. Rod Wave: Letter From Houston
 277. Lil Durk: The Voice
-278. Keith Urban Duet With P!nk: One Too Many
 
 2021
 
-279. Carrie Underwood: Favorite Time Of Year
+278. Carrie Underwood: Favorite Time Of Year
+279. Lil Durk: Backdoor
+280. Morgan Wallen: Dangerous
+281. Billie Eilish & ROSALIA: Lo Vas A Olvidar
+282. Justin Bieber Featuring The Kid LAROI: Unstable
+283. Eminem Featuring Jack Harlow & Cordae: Killer
+284. Los Legendarios, Wisin & Jhay Cortez: Fiel
+285. Doja Cat: Woman
+286. YoungBoy Never Broke Again: Break Or Make Me
+287. Kenny Chesney: Knowing You

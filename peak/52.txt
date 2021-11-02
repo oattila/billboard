@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 52, total 286 songs
+Hot 100 Songs with peak position = 52, total 291 songs
 
 1958
 
@@ -465,6 +465,14 @@ Hot 100 Songs with peak position = 52, total 286 songs
 281. Drake: War
 282. Kid LAROI & Juice WRLD: Go!
 283. J. Cole: The Climb Back
-284. Yung Bleu Featuring Drake: You're Mines Still
-285. Ariana Grande Featuring Ty Dolla $ign: Safety Net
-286. Taylor Swift: Happiness
+284. Ariana Grande Featuring Ty Dolla $ign: Safety Net
+285. Taylor Swift: Happiness
+
+2021
+
+286. Morgan Wallen: Cover Me Up
+287. Brett Young: Lady
+288. Moneybagg Yo Featuring BIG30: Go!
+289. Nicki Minaj: Fractions
+290. Keith Urban Duet With P!nk: One Too Many
+291. Kanye West: Pure Souls

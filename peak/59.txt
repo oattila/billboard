@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 59, total 242 songs
+Hot 100 Songs with peak position = 59, total 247 songs
 
 1958
 
@@ -429,4 +429,9 @@ Hot 100 Songs with peak position = 59, total 242 songs
 
 2021
 
-242. Ed Sheeran: Afterglow
+242. Dustin Lynch: Momma's House
+243. Young Thug Featuring Lil Uzi Vert & Yung Kayo: Proud Of You
+244. Polo G: Painting Pictures
+245. Tyler, The Creator Featuring DJ Drama: Sir Baudelaire
+246. Kanye West: Keep My Spirit Alive
+247. YoungBoy Never Broke Again: 50 Shots

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 71, total 295 songs
+Hot 100 Songs with peak position = 71, total 302 songs
 
 1958
 
@@ -481,5 +481,15 @@ Hot 100 Songs with peak position = 71, total 295 songs
 291. 21 Savage & Metro Boomin: No Opp Left Behind
 292. G-Eazy Featuring blackbear: Hate The Way
 293. Ariana Grande: West Side
-294. Niko Moon: Good Time
-295. Taylor Swift: Cowboy Like Me
+294. Taylor Swift: Cowboy Like Me
+
+2021
+
+295. Lil Durk: Redman
+296. Brent Faiyaz & DJ Dahi Featuring Tyler, The Creator: Gravity
+297. Jason Derulo Featuring Adam Levine: Lifestyle
+298. Rod Wave: All I Got
+299. Taylor Swift: Fearless (Taylor's Version)
+300. Tom MacDonald: Snowflakes
+301. Migos & Cardi B: Type Shit
+302. Pop Smoke Featuring Future: Mr. Jones

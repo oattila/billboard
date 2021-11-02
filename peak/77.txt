@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 77, total 242 songs
+Hot 100 Songs with peak position = 77, total 244 songs
 
 1958
 
@@ -430,3 +430,8 @@ Hot 100 Songs with peak position = 77, total 242 songs
 240. Rod Wave: I Remember
 241. Trevor Daniel x Selena Gomez: Past Life
 242. King Von Featuring Lil Durk: All These N**gas
+
+2021
+
+243. Young Thug & Gunna Featuring Lil Baby & YTB Trench: Paid The Fine
+244. Kanye West: Come To Life

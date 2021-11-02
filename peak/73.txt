@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 73, total 243 songs
+Hot 100 Songs with peak position = 73, total 247 songs
 
 1958
 
@@ -428,3 +428,10 @@ Hot 100 Songs with peak position = 73, total 243 songs
 
 242. Meek Mill Featuring Roddy Ricch: Letter To Nipsey
 243. A Boogie Wit da Hoodie: Thug Love
+
+2021
+
+244. Lil Durk, 6LACK & Young Thug: Stay Down
+245. Lil Baby & Lil Durk: That's Facts
+246. Big Red Machine Featuring Taylor Swift: Renegade
+247. Kane Brown: One Mississippi

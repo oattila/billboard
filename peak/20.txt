@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 20, total 306 songs
+Hot 100 Songs with peak position = 20, total 314 songs
 
 1958
 
@@ -493,4 +493,15 @@ Hot 100 Songs with peak position = 20, total 306 songs
 303. YNW Melly & Juice WRLD: Suicidal
 304. Luke Combs Featuring Eric Church: Does To Me
 305. Saweetie: Tap In
-306. Dua Lipa Featuring DaBaby: Levitating
+
+2021
+
+306. Niko Moon: Good Time
+307. Justin Bieber: Hold On
+308. DJ Khaled Featuring Lil Baby & Lil Durk: Every Chance I Get
+309. Machine Gun Kelly X blackbear: My Ex's Best Friend
+310. J. Cole: punchin'.the.clock
+311. Roddy Ricch: Late At Night
+312. Kanye West: Praise God
+313. Moneybagg Yo: Wockesha
+314. Young Thug With Drake & Travis Scott: Bubbly

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 16, total 272 songs
+Hot 100 Songs with peak position = 16, total 282 songs
 
 1958
 
@@ -457,3 +457,16 @@ Hot 100 Songs with peak position = 16, total 272 songs
 270. Juice WRLD: Bad Energy
 271. Taylor Swift: My Tears Ricochet
 272. Jason Aldean: Got What I Got
+
+2021
+
+273. Doja Cat: Streets
+274. Rod Wave: Street Runner
+275. DMX: Ruff Ryders' Anthem
+276. Olivia Rodrigo: Favorite Crime
+277. Lil Baby, Lil Durk & Travis Scott: Hats Off
+278. Megan Thee Stallion: Thot Shit
+279. Giveon: Heartbreak Anniversary
+280. BIA Featuring Nicki Minaj: Whole Lotta Money
+281. Kanye West: Junya
+282. Drake: 7am On Bridle Path

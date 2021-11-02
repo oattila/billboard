@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 34, total 248 songs
+Hot 100 Songs with peak position = 34, total 252 songs
 
 1958
 
@@ -433,3 +433,10 @@ Hot 100 Songs with peak position = 34, total 248 songs
 246. Juice WRLD: Stay High
 247. Jack Harlow: Tyler Herro
 248. Taylor Swift Featuring HAIM: No Body, No Crime
+
+2021
+
+249. Lil Baby Featuring EST Gee: Real As It Gets
+250. Lil Baby & Lil Durk: How It Feels
+251. Tai Verdes: A-O-K
+252. Jordan Davis Featuring Luke Bryan: Buy Dirt

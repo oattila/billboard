@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 81, total 277 songs
+Hot 100 Songs with peak position = 81, total 284 songs
 
 1958
 
@@ -465,3 +465,13 @@ Hot 100 Songs with peak position = 81, total 277 songs
 275. Larray: Canceled
 276. King Von Featuring Lil Durk: Crazy Story 2.0
 277. Bad Bunny: Hoy Cobre
+
+2021
+
+278. Pooh Shiesty Featuring 21 Savage: Box Of Churches
+279. DDG: Moonwalking In Calabasas
+280. Justin Bieber Featuring Dominic Fike: Die For You
+281. BTS: Film Out
+282. Kevin Gates: Big Gangsta
+283. G Herbo Featuring Polo G & Lil Tjay: Cry No More
+284. Michael Ray: Whiskey And Rain

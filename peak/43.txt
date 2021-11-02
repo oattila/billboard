@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 43, total 261 songs
+Hot 100 Songs with peak position = 43, total 266 songs
 
 1958
 
@@ -452,3 +452,8 @@ Hot 100 Songs with peak position = 43, total 261 songs
 2021
 
 261. Nat King Cole: Deck The Halls
+262. Justin Bieber Featuring Khalid: As I Am
+263. DJ Khaled Featuring Post Malone, Megan Thee Stallion, Lil Baby & DaBaby: I Did It
+264. Lil Baby, Lil Durk & Meek Mill: Still Runnin
+265. Jordan Davis: Almost Maybes
+266. Kanye West: 24

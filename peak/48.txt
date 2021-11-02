@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 48, total 256 songs
+Hot 100 Songs with peak position = 48, total 260 songs
 
 1958
 
@@ -444,3 +444,7 @@ Hot 100 Songs with peak position = 48, total 256 songs
 2021
 
 256. Dan + Shay: Take Me Home For Christmas
+257. Sabrina Carpenter: Skin
+258. Tyler, The Creator Featuring Lil Wayne: Hot Wind Blows
+259. Shawn Mendes & Tainy: Summer Of Love
+260. YoungBoy Never Broke Again: Life Support

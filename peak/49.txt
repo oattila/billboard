@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 49, total 245 songs
+Hot 100 Songs with peak position = 49, total 249 songs
 
 1958
 
@@ -430,3 +430,7 @@ Hot 100 Songs with peak position = 49, total 245 songs
 2021
 
 245. Michael Buble: Have Yourself A Merry Little Christmas
+246. Moneybagg Yo & Future: Hard For The Next
+247. Brent Faiyaz Featuring Drake: Wasting Time
+248. Pop Smoke Featuring Kanye West & Pusha T: Tell The Vision
+249. Trippie Redd Featuring Juice WRLD: Matt Hardy 999

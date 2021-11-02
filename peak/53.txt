@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 53, total 263 songs
+Hot 100 Songs with peak position = 53, total 273 songs
 
 1958
 
@@ -448,3 +448,16 @@ Hot 100 Songs with peak position = 53, total 263 songs
 261. Tim McGraw: I Called Mama
 262. Ty Dolla $ign Featuring Post Malone: Spicy
 263. Bad Bunny & ROSALIA: La Noche de Anoche
+
+2021
+
+264. Lil Durk & King Von: Still Trappin'
+265. Lil Durk Featuring Pooh Shiesty: Should've Ducked
+266. NF: Clouds
+267. Coldplay: Higher Power
+268. Polo G: Black Hearted
+269. Elle King & Miranda Lambert: Drunk (And I Don't Wanna Go Home)
+270. Kanye West: No Child Left Behind
+271. Baby Keem & Kendrick Lamar: Range Brothers
+272. YoungBoy Never Broke Again: Hold Me Down
+273. Don Toliver Featuring Travis Scott: Flocky Flocky

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 2, total 505 songs
+Hot 100 Songs with peak position = 2, total 511 songs
 
 1958
 
@@ -693,3 +693,12 @@ Hot 100 Songs with peak position = 2, total 505 songs
 503. Drake Featuring Lil Durk: Laugh Now Cry Later
 504. Luke Combs: Forever After All
 505. Billie Eilish: Therefore I Am
+
+2021
+
+506. Ariana Grande: 34+35
+507. Drake Featuring Lil Baby: Wants And Needs
+508. Dua Lipa: Levitating
+509. J. Cole, 21 Savage & Morray: my.life
+510. Ed Sheeran: Bad Habits
+511. Drake Featuring Lil Baby: Girls Want Girls

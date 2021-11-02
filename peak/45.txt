@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 45, total 243 songs
+Hot 100 Songs with peak position = 45, total 248 songs
 
 1958
 
@@ -419,3 +419,11 @@ Hot 100 Songs with peak position = 45, total 243 songs
 241. Lil Baby: All In
 242. Drake: From Florida With Love
 243. Taylor Swift: Tolerate It
+
+2021
+
+244. Morgan Wallen: Still Goin Down
+245. Ava Max: My Head And My Heart
+246. Florida Georgia Line: Long Live
+247. Tyler, The Creator: Lumberjack
+248. Loza Alexander: Lets Go Brandon

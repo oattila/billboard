@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 64, total 277 songs
+Hot 100 Songs with peak position = 64, total 285 songs
 
 1958
 
@@ -462,3 +462,14 @@ Hot 100 Songs with peak position = 64, total 277 songs
 275. Future & Lil Uzi Vert: Marni On Me
 276. Bad Bunny: Yo Visto Asi
 277. Kid Cudi: Another Day
+
+2021
+
+278. G-Eazy Featuring Chris Brown & Mark Morrison: Provide
+279. Pop Smoke: AP
+280. Justin Bieber: Off My Face
+281. H.E.R. Featuring Chris Brown: Come Through
+282. Cochise & $NOT: Tell Em
+283. Lorde: Solar Power
+284. Pop Smoke Featuring Chris Brown: Woo Baby
+285. Halsey: I Am Not A Woman, I'm A God

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 24, total 246 songs
+Hot 100 Songs with peak position = 24, total 251 songs
 
 1958
 
@@ -421,4 +421,12 @@ Hot 100 Songs with peak position = 24, total 246 songs
 243. Justin Bieber Featuring Post Malone & Clever: Forever
 244. Jhene Aiko Featuring H.E.R.: B.S.
 245. The Weeknd: Scared To Live
-246. AJR: Bang!
+
+2021
+
+246. BRS Kash: Throat Baby (Go Baby)
+247. Olivia Rodrigo: Jealousy, Jealousy
+248. Doja Cat: Ain't Shit
+249. Chase Rice Featuring Florida Georgia Line: Drinkin' Beer. Talkin' God. Amen.
+250. Luke Bryan: Waves
+251. Drake & Yebba: Yebba's Heartbreak

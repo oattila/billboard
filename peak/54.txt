@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 54, total 297 songs
+Hot 100 Songs with peak position = 54, total 301 songs
 
 1958
 
@@ -485,3 +485,7 @@ Hot 100 Songs with peak position = 54, total 297 songs
 2021
 
 297. Carrie Underwood & John Legend: Hallelujah
+298. Moneybagg Yo: If Pain Was A Person
+299. DJ Khaled Featuring Justin Bieber & 21 Savage: Let It Go
+300. AJR: Way Less Sad
+301. Pop Smoke Featuring 21 Savage & 42 Dugg: Bout A Million

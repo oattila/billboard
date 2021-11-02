@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 8, total 385 songs
+Hot 100 Songs with peak position = 8, total 389 songs
 
 1958
 
@@ -570,9 +570,13 @@ Hot 100 Songs with peak position = 8, total 385 songs
 380. Lil Mosey: Blueberry Faygo
 381. DJ Khaled Featuring Drake: Greece
 382. Juice WRLD & The Weeknd: Smile
-383. Ariana Grande: 34+35
-384. Shawn Mendes & Justin Bieber: Monster
+383. Shawn Mendes & Justin Bieber: Monster
 
 2021
 
-385. Dean Martin: Let It Snow, Let It Snow, Let It Snow
+384. Dean Martin: Let It Snow, Let It Snow, Let It Snow
+385. AJR: Bang!
+386. The Kid LAROI: Without You
+387. J. Cole: interlude
+388. J. Cole: 95.south
+389. Drake: Papi's Home

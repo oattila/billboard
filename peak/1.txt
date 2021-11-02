@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 1, total 1115 songs
+Hot 100 Songs with peak position = 1, total 1131 songs
 
 1958
 
@@ -1303,3 +1303,22 @@ Hot 100 Songs with peak position = 1, total 1115 songs
 1113. Ariana Grande: Positions
 1114. BTS: Life Goes On
 1115. Taylor Swift: Willow
+
+2021
+
+1116. Olivia Rodrigo: Drivers License
+1117. Drake: What's Next
+1118. Cardi B: Up
+1119. Justin Bieber Featuring Daniel Caesar & Giveon: Peaches
+1120. Lil Nas X: Montero (Call Me By Your Name)
+1121. Silk Sonic (Bruno Mars & Anderson .Paak): Leave The Door Open
+1122. Polo G: Rapstar
+1123. The Weeknd & Ariana Grande: Save Your Tears
+1124. Olivia Rodrigo: Good 4 U
+1125. BTS: Butter
+1126. BTS: Permission To Dance
+1127. The Kid LAROI & Justin Bieber: Stay
+1128. Drake Featuring Future & Young Thug: Way 2 Sexy
+1129. Coldplay x BTS: My Universe
+1130. Lil Nas X & Jack Harlow: Industry Baby
+1131. Adele: Easy On Me

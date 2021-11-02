@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 27, total 260 songs
+Hot 100 Songs with peak position = 27, total 265 songs
 
 1958
 
@@ -442,3 +442,11 @@ Hot 100 Songs with peak position = 27, total 260 songs
 258. Drake Featuring Future: Desires
 259. Carly Pearce & Lee Brice: I Hope You're Happy Now
 260. JP Saxe Featuring Julia Michaels: If The World Was Ending
+
+2021
+
+261. Billie Eilish: Lost Cause
+262. Migos: Avalanche
+263. Ariana Grande: pov
+264. Kanye West: Jonah
+265. Drake Featuring Ty Dolla $ign: Get Along Better

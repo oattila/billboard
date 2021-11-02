@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 17, total 276 songs
+Hot 100 Songs with peak position = 17, total 279 songs
 
 1958
 
@@ -467,3 +467,6 @@ Hot 100 Songs with peak position = 17, total 276 songs
 2021
 
 276. Ariana Grande: Santa Tell Me
+277. Tate McRae: You Broke Me First.
+278. Kanye West: Moon
+279. Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage: Who Want Smoke??

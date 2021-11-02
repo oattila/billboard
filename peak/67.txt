@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 67, total 273 songs
+Hot 100 Songs with peak position = 67, total 283 songs
 
 1958
 
@@ -460,4 +460,14 @@ Hot 100 Songs with peak position = 67, total 273 songs
 
 2021
 
-273. Megan Thee Stallion Featuring DaBaby: Cry Baby
+273. Black Eyed Peas X Shakira: Girl Like Me
+274. Lil Yachty Featuring Kodak Black: Hit Bout It
+275. 42 Dugg & Roddy Ricch: 4 Da Gang
+276. Joyner Lucas & Lil Baby: Ramen & OJ
+277. Internet Money, Don Toliver & Lil Uzi Vert Featuring Gunna: His & Hers
+278. Lil Baby & Lil Durk: Medical
+279. Blake Shelton: Minimum Wage
+280. Jack Harlow & Pooh Shiesty: SUVs (Black On Black)
+281. Trippie Redd Featuring Drake: Betrayal
+282. YoungBoy Never Broke Again: Sincerely
+283. Realestk: WFM

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 5, total 425 songs
+Hot 100 Songs with peak position = 5, total 427 songs
 
 1958
 
@@ -616,3 +616,5 @@ Hot 100 Songs with peak position = 5, total 425 songs
 2021
 
 425. Andy Williams: It's The Most Wonderful Time Of The Year
+426. Dua Lipa Featuring DaBaby: Levitating
+427. J. Cole: amari

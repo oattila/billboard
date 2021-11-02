@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 6, total 405 songs
+Hot 100 Songs with peak position = 6, total 409 songs
 
 1958
 
@@ -593,3 +593,7 @@ Hot 100 Songs with peak position = 6, total 405 songs
 2021
 
 405. Jose Feliciano: Feliz Navidad
+406. Justin Bieber: Anyone
+407. Masked Wolf: Astronaut In The Ocean
+408. The Weeknd: Take My Breath
+409. Kanye West: Hurricane

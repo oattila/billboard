@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 44, total 264 songs
+Hot 100 Songs with peak position = 44, total 265 songs
 
 1958
 
@@ -452,3 +452,7 @@ Hot 100 Songs with peak position = 44, total 264 songs
 262. Taylor Swift: Illicit Affairs
 263. YoungBoy Never Broke Again: Drug Addiction
 264. Machine Gun Kelly & Halsey: Forget Me Too
+
+2021
+
+265. H.E.R.: Damage

@@ -1,4 +1,4 @@
-Hot 100 Songs with peak position = 46, total 256 songs
+Hot 100 Songs with peak position = 46, total 259 songs
 
 1958
 
@@ -439,8 +439,11 @@ Hot 100 Songs with peak position = 46, total 256 songs
 252. Juice WRLD: Screw Juice
 253. Conan Gray: Heather
 254. Future & Lil Uzi Vert: Stripes Like Burberry
-255. Morgan Wallen: Still Goin Down
 
 2021
 
-256. Jackson 5: Santa Claus Is Comin' To Town
+255. Jackson 5: Santa Claus Is Comin' To Town
+256. Morgan Wallen: 865
+257. DMX: X Gon' Give It To Ya
+258. Young Thug & Gunna Featuring Travis Scott: Diamonds Dancing
+259. Lil Baby & Lil Durk: Who I Want
